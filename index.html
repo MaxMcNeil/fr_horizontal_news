@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+  <meta charset="UTF-8">
+  <title>CRISIS COMMAND // WAR ROOM — HORIZONTAL</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Orbitron:wght@500;700;900&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  <div class="laser-scanner"></div>
+  <div class="scanlines"></div>
+  <div class="vignette"></div>
+
+  <div class="header-container">
+    <h1 class="gros-titre-alarmant">CRISIS COMMAND // WAR ROOM</h1>
+    <div class="alert-banner">
+      <span class="live-blink">LIVE</span>
+      <span id="counter">[0]</span>
+    </div>
+  </div>
+
+  <div class="main-stage">
+    <div id="newsContainer"></div>
+
+    <div id="criticalPopup" class="critical-overlay hidden">
+      <div class="critical-box">
+        <div class="critical-header">⚡ ALERTE TACTIQUE CRITIQUE ⚡</div>
+        <div id="criticalText" class="critical-content">Analyse de la menace en cours...</div>
+      </div>
+    </div>
+  </div>
+
+  <div id="newsBar" role="status" aria-live="polite">
+    <div class="news-bar-line news-bar-line-main">Informations &amp; alertes sans filtre</div>
+    <div class="news-bar-line news-bar-line-sub">🔔 La chaîne à suivre pour ne rien manquer.</div>
+  </div>
+
+  <div class="bottom-disclaimer-zone">
+    <div class="meta-row"><div>TRANSPARENCE ALGORITHMIQUE</div><div>CONFORME STREAMING LIVE</div></div>
+    <div class="legal-text"><strong>Veille :</strong> Analyse temps réel des flux tactiques et cybermenaces.</div>
+  </div>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+
+</html>
