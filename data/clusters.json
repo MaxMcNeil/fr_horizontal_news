@@ -2,10 +2,9 @@
   {
     "title": "L’avocat Emmanuel Pierrat condamné pour harcèlement moral mais autorisé à exercer",
     "score": 97,
-    "count": 3,
+    "count": 2,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.ledauphine.com/Faits-divers-Justice/rss"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
     "items": [
       {
@@ -19,18 +18,10 @@
       {
         "title": "L’ancien directeur de l’IUT de Sénart condamné pour harcèlement sexuel et définitivement interdit d’enseigner",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-13T02:39:37.161Z",
+        "time": "2026-09-13T11:25:48.722Z",
         "link": "https://www.leparisien.fr/seine-et-marne-77/lancien-directeur-de-liut-de-senart-condamne-pour-harcelement-sexuel-et-definitivement-interdit-denseigner-11-09-2026-YNSIZJAZKNCITGO2TC2XF6P5CE.php",
         "score": 97,
         "summary": "Point de situation critique concernant : L’ancien directeur de l’IUT de Sénart condamné pour harcèlement sexuel et défini..."
-      },
-      {
-        "title": "Seine-et-Marne. L'ancien directeur d'un IUT condamné pour harcèlement sexuel sur quatre victimes",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-09-11T07:59:00.000Z",
-        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/11/l-ancien-directeur-d-un-iut-condamne-pour-harcelement-sexuel-sur-quatre-victimes",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Seine-et-Marne. L'ancien directeur d'un IUT condamné pour harcèlement sexuel sur..."
       }
     ],
     "summary": "L’avocat Emmanuel Pierrat condamné pour harcèlement moral mais autorisé à exercer / L’ancien directeur de l’IUT de Sénart condamné pour harcèlement sexuel et définitivement interdit d’enseigner"
@@ -38,12 +29,11 @@
   {
     "title": "Chantage à la sextape : l’ex-maire de Saint-Étienne Gaël Perdriau condamné à quatre ans de prison ferme en appel",
     "score": 97,
-    "count": 9,
+    "count": 7,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.franceinfo.fr/faits-divers.rss",
-      "https://www.francetvinfo.fr/politique.rss",
       "https://www.sudouest.fr/faits-divers/rss.xml",
+      "https://www.franceinfo.fr/faits-divers.rss",
       "https://www.ledauphine.com/Faits-divers-Justice/rss",
       "https://www.cnews.fr/rss/categorie/faits%20divers"
     ],
@@ -59,26 +49,10 @@
       {
         "title": "Enseignante menacée de décapitation en Haute-Garonne : le père de famille condamné à 6 mois de prison ferme",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-13T02:39:37.161Z",
+        "time": "2026-09-13T11:25:48.722Z",
         "link": "https://www.leparisien.fr/haute-garonne-31/enseignante-menacee-de-decapitation-en-haute-garonne-le-pere-de-famille-condamne-a-6-mois-de-prison-ferme-10-09-2026-P3VYXQQKPFABFA55DFZOTBZLJU.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Enseignante menacée de décapitation en Haute-Garonne : le père de famille condam..."
-      },
-      {
-        "title": "Enseignante menacée de décapitation près de Toulouse : le père de famille condamné à six mois de prison ferme et incarcéré",
-        "source": "https://www.franceinfo.fr/faits-divers.rss",
-        "time": "2026-09-11T05:35:34.000Z",
-        "link": "https://www.franceinfo.fr/faits-divers/enseignante-menacee-de-decapitation-pres-de-toulouse-le-pere-de-famille-condamne-a-six-mois-de-prison-ferme-et-incarcere_8187194.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Enseignante menacée de décapitation près de Toulouse : le père de famille condam..."
-      },
-      {
-        "title": "Saint-Étienne : l'ancien maire Gaël Perdriau condamné à quatre ans de prison ferme",
-        "source": "https://www.francetvinfo.fr/politique.rss",
-        "time": "2026-09-11T07:01:15.000Z",
-        "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/saint-etienne-l-ancien-maire-gael-perdriau-condamne-a-quatre-ans-de-prison-ferme_8187830.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 97,
-        "summary": "l'ancien maire Gaël Perdriau condamné à quatre ans de prison ferme"
       },
       {
         "title": "« J’ai tout perdu » : le capitaine du Cycnos condamné à de la prison ferme pour la mort de deux matelots",
@@ -91,7 +65,7 @@
       {
         "title": "Home-jacking de Donnarumma : le commanditaire « Ganito » condamné à 9 ans de prison ferme",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-13T02:39:37.161Z",
+        "time": "2026-09-13T11:25:48.721Z",
         "link": "https://www.leparisien.fr/faits-divers/home-jacking-de-donnarumma-le-commanditaire-ganito-condamne-a-9-ans-de-prison-ferme-12-09-2026-53ZKSIPOXJEPBPB64PNN5JJEA4.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Home-jacking de Donnarumma : le commanditaire « Ganito » condamné à 9 ans de pri..."
@@ -153,7 +127,7 @@
       {
         "title": "Essonne : un homme grièvement blessé lors d’une possible rixe, dix individus en garde à vue",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-13T02:39:37.161Z",
+        "time": "2026-09-13T11:25:48.722Z",
         "link": "https://www.leparisien.fr/essonne-91/essonne-un-homme-grievement-blesse-lors-dune-possible-rixe-dix-individus-en-garde-a-vue-10-09-2026-3RMX6PTI6BFVFEAKN526JNYFN4.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Essonne : un homme grièvement blessé lors d’une possible rixe, dix individus en ..."
@@ -220,16 +194,15 @@
   {
     "title": "Khalid Dati, neveu de l’ex-ministre, condamné à trois ans de prison pour détention d’armes",
     "score": 97,
-    "count": 3,
+    "count": 2,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.sudouest.fr/faits-divers/rss.xml"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
     "items": [
       {
         "title": "Khalid Dati, neveu de l’ex-ministre, condamné à trois ans de prison pour détention d’armes",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-13T02:39:37.161Z",
+        "time": "2026-09-13T11:25:48.722Z",
         "link": "https://www.leparisien.fr/faits-divers/khalid-dati-neveu-de-lex-ministre-condamne-a-trois-ans-de-prison-pour-detention-darmes-10-09-2026-AAGG57ILV5ENBHLINCRBYZB42Q.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Khalid Dati, neveu de l’ex-ministre, condamné à trois ans de prison pour détenti..."
@@ -237,106 +210,13 @@
       {
         "title": "« Save the date » : un influenceur franco-iranien condamné à de la prison avec sursis pour apologie du terrorisme après le 7 Octobre",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-13T02:39:37.161Z",
+        "time": "2026-09-13T11:25:48.722Z",
         "link": "https://www.leparisien.fr/faits-divers/save-the-date-un-influenceur-franco-iranien-condamne-a-de-la-prison-avec-sursis-pour-apologie-du-terrorisme-apres-le-7-octobre-11-09-2026-4HEQCUJ4QNBBHKQTHFVLQLDVOI.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Save the date » : un influenceur franco-iranien condamné à de la prison avec s..."
-      },
-      {
-        "title": "Landes. Corps découvert dans le lac de Christus : trois jeunes majeurs mis en examen pour assassinat et placés en détention provisoire",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-09-11T10:41:36.000Z",
-        "link": "https://www.sudouest.fr/landes/saint-paul-les-dax/corps-decouvert-dans-le-lac-de-christus-dans-les-landes-trois-jeunes-majeurs-mis-en-examen-pour-assassinat-et-places-en-detention-provisoire-30577345.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Landes. Corps découvert dans le lac de Christus : trois jeunes majeurs mis en ex..."
       }
     ],
     "summary": "Khalid Dati, neveu de l’ex-ministre, condamné à trois ans de prison pour détention d’armes / « Save the date » : un influenceur franco-iranien condamné à de la prison avec sursis pour apologie du terrorisme après le 7 Octobre"
-  },
-  {
-    "title": "A suivre Loïc de la Mornais : un père condamné après avoir menacé de mort une enseignante",
-    "score": 97,
-    "count": 2,
-    "sources": [
-      "https://www.franceinfo.fr/faits-divers.rss",
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "A suivre Loïc de la Mornais : un père condamné après avoir menacé de mort une enseignante",
-        "source": "https://www.franceinfo.fr/faits-divers.rss",
-        "time": "2026-09-11T04:54:43.000Z",
-        "link": "https://www.franceinfo.fr/faits-divers/a-suivre-loic-de-la-mornais-un-pere-condamne-apres-avoir-menace-de-mort-une-enseignante_8187725.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 97,
-        "summary": "un père condamné après avoir menacé de mort une enseignante"
-      },
-      {
-        "title": "« Je ne suis vraiment pas fier de moi » : le père de famille qui a menacé de décapitation une enseignante condamné à six mois ferme",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-13T02:39:37.161Z",
-        "link": "https://www.leparisien.fr/faits-divers/je-ne-suis-vraiment-pas-fier-de-moi-le-pere-de-famille-qui-a-menace-de-decapitation-une-enseignante-fait-profil-bas-10-09-2026-AJTNZYYBQBALJH5ZQOEQV37RFQ.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : « Je ne suis vraiment pas fier de moi » : le père de famille qui a menacé de déc..."
-      }
-    ],
-    "summary": "A suivre Loïc de la Mornais : un père condamné après avoir menacé de mort une enseignante / « Je ne suis vraiment pas fier de moi » : le père de famille qui a menacé de décapitation une enseignante condamné à six mois ferme"
-  },
-  {
-    "title": "IA : le débat sur l’« IApocalypse » prend de l’ampleur après la démission d’un chercheur d’Anthropic et des incidents de sécurité",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.lemonde.fr/economie/rss_full.xml"
-    ],
-    "items": [
-      {
-        "title": "IA : le débat sur l’« IApocalypse » prend de l’ampleur après la démission d’un chercheur d’Anthropic et des incidents de sécurité",
-        "source": "https://www.lemonde.fr/economie/rss_full.xml",
-        "time": "2026-09-11T08:00:02.000Z",
-        "link": "https://www.lemonde.fr/pixels/article/2026/09/11/ia-apres-la-demission-de-jacob-coxon-et-plusieurs-incidents-de-securite-le-debat-sur-l-iapocalypse-prend-une-ampleur-inedite_6770505_4408996.html",
-        "score": 97,
-        "summary": "Point de situation critique concernant : IA : le débat sur l’« IApocalypse » prend de l’ampleur après la démission d’un c..."
-      }
-    ],
-    "summary": "IA : le débat sur l’« IApocalypse » prend de l’ampleur après la démission d’un chercheur d’Anthropic et des incidents de sécurité"
-  },
-  {
-    "title": "Note conjoncture INSEE : la France condamnée ? ",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.bfmtv.com/rss/economie/"
-    ],
-    "items": [
-      {
-        "title": "Note conjoncture INSEE : la France condamnée ? ",
-        "source": "https://www.bfmtv.com/rss/economie/",
-        "time": "2026-09-11T07:55:44.000Z",
-        "link": "https://www.bfmtv.com/economie/video-note-conjoncture-insee-la-france-condamnee_VN-202609110339.html",
-        "score": 97,
-        "summary": "la France condamnée ?"
-      }
-    ],
-    "summary": "Note conjoncture INSEE : la France condamnée ? "
-  },
-  {
-    "title": "Fenerbahçe - AS Roma : Visé par un jet de bouteille, le coach turc Ismail Kartal démissionne, son président s’y oppose",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.20minutes.fr/feeds/rss-une.xml"
-    ],
-    "items": [
-      {
-        "title": "Fenerbahçe - AS Roma : Visé par un jet de bouteille, le coach turc Ismail Kartal démissionne, son président s’y oppose",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-09-11T04:46:55.000Z",
-        "link": "https://www.20minutes.fr/sport/football/ligue_des_champions/4244397-20260911-fenerbahce-roma-vise-jet-bouteille-coach-turc-ismail-kartal-demissionne-president-oppose?at_medium=display&at_campaign=149",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Fenerbahçe - AS Roma : Visé par un jet de bouteille, le coach turc Ismail Kartal..."
-      }
-    ],
-    "summary": "Fenerbahçe - AS Roma : Visé par un jet de bouteille, le coach turc Ismail Kartal démissionne, son président s’y oppose"
   },
   {
     "title": "Des plaques apposées dans les églises du Loiret en mémoire des victimes de scandales sexuels",
@@ -349,13 +229,32 @@
       {
         "title": "Des plaques apposées dans les églises du Loiret en mémoire des victimes de scandales sexuels",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-13T02:39:37.161Z",
+        "time": "2026-09-13T11:25:48.722Z",
         "link": "https://www.leparisien.fr/loiret-45/des-plaques-apposees-dans-les-eglises-du-loiret-en-memoire-des-victimes-de-scandales-sexuels-11-09-2026-7PFGU6NVBBD6FJT5FA7WTXR4SY.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Des plaques apposées dans les églises du Loiret en mémoire des victimes de scand..."
       }
     ],
     "summary": "Des plaques apposées dans les églises du Loiret en mémoire des victimes de scandales sexuels"
+  },
+  {
+    "title": "« Je ne suis vraiment pas fier de moi » : le père de famille qui a menacé de décapitation une enseignante condamné à six mois ferme",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "« Je ne suis vraiment pas fier de moi » : le père de famille qui a menacé de décapitation une enseignante condamné à six mois ferme",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-09-13T11:25:48.722Z",
+        "link": "https://www.leparisien.fr/faits-divers/je-ne-suis-vraiment-pas-fier-de-moi-le-pere-de-famille-qui-a-menace-de-decapitation-une-enseignante-fait-profil-bas-10-09-2026-AJTNZYYBQBALJH5ZQOEQV37RFQ.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : « Je ne suis vraiment pas fier de moi » : le père de famille qui a menacé de déc..."
+      }
+    ],
+    "summary": "« Je ne suis vraiment pas fier de moi » : le père de famille qui a menacé de décapitation une enseignante condamné à six mois ferme"
   },
   {
     "title": "Brésil. Élection présidentielle : Flavio Bolsonaro visé par une enquête pour corruption",
@@ -406,7 +305,7 @@
       {
         "title": "« Il a fait ce qu’on peut faire de pire à des parents » : après le meurtre de Nisrine à Argenteuil, le mari éploré condamné",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-13T02:39:37.161Z",
+        "time": "2026-09-13T11:25:48.722Z",
         "link": "https://www.leparisien.fr/val-d-oise-95/il-a-fait-ce-quon-peut-faire-de-pire-a-des-parents-apres-le-meurtre-de-nisrine-a-argenteuil-le-mari-eplore-condamne-11-09-2026-HJKPG227LNCD5NYH2VEIVCE6CU.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Il a fait ce qu’on peut faire de pire à des parents » : après le meurtre de Ni..."
@@ -453,7 +352,7 @@
       {
         "title": "Explosion mortelle à Aubervilliers : l’émotion de l’inspecteur de salubrité avec qui on avait visité le pavillon en 2013",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-13T02:39:37.161Z",
+        "time": "2026-09-13T11:25:48.722Z",
         "link": "https://www.leparisien.fr/seine-saint-denis-93/explosion-mortelle-a-aubervilliers-lemotion-de-linspecteur-de-salubrite-avec-qui-on-avait-visite-le-pavillon-en-2013-10-09-2026-C2DGX2LV7VEPNHLKTPRTIIXDTM.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Explosion mortelle à Aubervilliers : l’émotion de l’inspecteur de salubrité avec..."
@@ -633,25 +532,6 @@
     "summary": "Anthropic révèle que plusieurs organisations d’extrême droite françaises, dont un parti politique, ont été piratées à l’aide de son IA, Claude"
   },
   {
-    "title": "Piratage de Hugging Face par OpenAI : pourquoi l’événement est considéré comme un tournant",
-    "score": 93,
-    "count": 1,
-    "sources": [
-      "https://www.lemonde.fr/economie/rss_full.xml"
-    ],
-    "items": [
-      {
-        "title": "Piratage de Hugging Face par OpenAI : pourquoi l’événement est considéré comme un tournant",
-        "source": "https://www.lemonde.fr/economie/rss_full.xml",
-        "time": "2026-09-11T11:14:24.000Z",
-        "link": "https://www.lemonde.fr/pixels/article/2026/09/11/hack-de-hugging-face-par-openai-pourquoi-l-evenement-est-considere-comme-un-tournant_6770570_4408996.html",
-        "score": 93,
-        "summary": "Point de situation critique concernant : Piratage de Hugging Face par OpenAI : pourquoi l’événement est considéré comme u..."
-      }
-    ],
-    "summary": "Piratage de Hugging Face par OpenAI : pourquoi l’événement est considéré comme un tournant"
-  },
-  {
     "title": "Armes biologiques, piratage, guerre nucléaire… Comment une IA devenue incontrôlable pourrait anéantir l’humanité",
     "score": 93,
     "count": 1,
@@ -681,7 +561,7 @@
       {
         "title": "Une femme violée dans son hall d’immeuble à Paris après avoir été suivie depuis la rue de Lappe",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-13T02:39:37.161Z",
+        "time": "2026-09-13T11:25:48.722Z",
         "link": "https://www.leparisien.fr/faits-divers/une-femme-violee-dans-son-hall-dimmeuble-a-paris-apres-avoir-ete-suivie-depuis-la-rue-de-lappe-11-09-2026-QBW6GMPO4FD5RAVBSV27NW76M4.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Une femme violée dans son hall d’immeuble à Paris après avoir été suivie depuis ..."
@@ -700,7 +580,7 @@
       {
         "title": "Lyon : le prêtre écarté de ses fonctions à la tête du groupe scolaire des Chartreux est désormais visé par une plainte pour viols",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-13T02:39:37.161Z",
+        "time": "2026-09-13T11:25:48.722Z",
         "link": "https://www.leparisien.fr/faits-divers/le-pretre-ecarte-de-ses-fonctions-a-la-tete-du-groupe-scolaire-des-chartreux-est-desormais-vise-par-une-plainte-pour-viols-11-09-2026-XQUHLE47HZA2BOH3LQL5ODV4L4.php",
         "score": 90,
         "summary": "le prêtre écarté de ses fonctions à la tête du groupe scolaire des Chartreux est désormais visé par une plainte pour viols"
@@ -708,7 +588,7 @@
       {
         "title": "Lyon : le prêtre écarté de ses fonctions à la tête du groupe scolaire des Chartreux « conteste » les accusations de viols",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-13T02:39:37.161Z",
+        "time": "2026-09-13T11:25:48.721Z",
         "link": "https://www.leparisien.fr/faits-divers/lyon-le-pretre-ecarte-de-ses-fonctions-a-la-tete-du-groupe-scolaire-des-chartreux-conteste-les-accusations-de-viols-12-09-2026-JU7AMME6YFBKBLL6KN43SH5TQY.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Lyon : le prêtre écarté de ses fonctions à la tête du groupe scolaire des Chartr..."
@@ -716,7 +596,7 @@
       {
         "title": "Plainte pour viol contre un conseiller : Jean-Michel Aulas réintégré dans ses fonctions à la Métropole de Lyon",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-13T02:39:37.161Z",
+        "time": "2026-09-13T11:25:48.722Z",
         "link": "https://www.leparisien.fr/faits-divers/plainte-pour-viol-contre-un-conseiller-jean-michel-aulas-reintegre-dans-ses-fonctions-a-la-metropole-de-lyon-10-09-2026-CNJX63I5AVACNJ7G62CRA2GCQE.php",
         "score": 90,
         "summary": "Jean-Michel Aulas réintégré dans ses fonctions à la Métropole de Lyon"
@@ -735,7 +615,7 @@
       {
         "title": "Marseille : un homme de 27 ans succombe à deux coups de couteau, une enquête pour homicide volontaire ouverte",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-13T02:39:37.161Z",
+        "time": "2026-09-13T11:25:48.721Z",
         "link": "https://www.leparisien.fr/faits-divers/marseille-un-homme-de-27-ans-succombe-a-deux-coups-de-couteau-une-enquete-pour-homicide-volontaire-ouverte-11-09-2026-P5FRSRPUWZC7RP256Q7MXJGZZA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Marseille : un homme de 27 ans succombe à deux coups de couteau, une enquête pou..."
@@ -743,7 +623,7 @@
       {
         "title": "Trois enfants accusent un homme d’agression sexuelle dans un centre aéré de Sevran, une enquête ouverte",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-13T02:39:37.161Z",
+        "time": "2026-09-13T11:25:48.722Z",
         "link": "https://www.leparisien.fr/seine-saint-denis-93/trois-enfants-accusent-un-homme-dagression-sexuelle-dans-un-centre-aere-de-sevran-une-enquete-ouverte-10-09-2026-V4O7MC6YORHPXEZPUNZTMJ4VAM.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Trois enfants accusent un homme d’agression sexuelle dans un centre aéré de Sevr..."
@@ -751,7 +631,7 @@
       {
         "title": "Saint-Brieuc : un homme interpellé puis mis en examen pour le meurtre au couteau d’un autre sur fond de soirée alcoolisée",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-13T02:39:37.161Z",
+        "time": "2026-09-13T11:25:48.722Z",
         "link": "https://www.leparisien.fr/cotes-d-armor-22/saint-brieuc-un-homme-interpelle-puis-mis-en-examen-pour-le-meurtre-au-couteau-dun-autre-sur-fond-de-soiree-alcoolisee-10-09-2026-GLX2JNO3P5COPL6OHJIN36DV64.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Saint-Brieuc : un homme interpellé puis mis en examen pour le meurtre au couteau..."
@@ -770,7 +650,7 @@
       {
         "title": "Le rappeur américain Lil Durk, accusé d’avoir commandité le meurtre d’un rival, acquitté",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-13T02:39:37.161Z",
+        "time": "2026-09-13T11:25:48.721Z",
         "link": "https://www.leparisien.fr/culture-loisirs/musique/le-rappeur-americain-lil-durk-accuse-davoir-commandite-le-meurtre-dun-rival-acquitte-12-09-2026-QQP2JZBHMBHRRL22OBROYE65FA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Le rappeur américain Lil Durk, accusé d’avoir commandité le meurtre d’un rival, ..."
@@ -789,7 +669,7 @@
       {
         "title": "Violente agression en Essonne : entre inquiétude et appel au calme, une proche de la victime témoigne",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-13T02:39:37.161Z",
+        "time": "2026-09-13T11:25:48.722Z",
         "link": "https://www.leparisien.fr/essonne-91/violente-agression-en-essonne-entre-inquietude-et-appel-au-calme-une-proche-de-la-victime-temoigne-11-09-2026-A7DKC66ES5BSPA4OB4TGT3SM6I.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Violente agression en Essonne : entre inquiétude et appel au calme, une proche d..."
@@ -808,7 +688,7 @@
       {
         "title": "Mort de Paul Varry à Paris : l’automobiliste qui a écrasé le cycliste sera bien renvoyé devant la cour d’assises pour meurtre",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-13T02:39:37.161Z",
+        "time": "2026-09-13T11:25:48.722Z",
         "link": "https://www.leparisien.fr/faits-divers/mort-de-paul-varry-a-paris-lautomobiliste-qui-a-ecrase-le-cycliste-sera-bien-renvoye-devant-la-cour-dassises-pour-meurtre-11-09-2026-RSX4VJAS2FGMHBHNESB3PPAM2Q.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Mort de Paul Varry à Paris : l’automobiliste qui a écrasé le cycliste sera bien ..."
@@ -827,7 +707,7 @@
       {
         "title": "Tirs de mortiers, dégâts matériels : la préfecture de Mayenne dénonce des violences urbaines à Laval",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-13T02:39:37.161Z",
+        "time": "2026-09-13T11:25:48.721Z",
         "link": "https://www.leparisien.fr/faits-divers/tirs-de-mortiers-degats-materiels-la-prefecture-de-mayenne-denonce-des-violences-urbaines-a-laval-12-09-2026-67J6ZMHW35AEVCWLCMTXHOOVYA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Tirs de mortiers, dégâts matériels : la préfecture de Mayenne dénonce des violen..."
@@ -846,7 +726,7 @@
       {
         "title": "Paris : le chauffeur de taxi mis en accusation pour le viol d’une cliente reste en détention",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-13T02:39:37.161Z",
+        "time": "2026-09-13T11:25:48.721Z",
         "link": "https://www.leparisien.fr/faits-divers/paris-le-chauffeur-de-taxi-mis-en-accusation-pour-le-viol-dune-cliente-reste-en-detention-12-09-2026-QYSEADH3WNFMPB5SGXLRKNAWFI.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Paris : le chauffeur de taxi mis en accusation pour le viol d’une cliente reste ..."
@@ -865,7 +745,7 @@
       {
         "title": "« On va venir le récupérer de force ou de gré » : derrière l’extorsion, l’ombre d’un millionnaire suspecté de viol",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-13T02:39:37.161Z",
+        "time": "2026-09-13T11:25:48.722Z",
         "link": "https://www.leparisien.fr/faits-divers/on-va-venir-le-recuperer-de-force-ou-de-gre-derriere-lextorsion-lombre-dun-millionnaire-suspecte-de-viol-11-09-2026-VHBYSZQA6ZCI3L3F2NUGGJYLJY.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « On va venir le récupérer de force ou de gré » : derrière l’extorsion, l’ombre ..."
@@ -884,7 +764,7 @@
       {
         "title": "Un tatoueur du Pas-de-Calais se suicide pendant son procès pour viols et agressions sexuelles",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-13T02:39:37.161Z",
+        "time": "2026-09-13T11:25:48.722Z",
         "link": "https://www.leparisien.fr/faits-divers/un-tatoueur-du-pas-de-calais-se-suicide-pendant-son-proces-pour-viols-et-agressions-sexuelles-11-09-2026-424RVA73KJGJJFFMFKDDS7HPY4.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Un tatoueur du Pas-de-Calais se suicide pendant son procès pour viols et agressi..."
@@ -892,7 +772,7 @@
       {
         "title": "Le plasticien Claude Lévêque va être jugé pour viols et agressions sexuelles sur mineurs",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-13T02:39:37.161Z",
+        "time": "2026-09-13T11:25:48.722Z",
         "link": "https://www.leparisien.fr/faits-divers/le-plasticien-claude-leveque-va-etre-juge-pour-viols-et-agressions-sexuelles-sur-mineurs-10-09-2026-LF5P65Z5XZCLXCLAZRSFLCKQXY.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Le plasticien Claude Lévêque va être jugé pour viols et agressions sexuelles sur..."
@@ -911,7 +791,7 @@
       {
         "title": "« Il coordonnait les livraisons » : le trafic de drogue était piloté par un homme de 25 ans depuis la prison de Béziers",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-13T02:39:37.161Z",
+        "time": "2026-09-13T11:25:48.722Z",
         "link": "https://www.leparisien.fr/herault-34/il-coordonnait-les-livraisons-le-trafic-de-drogue-etait-pilote-par-un-homme-de-25-ans-depuis-la-prison-de-beziers-11-09-2026-U3PFN3XJTVGK3GSFOVBDC6M4W4.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Il coordonnait les livraisons » : le trafic de drogue était piloté par un homm..."
@@ -930,7 +810,7 @@
       {
         "title": "« Si tu dis quelque chose, je te tue » : l’enfer de Léa, 17 ans, entre les fleurs, les coups et les viols",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-13T02:39:37.161Z",
+        "time": "2026-09-13T11:25:48.722Z",
         "link": "https://www.leparisien.fr/faits-divers/jai-pense-que-jallais-mourir-lenfer-de-lea-17-ans-entre-les-fleurs-les-coups-et-les-viols-11-09-2026-XM5UD6EAYFE4LNLOKH6ONOOX6E.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Si tu dis quelque chose, je te tue » : l’enfer de Léa, 17 ans, entre les fleur..."
@@ -949,7 +829,7 @@
       {
         "title": "Haute-Garonne : une femme tuée d’un tir à la tête, son mari, contre qui elle avait porté plainte, soupçonné par les enquêteurs",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-13T02:39:37.161Z",
+        "time": "2026-09-13T11:25:48.722Z",
         "link": "https://www.leparisien.fr/faits-divers/haute-garonne-une-femme-tuee-dun-tir-a-la-tete-son-mari-contre-qui-elle-avait-porte-plainte-soupconne-par-les-enqueteurs-10-09-2026-TNJHM7B44RFGVC3MVQ7RNUPIWI.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Haute-Garonne : une femme tuée d’un tir à la tête, son mari, contre qui elle ava..."
@@ -968,7 +848,7 @@
       {
         "title": "L’avocat de Greg Guillotin, visé par une plainte pour violences conjugales, dément que son client a voulu être interné",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-13T02:39:37.161Z",
+        "time": "2026-09-13T11:25:48.722Z",
         "link": "https://www.leparisien.fr/faits-divers/lavocat-de-greg-guillotin-vise-par-une-plainte-pour-violences-conjugales-dement-que-son-client-a-voulu-etre-interne-10-09-2026-JO6VQ7QKNZBQJFJA64NDCGTSZU.php",
         "score": 90,
         "summary": "Point de situation critique concernant : L’avocat de Greg Guillotin, visé par une plainte pour violences conjugales, déme..."
@@ -981,12 +861,12 @@
     "score": 90,
     "count": 1,
     "sources": [
-      "https://www.lemonde.fr/societe/rss_full.xml"
+      "https://www.lemonde.fr/justice/rss_full.xml"
     ],
     "items": [
       {
         "title": "Prison ferme pour un parent d’élève : un « signal fort » face aux violences contre les enseignants",
-        "source": "https://www.lemonde.fr/societe/rss_full.xml",
+        "source": "https://www.lemonde.fr/justice/rss_full.xml",
         "time": "2026-09-11T18:00:28.000Z",
         "link": "https://www.lemonde.fr/societe/article/2026/09/11/prison-ferme-pour-un-parent-d-eleve-un-signal-fort-face-aux-violences-contre-les-enseignants_6770632_3224.html",
         "score": 90,
@@ -998,21 +878,182 @@
   {
     "title": "« Un usage décomplexé des armes à feu » : un homme tué par balle en Guadeloupe, le trentième homicide de l’année",
     "score": 90,
-    "count": 1,
+    "count": 2,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "https://www.ledauphine.com/Faits-divers-Justice/rss"
     ],
     "items": [
       {
         "title": "« Un usage décomplexé des armes à feu » : un homme tué par balle en Guadeloupe, le trentième homicide de l’année",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-13T02:39:37.160Z",
+        "time": "2026-09-13T11:25:48.721Z",
         "link": "https://www.leparisien.fr/faits-divers/un-usage-decomplexe-des-armes-a-feu-un-homme-tue-par-balle-en-guadeloupe-le-trentieme-homicide-de-lannee-12-09-2026-RZLPSGJRHFHW7HSMNAVXV7STHM.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Un usage décomplexé des armes à feu » : un homme tué par balle en Guadeloupe, ..."
+      },
+      {
+        "title": "Guadeloupe. Un homme tué par balle dans son véhicule, 30e homicide de l'année",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-09-12T18:51:00.000Z",
+        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/12/un-homme-tue-par-balle-dans-son-vehicule-30e-homicide-de-l-annee",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Guadeloupe. Un homme tué par balle dans son véhicule, 30e homicide de l'année..."
       }
     ],
-    "summary": "« Un usage décomplexé des armes à feu » : un homme tué par balle en Guadeloupe, le trentième homicide de l’année"
+    "summary": "« Un usage décomplexé des armes à feu » : un homme tué par balle en Guadeloupe, le trentième homicide de l’année / Guadeloupe. Un homme tué par balle dans son véhicule, 30e homicide de l'année"
+  },
+  {
+    "title": "\"A ce stade\", \"aucun élément\" ne permet de considérer le déraillement d'un TER en Normandie comme \"un acte de malveillance\" ou \"un attentat\"",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://www.franceinfo.fr/faits-divers.rss"
+    ],
+    "items": [
+      {
+        "title": "\"A ce stade\", \"aucun élément\" ne permet de considérer le déraillement d'un TER en Normandie comme \"un acte de malveillance\" ou \"un attentat\"",
+        "source": "https://www.franceinfo.fr/faits-divers.rss",
+        "time": "2026-09-12T17:58:28.000Z",
+        "link": "https://www.franceinfo.fr/faits-divers/accident/a-ce-stade-aucun-element-ne-permet-de-considerer-le-deraillement-d-un-ter-en-normandie-comme-un-acte-de-malveillance-ou-un-attentat_8190029.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 90,
+        "summary": "Point de situation critique concernant : \"A ce stade\", \"aucun élément\" ne permet de considérer le déraillement d'un TER e..."
+      }
+    ],
+    "summary": "\"A ce stade\", \"aucun élément\" ne permet de considérer le déraillement d'un TER en Normandie comme \"un acte de malveillance\" ou \"un attentat\""
+  },
+  {
+    "title": "Attentat contre Samuel Paty : au Festival de la fiction de La Rochelle, « La Rumeur » décortique la mécanique du mensonge",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://www.sudouest.fr/faits-divers/rss.xml"
+    ],
+    "items": [
+      {
+        "title": "Attentat contre Samuel Paty : au Festival de la fiction de La Rochelle, « La Rumeur » décortique la mécanique du mensonge",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-09-12T15:00:00.000Z",
+        "link": "https://www.sudouest.fr/culture/programmes-tv/attentat-contre-samuel-paty-au-festival-de-la-fiction-de-la-rochelle-la-rumeur-decortique-la-mecanique-du-mensonge-30559163.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Attentat contre Samuel Paty : au Festival de la fiction de La Rochelle, « La Rum..."
+      }
+    ],
+    "summary": "Attentat contre Samuel Paty : au Festival de la fiction de La Rochelle, « La Rumeur » décortique la mécanique du mensonge"
+  },
+  {
+    "title": "Disparition inquiétante en Lot-et-Garonne : le sexagénaire a été retrouvé",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://www.sudouest.fr/faits-divers/rss.xml"
+    ],
+    "items": [
+      {
+        "title": "Disparition inquiétante en Lot-et-Garonne : le sexagénaire a été retrouvé",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-09-12T08:48:24.000Z",
+        "link": "https://www.sudouest.fr/faits-divers/disparition/disparition-inquietante-en-lot-et-garonne-le-sexagenaire-a-ete-retrouve-30590656.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Disparition inquiétante en Lot-et-Garonne : le sexagénaire a été retrouvé..."
+      }
+    ],
+    "summary": "Disparition inquiétante en Lot-et-Garonne : le sexagénaire a été retrouvé"
+  },
+  {
+    "title": "Drôme. « On a eu peur qu'il y ait une explosion » : des familles évacuées après deux incendies dans les parties communes d’immeubles",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://www.ledauphine.com/Faits-divers-Justice/rss"
+    ],
+    "items": [
+      {
+        "title": "Drôme. « On a eu peur qu'il y ait une explosion » : des familles évacuées après deux incendies dans les parties communes d’immeubles",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-09-13T10:04:00.000Z",
+        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/13/on-a-eu-peur-qu-il-y-ait-une-explosion-des-familles-evacuees-lors-de-deux-incendies-dans-les-parties-communes-d-immeubles",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Drôme. « On a eu peur qu'il y ait une explosion » : des familles évacuées après ..."
+      }
+    ],
+    "summary": "Drôme. « On a eu peur qu'il y ait une explosion » : des familles évacuées après deux incendies dans les parties communes d’immeubles"
+  },
+  {
+    "title": "Témoignages. « Je n’ai plus confiance » : face aux violences dans le périscolaire, ces parents changent de mode de garde",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://www.ledauphine.com/Faits-divers-Justice/rss"
+    ],
+    "items": [
+      {
+        "title": "Témoignages. « Je n’ai plus confiance » : face aux violences dans le périscolaire, ces parents changent de mode de garde",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-09-13T05:10:00.000Z",
+        "link": "https://www.ledauphine.com/societe/2026/09/13/je-n-ai-plus-confiance-face-aux-violences-dans-le-periscolaire-ces-parents-changent-de-mode-de-garde",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Témoignages. « Je n’ai plus confiance » : face aux violences dans le périscolair..."
+      }
+    ],
+    "summary": "Témoignages. « Je n’ai plus confiance » : face aux violences dans le périscolaire, ces parents changent de mode de garde"
+  },
+  {
+    "title": "Savoie. « C’est ça le Biollay, un quartier populaire et familial où tout le monde s’entraide » : après les émeutes à Chambéry, les habitants tentent de tourner la douloureuse page",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://www.ledauphine.com/Faits-divers-Justice/rss"
+    ],
+    "items": [
+      {
+        "title": "Savoie. « C’est ça le Biollay, un quartier populaire et familial où tout le monde s’entraide » : après les émeutes à Chambéry, les habitants tentent de tourner la douloureuse page",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-09-12T17:15:00.000Z",
+        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/12/ce-qu-il-s-est-passe-c-est-une-colere-bien-profonde-apres-les-emeutes-le-biollay-tente-de-tourner-la-douloureuse-page",
+        "score": 90,
+        "summary": "après les émeutes à Chambéry, les habitants tentent de tourner la douloureuse page"
+      }
+    ],
+    "summary": "Savoie. « C’est ça le Biollay, un quartier populaire et familial où tout le monde s’entraide » : après les émeutes à Chambéry, les habitants tentent de tourner la douloureuse page"
+  },
+  {
+    "title": "Vaucluse. Violente sortie de route : alcoolisés, ils évoquent un conducteur imaginaire pour éviter les sanctions",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://www.ledauphine.com/Faits-divers-Justice/rss"
+    ],
+    "items": [
+      {
+        "title": "Vaucluse. Violente sortie de route : alcoolisés, ils évoquent un conducteur imaginaire pour éviter les sanctions",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-09-12T17:14:00.000Z",
+        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/12/violente-sortie-de-route-alcoolises-ils-evoquent-un-conducteur-imaginaire-pour-eviter-les-sanctions",
+        "score": 90,
+        "summary": "alcoolisés, ils évoquent un conducteur imaginaire pour éviter les sanctions"
+      }
+    ],
+    "summary": "Vaucluse. Violente sortie de route : alcoolisés, ils évoquent un conducteur imaginaire pour éviter les sanctions"
+  },
+  {
+    "title": "Yvelines : une femme enceinte et un enfant tués dans l’incendie d’une voiture sur l’A13",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://www.cnews.fr/rss/categorie/faits%20divers"
+    ],
+    "items": [
+      {
+        "title": "Yvelines : une femme enceinte et un enfant tués dans l’incendie d’une voiture sur l’A13",
+        "source": "https://www.cnews.fr/rss/categorie/faits%20divers",
+        "time": "2026-09-12T20:57:04.000Z",
+        "link": "https://www.cnews.fr/faits-divers/2026-09-12/yvelines-une-femme-enceinte-et-un-enfant-tues-dans-lincendie-dune-voiture",
+        "score": 90,
+        "summary": "une femme enceinte et un enfant tués dans l’incendie d’une voiture sur l’A13"
+      }
+    ],
+    "summary": "Yvelines : une femme enceinte et un enfant tués dans l’incendie d’une voiture sur l’A13"
   },
   {
     "title": "[CYBER] L'ouverture de la frontière est une mesure de la protection de l'environnement.",
@@ -1025,7 +1066,7 @@
       {
         "title": "[CYBER] L'ouverture de la frontière est une mesure de la protection de l'environnement.",
         "source": "Le Monde Informatique",
-        "time": "2026-09-13T02:38:33.858Z",
+        "time": "2026-09-13T11:24:47.378Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-freine-le-developpement-d-astra-100742.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] L'ouverture de la frontière est une mesure de la protection de l'environ..."
@@ -1044,7 +1085,7 @@
       {
         "title": "[CYBER] Méta payer jusqu'à 17 millions de dollars pour un procès sur la dépendance des jeunes",
         "source": "Le Monde Informatique",
-        "time": "2026-09-13T02:38:31.043Z",
+        "time": "2026-09-13T11:24:44.606Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-meta-paye-jusqu-a-17md$-pour-eviter-un-proces-sur-l-addiction-des-jeunes-100758.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Méta payer jusqu'à 17 millions de dollars pour un procès sur la dépendan..."
@@ -1063,7 +1104,7 @@
       {
         "title": "[CYBER] OpenAI et plus de 100 entreprises faisant appel d'une action collective en matière de cyberdéfense",
         "source": "Le Monde Informatique",
-        "time": "2026-09-13T02:38:28.080Z",
+        "time": "2026-09-13T11:24:41.776Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-et-plus-de-100-entreprises-appellent-a-une-action-collective-en-matiere-de-cyberdefense-100759.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] OpenAI et plus de 100 entreprises faisant appel d'une action collective ..."
@@ -1082,7 +1123,7 @@
       {
         "title": "[CYBER] La censure anthropologique au Pentagone: la justice est riche annuler une mise en place de la justice en temps de maladie",
         "source": "Le Monde Informatique",
-        "time": "2026-09-13T02:38:24.993Z",
+        "time": "2026-09-13T11:24:38.729Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-anthropic-censure-au-pentagone-la-justice-americaine-annule-une-mise-a-l-ecart-jugee-illegale-100760.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] La censure anthropologique au Pentagone: la justice est riche annuler un..."
@@ -1101,7 +1142,7 @@
       {
         "title": "[CYBER] OpenAI: le cours aux modes de pointe avec GPT-6 Astra",
         "source": "Le Monde Informatique",
-        "time": "2026-09-13T02:38:20.755Z",
+        "time": "2026-09-13T11:24:34.545Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-la-course-aux-modeles-de-pointe-avec-gpt-6-astra-100766.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] OpenAI: le cours aux modes de pointe avec GPT-6 Astra..."
@@ -1120,7 +1161,7 @@
       {
         "title": "[CYBER] Les cyberattaques: S Bastien Lecornu donne 15 jours aux ministres pour lutter contre les cyberattaques",
         "source": "Le Monde Informatique",
-        "time": "2026-09-13T02:38:18.342Z",
+        "time": "2026-09-13T11:24:32.141Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-cybersecurite-sebastien-lecornu-donne-15-jours-aux-ministres-pour-lutter-contre-les-cyberattaques-100767.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les cyberattaques: S Bastien Lecornu donne 15 jours aux ministres pour l..."
@@ -1139,7 +1180,7 @@
       {
         "title": "[CYBER] Le Ministère de la Transition cible d'une cyberattaque",
         "source": "Le Monde Informatique",
-        "time": "2026-09-13T02:38:14.703Z",
+        "time": "2026-09-13T11:24:28.454Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-le-ministere-de-la-transition-ecologique-cible-par-une-cyberattaque-100771.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le Ministère de la Transition cible d'une cyberattaque..."
@@ -1158,7 +1199,7 @@
       {
         "title": "[CYBER] M. D. Muse, fils du personnel de l'agent principal des services secrets.",
         "source": "Le Monde Informatique",
-        "time": "2026-09-13T02:38:12.422Z",
+        "time": "2026-09-13T11:24:26.208Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-meta-devoile-muse-son-premier-agent-ia-personnel-100772.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] M. D. Muse, fils du personnel de l'agent principal des services secrets...."
@@ -1177,7 +1218,7 @@
       {
         "title": "[CYBER] Le nouveau système de facturation électronique: le nouveau système de la cour dans la DSI",
         "source": "Le Monde Informatique",
-        "time": "2026-09-13T02:38:07.254Z",
+        "time": "2026-09-13T11:24:21.089Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-facturation-electronique-le-nouveau-perimetre-de-securite-a-integrer-dans-la-dsi-100775.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le nouveau système de facturation électronique: le nouveau système de la..."
@@ -1196,7 +1237,7 @@
       {
         "title": "[CYBER] Ingram Micro et Xguard One lance un EDR pour les PME",
         "source": "Le Monde Informatique",
-        "time": "2026-09-13T02:38:09.684Z",
+        "time": "2026-09-13T11:24:23.477Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-ingram-micro-et-xguard-one-lancent-un-edr-manage-pour-les-pme-100773.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Ingram Micro et Xguard One lance un EDR pour les PME..."
