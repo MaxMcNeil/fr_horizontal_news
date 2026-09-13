@@ -2,8 +2,7 @@ const container = document.getElementById("newsContainer");
 const counter = document.getElementById("counter");
 
 let ALL_ITEMS = []; // Stocke TOUTES les actus de la timeline
-let DATA = [];      // La news actuellement affichée à l'écran (1 seule à la fois)
-const VISIBLE_COUNT = 1; // Une seule news à l'écran, occupe tout le reste de l'écran
+let currentIndex = 0; // Position courante dans ALL_ITEMS, avance en continu (ne repart jamais à 0 lors d'un rechargement)
 
 // Gestion du bip audio sécurisé pour OBS / Navigateur
 let audioCtx = null;
@@ -45,10 +44,10 @@ function getCleanSource(source) {
     return source.split('/').pop().replace(".xml", "").replace(".rss", "") || "RSS";
 }
 
-// Affiche l'unique news courante, en plein format (tout le reste de l'écran)
+// Affiche l'unique news courante (currentIndex), en plein format (tout le reste de l'écran)
 function render() {
     container.innerHTML = "";
-    const item = DATA[0];
+    const item = ALL_ITEMS[currentIndex];
     if (item) {
         const card = document.createElement("div");
         card.className = "newsCardMain";
@@ -60,12 +59,10 @@ function render() {
     if (counter) counter.textContent = `[${ALL_ITEMS.length}]`;
 }
 
-// Fait tourner la grande liste complète : la news suivante prend toute la place à l'écran
+// Avance d'une news à chaque appel, en continu, sans jamais revenir en arrière ni se réinitialiser
 function rotateNews() {
     if (ALL_ITEMS.length > 1) {
-        const last = ALL_ITEMS.pop();
-        ALL_ITEMS.unshift(last);
-        DATA = ALL_ITEMS.slice(0, VISIBLE_COUNT);
+        currentIndex = (currentIndex + 1) % ALL_ITEMS.length;
         playBip();
         render();
     }
@@ -75,8 +72,12 @@ async function load() {
     try {
         const res = await fetch("data/news.json?v=" + Date.now(), { cache: "no-store" });
         const json = await res.json();
-        ALL_ITEMS = json.items || [];
-        DATA = ALL_ITEMS.slice(0, VISIBLE_COUNT);
+        const newItems = json.items || [];
+        if (newItems.length > 0) {
+            ALL_ITEMS = newItems;
+            // Sécurité : si la liste a rétréci, on ramène l'index dans les bornes sans tout réinitialiser
+            if (currentIndex >= ALL_ITEMS.length) currentIndex = 0;
+        }
         render();
     } catch (e) { console.error("NEWS ERROR", e); }
 }
