@@ -1,1 +1,66 @@
+name: Update News
 
+on:
+  schedule:
+    - cron: "0 */4 * * *"  # Déclenchement automatique 1 fois toutes les 4 heures
+  workflow_dispatch:       # Déclencheur manuel (Bouton GitHub)
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - uses: actions/setup-node@v4
+      with:
+        node-version: 20
+
+    - name: Install dependencies
+      run: |
+        npm install
+        npm install @xenova/transformers
+
+    - name: Cache Transformers Models
+      uses: actions/cache@v4
+      with:
+        path: /home/runner/.cache/huggingface  # 🚀 Chemin absolu direct
+        key: ${{ runner.os }}-transformers-v2  # 🚀 Nouvelle clé v2 pour forcer la mise en cache propre
+
+    - name: Fetch Cyber News
+      run: node scripts/fetchCyber.mjs
+      timeout-minutes: 10
+
+    - name: Fetch General News
+      run: node scripts/fetchNews.mjs
+      timeout-minutes: 5
+
+    - name: Refine News
+      run: node scripts/refineNews.mjs
+      timeout-minutes: 5
+
+    - name: Cluster News
+      run: node scripts/clusterNews.mjs
+      timeout-minutes: 5
+
+    - name: Timeline
+      run: node scripts/timeline.mjs
+      timeout-minutes: 5
+
+    - name: Summarize
+      run: node scripts/summarize.mjs
+      timeout-minutes: 5
+
+    - name: Commit changes
+      run: |
+        git config user.name "github-actions"
+        git config user.email "github-actions@github.com"
+        git add data/
+        git diff --cached --quiet && echo "no changes" && exit 0
+        git commit -m "update pipeline: local AI translation and fixed cache key"
+        git push
+        
