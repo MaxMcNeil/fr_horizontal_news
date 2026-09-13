@@ -213,38 +213,122 @@ body {
   100% { transform: scale(1.015); box-shadow: 0 0 70px rgba(225, 6, 6, 0.8); }
 }
 
-/* 4. NEWS BAR FIXE — très lisible, haute accessibilité, ne défile pas */
+/* 4. NEWS BAR FIXE — style broadcast pro, très lisible, ne défile pas */
 #newsBar {
   width: 100%;
+  background: linear-gradient(90deg, #0a0c14 0%, #170608 55%, #1e0709 100%);
+  border-top: 5px solid;
+  border-image: linear-gradient(90deg, var(--accent-red) 0%, #ffffff 50%, #1e3a8a 100%) 1;
+  box-shadow: 0 -8px 24px rgba(0, 0, 0, 0.55), inset 0 1px 0 rgba(255,255,255,0.05);
+  padding: 20px 44px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 40px;
+  flex-shrink: 0;
+}
+
+.news-bar-content {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+  min-width: 0;
+  flex: 1;
+}
+
+.news-bar-tag {
+  flex-shrink: 0;
   background: var(--accent-red);
-  border-top: 3px solid #ffffff;
-  border-bottom: 3px solid #ffffff;
-  padding: 14px 30px;
+  color: #ffffff;
+  font-family: var(--font-display);
+  font-weight: 900;
+  font-size: 26px;
+  letter-spacing: 2px;
+  padding: 12px 26px;
+  border-radius: 6px;
+  box-shadow: 0 0 22px rgba(225, 6, 6, 0.55);
+  animation: tagGlow 1.6s ease-in-out infinite;
+}
+
+@keyframes tagGlow {
+  0%, 100% { box-shadow: 0 0 14px rgba(225, 6, 6, 0.45); }
+  50% { box-shadow: 0 0 30px rgba(225, 6, 6, 0.85); }
+}
+
+.news-bar-text {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
   gap: 6px;
-  flex-shrink: 0;
+  min-width: 0;
 }
 
 .news-bar-line {
   font-family: var(--font-display);
   font-weight: 900;
   color: #ffffff;
-  text-align: center;
-  line-height: 1.2;
-  text-shadow: 0 2px 4px rgba(0,0,0,0.4);
+  text-align: left;
+  line-height: 1.25;
+  text-shadow: 0 2px 6px rgba(0,0,0,0.5);
+  white-space: nowrap;
 }
 
 .news-bar-line-main {
-  font-size: 34px;
+  font-size: 50px;
   letter-spacing: 0.5px;
 }
 
 .news-bar-line-sub {
-  font-size: 26px;
-  color: #fff9d6;
+  font-size: 34px;
+  color: var(--accent-yellow);
+  font-weight: 700;
+}
+
+/* Logo de la chaîne, à l'extrême droite, avec animation */
+.news-bar-logo-wrap {
+  position: relative;
+  flex-shrink: 0;
+  width: 140px;
+  height: 140px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.news-bar-logo-wrap::before,
+.news-bar-logo-wrap::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+  border: 3px solid var(--accent-cyber);
+  opacity: 0.7;
+  animation: logoPulseRing 2.6s ease-out infinite;
+}
+
+.news-bar-logo-wrap::after {
+  animation-delay: 1.3s;
+}
+
+@keyframes logoPulseRing {
+  0% { transform: scale(0.82); opacity: 0.75; }
+  75% { transform: scale(1.35); opacity: 0; }
+  100% { transform: scale(1.35); opacity: 0; }
+}
+
+.news-bar-logo {
+  width: 118px;
+  height: 118px;
+  border-radius: 50%;
+  object-fit: cover;
+  background: #050508;
+  border: 3px solid #ffffff;
+  box-shadow: 0 0 26px rgba(0, 0, 0, 0.6), 0 0 18px rgba(225, 6, 6, 0.35);
+  animation: logoBreathe 3s ease-in-out infinite;
+}
+
+@keyframes logoBreathe {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.05); }
 }
 
 /* 5. BAS DE PAGE — mentions légales / transparence */
