@@ -2,10 +2,14 @@
   {
     "title": "Enseignante menacée de décapitation en Haute-Garonne : le père de famille condamné à 6 mois de prison ferme",
     "score": 97,
-    "count": 5,
+    "count": 10,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.sudouest.fr/faits-divers/rss.xml"
+      "https://www.sudouest.fr/faits-divers/rss.xml",
+      "https://www.lemonde.fr/politique/rss_full.xml",
+      "https://www.franceinfo.fr/faits-divers.rss",
+      "https://www.cnews.fr/rss/categorie/faits%20divers",
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
     ],
     "items": [
       {
@@ -27,7 +31,7 @@
       {
         "title": "Home-jacking de Donnarumma : le commanditaire « Ganito » condamné à 9 ans de prison ferme",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-15T04:31:07.199Z",
+        "time": "2026-09-15T13:26:19.478Z",
         "link": "https://www.leparisien.fr/faits-divers/home-jacking-de-donnarumma-le-commanditaire-ganito-condamne-a-9-ans-de-prison-ferme-12-09-2026-53ZKSIPOXJEPBPB64PNN5JJEA4.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Home-jacking de Donnarumma : le commanditaire « Ganito » condamné à 9 ans de pri..."
@@ -47,6 +51,46 @@
         "link": "https://www.sudouest.fr/justice/landes-coup-de-couteau-aux-fetes-de-tartas-les-deux-mis-en-cause-condamnes-a-16-et-8-mois-de-prison-ferme-30626425.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Landes. Coup de couteau aux fêtes de Tartas : les deux mis en cause condamnés à ..."
+      },
+      {
+        "title": "Paris : un animateur périscolaire condamné à cinq ans de prison, dont un ferme, après des agressions sexuelles sur neuf fillettes",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-09-15T13:26:19.477Z",
+        "link": "https://www.leparisien.fr/paris-75/paris-un-animateur-periscolaire-condamne-a-cinq-ans-de-prison-dont-un-ferme-apres-des-agressions-sexuelles-sur-neuf-fillettes-15-09-2026-VBH326QHEFG6BASLTGRLNQZEMM.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Paris : un animateur périscolaire condamné à cinq ans de prison, dont un ferme, ..."
+      },
+      {
+        "title": "A Paris, un animateur périscolaire condamné à cinq ans de prison, dont un ferme, pour agressions sexuelles sur neuf enfants",
+        "source": "https://www.lemonde.fr/politique/rss_full.xml",
+        "time": "2026-09-15T12:41:53.000Z",
+        "link": "https://www.lemonde.fr/societe/article/2026/09/15/a-paris-un-animateur-periscolaire-condamne-a-cinq-ans-de-prison-dont-un-ferme-pour-agressions-sexuelles-sur-neuf-enfants_6774421_3224.html",
+        "score": 97,
+        "summary": "Point de situation critique concernant : A Paris, un animateur périscolaire condamné à cinq ans de prison, dont un ferme,..."
+      },
+      {
+        "title": "Violences sexuelles dans le périscolaire : un animateur d'une école du 15e arrondissement de Paris condamné à un an de prison ferme",
+        "source": "https://www.franceinfo.fr/faits-divers.rss",
+        "time": "2026-09-15T11:52:50.000Z",
+        "link": "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire/scandale-des-violences-sexuelles-dans-le-periscolaire-un-animateur-d-une-ecole-du-15e-arrondissement-de-paris-condamne-a-un-an-de-prison-ferme_8193590.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Violences sexuelles dans le périscolaire : un animateur d'une école du 15e arron..."
+      },
+      {
+        "title": "Scandale du périscolaire : un animateur condamné à cinq ans de prison, dont un an ferme, pour agressions sexuelles sur 9 enfants",
+        "source": "https://www.cnews.fr/rss/categorie/faits%20divers",
+        "time": "2026-09-15T11:56:35.000Z",
+        "link": "https://www.cnews.fr/faits-divers/2026-09-15/scandale-du-periscolaire-un-animateur-condamne-cinq-ans-de-prison-dont-un",
+        "score": 97,
+        "summary": "un animateur condamné à cinq ans de prison, dont un an ferme, pour agressions sexuelles sur 9 enfants"
+      },
+      {
+        "title": "Périscolaire à Paris : un animateur condamné à cinq ans de prison, dont un an ferme, pour des agressions sexuelles sur neuf enfants",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-09-15T12:27:08.000Z",
+        "link": "https://www.lefigaro.fr/faits-divers/periscolaire-a-paris-un-animateur-condamne-a-cinq-ans-de-prison-dont-un-an-ferme-pour-des-agressions-sexuelles-sur-neuf-enfants-20260915",
+        "score": 97,
+        "summary": "un animateur condamné à cinq ans de prison, dont un an ferme, pour des agressions sexuelles sur neuf enfants"
       }
     ],
     "summary": "Enseignante menacée de décapitation en Haute-Garonne : le père de famille condamné à 6 mois de prison ferme / « Je ne suis vraiment pas fier de moi » : le père de famille qui a menacé de décapitation une enseignante condamné à six mois ferme"
@@ -326,7 +370,7 @@
       {
         "title": "« Est-ce que tu aimerais être ma copine ? » : piégé par de faux profils d’enfants, un détenu condamné après leur avoir envoyé des photos pornographiques",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-15T04:31:07.198Z",
+        "time": "2026-09-15T13:26:19.477Z",
         "link": "https://www.leparisien.fr/faits-divers/est-ce-que-tu-aimerais-etre-ma-copine-piege-par-de-faux-profils-denfants-un-detenu-condamne-apres-avoir-envoye-des-photos-pornographiques-14-09-2026-4MVP2H5S7VE3BPIIBCPDXEUAYA.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Est-ce que tu aimerais être ma copine ? » : piégé par de faux profils d’enfant..."
@@ -345,7 +389,7 @@
       {
         "title": "« Je voulais les terroriser » : le tueur de la rue d’Enghien condamné pour avoir attaqué un camp de réfugiés au sabre",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-15T04:31:07.198Z",
+        "time": "2026-09-15T13:26:19.477Z",
         "link": "https://www.leparisien.fr/faits-divers/je-voulais-les-terroriser-le-tueur-de-la-rue-denghien-condamne-pour-avoir-attaque-un-camp-de-refugies-au-sabre-14-09-2026-SUOH2CQP5FHUXGCHCBIAPQ4NDI.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Je voulais les terroriser » : le tueur de la rue d’Enghien condamné pour avoir..."
@@ -364,7 +408,7 @@
       {
         "title": "« J’ai perdu mon petit garçon et ils nous font encore subir ça ? » : les prévenus condamnés pour la mort d’Ismaïl, 4 ans, font appel",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-15T04:31:07.198Z",
+        "time": "2026-09-15T13:26:19.477Z",
         "link": "https://www.leparisien.fr/val-d-oise-95/jai-perdu-mon-petit-garcon-et-ils-nous-font-encore-subir-ca-les-prevenus-condamnes-pour-la-mort-dismail-4-ans-font-appel-14-09-2026-DLVR2MLKJJEDTJNHTUCALAJGMI.php",
         "score": 97,
         "summary": "les prévenus condamnés pour la mort d’Ismaïl, 4 ans, font appel"
@@ -375,7 +419,7 @@
   {
     "title": "Libourne : un dealer condamné à quatre ans de prison après un bavardage de deux de ses clients dans le train",
     "score": 97,
-    "count": 1,
+    "count": 2,
     "sources": [
       "https://www.sudouest.fr/faits-divers/rss.xml"
     ],
@@ -387,9 +431,17 @@
         "link": "https://www.sudouest.fr/justice/libourne-un-dealer-condamne-a-quatre-ans-de-prison-apres-un-bavardage-de-deux-de-ses-clients-dans-le-train-30626442.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Libourne : un dealer condamné à quatre ans de prison après un bavardage de deux ..."
+      },
+      {
+        "title": "Violences sexuelles dans le périscolaire à Paris : un animateur condamné à cinq ans de prison, une première depuis le début du scandale",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-09-15T12:46:49.000Z",
+        "link": "https://www.sudouest.fr/justice/prison/violences-sexuelles-dans-le-periscolaire-a-paris-un-animateur-condamne-a-cinq-ans-de-prison-une-premiere-depuis-le-debut-du-scandale-30638176.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Violences sexuelles dans le périscolaire à Paris : un animateur condamné à cinq ..."
       }
     ],
-    "summary": "Libourne : un dealer condamné à quatre ans de prison après un bavardage de deux de ses clients dans le train"
+    "summary": "Libourne : un dealer condamné à quatre ans de prison après un bavardage de deux de ses clients dans le train / Violences sexuelles dans le périscolaire à Paris : un animateur condamné à cinq ans de prison, une première depuis le début du scandale"
   },
   {
     "title": "20 886 images et 2 919 vidéos pédopornographiques découvertes sur son ordinateur : un retraité lot-et-garonnais condamné à de la prison avec sursis",
@@ -527,21 +579,49 @@
   {
     "title": "Gironde : un parent d’élève placé en garde à vue après avoir menacé de mort un surveillant et la principale du collège de sa fille",
     "score": 97,
+    "count": 2,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "https://www.franceinfo.fr/faits-divers.rss"
+    ],
+    "items": [
+      {
+        "title": "Gironde : un parent d’élève placé en garde à vue après avoir menacé de mort un surveillant et la principale du collège de sa fille",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-09-15T13:26:19.477Z",
+        "link": "https://www.leparisien.fr/faits-divers/gironde-un-parent-deleve-place-en-garde-a-vue-apres-avoir-menace-de-mort-un-surveillant-et-la-principale-du-college-de-sa-fille-14-09-2026-UPNS2THEAJAGFE24YFT4KZXKKY.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Gironde : un parent d’élève placé en garde à vue après avoir menacé de mort un s..."
+      },
+      {
+        "title": "Gironde : un père d'élève placé en garde à vue après avoir menacé de mort un surveillant",
+        "source": "https://www.franceinfo.fr/faits-divers.rss",
+        "time": "2026-09-15T12:27:14.000Z",
+        "link": "https://www.franceinfo.fr/faits-divers/gironde-un-pere-d-eleve-place-en-garde-a-vue-apres-avoir-menace-de-mort-un-surveillant_8193602.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 97,
+        "summary": "un père d'élève placé en garde à vue après avoir menacé de mort un surveillant"
+      }
+    ],
+    "summary": "Gironde : un parent d’élève placé en garde à vue après avoir menacé de mort un surveillant et la principale du collège de sa fille / Gironde : un père d'élève placé en garde à vue après avoir menacé de mort un surveillant"
+  },
+  {
+    "title": "Bagui Traoré, frère d’Adama Traoré, a été placé en garde à vue « pour des faits d’extorsion »",
+    "score": 97,
     "count": 1,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
     "items": [
       {
-        "title": "Gironde : un parent d’élève placé en garde à vue après avoir menacé de mort un surveillant et la principale du collège de sa fille",
+        "title": "Bagui Traoré, frère d’Adama Traoré, a été placé en garde à vue « pour des faits d’extorsion »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-15T04:31:07.198Z",
-        "link": "https://www.leparisien.fr/faits-divers/gironde-un-parent-deleve-place-en-garde-a-vue-apres-avoir-menace-de-mort-un-surveillant-et-la-principale-du-college-de-sa-fille-14-09-2026-UPNS2THEAJAGFE24YFT4KZXKKY.php",
+        "time": "2026-09-15T13:26:19.477Z",
+        "link": "https://www.leparisien.fr/seine-saint-denis-93/recherche-par-les-gendarmes-bagui-traore-frere-dadama-traore-a-ete-interpelle-en-seine-saint-denis-15-09-2026-ZBUOFIMLI5H7LBKO246SNAR5FI.php",
         "score": 97,
-        "summary": "Point de situation critique concernant : Gironde : un parent d’élève placé en garde à vue après avoir menacé de mort un s..."
+        "summary": "Point de situation critique concernant : Bagui Traoré, frère d’Adama Traoré, a été placé en garde à vue « pour des faits ..."
       }
     ],
-    "summary": "Gironde : un parent d’élève placé en garde à vue après avoir menacé de mort un surveillant et la principale du collège de sa fille"
+    "summary": "Bagui Traoré, frère d’Adama Traoré, a été placé en garde à vue « pour des faits d’extorsion »"
   },
   {
     "title": "Johan Theuret, directeur général adjoint de la métropole de Rennes : « Chaque cyberattaque renforce l’idée que l’administration demande beaucoup sans protéger suffisamment »",
@@ -600,7 +680,7 @@
       {
         "title": "Lyon : le prêtre écarté de ses fonctions à la tête du groupe scolaire des Chartreux « conteste » les accusations de viols",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-15T04:31:07.199Z",
+        "time": "2026-09-15T13:26:19.477Z",
         "link": "https://www.leparisien.fr/faits-divers/lyon-le-pretre-ecarte-de-ses-fonctions-a-la-tete-du-groupe-scolaire-des-chartreux-conteste-les-accusations-de-viols-12-09-2026-JU7AMME6YFBKBLL6KN43SH5TQY.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Lyon : le prêtre écarté de ses fonctions à la tête du groupe scolaire des Chartr..."
@@ -663,7 +743,7 @@
       {
         "title": "Le rappeur américain Lil Durk, accusé d’avoir commandité le meurtre d’un rival, acquitté",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-15T04:31:07.199Z",
+        "time": "2026-09-15T13:26:19.478Z",
         "link": "https://www.leparisien.fr/culture-loisirs/musique/le-rappeur-americain-lil-durk-accuse-davoir-commandite-le-meurtre-dun-rival-acquitte-12-09-2026-QQP2JZBHMBHRRL22OBROYE65FA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Le rappeur américain Lil Durk, accusé d’avoir commandité le meurtre d’un rival, ..."
@@ -693,10 +773,9 @@
   {
     "title": "Mort de Paul Varry à Paris : l’automobiliste qui a écrasé le cycliste sera bien renvoyé devant la cour d’assises pour meurtre",
     "score": 90,
-    "count": 2,
+    "count": 1,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.sudouest.fr/faits-divers/rss.xml"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
     "items": [
       {
@@ -706,17 +785,9 @@
         "link": "https://www.leparisien.fr/faits-divers/mort-de-paul-varry-a-paris-lautomobiliste-qui-a-ecrase-le-cycliste-sera-bien-renvoye-devant-la-cour-dassises-pour-meurtre-11-09-2026-RSX4VJAS2FGMHBHNESB3PPAM2Q.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Mort de Paul Varry à Paris : l’automobiliste qui a écrasé le cycliste sera bien ..."
-      },
-      {
-        "title": "Cycliste laissé pour mort sur un trottoir après « une agression gratuite et d’une rare violence » : sept ans après, cette tentative de meurtre est jugée aux assises de la Gironde",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-09-13T11:30:24.000Z",
-        "link": "https://www.sudouest.fr/gironde/bordeaux/cycliste-laisse-pour-mort-sur-un-trottoir-apres-une-agression-gratuite-et-d-une-rare-violence-sept-ans-apres-cette-tentative-de-meurtre-est-jugee-aux-assises-de-la-gironde-30387463.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Cycliste laissé pour mort sur un trottoir après « une agression gratuite et d’un..."
       }
     ],
-    "summary": "Mort de Paul Varry à Paris : l’automobiliste qui a écrasé le cycliste sera bien renvoyé devant la cour d’assises pour meurtre / Cycliste laissé pour mort sur un trottoir après « une agression gratuite et d’une rare violence » : sept ans après, cette tentative de meurtre est jugée aux assises de la Gironde"
+    "summary": "Mort de Paul Varry à Paris : l’automobiliste qui a écrasé le cycliste sera bien renvoyé devant la cour d’assises pour meurtre"
   },
   {
     "title": "Tirs de mortiers, dégâts matériels : la préfecture de Mayenne dénonce des violences urbaines à Laval",
@@ -729,7 +800,7 @@
       {
         "title": "Tirs de mortiers, dégâts matériels : la préfecture de Mayenne dénonce des violences urbaines à Laval",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-15T04:31:07.199Z",
+        "time": "2026-09-15T13:26:19.477Z",
         "link": "https://www.leparisien.fr/faits-divers/tirs-de-mortiers-degats-materiels-la-prefecture-de-mayenne-denonce-des-violences-urbaines-a-laval-12-09-2026-67J6ZMHW35AEVCWLCMTXHOOVYA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Tirs de mortiers, dégâts matériels : la préfecture de Mayenne dénonce des violen..."
@@ -748,7 +819,7 @@
       {
         "title": "Paris : le chauffeur de taxi mis en accusation pour le viol d’une cliente reste en détention",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-15T04:31:07.199Z",
+        "time": "2026-09-15T13:26:19.477Z",
         "link": "https://www.leparisien.fr/faits-divers/paris-le-chauffeur-de-taxi-mis-en-accusation-pour-le-viol-dune-cliente-reste-en-detention-12-09-2026-QYSEADH3WNFMPB5SGXLRKNAWFI.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Paris : le chauffeur de taxi mis en accusation pour le viol d’une cliente reste ..."
@@ -881,60 +952,13 @@
       {
         "title": "« Un usage décomplexé des armes à feu » : un homme tué par balle en Guadeloupe, le trentième homicide de l’année",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-15T04:31:07.199Z",
+        "time": "2026-09-15T13:26:19.477Z",
         "link": "https://www.leparisien.fr/faits-divers/un-usage-decomplexe-des-armes-a-feu-un-homme-tue-par-balle-en-guadeloupe-le-trentieme-homicide-de-lannee-12-09-2026-RZLPSGJRHFHW7HSMNAVXV7STHM.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Un usage décomplexé des armes à feu » : un homme tué par balle en Guadeloupe, ..."
       }
     ],
     "summary": "« Un usage décomplexé des armes à feu » : un homme tué par balle en Guadeloupe, le trentième homicide de l’année"
-  },
-  {
-    "title": "Drôme. « On a eu peur qu'il y ait une explosion » : des familles évacuées après deux incendies dans les parties communes d’immeubles",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://www.ledauphine.com/Faits-divers-Justice/rss"
-    ],
-    "items": [
-      {
-        "title": "Drôme. « On a eu peur qu'il y ait une explosion » : des familles évacuées après deux incendies dans les parties communes d’immeubles",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-09-13T10:04:00.000Z",
-        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/13/on-a-eu-peur-qu-il-y-ait-une-explosion-des-familles-evacuees-lors-de-deux-incendies-dans-les-parties-communes-d-immeubles",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Drôme. « On a eu peur qu'il y ait une explosion » : des familles évacuées après ..."
-      }
-    ],
-    "summary": "Drôme. « On a eu peur qu'il y ait une explosion » : des familles évacuées après deux incendies dans les parties communes d’immeubles"
-  },
-  {
-    "title": "Témoignages. « Je n’ai plus confiance » : face aux violences dans le périscolaire, ces parents changent de mode de garde",
-    "score": 90,
-    "count": 2,
-    "sources": [
-      "https://www.ledauphine.com/Faits-divers-Justice/rss",
-      "https://www.sudouest.fr/faits-divers/rss.xml"
-    ],
-    "items": [
-      {
-        "title": "Témoignages. « Je n’ai plus confiance » : face aux violences dans le périscolaire, ces parents changent de mode de garde",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-09-13T05:10:00.000Z",
-        "link": "https://www.ledauphine.com/societe/2026/09/13/je-n-ai-plus-confiance-face-aux-violences-dans-le-periscolaire-ces-parents-changent-de-mode-de-garde",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Témoignages. « Je n’ai plus confiance » : face aux violences dans le périscolair..."
-      },
-      {
-        "title": "Violences sexuelles dans un centre de loisirs de Tarnos : le deuxième animateur écarté avait été exclu du périscolaire de Bayonne",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-09-13T17:00:00.000Z",
-        "link": "https://www.sudouest.fr/pyrenees-atlantiques/pays-basque/violences-sexuelles-dans-un-centre-de-loisirs-de-tarnos-le-deuxieme-animateur-ecarte-avait-ete-exclu-du-periscolaire-de-bayonne-30608547.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Violences sexuelles dans un centre de loisirs de Tarnos : le deuxième animateur ..."
-      }
-    ],
-    "summary": "Témoignages. « Je n’ai plus confiance » : face aux violences dans le périscolaire, ces parents changent de mode de garde / Violences sexuelles dans un centre de loisirs de Tarnos : le deuxième animateur écarté avait été exclu du périscolaire de Bayonne"
   },
   {
     "title": "Romans-sur-Isère. Zakaria, 15 ans, tué en voulant séparer une bagarre au quartier de la Monnaie : un meurtre où les versions divergent",
@@ -967,7 +991,7 @@
       {
         "title": "Var : un avion biplan s’écrase, le pilote et sa passagère tués",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-15T04:31:07.198Z",
+        "time": "2026-09-15T13:26:19.477Z",
         "link": "https://www.leparisien.fr/faits-divers/var-un-avion-biplan-secrase-le-pilote-et-sa-passagere-tues-13-09-2026-VBGBHTOSCFFMJL6SUMARH6SFVQ.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Var : un avion biplan s’écrase, le pilote et sa passagère tués..."
@@ -984,6 +1008,25 @@
     "summary": "Var : un avion biplan s’écrase, le pilote et sa passagère tués / Un biplan s’écrase, un ancien général de l’armée de l’air et sa passagère tués dans le Var"
   },
   {
+    "title": "Violences sexuelles dans un centre de loisirs de Tarnos : le deuxième animateur écarté avait été exclu du périscolaire de Bayonne",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://www.sudouest.fr/faits-divers/rss.xml"
+    ],
+    "items": [
+      {
+        "title": "Violences sexuelles dans un centre de loisirs de Tarnos : le deuxième animateur écarté avait été exclu du périscolaire de Bayonne",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-09-13T17:00:00.000Z",
+        "link": "https://www.sudouest.fr/pyrenees-atlantiques/pays-basque/violences-sexuelles-dans-un-centre-de-loisirs-de-tarnos-le-deuxieme-animateur-ecarte-avait-ete-exclu-du-periscolaire-de-bayonne-30608547.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Violences sexuelles dans un centre de loisirs de Tarnos : le deuxième animateur ..."
+      }
+    ],
+    "summary": "Violences sexuelles dans un centre de loisirs de Tarnos : le deuxième animateur écarté avait été exclu du périscolaire de Bayonne"
+  },
+  {
     "title": "Sa McLaren se coupe en deux et prend feu : un organisateur de rassemblements automobiles décède dans un violent accident à 27 ans",
     "score": 90,
     "count": 1,
@@ -994,7 +1037,7 @@
       {
         "title": "Sa McLaren se coupe en deux et prend feu : un organisateur de rassemblements automobiles décède dans un violent accident à 27 ans",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-15T04:31:07.198Z",
+        "time": "2026-09-15T13:26:19.477Z",
         "link": "https://www.leparisien.fr/faits-divers/sa-mclaren-se-coupe-en-deux-et-prend-feu-un-organisateur-de-rassemblements-automobiles-decede-dans-un-violent-accident-a-27-ans-14-09-2026-EZ2G3EBK2JF5NNMIGKRCGKQI2Y.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Sa McLaren se coupe en deux et prend feu : un organisateur de rassemblements aut..."
@@ -1013,7 +1056,7 @@
       {
         "title": "Carcassonne : une vidéo montre un policier jeter violemment au sol un SDF de 29 ans, l’IGPN saisie",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-15T04:31:07.198Z",
+        "time": "2026-09-15T13:26:19.477Z",
         "link": "https://www.leparisien.fr/faits-divers/carcassonne-un-sdf-de-29-ans-violemment-jete-au-sol-par-un-policier-ligpn-saisie-pour-violences-volontaires-14-09-2026-LPORRRG2XJBA3NY5TZKJOK2KRA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Carcassonne : une vidéo montre un policier jeter violemment au sol un SDF de 29 ..."
@@ -1032,7 +1075,7 @@
       {
         "title": "Un féminicide, un meurtre et une violente agression... Le procès de la cavale sanglante du détenu d’Argentan va s’ouvrir",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-15T04:31:07.198Z",
+        "time": "2026-09-15T13:26:19.477Z",
         "link": "https://www.leparisien.fr/faits-divers/un-feminicide-un-meurtre-et-une-violente-agression-le-proces-de-la-cavale-sanglante-du-detenu-dargentan-va-souvrir-14-09-2026-LBPVMBX265D2FOS7RYPQCPLHWM.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Un féminicide, un meurtre et une violente agression... Le procès de la cavale sa..."
@@ -1070,7 +1113,7 @@
       {
         "title": "Au Royaume-Uni, un Britannique reconnaît avoir drogué, violé et livré sa femme à une douzaine d’hommes sur 20 ans",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-15T04:31:07.198Z",
+        "time": "2026-09-15T13:26:19.477Z",
         "link": "https://www.leparisien.fr/faits-divers/au-royaume-uni-un-britannique-reconnait-avoir-drogue-viole-et-livre-sa-femme-a-une-douzaine-dhommes-sur-20-ans-14-09-2026-S3IM3RY52VC3JHBGYMTLDH7RUM.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Au Royaume-Uni, un Britannique reconnaît avoir drogué, violé et livré sa femme à..."
@@ -1089,7 +1132,7 @@
       {
         "title": "Une enfant de cinq ans soupçonnée d’agression sexuelle sur sept autres enfants à Strasbourg, les parents d’élèves dénoncent une « omerta »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-15T04:31:07.198Z",
+        "time": "2026-09-15T13:26:19.477Z",
         "link": "https://www.leparisien.fr/faits-divers/une-enfant-de-cinq-ans-soupconnee-dagression-sexuelle-sur-sept-autres-enfants-a-strasbourg-les-parents-deleves-denoncent-une-omerta-14-09-2026-2LSKTUSKRZB73NBECPVNOFEEFE.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Une enfant de cinq ans soupçonnée d’agression sexuelle sur sept autres enfants à..."
@@ -1108,51 +1151,13 @@
       {
         "title": "Projets de rapts d’enfants, d’enlèvements de personnalités et de coup d’État… Rémy Daillet et sa « bande de copains » au tribunal",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-15T04:31:07.198Z",
+        "time": "2026-09-15T13:26:19.477Z",
         "link": "https://www.leparisien.fr/faits-divers/projets-de-rapts-denfants-denlevements-de-personnalites-et-de-coup-detat-remy-daillet-et-sa-bande-de-copains-au-tribunal-14-09-2026-6ZMBWDXNRRCVZA76CO3XKATALI.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Projets de rapts d’enfants, d’enlèvements de personnalités et de coup d’État… Ré..."
       }
     ],
     "summary": "Projets de rapts d’enfants, d’enlèvements de personnalités et de coup d’État… Rémy Daillet et sa « bande de copains » au tribunal"
-  },
-  {
-    "title": "Au procès de l’assassinat de l’ancien rugbyman Federico Martin Aramburu, une terrible journée pour les accusés",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://www.lemonde.fr/societe/rss_full.xml"
-    ],
-    "items": [
-      {
-        "title": "Au procès de l’assassinat de l’ancien rugbyman Federico Martin Aramburu, une terrible journée pour les accusés",
-        "source": "https://www.lemonde.fr/societe/rss_full.xml",
-        "time": "2026-09-15T04:00:25.000Z",
-        "link": "https://www.lemonde.fr/societe/article/2026/09/15/au-proces-de-l-assassinat-de-l-ancien-rugbyman-federico-martin-aramburu-une-terrible-journee-pour-les-accuses_6774329_3224.html",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Au procès de l’assassinat de l’ancien rugbyman Federico Martin Aramburu, une ter..."
-      }
-    ],
-    "summary": "Au procès de l’assassinat de l’ancien rugbyman Federico Martin Aramburu, une terrible journée pour les accusés"
-  },
-  {
-    "title": "Le procès du complotiste Rémy Daillet et de son groupuscule, ou le récit d’une dérive terroriste, de l’enlèvement de Mia à un projet de coup d’Etat",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://www.lemonde.fr/societe/rss_full.xml"
-    ],
-    "items": [
-      {
-        "title": "Le procès du complotiste Rémy Daillet et de son groupuscule, ou le récit d’une dérive terroriste, de l’enlèvement de Mia à un projet de coup d’Etat",
-        "source": "https://www.lemonde.fr/societe/rss_full.xml",
-        "time": "2026-09-14T15:19:33.000Z",
-        "link": "https://www.lemonde.fr/societe/article/2026/09/14/le-proces-du-complotiste-remy-daillet-et-de-son-groupuscule-ou-le-recit-d-une-derive-terroriste-de-l-enlevement-de-mia-a-un-projet-de-coup-d-etat_6773853_3224.html",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Le procès du complotiste Rémy Daillet et de son groupuscule, ou le récit d’une d..."
-      }
-    ],
-    "summary": "Le procès du complotiste Rémy Daillet et de son groupuscule, ou le récit d’une dérive terroriste, de l’enlèvement de Mia à un projet de coup d’Etat"
   },
   {
     "title": "[CYBER] L'ouverture de la frontière est une mesure de la protection de l'environnement.",
@@ -1212,7 +1217,7 @@
     "summary": "[CYBER] OpenAI et plus de 100 entreprises faisant appel d'une action collective en matière de cyberdéfense"
   },
   {
-    "title": "[CYBER] La censure anthropologique au Pentagone: la justice est riche annuler une mise en place de la justice en temps de maladie",
+    "title": "[CYBER] La censure anthropologique au Pentagone: la justice est riche annuler une mise en place de la justice en temps de guerre",
     "score": 90,
     "count": 1,
     "sources": [
@@ -1220,15 +1225,15 @@
     ],
     "items": [
       {
-        "title": "[CYBER] La censure anthropologique au Pentagone: la justice est riche annuler une mise en place de la justice en temps de maladie",
+        "title": "[CYBER] La censure anthropologique au Pentagone: la justice est riche annuler une mise en place de la justice en temps de guerre",
         "source": "Le Monde Informatique",
-        "time": "2026-09-15T04:29:54.059Z",
+        "time": "2026-09-15T13:24:33.468Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-anthropic-censure-au-pentagone-la-justice-americaine-annule-une-mise-a-l-ecart-jugee-illegale-100760.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] La censure anthropologique au Pentagone: la justice est riche annuler un..."
       }
     ],
-    "summary": "[CYBER] La censure anthropologique au Pentagone: la justice est riche annuler une mise en place de la justice en temps de maladie"
+    "summary": "[CYBER] La censure anthropologique au Pentagone: la justice est riche annuler une mise en place de la justice en temps de guerre"
   },
   {
     "title": "[CYBER] OpenAI: le cours aux modes de pointe avec GPT-6 Astra",
@@ -1241,7 +1246,7 @@
       {
         "title": "[CYBER] OpenAI: le cours aux modes de pointe avec GPT-6 Astra",
         "source": "Le Monde Informatique",
-        "time": "2026-09-15T04:29:49.746Z",
+        "time": "2026-09-15T13:24:27.252Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-la-course-aux-modeles-de-pointe-avec-gpt-6-astra-100766.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] OpenAI: le cours aux modes de pointe avec GPT-6 Astra..."
@@ -1260,7 +1265,7 @@
       {
         "title": "[CYBER] Les cyberattaques: S Bastien Lecornu donne 15 jours aux ministres pour lutter contre les cyberattaques",
         "source": "Le Monde Informatique",
-        "time": "2026-09-15T04:29:47.286Z",
+        "time": "2026-09-15T13:24:23.734Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-cybersecurite-sebastien-lecornu-donne-15-jours-aux-ministres-pour-lutter-contre-les-cyberattaques-100767.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les cyberattaques: S Bastien Lecornu donne 15 jours aux ministres pour l..."
@@ -1279,7 +1284,7 @@
       {
         "title": "[CYBER] Le Ministère de la Transition cible d'une cyberattaque",
         "source": "Le Monde Informatique",
-        "time": "2026-09-15T04:29:43.595Z",
+        "time": "2026-09-15T13:24:18.362Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-le-ministere-de-la-transition-ecologique-cible-par-une-cyberattaque-100771.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le Ministère de la Transition cible d'une cyberattaque..."
@@ -1298,7 +1303,7 @@
       {
         "title": "[CYBER] M. D. Muse, fils du personnel de l'agent principal des services secrets.",
         "source": "Le Monde Informatique",
-        "time": "2026-09-15T04:29:41.193Z",
+        "time": "2026-09-15T13:24:14.976Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-meta-devoile-muse-son-premier-agent-ia-personnel-100772.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] M. D. Muse, fils du personnel de l'agent principal des services secrets...."
@@ -1317,7 +1322,7 @@
       {
         "title": "[CYBER] Le nouveau système de facturation électronique: le nouveau système de la cour dans la DSI",
         "source": "Le Monde Informatique",
-        "time": "2026-09-15T04:29:35.998Z",
+        "time": "2026-09-15T13:24:07.458Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-facturation-electronique-le-nouveau-perimetre-de-securite-a-integrer-dans-la-dsi-100775.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le nouveau système de facturation électronique: le nouveau système de la..."
@@ -1336,7 +1341,7 @@
       {
         "title": "[CYBER] Ingram Micro et Xguard One lance un EDR pour les PME",
         "source": "Le Monde Informatique",
-        "time": "2026-09-15T04:29:38.511Z",
+        "time": "2026-09-15T13:24:11.042Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-ingram-micro-et-xguard-one-lancent-un-edr-manage-pour-les-pme-100773.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Ingram Micro et Xguard One lance un EDR pour les PME..."
@@ -1381,5 +1386,62 @@
       }
     ],
     "summary": "[CYBER] La lutte contre la fraude au document et l'usurpation de l'identité"
+  },
+  {
+    "title": "[CYBER] La cybersécurité se réalise chez les PME",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "Le Monde Informatique"
+    ],
+    "items": [
+      {
+        "title": "[CYBER] La cybersécurité se réalise chez les PME",
+        "source": "Le Monde Informatique",
+        "time": "2026-09-15T13:23:52.024Z",
+        "link": "https://www.lemondeinformatique.fr/actualites/lire-la-cyberassurance-recule-chez-les-pme-francaises-100784.html",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] La cybersécurité se réalise chez les PME..."
+      }
+    ],
+    "summary": "[CYBER] La cybersécurité se réalise chez les PME"
+  },
+  {
+    "title": "[CYBER] Les agents d'OpenAI auraient pour objectif de mettre en place la plateforme RubyGems",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "Le Monde Informatique"
+    ],
+    "items": [
+      {
+        "title": "[CYBER] Les agents d'OpenAI auraient pour objectif de mettre en place la plateforme RubyGems",
+        "source": "Le Monde Informatique",
+        "time": "2026-09-15T13:23:56.558Z",
+        "link": "https://www.lemondeinformatique.fr/actualites/lire-des-agents-d-openai-auraient-cible-la-plateforme-rubygems-100782.html",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] Les agents d'OpenAI auraient pour objectif de mettre en place la platefo..."
+      }
+    ],
+    "summary": "[CYBER] Les agents d'OpenAI auraient pour objectif de mettre en place la plateforme RubyGems"
+  },
+  {
+    "title": "[CYBER] CUEEC 2026: un pacte de richesse et d'intervention pour renforcer la souveraineté de la richesse",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "Le Monde Informatique"
+    ],
+    "items": [
+      {
+        "title": "[CYBER] CUEEC 2026: un pacte de richesse et d'intervention pour renforcer la souveraineté de la richesse",
+        "source": "Le Monde Informatique",
+        "time": "2026-09-15T13:24:02.715Z",
+        "link": "https://www.lemondeinformatique.fr/actualites/lire-uecc-2026-un-pacte-numerique-et-ia-pour-renforcer-la-souverainete-numerique-100780.html",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] CUEEC 2026: un pacte de richesse et d'intervention pour renforcer la sou..."
+      }
+    ],
+    "summary": "[CYBER] CUEEC 2026: un pacte de richesse et d'intervention pour renforcer la souveraineté de la richesse"
   }
 ]
