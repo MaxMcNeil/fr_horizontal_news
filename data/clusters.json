@@ -1,37 +1,11 @@
 [
   {
-    "title": "Home-jacking de Donnarumma : le commanditaire « Ganito » condamné à 9 ans de prison ferme",
+    "title": "« Est-ce que tu aimerais être ma copine ? » : piégé par de faux profils d’enfants, un détenu condamné après leur avoir envoyé des photos pornographiques",
     "score": 97,
     "count": 2,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Home-jacking de Donnarumma : le commanditaire « Ganito » condamné à 9 ans de prison ferme",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-15T13:26:19.478Z",
-        "link": "https://www.leparisien.fr/faits-divers/home-jacking-de-donnarumma-le-commanditaire-ganito-condamne-a-9-ans-de-prison-ferme-12-09-2026-53ZKSIPOXJEPBPB64PNN5JJEA4.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Home-jacking de Donnarumma : le commanditaire « Ganito » condamné à 9 ans de pri..."
-      },
-      {
-        "title": "Paris : un animateur périscolaire condamné à cinq ans de prison, dont un ferme, après des agressions sexuelles sur neuf fillettes",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-17T13:19:35.347Z",
-        "link": "https://www.leparisien.fr/paris-75/paris-un-animateur-periscolaire-condamne-a-cinq-ans-de-prison-dont-un-ferme-apres-des-agressions-sexuelles-sur-neuf-fillettes-15-09-2026-VBH326QHEFG6BASLTGRLNQZEMM.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Paris : un animateur périscolaire condamné à cinq ans de prison, dont un ferme, ..."
-      }
-    ],
-    "summary": "Home-jacking de Donnarumma : le commanditaire « Ganito » condamné à 9 ans de prison ferme / Paris : un animateur périscolaire condamné à cinq ans de prison, dont un ferme, après des agressions sexuelles sur neuf fillettes"
-  },
-  {
-    "title": "« Est-ce que tu aimerais être ma copine ? » : piégé par de faux profils d’enfants, un détenu condamné après leur avoir envoyé des photos pornographiques",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "https://www.lemonde.fr/societe/rss_full.xml"
     ],
     "items": [
       {
@@ -41,17 +15,28 @@
         "link": "https://www.leparisien.fr/faits-divers/est-ce-que-tu-aimerais-etre-ma-copine-piege-par-de-faux-profils-denfants-un-detenu-condamne-apres-avoir-envoye-des-photos-pornographiques-14-09-2026-4MVP2H5S7VE3BPIIBCPDXEUAYA.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Est-ce que tu aimerais être ma copine ? » : piégé par de faux profils d’enfant..."
+      },
+      {
+        "title": "A Bordeaux, un père condamné à six mois de prison ferme après avoir menacé de mort un surveillant et la directrice d’un collège",
+        "source": "https://www.lemonde.fr/societe/rss_full.xml",
+        "time": "2026-09-17T18:28:48.000Z",
+        "link": "https://www.lemonde.fr/societe/article/2026/09/17/a-bordeaux-un-pere-condamne-a-six-mois-de-prison-ferme-apres-avoir-menace-de-mort-un-surveillant-et-la-directrice-d-un-college_6776474_3224.html",
+        "score": 97,
+        "summary": "Point de situation critique concernant : A Bordeaux, un père condamné à six mois de prison ferme après avoir menacé de mo..."
       }
     ],
-    "summary": "« Est-ce que tu aimerais être ma copine ? » : piégé par de faux profils d’enfants, un détenu condamné après leur avoir envoyé des photos pornographiques"
+    "summary": "« Est-ce que tu aimerais être ma copine ? » : piégé par de faux profils d’enfants, un détenu condamné après leur avoir envoyé des photos pornographiques / A Bordeaux, un père condamné à six mois de prison ferme après avoir menacé de mort un surveillant et la directrice d’un collège"
   },
   {
     "title": "« Je voulais les terroriser » : le tueur de la rue d’Enghien condamné pour avoir attaqué un camp de réfugiés au sabre",
     "score": 97,
-    "count": 2,
+    "count": 5,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.ledauphine.com/Faits-divers-Justice/rss"
+      "https://www.ledauphine.com/Faits-divers-Justice/rss",
+      "https://www.lemonde.fr/politique/rss_full.xml",
+      "https://www.sudouest.fr/faits-divers/rss.xml",
+      "https://www.20minutes.fr/feeds/rss-une.xml"
     ],
     "items": [
       {
@@ -69,6 +54,30 @@
         "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/16/une-scene-penible-et-traumatisante-un-jeune-homme-condamne-pour-avoir-impose-un-rapport-sexuel-a-une-ponette",
         "score": 97,
         "summary": "Point de situation critique concernant : Isère. « Une scène pénible et traumatisante » : un jeune homme condamné pour avo..."
+      },
+      {
+        "title": "L’ex-maire du Kremlin-Bicêtre condamné à de la prison ferme pour avoir détourné des fonds afin de jouer au PMU",
+        "source": "https://www.lemonde.fr/politique/rss_full.xml",
+        "time": "2026-09-17T15:17:19.000Z",
+        "link": "https://www.lemonde.fr/societe/article/2026/09/17/l-ex-maire-du-kremlin-bicetre-condamne-a-de-la-prison-ferme-pour-avoir-detourne-des-fonds-afin-de-jouer-au-pmu_6776446_3224.html",
+        "score": 97,
+        "summary": "Point de situation critique concernant : L’ex-maire du Kremlin-Bicêtre condamné à de la prison ferme pour avoir détourné ..."
+      },
+      {
+        "title": "Dordogne : déjà condamné par le passé, il est de nouveau incarcéré pour avoir violenté sa mère",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-09-17T18:28:10.000Z",
+        "link": "https://www.sudouest.fr/faits-divers/dordogne-deja-condamne-par-le-passe-il-est-de-nouveau-incarcere-pour-avoir-violente-sa-mere-30675215.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Dordogne : déjà condamné par le passé, il est de nouveau incarcéré pour avoir vi..."
+      },
+      {
+        "title": "Gironde : Le père d’un collégien condamné à six mois ferme pour avoir menacé de mort un surveillant et la principale",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-09-17T17:51:16.000Z",
+        "link": "https://www.20minutes.fr/justice/4246337-20260917-gironde-pere-collegien-condamne-six-mois-ferme-avoir-menace-mort-surveillant-principale?at_medium=display&at_campaign=149",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Gironde : Le père d’un collégien condamné à six mois ferme pour avoir menacé de ..."
       }
     ],
     "summary": "« Je voulais les terroriser » : le tueur de la rue d’Enghien condamné pour avoir attaqué un camp de réfugiés au sabre / Isère. « Une scène pénible et traumatisante » : un jeune homme condamné pour avoir imposé un rapport sexuel à une ponette"
@@ -95,11 +104,11 @@
   {
     "title": "Gironde : un parent d’élève placé en garde à vue après avoir menacé de mort un surveillant et la principale du collège de sa fille",
     "score": 97,
-    "count": 3,
+    "count": 4,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.franceinfo.fr/faits-divers.rss",
-      "https://www.sudouest.fr/faits-divers/rss.xml"
+      "https://www.sudouest.fr/faits-divers/rss.xml",
+      "https://www.cnews.fr/rss/categorie/faits%20divers"
     ],
     "items": [
       {
@@ -111,23 +120,67 @@
         "summary": "Point de situation critique concernant : Gironde : un parent d’élève placé en garde à vue après avoir menacé de mort un s..."
       },
       {
-        "title": "Menaces de mort contre une enseignante dans l'Yonne : placée en garde à vue, la mère d'élève sera jugée le 10 décembre",
-        "source": "https://www.franceinfo.fr/faits-divers.rss",
-        "time": "2026-09-15T18:13:15.000Z",
-        "link": "https://www.franceinfo.fr/societe/education/menaces-de-mort-contre-une-enseignante-dans-l-yonne-placee-en-garde-a-vue-la-mere-d-eleve-sera-jugee-le-10-decembre_8194196.html#xtor=RSS-3-%5Bgeneral%5D",
+        "title": "Gironde : le parent d’élève qui avait menacé de mort un surveillant et la principale d’un collège condamné à six mois de prison ferme",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-09-17T19:42:14.990Z",
+        "link": "https://www.leparisien.fr/gironde-33/gironde-le-parent-deleve-qui-avait-menace-de-mort-un-surveillant-et-la-principale-dun-college-condamne-a-six-mois-de-prison-ferme-17-09-2026-ASURFVLIFBDXDGEGZ4TEVVFILM.php",
         "score": 97,
-        "summary": "placée en garde à vue, la mère d'élève sera jugée le 10 décembre"
+        "summary": "Point de situation critique concernant : Gironde : le parent d’élève qui avait menacé de mort un surveillant et la princi..."
       },
       {
-        "title": "Surveillant menacé de mort en Gironde : la garde à vue du père prolongée de vingt-quatre heures",
+        "title": "Insultes et menaces de mort dans un collège en Gironde : un parent d’élève condamné à six mois de prison ferme",
         "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-09-15T19:01:47.000Z",
-        "link": "https://www.sudouest.fr/faits-divers/surveillant-menace-de-mort-en-gironde-la-garde-a-vue-du-pere-prolongee-de-vingt-quatre-heures-30643008.php",
+        "time": "2026-09-17T19:26:21.000Z",
+        "link": "https://www.sudouest.fr/gironde/bordeaux/insultes-et-menaces-de-mort-dans-un-college-en-gironde-un-parent-d-eleve-condamne-a-six-mois-de-prison-ferme-30665329.php",
         "score": 97,
-        "summary": "Point de situation critique concernant : Surveillant menacé de mort en Gironde : la garde à vue du père prolongée de ving..."
+        "summary": "un parent d’élève condamné à six mois de prison ferme"
+      },
+      {
+        "title": "Gironde : un père de famille condamné à six mois de prison ferme pour des menaces de mort contre un surveillant et la principale d'un collège",
+        "source": "https://www.cnews.fr/rss/categorie/faits%20divers",
+        "time": "2026-09-17T17:51:13.000Z",
+        "link": "https://www.cnews.fr/faits-divers/2026-09-17/gironde-un-pere-de-famille-condamne-six-mois-de-prison-ferme-pour-des",
+        "score": 97,
+        "summary": "un père de famille condamné à six mois de prison ferme pour des menaces de mort contre un surveillant et la principale d'un collège"
       }
     ],
-    "summary": "Gironde : un parent d’élève placé en garde à vue après avoir menacé de mort un surveillant et la principale du collège de sa fille / Menaces de mort contre une enseignante dans l'Yonne : placée en garde à vue, la mère d'élève sera jugée le 10 décembre"
+    "summary": "Gironde : un parent d’élève placé en garde à vue après avoir menacé de mort un surveillant et la principale du collège de sa fille / Gironde : le parent d’élève qui avait menacé de mort un surveillant et la principale d’un collège condamné à six mois de prison ferme"
+  },
+  {
+    "title": "Paris : un animateur périscolaire condamné à cinq ans de prison, dont un ferme, après des agressions sexuelles sur neuf fillettes",
+    "score": 97,
+    "count": 3,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "https://www.ledauphine.com/Faits-divers-Justice/rss"
+    ],
+    "items": [
+      {
+        "title": "Paris : un animateur périscolaire condamné à cinq ans de prison, dont un ferme, après des agressions sexuelles sur neuf fillettes",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-09-17T13:19:35.347Z",
+        "link": "https://www.leparisien.fr/paris-75/paris-un-animateur-periscolaire-condamne-a-cinq-ans-de-prison-dont-un-ferme-apres-des-agressions-sexuelles-sur-neuf-fillettes-15-09-2026-VBH326QHEFG6BASLTGRLNQZEMM.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Paris : un animateur périscolaire condamné à cinq ans de prison, dont un ferme, ..."
+      },
+      {
+        "title": "Nord-Isère. « Il me disait : “c’est un secret entre nous deux” » : un homme condamné pour des agressions sexuelles sur sa belle-fille de 8 ans",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-09-16T10:21:00.000Z",
+        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/16/il-me-disait-c-est-un-secret-entre-nous-deux-un-homme-condamne-pour-des-agressions-sexuelles-sur-sa-belle-fille-de-8-ans",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Nord-Isère. « Il me disait : “c’est un secret entre nous deux” » : un homme cond..."
+      },
+      {
+        "title": "Savoie. Condamné à 10 ans de réclusion criminelle pour viol aggravé et agressions sexuelles sur mineurs",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-09-17T07:58:00.000Z",
+        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/17/condamne-a-10-ans-de-reclusion-criminelle-pour-viol-aggrave-et-agressions-sexuelles-sur-mineurs",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Savoie. Condamné à 10 ans de réclusion criminelle pour viol aggravé et agression..."
+      }
+    ],
+    "summary": "Paris : un animateur périscolaire condamné à cinq ans de prison, dont un ferme, après des agressions sexuelles sur neuf fillettes / Nord-Isère. « Il me disait : “c’est un secret entre nous deux” » : un homme condamné pour des agressions sexuelles sur sa belle-fille de 8 ans"
   },
   {
     "title": "Bagui Traoré, frère d’Adama Traoré, a été placé en garde à vue « pour des faits d’extorsion »",
@@ -147,333 +200,6 @@
       }
     ],
     "summary": "Bagui Traoré, frère d’Adama Traoré, a été placé en garde à vue « pour des faits d’extorsion »"
-  },
-  {
-    "title": "Internat de médecine : « mission d’inspection flash » après des soupçons de fraude",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.lemonde.fr/societe/rss_full.xml"
-    ],
-    "items": [
-      {
-        "title": "Internat de médecine : « mission d’inspection flash » après des soupçons de fraude",
-        "source": "https://www.lemonde.fr/societe/rss_full.xml",
-        "time": "2026-09-15T17:29:54.000Z",
-        "link": "https://www.lemonde.fr/societe/article/2026/09/15/internat-de-medecine-mission-d-inspection-flash-apres-des-soupcons-de-fraude_6774469_3224.html",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Internat de médecine : « mission d’inspection flash » après des soupçons de frau..."
-      }
-    ],
-    "summary": "Internat de médecine : « mission d’inspection flash » après des soupçons de fraude"
-  },
-  {
-    "title": "Un éducateur de handball condamné à deux ans de prison avec sursis probatoire pour atteinte sexuelle sur une joueuse de 15 ans",
-    "score": 97,
-    "count": 2,
-    "sources": [
-      "https://www.franceinfo.fr/faits-divers.rss",
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Un éducateur de handball condamné à deux ans de prison avec sursis probatoire pour atteinte sexuelle sur une joueuse de 15 ans",
-        "source": "https://www.franceinfo.fr/faits-divers.rss",
-        "time": "2026-09-15T17:14:21.000Z",
-        "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/un-educateur-de-handball-condamne-a-deux-ans-de-prison-avec-sursis-probatoire-pour-atteinte-sexuelle-sur-une-joueuse-de-15-ans_8194115.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Un éducateur de handball condamné à deux ans de prison avec sursis probatoire po..."
-      },
-      {
-        "title": "L’ancien major « pervers » et « malsain » condamné pour l’agression sexuelle de jeunes policières au tribunal de Paris",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-17T13:19:35.347Z",
-        "link": "https://www.leparisien.fr/faits-divers/lancien-major-pervers-et-malsain-condamne-pour-lagression-sexuelle-de-jeunes-policieres-au-tribunal-de-paris-16-09-2026-J4BOQJRCHBEYPO4GBJZBEGNKJ4.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : L’ancien major « pervers » et « malsain » condamné pour l’agression sexuelle de ..."
-      }
-    ],
-    "summary": "Un éducateur de handball condamné à deux ans de prison avec sursis probatoire pour atteinte sexuelle sur une joueuse de 15 ans / L’ancien major « pervers » et « malsain » condamné pour l’agression sexuelle de jeunes policières au tribunal de Paris"
-  },
-  {
-    "title": "Assises de la Dordogne : deux hommes condamnés pour le viol d’un marginal à douze et six ans de réclusion",
-    "score": 97,
-    "count": 2,
-    "sources": [
-      "https://www.sudouest.fr/faits-divers/rss.xml",
-      "https://www.ledauphine.com/Faits-divers-Justice/rss"
-    ],
-    "items": [
-      {
-        "title": "Assises de la Dordogne : deux hommes condamnés pour le viol d’un marginal à douze et six ans de réclusion",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-09-15T19:04:07.000Z",
-        "link": "https://www.sudouest.fr/dordogne/sarlat-la-caneda/assises-de-la-dordogne-deux-hommes-condamnes-pour-le-viol-d-un-marginal-a-douze-et-six-ans-de-reclusion-30635113.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Assises de la Dordogne : deux hommes condamnés pour le viol d’un marginal à douz..."
-      },
-      {
-        "title": "Savoie. Condamné à 10 ans de réclusion criminelle pour viol aggravé et agressions sexuelles sur mineurs",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-09-17T07:58:00.000Z",
-        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/17/condamne-a-10-ans-de-reclusion-criminelle-pour-viol-aggrave-et-agressions-sexuelles-sur-mineurs",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Savoie. Condamné à 10 ans de réclusion criminelle pour viol aggravé et agression..."
-      }
-    ],
-    "summary": "Assises de la Dordogne : deux hommes condamnés pour le viol d’un marginal à douze et six ans de réclusion / Savoie. Condamné à 10 ans de réclusion criminelle pour viol aggravé et agressions sexuelles sur mineurs"
-  },
-  {
-    "title": "Haut-Rhin. Un homme blessé à la machette à Mulhouse, le suspect interpellé et placé en garde à vue",
-    "score": 97,
-    "count": 2,
-    "sources": [
-      "https://www.ledauphine.com/Faits-divers-Justice/rss",
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Haut-Rhin. Un homme blessé à la machette à Mulhouse, le suspect interpellé et placé en garde à vue",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-09-15T17:13:00.000Z",
-        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/15/un-homme-blesse-a-la-machette-a-mulhouse-le-suspect-interpelle-et-place-en-garde-a-vue",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Haut-Rhin. Un homme blessé à la machette à Mulhouse, le suspect interpellé et pl..."
-      },
-      {
-        "title": "Agression à la machette à Mulhouse : un homme placé en détention provisoire",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-17T13:19:35.347Z",
-        "link": "https://www.leparisien.fr/faits-divers/agression-a-la-machette-a-mulhouse-un-homme-place-en-detention-provisoire-16-09-2026-NCAZI3MGSNA67EJ2VIR32CC6U4.php",
-        "score": 97,
-        "summary": "un homme placé en détention provisoire"
-      }
-    ],
-    "summary": "Haut-Rhin. Un homme blessé à la machette à Mulhouse, le suspect interpellé et placé en garde à vue / Agression à la machette à Mulhouse : un homme placé en détention provisoire"
-  },
-  {
-    "title": "Ardèche. Les revenus issus des trafics seront comptabilisés pour éviter la fraude aux aides sociales",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.ledauphine.com/Faits-divers-Justice/rss"
-    ],
-    "items": [
-      {
-        "title": "Ardèche. Les revenus issus des trafics seront comptabilisés pour éviter la fraude aux aides sociales",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-09-15T18:45:00.000Z",
-        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/15/les-revenus-issus-des-trafics-seront-comptabilises-pour-eviter-la-fraude-aux-aides-sociales",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Ardèche. Les revenus issus des trafics seront comptabilisés pour éviter la fraud..."
-      }
-    ],
-    "summary": "Ardèche. Les revenus issus des trafics seront comptabilisés pour éviter la fraude aux aides sociales"
-  },
-  {
-    "title": "Moselle. Un « acte scandaleux » : une femme en garde à vue après la dégradation de tombes dans un cimetière",
-    "score": 97,
-    "count": 2,
-    "sources": [
-      "https://www.ledauphine.com/Faits-divers-Justice/rss",
-      "https://www.cnews.fr/rss/categorie/faits%20divers"
-    ],
-    "items": [
-      {
-        "title": "Moselle. Un « acte scandaleux » : une femme en garde à vue après la dégradation de tombes dans un cimetière",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-09-15T17:41:00.000Z",
-        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/15/un-acte-scandaleux-une-femme-en-garde-a-vue-apres-la-degradation-de-tombes-dans-un-cimetiere",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Moselle. Un « acte scandaleux » : une femme en garde à vue après la dégradation ..."
-      },
-      {
-        "title": "Moselle : une centaine de tombes profanées, une femme placée en garde à vue",
-        "source": "https://www.cnews.fr/rss/categorie/faits%20divers",
-        "time": "2026-09-15T18:28:23.000Z",
-        "link": "https://www.cnews.fr/faits-divers/2026-09-15/moselle-une-centaine-de-tombes-profanees-une-femme-placee-en-garde-vue",
-        "score": 97,
-        "summary": "une centaine de tombes profanées, une femme placée en garde à vue"
-      }
-    ],
-    "summary": "Moselle. Un « acte scandaleux » : une femme en garde à vue après la dégradation de tombes dans un cimetière / Moselle : une centaine de tombes profanées, une femme placée en garde à vue"
-  },
-  {
-    "title": "Scandale du périscolaire: face à des révélations embarrassantes, Hidalgo plaide un «échec collectif»",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.mediapart.fr/articles/feed"
-    ],
-    "items": [
-      {
-        "title": "Scandale du périscolaire: face à des révélations embarrassantes, Hidalgo plaide un «échec collectif»",
-        "source": "https://www.mediapart.fr/articles/feed",
-        "time": "2026-09-15T18:18:25.000Z",
-        "link": "https://www.mediapart.fr/journal/france/150926/scandale-du-periscolaire-face-des-revelations-embarrassantes-hidalgo-plaide-un-echec-collectif",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Scandale du périscolaire: face à des révélations embarrassantes, Hidalgo plaide ..."
-      }
-    ],
-    "summary": "Scandale du périscolaire: face à des révélations embarrassantes, Hidalgo plaide un «échec collectif»"
-  },
-  {
-    "title": "Lobbyiste cachée ou avocate? Rachida Dati jugée pour corruption et trafic d’influence",
-    "score": 97,
-    "count": 13,
-    "sources": [
-      "https://www.mediapart.fr/articles/feed",
-      "https://www.20minutes.fr/feeds/rss-une.xml",
-      "https://www.franceinfo.fr/faits-divers.rss",
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.lemonde.fr/societe/rss_full.xml",
-      "https://www.francetvinfo.fr/politique.rss"
-    ],
-    "items": [
-      {
-        "title": "Lobbyiste cachée ou avocate? Rachida Dati jugée pour corruption et trafic d’influence",
-        "source": "https://www.mediapart.fr/articles/feed",
-        "time": "2026-09-15T14:15:33.000Z",
-        "link": "https://www.mediapart.fr/journal/france/150926/lobbyiste-cachee-ou-avocate-rachida-dati-jugee-pour-corruption-et-trafic-d-influence",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Lobbyiste cachée ou avocate? Rachida Dati jugée pour corruption et trafic d’infl..."
-      },
-      {
-        "title": "Procès Rachida Dati : « Elle attend l’audience avec impatience »… Pourquoi l’élue est jugée pour corruption passive ?",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-09-15T15:37:37.000Z",
-        "link": "https://www.20minutes.fr/justice/4244281-20260915-proces-rachida-dati-attend-audience-impatience-pourquoi-elue-jugee-corruption-passive?at_medium=display&at_campaign=149",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Procès Rachida Dati : « Elle attend l’audience avec impatience »… Pourquoi l’élu..."
-      },
-      {
-        "title": "DIRECT. Procès de Rachida Dati pour corruption : le tribunal examine le renvoi de l'audience, demandé par un Carlos Ghosn absent",
-        "source": "https://www.franceinfo.fr/faits-divers.rss",
-        "time": "2026-09-16T13:15:47.000Z",
-        "link": "https://www.franceinfo.fr/politique/rachida-dati/direct-le-proces-de-rachida-dati-pour-corruption-s-ouvre-a-paris_8194037.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 97,
-        "summary": "Point de situation critique concernant : DIRECT. Procès de Rachida Dati pour corruption : le tribunal examine le renvoi d..."
-      },
-      {
-        "title": "Six questions sur le procès pour corruption de Rachida Dati et Carlos Ghosn, ex-PDG de Renault",
-        "source": "https://www.franceinfo.fr/faits-divers.rss",
-        "time": "2026-09-16T10:53:43.000Z",
-        "link": "https://www.franceinfo.fr/politique/rachida-dati/six-questions-sur-le-proces-pour-corruption-de-rachida-dati-et-carlos-ghosn-ex-pdg-de-renault_8193776.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Six questions sur le procès pour corruption de Rachida Dati et Carlos Ghosn, ex-..."
-      },
-      {
-        "title": "« Cheval de Troie » de Renault au Parlement européen : le procès pour corruption de Rachida Dati et Carlos Ghosn s’est ouvert à Paris",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-17T13:19:35.347Z",
-        "link": "https://www.leparisien.fr/faits-divers/cheval-de-troie-de-renault-au-parlement-europeen-le-proces-pour-corruption-de-rachida-dati-et-carlos-ghosn-souvre-mercredi-16-09-2026-NNA5LZFBCVELHBTJG6LZ5YHSBA.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : « Cheval de Troie » de Renault au Parlement européen : le procès pour corruption..."
-      },
-      {
-        "title": "Le procès de Rachida Dati, jugée notamment pour « corruption passive » et « trafic d’influence passif » dans l’affaire Ghosn-Renault, a débuté",
-        "source": "https://www.lemonde.fr/societe/rss_full.xml",
-        "time": "2026-09-16T11:33:49.000Z",
-        "link": "https://www.lemonde.fr/societe/article/2026/09/16/le-proces-de-rachida-dati-jugee-notamment-pour-corruption-passive-et-trafic-d-influence-passif-dans-l-affaire-ghosn-renault-a-debute_6774445_3225.html",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Le procès de Rachida Dati, jugée notamment pour « corruption passive » et « traf..."
-      },
-      {
-        "title": "Procès de Rachida Dati pour corruption : le procès de l'ancienne ministre s'ouvre à Paris",
-        "source": "https://www.francetvinfo.fr/politique.rss",
-        "time": "2026-09-16T12:52:09.000Z",
-        "link": "https://www.franceinfo.fr/politique/rachida-dati/proces-de-rachida-dati-pour-corruption-le-proces-de-l-ancienne-ministre-s-ouvre-a-paris_8195537.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 97,
-        "summary": "le procès de l'ancienne ministre s'ouvre à Paris"
-      },
-      {
-        "title": "Rachida Dati \"a un devoir d'exemplarité\", estime l'ONG Transparency International France, alors que l'ancienne ministre comparaît pour corruption",
-        "source": "https://www.francetvinfo.fr/politique.rss",
-        "time": "2026-09-16T06:27:18.000Z",
-        "link": "https://www.franceinfo.fr/politique/rachida-dati/rachida-dati-a-un-devoir-d-exemplarite-estime-l-ong-transparency-international-france-alors-que-l-ancienne-ministre-comparait-pour-corruption_8194952.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Rachida Dati \"a un devoir d'exemplarité\", estime l'ONG Transparency Internationa..."
-      },
-      {
-        "title": "\"Il est temps pour elle de s'expliquer\" : le procès de Rachida Dati pour corruption maintenu, malgré l'absence de Carlos Ghosn",
-        "source": "https://www.franceinfo.fr/faits-divers.rss",
-        "time": "2026-09-16T17:44:37.000Z",
-        "link": "https://www.franceinfo.fr/politique/rachida-dati/il-est-temps-pour-elle-de-s-expliquer-le-proces-de-rachida-dati-pour-corruption-maintenu-malgre-l-absence-de-carlos-ghosn_8195972.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 97,
-        "summary": "Point de situation critique concernant : \"Il est temps pour elle de s'expliquer\" : le procès de Rachida Dati pour corrupt..."
-      },
-      {
-        "title": "Procès de Rachida Dati pour corruption : l'ancienne ministre \"tendue\" et \"très concentrée\" lors de la première journée d'audience",
-        "source": "https://www.francetvinfo.fr/politique.rss",
-        "time": "2026-09-16T20:08:48.000Z",
-        "link": "https://www.franceinfo.fr/politique/rachida-dati/proces-de-rachida-dati-pour-corruption-l-ancienne-ministre-tendue-et-tres-concentree-lors-de-la-premiere-journee-d-audience_8196101.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 97,
-        "summary": "l'ancienne ministre \"tendue\" et \"très concentrée\" lors de la première journée d'audience"
-      },
-      {
-        "title": "DIRECT. Procès de Rachida Dati : la première prise de parole de l'ancienne ministre, jugée pour corruption, attendue cet après-midi",
-        "source": "https://www.francetvinfo.fr/politique.rss",
-        "time": "2026-09-17T13:09:51.000Z",
-        "link": "https://www.franceinfo.fr/politique/rachida-dati/direct-proces-de-rachida-dati-la-premiere-prise-de-parole-de-l-ancienne-ministre-jugee-pour-corruption-attendue-cet-apres-midi_8197178.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 97,
-        "summary": "la première prise de parole de l'ancienne ministre, jugée pour corruption, attendue cet après-midi"
-      },
-      {
-        "title": "Le procès de Rachida Dati pour corruption poursuit sa route, malgré l’absence de Carlos Ghosn",
-        "source": "https://www.mediapart.fr/articles/feed",
-        "time": "2026-09-17T08:37:17.000Z",
-        "link": "https://www.mediapart.fr/journal/france/170926/le-proces-de-rachida-dati-pour-corruption-poursuit-sa-route-malgre-l-absence-de-carlos-ghosn",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Le procès de Rachida Dati pour corruption poursuit sa route, malgré l’absence de..."
-      },
-      {
-        "title": "Rachida Dati jugée pour corruption",
-        "source": "https://www.francetvinfo.fr/politique.rss",
-        "time": "2026-09-17T08:04:53.000Z",
-        "link": "https://www.franceinfo.fr/politique/rachida-dati/rachida-dati-jugee-pour-corruption_8196881.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Rachida Dati jugée pour corruption..."
-      }
-    ],
-    "summary": "Lobbyiste cachée ou avocate? Rachida Dati jugée pour corruption et trafic d’influence / Procès Rachida Dati : « Elle attend l’audience avec impatience »… Pourquoi l’élue est jugée pour corruption passive ?"
-  },
-  {
-    "title": "Les faillites de restaurants se multiplient partout en France, entre charges en hausse et pouvoir d’achat des clients en baisse",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.lemonde.fr/economie/rss_full.xml"
-    ],
-    "items": [
-      {
-        "title": "Les faillites de restaurants se multiplient partout en France, entre charges en hausse et pouvoir d’achat des clients en baisse",
-        "source": "https://www.lemonde.fr/economie/rss_full.xml",
-        "time": "2026-09-15T17:00:18.000Z",
-        "link": "https://www.lemonde.fr/economie/article/2026/09/15/les-faillites-de-restaurants-se-multiplient-partout-en-france-entre-charges-en-hausse-et-pouvoir-d-achat-des-clients-en-baisse_6774467_3234.html",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Les faillites de restaurants se multiplient partout en France, entre charges en ..."
-      }
-    ],
-    "summary": "Les faillites de restaurants se multiplient partout en France, entre charges en hausse et pouvoir d’achat des clients en baisse"
-  },
-  {
-    "title": "Un proche de Maduro plaide coupable de blanchiment d'argent devant la justice américaine",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
-    ],
-    "items": [
-      {
-        "title": "Un proche de Maduro plaide coupable de blanchiment d'argent devant la justice américaine",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-09-15T19:28:47.000Z",
-        "link": "https://www.lefigaro.fr/flash-actu/un-proche-de-maduro-plaide-coupable-de-blanchiment-d-argent-devant-la-justice-americaine-20260915",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Un proche de Maduro plaide coupable de blanchiment d'argent devant la justice am..."
-      }
-    ],
-    "summary": "Un proche de Maduro plaide coupable de blanchiment d'argent devant la justice américaine"
   },
   {
     "title": "Loiret. Des « gros manquements dans la gestion » : Duralex visé par plusieurs perquisitions",
@@ -523,6 +249,109 @@
     "summary": "Duralex : des perquisitions menées début septembre au siège de l’entreprise / \"Une enquête a été ouverte\": des perquisitions ont été menées au siège de la verrerie Duralex, déjà placée en redressement judiciaire"
   },
   {
+    "title": "DIRECT. Procès de Rachida Dati pour corruption : le tribunal examine le renvoi de l'audience, demandé par un Carlos Ghosn absent",
+    "score": 97,
+    "count": 11,
+    "sources": [
+      "https://www.franceinfo.fr/faits-divers.rss",
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "https://www.lemonde.fr/justice/rss_full.xml",
+      "https://www.francetvinfo.fr/politique.rss",
+      "https://www.mediapart.fr/articles/feed"
+    ],
+    "items": [
+      {
+        "title": "DIRECT. Procès de Rachida Dati pour corruption : le tribunal examine le renvoi de l'audience, demandé par un Carlos Ghosn absent",
+        "source": "https://www.franceinfo.fr/faits-divers.rss",
+        "time": "2026-09-16T13:15:47.000Z",
+        "link": "https://www.franceinfo.fr/politique/rachida-dati/direct-le-proces-de-rachida-dati-pour-corruption-s-ouvre-a-paris_8194037.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 97,
+        "summary": "Point de situation critique concernant : DIRECT. Procès de Rachida Dati pour corruption : le tribunal examine le renvoi d..."
+      },
+      {
+        "title": "Six questions sur le procès pour corruption de Rachida Dati et Carlos Ghosn, ex-PDG de Renault",
+        "source": "https://www.franceinfo.fr/faits-divers.rss",
+        "time": "2026-09-16T10:53:43.000Z",
+        "link": "https://www.franceinfo.fr/politique/rachida-dati/six-questions-sur-le-proces-pour-corruption-de-rachida-dati-et-carlos-ghosn-ex-pdg-de-renault_8193776.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Six questions sur le procès pour corruption de Rachida Dati et Carlos Ghosn, ex-..."
+      },
+      {
+        "title": "« Cheval de Troie » de Renault au Parlement européen : le procès pour corruption de Rachida Dati et Carlos Ghosn s’est ouvert à Paris",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-09-17T19:42:14.991Z",
+        "link": "https://www.leparisien.fr/faits-divers/cheval-de-troie-de-renault-au-parlement-europeen-le-proces-pour-corruption-de-rachida-dati-et-carlos-ghosn-souvre-mercredi-16-09-2026-NNA5LZFBCVELHBTJG6LZ5YHSBA.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : « Cheval de Troie » de Renault au Parlement européen : le procès pour corruption..."
+      },
+      {
+        "title": "Le procès de Rachida Dati, jugée notamment pour « corruption passive » et « trafic d’influence passif » dans l’affaire Ghosn-Renault, a débuté",
+        "source": "https://www.lemonde.fr/justice/rss_full.xml",
+        "time": "2026-09-16T11:33:49.000Z",
+        "link": "https://www.lemonde.fr/societe/article/2026/09/16/le-proces-de-rachida-dati-jugee-notamment-pour-corruption-passive-et-trafic-d-influence-passif-dans-l-affaire-ghosn-renault-a-debute_6774445_3225.html",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Le procès de Rachida Dati, jugée notamment pour « corruption passive » et « traf..."
+      },
+      {
+        "title": "Procès de Rachida Dati pour corruption : le procès de l'ancienne ministre s'ouvre à Paris",
+        "source": "https://www.francetvinfo.fr/politique.rss",
+        "time": "2026-09-16T12:52:09.000Z",
+        "link": "https://www.franceinfo.fr/politique/rachida-dati/proces-de-rachida-dati-pour-corruption-le-proces-de-l-ancienne-ministre-s-ouvre-a-paris_8195537.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 97,
+        "summary": "le procès de l'ancienne ministre s'ouvre à Paris"
+      },
+      {
+        "title": "Rachida Dati \"a un devoir d'exemplarité\", estime l'ONG Transparency International France, alors que l'ancienne ministre comparaît pour corruption",
+        "source": "https://www.francetvinfo.fr/politique.rss",
+        "time": "2026-09-16T06:27:18.000Z",
+        "link": "https://www.franceinfo.fr/politique/rachida-dati/rachida-dati-a-un-devoir-d-exemplarite-estime-l-ong-transparency-international-france-alors-que-l-ancienne-ministre-comparait-pour-corruption_8194952.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Rachida Dati \"a un devoir d'exemplarité\", estime l'ONG Transparency Internationa..."
+      },
+      {
+        "title": "\"Il est temps pour elle de s'expliquer\" : le procès de Rachida Dati pour corruption maintenu, malgré l'absence de Carlos Ghosn",
+        "source": "https://www.franceinfo.fr/faits-divers.rss",
+        "time": "2026-09-16T17:44:37.000Z",
+        "link": "https://www.franceinfo.fr/politique/rachida-dati/il-est-temps-pour-elle-de-s-expliquer-le-proces-de-rachida-dati-pour-corruption-maintenu-malgre-l-absence-de-carlos-ghosn_8195972.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 97,
+        "summary": "Point de situation critique concernant : \"Il est temps pour elle de s'expliquer\" : le procès de Rachida Dati pour corrupt..."
+      },
+      {
+        "title": "Procès de Rachida Dati pour corruption : l'ancienne ministre \"tendue\" et \"très concentrée\" lors de la première journée d'audience",
+        "source": "https://www.francetvinfo.fr/politique.rss",
+        "time": "2026-09-16T20:08:48.000Z",
+        "link": "https://www.franceinfo.fr/politique/rachida-dati/proces-de-rachida-dati-pour-corruption-l-ancienne-ministre-tendue-et-tres-concentree-lors-de-la-premiere-journee-d-audience_8196101.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 97,
+        "summary": "l'ancienne ministre \"tendue\" et \"très concentrée\" lors de la première journée d'audience"
+      },
+      {
+        "title": "\"J'ai signé un contrat d'avocate et j'ai exercé comme avocate\", martèle Rachida Daté à son procès pour corruption",
+        "source": "https://www.francetvinfo.fr/politique.rss",
+        "time": "2026-09-17T19:36:54.000Z",
+        "link": "https://www.franceinfo.fr/politique/rachida-dati/direct-proces-de-rachida-dati-la-premiere-prise-de-parole-de-l-ancienne-ministre-jugee-pour-corruption-attendue-cet-apres-midi_8197178.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 97,
+        "summary": "Point de situation critique concernant : \"J'ai signé un contrat d'avocate et j'ai exercé comme avocate\", martèle Rachida ..."
+      },
+      {
+        "title": "Le procès de Rachida Dati pour corruption poursuit sa route, malgré l’absence de Carlos Ghosn",
+        "source": "https://www.mediapart.fr/articles/feed",
+        "time": "2026-09-17T08:37:17.000Z",
+        "link": "https://www.mediapart.fr/journal/france/170926/le-proces-de-rachida-dati-pour-corruption-poursuit-sa-route-malgre-l-absence-de-carlos-ghosn",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Le procès de Rachida Dati pour corruption poursuit sa route, malgré l’absence de..."
+      },
+      {
+        "title": "Rachida Dati jugée pour corruption",
+        "source": "https://www.francetvinfo.fr/politique.rss",
+        "time": "2026-09-17T08:04:53.000Z",
+        "link": "https://www.franceinfo.fr/politique/rachida-dati/rachida-dati-jugee-pour-corruption_8196881.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Rachida Dati jugée pour corruption..."
+      }
+    ],
+    "summary": "DIRECT. Procès de Rachida Dati pour corruption : le tribunal examine le renvoi de l'audience, demandé par un Carlos Ghosn absent / Six questions sur le procès pour corruption de Rachida Dati et Carlos Ghosn, ex-PDG de Renault"
+  },
+  {
     "title": "Yvelines : le domicile du président de la Fédération de judo cambriolé, les auteurs lourdement condamnés",
     "score": 97,
     "count": 1,
@@ -533,7 +362,7 @@
       {
         "title": "Yvelines : le domicile du président de la Fédération de judo cambriolé, les auteurs lourdement condamnés",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-17T13:19:35.347Z",
+        "time": "2026-09-17T19:42:14.991Z",
         "link": "https://www.leparisien.fr/yvelines-78/yvelines-le-domicile-du-president-de-la-federation-de-judo-cambriole-les-auteurs-lourdement-condamnes-16-09-2026-WAY36Q2QSBDQBNSAKIRIBDMUJM.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Yvelines : le domicile du président de la Fédération de judo cambriolé, les aute..."
@@ -553,7 +382,7 @@
       {
         "title": "« Une escroquerie sophistiquée » : la banque en ligne Revolut victime de pirates informatiques, les données de 680 clients compromises",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-17T13:19:35.347Z",
+        "time": "2026-09-17T19:42:14.991Z",
         "link": "https://www.leparisien.fr/high-tech/une-escroquerie-sophistiquee-la-banque-en-ligne-revolut-victime-de-pirates-informatiques-les-donnees-de-680-clients-compromises-16-09-2026-WSBKIH54O5AFFDKFN6JYOWR7IU.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Une escroquerie sophistiquée » : la banque en ligne Revolut victime de pirates..."
@@ -570,39 +399,12 @@
     "summary": "« Une escroquerie sophistiquée » : la banque en ligne Revolut victime de pirates informatiques, les données de 680 clients compromises / La banque en ligne britannique Revolut se dit victime d’« une escroquerie sophistiquée », des données clients compromises"
   },
   {
-    "title": "Nord-Isère. « Il me disait : “c’est un secret entre nous deux” » : un homme condamné pour des agressions sexuelles sur sa belle-fille de 8 ans",
+    "title": "Dans l’Indre, la maire et les adjoints d’un village démissionnent pour contester le projet de data center de Google",
     "score": 97,
     "count": 2,
     "sources": [
-      "https://www.ledauphine.com/Faits-divers-Justice/rss",
-      "https://www.franceinfo.fr/faits-divers.rss"
-    ],
-    "items": [
-      {
-        "title": "Nord-Isère. « Il me disait : “c’est un secret entre nous deux” » : un homme condamné pour des agressions sexuelles sur sa belle-fille de 8 ans",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-09-16T10:21:00.000Z",
-        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/16/il-me-disait-c-est-un-secret-entre-nous-deux-un-homme-condamne-pour-des-agressions-sexuelles-sur-sa-belle-fille-de-8-ans",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Nord-Isère. « Il me disait : “c’est un secret entre nous deux” » : un homme cond..."
-      },
-      {
-        "title": "Mise en examen de l'avocat David Metaxas pour viols et agressions sexuelles : une plaignante évoque \"des violences sexuelles à répétition\"",
-        "source": "https://www.franceinfo.fr/faits-divers.rss",
-        "time": "2026-09-17T07:56:04.000Z",
-        "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/mise-en-examen-de-l-avocat-david-metaxas-pour-viols-et-agressions-sexuelles-une-plaignante-evoque-des-violences-sexuelles-a-repetition_8196824.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Mise en examen de l'avocat David Metaxas pour viols et agressions sexuelles : un..."
-      }
-    ],
-    "summary": "Nord-Isère. « Il me disait : “c’est un secret entre nous deux” » : un homme condamné pour des agressions sexuelles sur sa belle-fille de 8 ans / Mise en examen de l'avocat David Metaxas pour viols et agressions sexuelles : une plaignante évoque \"des violences sexuelles à répétition\""
-  },
-  {
-    "title": "Dans l’Indre, la maire et les adjoints d’un village démissionnent pour contester le projet de data center de Google",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.lemonde.fr/economie/rss_full.xml"
+      "https://www.lemonde.fr/economie/rss_full.xml",
+      "https://www.sudouest.fr/faits-divers/rss.xml"
     ],
     "items": [
       {
@@ -612,9 +414,17 @@
         "link": "https://www.lemonde.fr/economie/article/2026/09/16/dans-l-indre-la-maire-et-les-adjoints-d-un-village-demissionnent-pour-contester-le-projet-de-data-center-de-google_6775245_3234.html",
         "score": 97,
         "summary": "Point de situation critique concernant : Dans l’Indre, la maire et les adjoints d’un village démissionnent pour contester..."
+      },
+      {
+        "title": "Le maire de Concarneau placé en garde à vue dans le cadre d’une enquête pour viol",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-09-17T19:11:49.000Z",
+        "link": "https://www.sudouest.fr/faits-divers/le-maire-de-concarneau-place-en-garde-a-vue-dans-le-cadre-d-une-enquete-pour-viol-30675746.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Le maire de Concarneau placé en garde à vue dans le cadre d’une enquête pour vio..."
       }
     ],
-    "summary": "Dans l’Indre, la maire et les adjoints d’un village démissionnent pour contester le projet de data center de Google"
+    "summary": "Dans l’Indre, la maire et les adjoints d’un village démissionnent pour contester le projet de data center de Google / Le maire de Concarneau placé en garde à vue dans le cadre d’une enquête pour viol"
   },
   {
     "title": "Démarchage téléphonique : la répression des fraudes inflige une amende d’un million d’euros à l’opérateur d’Altice Syma Mobile",
@@ -627,13 +437,50 @@
       {
         "title": "Démarchage téléphonique : la répression des fraudes inflige une amende d’un million d’euros à l’opérateur d’Altice Syma Mobile",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-17T13:19:35.347Z",
+        "time": "2026-09-17T19:42:14.990Z",
         "link": "https://www.leparisien.fr/economie/demarchage-telephonique-la-repression-des-fraudes-inflige-une-amende-dun-million-deuros-a-loperateur-daltice-syma-mobile-16-09-2026-LJTFZI3BZJDHBKAXFT3RLRMN34.php",
         "score": 97,
         "summary": "la répression des fraudes inflige une amende d’un million d’euros à l’opérateur d’Altice Syma Mobile"
       }
     ],
     "summary": "Démarchage téléphonique : la répression des fraudes inflige une amende d’un million d’euros à l’opérateur d’Altice Syma Mobile"
+  },
+  {
+    "title": "L’ancien major « pervers » et « malsain » condamné pour l’agression sexuelle de jeunes policières au tribunal de Paris",
+    "score": 97,
+    "count": 3,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "https://www.sudouest.fr/faits-divers/rss.xml",
+      "https://www.ledauphine.com/Faits-divers-Justice/rss"
+    ],
+    "items": [
+      {
+        "title": "L’ancien major « pervers » et « malsain » condamné pour l’agression sexuelle de jeunes policières au tribunal de Paris",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-09-17T19:42:14.990Z",
+        "link": "https://www.leparisien.fr/faits-divers/lancien-major-pervers-et-malsain-condamne-pour-lagression-sexuelle-de-jeunes-policieres-au-tribunal-de-paris-16-09-2026-J4BOQJRCHBEYPO4GBJZBEGNKJ4.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : L’ancien major « pervers » et « malsain » condamné pour l’agression sexuelle de ..."
+      },
+      {
+        "title": "Tribunal de Pau : chaussures Dior contrefaites, conduite sans permis… un jeune majeur condamné pour plusieurs délits",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-09-17T19:12:09.000Z",
+        "link": "https://www.sudouest.fr/pyrenees-atlantiques/pau/tribunal-de-pau-chaussures-dior-contrefaites-conduite-sans-permis-un-jeune-majeur-condamne-pour-plusieurs-delits-30672193.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Tribunal de Pau : chaussures Dior contrefaites, conduite sans permis… un jeune m..."
+      },
+      {
+        "title": "Paris. Le 7-Octobre, « une date merveilleuse » : le polémiste Dieudonné condamné pour apologie du terrorisme",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-09-17T14:00:00.000Z",
+        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/17/le-7-octobre-une-date-merveilleuse-le-polemiste-dieudonne-condamne-pour-apologie-du-terrorisme",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Paris. Le 7-Octobre, « une date merveilleuse » : le polémiste Dieudonné condamné..."
+      }
+    ],
+    "summary": "L’ancien major « pervers » et « malsain » condamné pour l’agression sexuelle de jeunes policières au tribunal de Paris / Tribunal de Pau : chaussures Dior contrefaites, conduite sans permis… un jeune majeur condamné pour plusieurs délits"
   },
   {
     "title": "Un commerçant agenais soupçonné de trafic de stupéfiants placé en garde à vue",
@@ -718,7 +565,7 @@
     "sources": [
       "https://www.lefigaro.fr/rss/figaro_actualites.xml",
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.lemonde.fr/politique/rss_full.xml",
+      "https://www.lemonde.fr/societe/rss_full.xml",
       "https://www.ledauphine.com/Faits-divers-Justice/rss",
       "https://www.20minutes.fr/feeds/rss-une.xml"
     ],
@@ -734,14 +581,14 @@
       {
         "title": "L’ancien maire de Nice Christian Estrosi visé par une enquête pour détournement de fonds, après un signalement d’Éric Ciotti",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-17T13:19:35.347Z",
+        "time": "2026-09-17T19:42:14.990Z",
         "link": "https://www.leparisien.fr/politique/lancien-maire-de-nice-christian-estrosi-vise-par-une-enquete-pour-detournement-de-fonds-apres-un-signalement-deric-ciotti-16-09-2026-3KN7Q6FN5FAPZCZZOAY7YQCNJI.php",
         "score": 97,
         "summary": "Point de situation critique concernant : L’ancien maire de Nice Christian Estrosi visé par une enquête pour détournement ..."
       },
       {
         "title": "Nice : Christian Estrosi visé par une enquête pour détournement de fonds publics après un signalement d’Eric Ciotti",
-        "source": "https://www.lemonde.fr/politique/rss_full.xml",
+        "source": "https://www.lemonde.fr/societe/rss_full.xml",
         "time": "2026-09-16T22:28:50.000Z",
         "link": "https://www.lemonde.fr/societe/article/2026/09/17/nice-christian-estrosi-vise-par-une-enquete-pour-detournement-de-fonds-publics-apres-un-signalement-d-eric-ciotti_6775567_3224.html",
         "score": 97,
@@ -765,6 +612,25 @@
       }
     ],
     "summary": "Nice: l’ancien maire Christian Estrosi visé par une enquête pour détournement de fonds publics / L’ancien maire de Nice Christian Estrosi visé par une enquête pour détournement de fonds, après un signalement d’Éric Ciotti"
+  },
+  {
+    "title": "Agression à la machette à Mulhouse : un homme placé en détention provisoire",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Agression à la machette à Mulhouse : un homme placé en détention provisoire",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-09-17T19:42:14.990Z",
+        "link": "https://www.leparisien.fr/faits-divers/agression-a-la-machette-a-mulhouse-un-homme-place-en-detention-provisoire-16-09-2026-NCAZI3MGSNA67EJ2VIR32CC6U4.php",
+        "score": 97,
+        "summary": "un homme placé en détention provisoire"
+      }
+    ],
+    "summary": "Agression à la machette à Mulhouse : un homme placé en détention provisoire"
   },
   {
     "title": "Chute mortelle : avant sa mort, la victime a le temps de dire qu’elle a été « poussée », une personne en garde à vue",
@@ -843,6 +709,25 @@
     "summary": "INFO RADIO FRANCE. \"C'est une bombe à retardement\" : comment le RN a laissé en place un député soupçonné de détournements d'argent public"
   },
   {
+    "title": "Mise en examen de l'avocat David Metaxas pour viols et agressions sexuelles : une plaignante évoque \"des violences sexuelles à répétition\"",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.franceinfo.fr/faits-divers.rss"
+    ],
+    "items": [
+      {
+        "title": "Mise en examen de l'avocat David Metaxas pour viols et agressions sexuelles : une plaignante évoque \"des violences sexuelles à répétition\"",
+        "source": "https://www.franceinfo.fr/faits-divers.rss",
+        "time": "2026-09-17T07:56:04.000Z",
+        "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/mise-en-examen-de-l-avocat-david-metaxas-pour-viols-et-agressions-sexuelles-une-plaignante-evoque-des-violences-sexuelles-a-repetition_8196824.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Mise en examen de l'avocat David Metaxas pour viols et agressions sexuelles : un..."
+      }
+    ],
+    "summary": "Mise en examen de l'avocat David Metaxas pour viols et agressions sexuelles : une plaignante évoque \"des violences sexuelles à répétition\""
+  },
+  {
     "title": "INFO « SUD OUEST ». La Rochelle : soupçons de détournements au Service universitaire des activités physiques sportives et d’expression",
     "score": 97,
     "count": 1,
@@ -919,6 +804,138 @@
     "summary": "Le combat de Tara Heuzé-Sarmini, condamnée pour avoir affiché les insultes sexistes d’un contact sur LinkedIn"
   },
   {
+    "title": "Soupçon de fraude électorale à Clichy-la-Garenne : l’annulation de l’élection municipale préconisée au tribunal administratif",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.lemonde.fr/societe/rss_full.xml"
+    ],
+    "items": [
+      {
+        "title": "Soupçon de fraude électorale à Clichy-la-Garenne : l’annulation de l’élection municipale préconisée au tribunal administratif",
+        "source": "https://www.lemonde.fr/societe/rss_full.xml",
+        "time": "2026-09-17T16:29:13.000Z",
+        "link": "https://www.lemonde.fr/societe/article/2026/09/17/soupcon-de-fraude-electorale-a-clichy-la-garenne-l-annulation-de-l-election-municipale-preconisee-au-tribunal-administratif_6776460_3224.html",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Soupçon de fraude électorale à Clichy-la-Garenne : l’annulation de l’élection mu..."
+      }
+    ],
+    "summary": "Soupçon de fraude électorale à Clichy-la-Garenne : l’annulation de l’élection municipale préconisée au tribunal administratif"
+  },
+  {
+    "title": "Dieudonné condamné à six mois sous bracelet électronique pour apologie du terrorisme et injure envers Laurent Nuñez",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.lemonde.fr/societe/rss_full.xml"
+    ],
+    "items": [
+      {
+        "title": "Dieudonné condamné à six mois sous bracelet électronique pour apologie du terrorisme et injure envers Laurent Nuñez",
+        "source": "https://www.lemonde.fr/societe/rss_full.xml",
+        "time": "2026-09-17T16:04:33.000Z",
+        "link": "https://www.lemonde.fr/societe/article/2026/09/17/dieudonne-condamne-a-six-mois-sous-bracelet-electronique-pour-apologie-du-terrorisme-et-injure-envers-laurent-nunez_6776458_3224.html",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Dieudonné condamné à six mois sous bracelet électronique pour apologie du terror..."
+      }
+    ],
+    "summary": "Dieudonné condamné à six mois sous bracelet électronique pour apologie du terrorisme et injure envers Laurent Nuñez"
+  },
+  {
+    "title": "Béarn : un gérant de pompes funèbres paloises en détention provisoire pour viol, violences, menaces de mort et harcèlement sur sa maîtresse",
+    "score": 97,
+    "count": 2,
+    "sources": [
+      "https://www.sudouest.fr/faits-divers/rss.xml",
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Béarn : un gérant de pompes funèbres paloises en détention provisoire pour viol, violences, menaces de mort et harcèlement sur sa maîtresse",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-09-17T19:21:21.000Z",
+        "link": "https://www.sudouest.fr/pyrenees-atlantiques/pau/bearn-un-gerant-de-pompes-funebres-paloises-en-detention-provisoire-pour-viol-violences-menaces-de-mort-et-harcelement-sur-sa-maitresse-30674468.php",
+        "score": 97,
+        "summary": "un gérant de pompes funèbres paloises en détention provisoire pour viol, violences, menaces de mort et harcèlement sur sa maîtresse"
+      },
+      {
+        "title": "Paris : le chauffeur de taxi mis en accusation pour le viol d’une cliente reste en détention",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-09-16T04:26:56.639Z",
+        "link": "https://www.leparisien.fr/faits-divers/paris-le-chauffeur-de-taxi-mis-en-accusation-pour-le-viol-dune-cliente-reste-en-detention-12-09-2026-QYSEADH3WNFMPB5SGXLRKNAWFI.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Paris : le chauffeur de taxi mis en accusation pour le viol d’une cliente reste ..."
+      }
+    ],
+    "summary": "Béarn : un gérant de pompes funèbres paloises en détention provisoire pour viol, violences, menaces de mort et harcèlement sur sa maîtresse / Paris : le chauffeur de taxi mis en accusation pour le viol d’une cliente reste en détention"
+  },
+  {
+    "title": "Gironde : coup de filet anti-drogue dans le Libournais, cinq suspects placés en détention provisoire",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.sudouest.fr/faits-divers/rss.xml"
+    ],
+    "items": [
+      {
+        "title": "Gironde : coup de filet anti-drogue dans le Libournais, cinq suspects placés en détention provisoire",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-09-17T18:41:06.000Z",
+        "link": "https://www.sudouest.fr/gironde/libourne/gironde-coup-de-filet-anti-drogue-dans-le-libournais-cinq-suspects-places-en-detention-provisoire-30675256.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Gironde : coup de filet anti-drogue dans le Libournais, cinq suspects placés en ..."
+      }
+    ],
+    "summary": "Gironde : coup de filet anti-drogue dans le Libournais, cinq suspects placés en détention provisoire"
+  },
+  {
+    "title": "La CGT promet une \"journée noire\": alors que Sébastien Lecornu a proposé un gel du point d'indice des fonctionnaires dans le budget 2027, Sophie Binet dénonce un \"scandale\" et appelle à la mobilisation le 29 septembre",
+    "score": 97,
+    "count": 2,
+    "sources": [
+      "https://www.bfmtv.com/rss/economie/",
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+    ],
+    "items": [
+      {
+        "title": "La CGT promet une \"journée noire\": alors que Sébastien Lecornu a proposé un gel du point d'indice des fonctionnaires dans le budget 2027, Sophie Binet dénonce un \"scandale\" et appelle à la mobilisation le 29 septembre",
+        "source": "https://www.bfmtv.com/rss/economie/",
+        "time": "2026-09-17T17:25:12.000Z",
+        "link": "https://www.bfmtv.com/economie/economie-social/social/la-cgt-promet-une-journee-noire-alors-que-sebastien-lecornu-a-propose-un-gel-du-point-d-indice-des-fonctionnaires-dans-le-budget-2027-sophie-binet-denonce-un-scandale-et-appelle-a-la-mobilisation-le-29-septembre_AD-202609170802.html",
+        "score": 97,
+        "summary": "Point de situation critique concernant : La CGT promet une \"journée noire\": alors que Sébastien Lecornu a proposé un gel ..."
+      },
+      {
+        "title": "Gel du point d’indice des fonctionnaires : Binet dénonce un «scandale» et promet une «journée noire» le 29 septembre",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-09-17T18:20:22.000Z",
+        "link": "https://www.lefigaro.fr/social/gel-du-point-d-indice-des-fonctionnaires-binet-denonce-un-scandale-et-promet-une-journee-noire-le-29-septembre-20260917",
+        "score": 97,
+        "summary": "Binet dénonce un «scandale» et promet une «journée noire» le 29 septembre"
+      }
+    ],
+    "summary": "La CGT promet une \"journée noire\": alors que Sébastien Lecornu a proposé un gel du point d'indice des fonctionnaires dans le budget 2027, Sophie Binet dénonce un \"scandale\" et appelle à la mobilisation le 29 septembre / Gel du point d’indice des fonctionnaires : Binet dénonce un «scandale» et promet une «journée noire» le 29 septembre"
+  },
+  {
+    "title": "Pédocriminalité : L’ex-directeur d’une école catholique condamné à quinze ans de prison",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.20minutes.fr/feeds/rss-une.xml"
+    ],
+    "items": [
+      {
+        "title": "Pédocriminalité : L’ex-directeur d’une école catholique condamné à quinze ans de prison",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-09-17T17:22:34.000Z",
+        "link": "https://www.20minutes.fr/justice/4246329-20260917-pedocriminalite-ex-directeur-ecole-catholique-condamne-quinze-ans-prison?at_medium=display&at_campaign=149",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Pédocriminalité : L’ex-directeur d’une école catholique condamné à quinze ans de..."
+      }
+    ],
+    "summary": "Pédocriminalité : L’ex-directeur d’une école catholique condamné à quinze ans de prison"
+  },
+  {
     "title": " EXCLUSIF. Le portable de la conseillère Moyen-Orient de l’Élysée piraté par le Mossad ",
     "score": 93,
     "count": 1,
@@ -938,25 +955,6 @@
     "summary": " EXCLUSIF. Le portable de la conseillère Moyen-Orient de l’Élysée piraté par le Mossad "
   },
   {
-    "title": "Le rappeur américain Lil Durk, accusé d’avoir commandité le meurtre d’un rival, acquitté",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Le rappeur américain Lil Durk, accusé d’avoir commandité le meurtre d’un rival, acquitté",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-15T13:26:19.478Z",
-        "link": "https://www.leparisien.fr/culture-loisirs/musique/le-rappeur-americain-lil-durk-accuse-davoir-commandite-le-meurtre-dun-rival-acquitte-12-09-2026-QQP2JZBHMBHRRL22OBROYE65FA.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Le rappeur américain Lil Durk, accusé d’avoir commandité le meurtre d’un rival, ..."
-      }
-    ],
-    "summary": "Le rappeur américain Lil Durk, accusé d’avoir commandité le meurtre d’un rival, acquitté"
-  },
-  {
     "title": "Tirs de mortiers, dégâts matériels : la préfecture de Mayenne dénonce des violences urbaines à Laval",
     "score": 90,
     "count": 1,
@@ -974,44 +972,6 @@
       }
     ],
     "summary": "Tirs de mortiers, dégâts matériels : la préfecture de Mayenne dénonce des violences urbaines à Laval"
-  },
-  {
-    "title": "Paris : le chauffeur de taxi mis en accusation pour le viol d’une cliente reste en détention",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Paris : le chauffeur de taxi mis en accusation pour le viol d’une cliente reste en détention",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-16T04:26:56.639Z",
-        "link": "https://www.leparisien.fr/faits-divers/paris-le-chauffeur-de-taxi-mis-en-accusation-pour-le-viol-dune-cliente-reste-en-detention-12-09-2026-QYSEADH3WNFMPB5SGXLRKNAWFI.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Paris : le chauffeur de taxi mis en accusation pour le viol d’une cliente reste ..."
-      }
-    ],
-    "summary": "Paris : le chauffeur de taxi mis en accusation pour le viol d’une cliente reste en détention"
-  },
-  {
-    "title": "Lyon : le prêtre écarté de ses fonctions à la tête du groupe scolaire des Chartreux « conteste » les accusations de viols",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Lyon : le prêtre écarté de ses fonctions à la tête du groupe scolaire des Chartreux « conteste » les accusations de viols",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-15T19:40:40.565Z",
-        "link": "https://www.leparisien.fr/faits-divers/lyon-le-pretre-ecarte-de-ses-fonctions-a-la-tete-du-groupe-scolaire-des-chartreux-conteste-les-accusations-de-viols-12-09-2026-JU7AMME6YFBKBLL6KN43SH5TQY.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Lyon : le prêtre écarté de ses fonctions à la tête du groupe scolaire des Chartr..."
-      }
-    ],
-    "summary": "Lyon : le prêtre écarté de ses fonctions à la tête du groupe scolaire des Chartreux « conteste » les accusations de viols"
   },
   {
     "title": "« Un usage décomplexé des armes à feu » : un homme tué par balle en Guadeloupe, le trentième homicide de l’année",
@@ -1119,7 +1079,7 @@
       {
         "title": "Seize supporters de l’AS Rome interdits de stade pour avoir effectué des saluts fascistes",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-17T13:19:35.347Z",
+        "time": "2026-09-17T19:42:14.990Z",
         "link": "https://www.leparisien.fr/sports/football/seize-supporters-de-las-rome-interdits-de-stade-pour-avoir-effectue-des-saluts-fascistes-16-09-2026-HEORXQM6RNDVFOY6WOQ3POQR5I.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Seize supporters de l’AS Rome interdits de stade pour avoir effectué des saluts ..."
@@ -1138,7 +1098,7 @@
       {
         "title": "Kim Kardashian obtient 1 euro de dommages et intérêts auprès des « papys braqueurs », dix ans après son agression à Paris",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-17T13:19:35.347Z",
+        "time": "2026-09-17T19:42:14.991Z",
         "link": "https://www.leparisien.fr/faits-divers/kim-kardashian-obtient-1-euro-de-dommages-et-interets-aupres-des-papys-braqueurs-dix-ans-apres-son-agression-a-paris-16-09-2026-STTDQCIMIVFHXOKTF2SWAGLUVA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Kim Kardashian obtient 1 euro de dommages et intérêts auprès des « papys braqueu..."
@@ -1157,7 +1117,7 @@
       {
         "title": "Prostitution, narcotrafic, vols, violences : à Lyon, la descente aux enfers du quartier Gerland",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-17T13:19:35.347Z",
+        "time": "2026-09-17T19:42:14.991Z",
         "link": "https://www.leparisien.fr/rhone-69/prostitution-narcotrafic-vols-violences-a-lyon-la-descente-aux-enfers-du-quartier-gerland-16-09-2026-TCZT5VQMDVHRFJELMVTHCN7XJQ.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Prostitution, narcotrafic, vols, violences : à Lyon, la descente aux enfers du q..."
@@ -1176,7 +1136,7 @@
       {
         "title": "« Sa détresse ne doit pas effacer ce qu’a vécu la victime » : il tente de se suicider après avoir violenté sa compagne",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-17T13:19:35.347Z",
+        "time": "2026-09-17T19:42:14.991Z",
         "link": "https://www.leparisien.fr/seine-et-marne-77/sauve-du-suicide-apres-des-violences-conjugales-il-retourne-chez-son-ex-malgre-linterdiction-du-juge-16-09-2026-JWMNX5FT2NC2XJNPK3ASZYUUVQ.php",
         "score": 90,
         "summary": "il tente de se suicider après avoir violenté sa compagne"
@@ -1195,7 +1155,7 @@
       {
         "title": "Toulouse : un homme de 18 ans tué par balles sur fond de trafic de drogue",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-17T13:19:35.347Z",
+        "time": "2026-09-17T19:42:14.991Z",
         "link": "https://www.leparisien.fr/faits-divers/toulouse-un-homme-de-18-ans-tue-par-balles-sur-fond-de-trafic-de-drogue-16-09-2026-KIOGA4H4C5HPXKKP2UJ6NEOAJE.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Toulouse : un homme de 18 ans tué par balles sur fond de trafic de drogue..."
@@ -1252,7 +1212,7 @@
       {
         "title": "[CYBER] Les cyberattaques: S Bastien Lecornu donne 15 jours aux ministres pour lutter contre les cyberattaques",
         "source": "Le Monde Informatique",
-        "time": "2026-09-17T13:18:36.418Z",
+        "time": "2026-09-17T19:41:17.064Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-cybersecurite-sebastien-lecornu-donne-15-jours-aux-ministres-pour-lutter-contre-les-cyberattaques-100767.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les cyberattaques: S Bastien Lecornu donne 15 jours aux ministres pour l..."
@@ -1271,7 +1231,7 @@
       {
         "title": "[CYBER] Le Ministère de la Transition cible d'une cyberattaque",
         "source": "Le Monde Informatique",
-        "time": "2026-09-17T13:18:33.135Z",
+        "time": "2026-09-17T19:41:13.439Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-le-ministere-de-la-transition-ecologique-cible-par-une-cyberattaque-100771.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le Ministère de la Transition cible d'une cyberattaque..."
@@ -1290,7 +1250,7 @@
       {
         "title": "[CYBER] M. D. Muse, fils du personnel de l'agent principal des services secrets.",
         "source": "Le Monde Informatique",
-        "time": "2026-09-17T13:18:31.105Z",
+        "time": "2026-09-17T19:41:11.184Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-meta-devoile-muse-son-premier-agent-ia-personnel-100772.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] M. D. Muse, fils du personnel de l'agent principal des services secrets...."
@@ -1309,7 +1269,7 @@
       {
         "title": "[CYBER] Le nouveau système de facturation électronique: le nouveau système de la cour dans la DSI",
         "source": "Le Monde Informatique",
-        "time": "2026-09-17T13:18:26.483Z",
+        "time": "2026-09-17T19:41:06.098Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-facturation-electronique-le-nouveau-perimetre-de-securite-a-integrer-dans-la-dsi-100775.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le nouveau système de facturation électronique: le nouveau système de la..."
@@ -1328,7 +1288,7 @@
       {
         "title": "[CYBER] Ingram Micro et Xguard One lance un EDR pour les PME",
         "source": "Le Monde Informatique",
-        "time": "2026-09-17T13:18:28.736Z",
+        "time": "2026-09-17T19:41:08.478Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-ingram-micro-et-xguard-one-lancent-un-edr-manage-pour-les-pme-100773.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Ingram Micro et Xguard One lance un EDR pour les PME..."
@@ -1347,7 +1307,7 @@
       {
         "title": "[CYBER] La cybersécurité se réalise chez les PME",
         "source": "Le Monde Informatique",
-        "time": "2026-09-17T13:18:16.986Z",
+        "time": "2026-09-17T19:40:55.725Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-la-cyberassurance-recule-chez-les-pme-francaises-100784.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] La cybersécurité se réalise chez les PME..."
@@ -1366,7 +1326,7 @@
       {
         "title": "[CYBER] Les agents d'OpenAI auraient pour objectif de mettre en place la plateforme RubyGems",
         "source": "Le Monde Informatique",
-        "time": "2026-09-17T13:18:19.735Z",
+        "time": "2026-09-17T19:40:58.745Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-des-agents-d-openai-auraient-cible-la-plateforme-rubygems-100782.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les agents d'OpenAI auraient pour objectif de mettre en place la platefo..."
@@ -1385,7 +1345,7 @@
       {
         "title": "[CYBER] CUEEC 2026: un pacte de richesse et d'intervention pour renforcer la souveraineté de la richesse",
         "source": "Le Monde Informatique",
-        "time": "2026-09-17T13:18:23.498Z",
+        "time": "2026-09-17T19:41:02.893Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-uecc-2026-un-pacte-numerique-et-ia-pour-renforcer-la-souverainete-numerique-100780.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] CUEEC 2026: un pacte de richesse et d'intervention pour renforcer la sou..."
@@ -1404,7 +1364,7 @@
       {
         "title": "[CYBER] IA: peut-on appeler au ralentissement tout en investissant des centaines de milliards?",
         "source": "Le Monde Informatique",
-        "time": "2026-09-17T13:18:13.467Z",
+        "time": "2026-09-17T19:40:51.815Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-ia-peut-on-appeler-au-ralentissement-tout-en-investissant-des-centaines-de-milliards-100786.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] IA: peut-on appeler au ralentissement tout en investissant des centaines..."
@@ -1423,7 +1383,7 @@
       {
         "title": "[CYBER] Microsoft a publié un code de conduite pour encadrer ses IA",
         "source": "Le Monde Informatique",
-        "time": "2026-09-17T13:18:15.378Z",
+        "time": "2026-09-17T19:40:53.923Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-microsoft-publie-un-code-de-conduite-pour-encadrer-ses-ia-100785.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Microsoft a publié un code de conduite pour encadrer ses IA..."
