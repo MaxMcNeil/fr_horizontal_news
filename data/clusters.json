@@ -113,7 +113,7 @@
       {
         "title": "Gironde : le parent d’élève qui avait menacé de mort un surveillant et la principale d’un collège condamné à six mois de prison ferme",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-18T19:01:03.269Z",
+        "time": "2026-09-18T22:29:03.531Z",
         "link": "https://www.leparisien.fr/gironde-33/gironde-le-parent-deleve-qui-avait-menace-de-mort-un-surveillant-et-la-principale-dun-college-condamne-a-six-mois-de-prison-ferme-17-09-2026-ASURFVLIFBDXDGEGZ4TEVVFILM.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Gironde : le parent d’élève qui avait menacé de mort un surveillant et la princi..."
@@ -167,7 +167,7 @@
       {
         "title": "Haut-Rhin : un ancien chirurgien condamné à trois ans de prison, dont un ferme, pour agressions sexuelles sur quatre femmes",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-18T19:01:03.269Z",
+        "time": "2026-09-18T22:29:03.531Z",
         "link": "https://www.leparisien.fr/faits-divers/haut-rhin-un-ancien-chirurgien-condamne-a-trois-ans-de-prison-dont-un-ferme-pour-agressions-sexuelles-sur-quatre-femmes-18-09-2026-WRQ2MCXYE5GWPJEKWYRDXBV3JQ.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Haut-Rhin : un ancien chirurgien condamné à trois ans de prison, dont un ferme, ..."
@@ -232,10 +232,9 @@
   {
     "title": "« Une escroquerie sophistiquée » : la banque en ligne Revolut victime de pirates informatiques, les données de 680 clients compromises",
     "score": 97,
-    "count": 2,
+    "count": 1,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.lemonde.fr/economie/rss_full.xml"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
     "items": [
       {
@@ -245,22 +244,14 @@
         "link": "https://www.leparisien.fr/high-tech/une-escroquerie-sophistiquee-la-banque-en-ligne-revolut-victime-de-pirates-informatiques-les-donnees-de-680-clients-compromises-16-09-2026-WSBKIH54O5AFFDKFN6JYOWR7IU.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Une escroquerie sophistiquée » : la banque en ligne Revolut victime de pirates..."
-      },
-      {
-        "title": "La banque en ligne britannique Revolut se dit victime d’« une escroquerie sophistiquée », des données clients compromises",
-        "source": "https://www.lemonde.fr/economie/rss_full.xml",
-        "time": "2026-09-16T21:50:33.000Z",
-        "link": "https://www.lemonde.fr/economie/article/2026/09/16/la-banque-en-ligne-britannique-revolut-se-dit-victime-d-une-escroquerie-sophistiquee-des-donnees-clients-compromises_6775534_3234.html",
-        "score": 97,
-        "summary": "Point de situation critique concernant : La banque en ligne britannique Revolut se dit victime d’« une escroquerie sophis..."
       }
     ],
-    "summary": "« Une escroquerie sophistiquée » : la banque en ligne Revolut victime de pirates informatiques, les données de 680 clients compromises / La banque en ligne britannique Revolut se dit victime d’« une escroquerie sophistiquée », des données clients compromises"
+    "summary": "« Une escroquerie sophistiquée » : la banque en ligne Revolut victime de pirates informatiques, les données de 680 clients compromises"
   },
   {
     "title": "« Cheval de Troie » de Renault au Parlement européen : le procès pour corruption de Rachida Dati et Carlos Ghosn s’est ouvert à Paris",
     "score": 97,
-    "count": 8,
+    "count": 7,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
       "https://www.francetvinfo.fr/politique.rss",
@@ -276,14 +267,6 @@
         "link": "https://www.leparisien.fr/faits-divers/cheval-de-troie-de-renault-au-parlement-europeen-le-proces-pour-corruption-de-rachida-dati-et-carlos-ghosn-souvre-mercredi-16-09-2026-NNA5LZFBCVELHBTJG6LZ5YHSBA.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Cheval de Troie » de Renault au Parlement européen : le procès pour corruption..."
-      },
-      {
-        "title": "Procès de Rachida Dati pour corruption : l'ancienne ministre \"tendue\" et \"très concentrée\" lors de la première journée d'audience",
-        "source": "https://www.francetvinfo.fr/politique.rss",
-        "time": "2026-09-16T20:08:48.000Z",
-        "link": "https://www.franceinfo.fr/politique/rachida-dati/proces-de-rachida-dati-pour-corruption-l-ancienne-ministre-tendue-et-tres-concentree-lors-de-la-premiere-journee-d-audience_8196101.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 97,
-        "summary": "l'ancienne ministre \"tendue\" et \"très concentrée\" lors de la première journée d'audience"
       },
       {
         "title": "Rachida Dati s'est expliquée pendant trois heures lors du premier interrogatoire de son procès pour corruption",
@@ -334,7 +317,7 @@
         "summary": "Point de situation critique concernant : Au procès de Rachida Dati pour « corruption », les tentatives de la défense de r..."
       }
     ],
-    "summary": "« Cheval de Troie » de Renault au Parlement européen : le procès pour corruption de Rachida Dati et Carlos Ghosn s’est ouvert à Paris / Procès de Rachida Dati pour corruption : l'ancienne ministre \"tendue\" et \"très concentrée\" lors de la première journée d'audience"
+    "summary": "« Cheval de Troie » de Renault au Parlement européen : le procès pour corruption de Rachida Dati et Carlos Ghosn s’est ouvert à Paris / Rachida Dati s'est expliquée pendant trois heures lors du premier interrogatoire de son procès pour corruption"
   },
   {
     "title": "Démarchage téléphonique : la répression des fraudes inflige une amende d’un million d’euros à l’opérateur d’Altice Syma Mobile",
@@ -347,7 +330,7 @@
       {
         "title": "Démarchage téléphonique : la répression des fraudes inflige une amende d’un million d’euros à l’opérateur d’Altice Syma Mobile",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-18T19:01:03.270Z",
+        "time": "2026-09-18T22:29:03.532Z",
         "link": "https://www.leparisien.fr/economie/demarchage-telephonique-la-repression-des-fraudes-inflige-une-amende-dun-million-deuros-a-loperateur-daltice-syma-mobile-16-09-2026-LJTFZI3BZJDHBKAXFT3RLRMN34.php",
         "score": 97,
         "summary": "la répression des fraudes inflige une amende d’un million d’euros à l’opérateur d’Altice Syma Mobile"
@@ -368,7 +351,7 @@
       {
         "title": "L’ancien major « pervers » et « malsain » condamné pour l’agression sexuelle de jeunes policières au tribunal de Paris",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-18T19:01:03.270Z",
+        "time": "2026-09-18T22:29:03.532Z",
         "link": "https://www.leparisien.fr/faits-divers/lancien-major-pervers-et-malsain-condamne-pour-lagression-sexuelle-de-jeunes-policieres-au-tribunal-de-paris-16-09-2026-J4BOQJRCHBEYPO4GBJZBEGNKJ4.php",
         "score": 97,
         "summary": "Point de situation critique concernant : L’ancien major « pervers » et « malsain » condamné pour l’agression sexuelle de ..."
@@ -401,57 +384,40 @@
     "summary": "L’ancien major « pervers » et « malsain » condamné pour l’agression sexuelle de jeunes policières au tribunal de Paris / Tribunal de Pau : chaussures Dior contrefaites, conduite sans permis… un jeune majeur condamné pour plusieurs délits"
   },
   {
-    "title": "Nice: l’ancien maire Christian Estrosi visé par une enquête pour détournement de fonds publics",
+    "title": "Agression à la machette à Mulhouse : un homme placé en détention provisoire",
     "score": 97,
-    "count": 7,
+    "count": 1,
     "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Agression à la machette à Mulhouse : un homme placé en détention provisoire",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-09-18T22:29:03.532Z",
+        "link": "https://www.leparisien.fr/faits-divers/agression-a-la-machette-a-mulhouse-un-homme-place-en-detention-provisoire-16-09-2026-NCAZI3MGSNA67EJ2VIR32CC6U4.php",
+        "score": 97,
+        "summary": "un homme placé en détention provisoire"
+      }
+    ],
+    "summary": "Agression à la machette à Mulhouse : un homme placé en détention provisoire"
+  },
+  {
+    "title": "L’ancien maire de Nice Christian Estrosi visé par une enquête pour détournement de fonds, après un signalement d’Éric Ciotti",
+    "score": 97,
+    "count": 3,
+    "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.lemonde.fr/justice/rss_full.xml",
-      "https://www.ledauphine.com/Faits-divers-Justice/rss",
-      "https://www.20minutes.fr/feeds/rss-une.xml",
       "https://www.sudouest.fr/faits-divers/rss.xml"
     ],
     "items": [
       {
-        "title": "Nice: l’ancien maire Christian Estrosi visé par une enquête pour détournement de fonds publics",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-09-16T19:21:34.000Z",
-        "link": "https://www.lefigaro.fr/nice/nice-l-ancien-maire-christian-estrosi-vise-par-une-enquete-pour-detournement-de-fonds-publics-20260916",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Nice: l’ancien maire Christian Estrosi visé par une enquête pour détournement de..."
-      },
-      {
         "title": "L’ancien maire de Nice Christian Estrosi visé par une enquête pour détournement de fonds, après un signalement d’Éric Ciotti",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-18T19:01:03.269Z",
+        "time": "2026-09-18T22:29:03.532Z",
         "link": "https://www.leparisien.fr/politique/lancien-maire-de-nice-christian-estrosi-vise-par-une-enquete-pour-detournement-de-fonds-apres-un-signalement-deric-ciotti-16-09-2026-3KN7Q6FN5FAPZCZZOAY7YQCNJI.php",
         "score": 97,
         "summary": "Point de situation critique concernant : L’ancien maire de Nice Christian Estrosi visé par une enquête pour détournement ..."
-      },
-      {
-        "title": "Nice : Christian Estrosi visé par une enquête pour détournement de fonds publics après un signalement d’Eric Ciotti",
-        "source": "https://www.lemonde.fr/justice/rss_full.xml",
-        "time": "2026-09-16T22:28:50.000Z",
-        "link": "https://www.lemonde.fr/societe/article/2026/09/17/nice-christian-estrosi-vise-par-une-enquete-pour-detournement-de-fonds-publics-apres-un-signalement-d-eric-ciotti_6775567_3224.html",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Nice : Christian Estrosi visé par une enquête pour détournement de fonds publics..."
-      },
-      {
-        "title": "Nice. L'ancien maire Christian Estrosi visé par une enquête pour détournement de fonds",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-09-16T20:53:00.000Z",
-        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/16/l-ancien-maire-christian-estrosi-vise-par-une-enquete-pour-detournement-de-fonds",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Nice. L'ancien maire Christian Estrosi visé par une enquête pour détournement de..."
-      },
-      {
-        "title": "Nice : L’ex-maire Christian Estrosi visé par une enquête pour détournement de fonds (sur signalement d’Eric Ciotti)",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-09-16T19:52:39.000Z",
-        "link": "https://www.20minutes.fr/politique/4246006-20260916-nice-ex-maire-christian-estrosi-vise-enquete-detournement-fonds-signalement-eric-ciotti?at_medium=display&at_campaign=149",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Nice : L’ex-maire Christian Estrosi visé par une enquête pour détournement de fo..."
       },
       {
         "title": "Le maire de Concarneau placé en garde à vue dans le cadre d’une enquête pour viol",
@@ -464,89 +430,13 @@
       {
         "title": "Le maire de Concarneau placé en garde à vue dans le cadre d’une enquête pour viol",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-18T19:01:03.269Z",
+        "time": "2026-09-18T22:29:03.531Z",
         "link": "https://www.leparisien.fr/faits-divers/le-maire-de-concarneau-place-en-garde-a-vue-dans-le-cadre-dune-enquete-pour-viol-18-09-2026-5GRKQG6UFNGHZA74GCDOYGGYGM.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Le maire de Concarneau placé en garde à vue dans le cadre d’une enquête pour vio..."
       }
     ],
-    "summary": "Nice: l’ancien maire Christian Estrosi visé par une enquête pour détournement de fonds publics / L’ancien maire de Nice Christian Estrosi visé par une enquête pour détournement de fonds, après un signalement d’Éric Ciotti"
-  },
-  {
-    "title": "Agression à la machette à Mulhouse : un homme placé en détention provisoire",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Agression à la machette à Mulhouse : un homme placé en détention provisoire",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-18T19:01:03.269Z",
-        "link": "https://www.leparisien.fr/faits-divers/agression-a-la-machette-a-mulhouse-un-homme-place-en-detention-provisoire-16-09-2026-NCAZI3MGSNA67EJ2VIR32CC6U4.php",
-        "score": 97,
-        "summary": "un homme placé en détention provisoire"
-      }
-    ],
-    "summary": "Agression à la machette à Mulhouse : un homme placé en détention provisoire"
-  },
-  {
-    "title": "Chute mortelle : avant sa mort, la victime a le temps de dire qu’elle a été « poussée », une personne en garde à vue",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.sudouest.fr/faits-divers/rss.xml"
-    ],
-    "items": [
-      {
-        "title": "Chute mortelle : avant sa mort, la victime a le temps de dire qu’elle a été « poussée », une personne en garde à vue",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-09-16T20:29:03.000Z",
-        "link": "https://www.sudouest.fr/ile-de-france/chute-mortelle-avant-sa-mort-la-victime-a-le-temps-de-dire-qu-elle-a-ete-poussee-une-personne-en-garde-a-vue-30659772.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Chute mortelle : avant sa mort, la victime a le temps de dire qu’elle a été « po..."
-      }
-    ],
-    "summary": "Chute mortelle : avant sa mort, la victime a le temps de dire qu’elle a été « poussée », une personne en garde à vue"
-  },
-  {
-    "title": "Fausse information sur Rima Hassan : LFI demande la démission du ministre Laurent Nuñez, après les révélations de \"Complément d'enquête\"",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.francetvinfo.fr/politique.rss"
-    ],
-    "items": [
-      {
-        "title": "Fausse information sur Rima Hassan : LFI demande la démission du ministre Laurent Nuñez, après les révélations de \"Complément d'enquête\"",
-        "source": "https://www.francetvinfo.fr/politique.rss",
-        "time": "2026-09-16T21:37:42.000Z",
-        "link": "https://www.franceinfo.fr/politique/fausse-information-sur-rima-hassan-lfi-demande-la-demission-du-ministre-laurent-nunez-apres-les-revelations-de-complement-d-enquete_8196206.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 97,
-        "summary": "LFI demande la démission du ministre Laurent Nuñez, après les révélations de \"Complément d'enquête\""
-      }
-    ],
-    "summary": "Fausse information sur Rima Hassan : LFI demande la démission du ministre Laurent Nuñez, après les révélations de \"Complément d'enquête\""
-  },
-  {
-    "title": "\"Moi je ne m'interdis rien\": à l'approche de l'examen du budget, Marine Le Pen n'exclut pas de voter une éventuelle motion de censure",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.bfmtv.com/rss/politique/"
-    ],
-    "items": [
-      {
-        "title": "\"Moi je ne m'interdis rien\": à l'approche de l'examen du budget, Marine Le Pen n'exclut pas de voter une éventuelle motion de censure",
-        "source": "https://www.bfmtv.com/rss/politique/",
-        "time": "2026-09-16T20:54:19.000Z",
-        "link": "https://www.bfmtv.com/politique/front-national/moi-je-ne-m-interdis-rien-a-l-approche-de-l-examen-du-budget-marine-le-pen-n-exclut-pas-de-voter-une-eventuelle-motion-de-censure_AN-202609160908.html",
-        "score": 97,
-        "summary": "Point de situation critique concernant : \"Moi je ne m'interdis rien\": à l'approche de l'examen du budget, Marine Le Pen n..."
-      }
-    ],
-    "summary": "\"Moi je ne m'interdis rien\": à l'approche de l'examen du budget, Marine Le Pen n'exclut pas de voter une éventuelle motion de censure"
+    "summary": "L’ancien maire de Nice Christian Estrosi visé par une enquête pour détournement de fonds, après un signalement d’Éric Ciotti / Le maire de Concarneau placé en garde à vue dans le cadre d’une enquête pour viol"
   },
   {
     "title": "INFO RADIO FRANCE. \"C'est une bombe à retardement\" : comment le RN a laissé en place un député soupçonné de détournements d'argent public",
@@ -702,7 +592,7 @@
       {
         "title": "Peine alourdie pour Stéphane Plaza, condamné en appel à 18 mois de prison avec sursis",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-18T19:01:03.269Z",
+        "time": "2026-09-18T22:29:03.531Z",
         "link": "https://www.leparisien.fr/culture-loisirs/tv/peine-alourdie-pour-stephane-plaza-condamne-en-appel-a-18-mois-de-prison-avec-sursis-18-09-2026-JW3LGMO4DVA4DNR7G5IPCDWYKA.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Peine alourdie pour Stéphane Plaza, condamné en appel à 18 mois de prison avec s..."
@@ -795,9 +685,10 @@
   {
     "title": "Pédocriminalité : L’ex-directeur d’une école catholique condamné à quinze ans de prison",
     "score": 97,
-    "count": 1,
+    "count": 2,
     "sources": [
-      "https://www.20minutes.fr/feeds/rss-une.xml"
+      "https://www.20minutes.fr/feeds/rss-une.xml",
+      "https://www.cnews.fr/rss/categorie/faits%20divers"
     ],
     "items": [
       {
@@ -807,9 +698,17 @@
         "link": "https://www.20minutes.fr/justice/4246329-20260917-pedocriminalite-ex-directeur-ecole-catholique-condamne-quinze-ans-prison?at_medium=display&at_campaign=149",
         "score": 97,
         "summary": "Point de situation critique concernant : Pédocriminalité : L’ex-directeur d’une école catholique condamné à quinze ans de..."
+      },
+      {
+        "title": "Drôme : le meurtrier de Zakaria, 15 ans, tué alors qu'il s'interposait lors d'une altercation, condamné à 15 ans de prison",
+        "source": "https://www.cnews.fr/rss/categorie/faits%20divers",
+        "time": "2026-09-18T21:23:21.000Z",
+        "link": "https://www.cnews.fr/faits-divers/2026-09-18/drome-le-meurtrier-de-zakaria-15-ans-tue-alors-quil-sinterposait-lors-dune",
+        "score": 97,
+        "summary": "le meurtrier de Zakaria, 15 ans, tué alors qu'il s'interposait lors d'une altercation, condamné à 15 ans de prison"
       }
     ],
-    "summary": "Pédocriminalité : L’ex-directeur d’une école catholique condamné à quinze ans de prison"
+    "summary": "Pédocriminalité : L’ex-directeur d’une école catholique condamné à quinze ans de prison / Drôme : le meurtrier de Zakaria, 15 ans, tué alors qu'il s'interposait lors d'une altercation, condamné à 15 ans de prison"
   },
   {
     "title": "Drôme. Trois personnes condamnées pour avoir volé 511 000 euros en pièces et lingots à un octogénaire",
@@ -833,7 +732,7 @@
   {
     "title": "Une « bombe vivante » : un homme condamné à 12 ans de réclusion criminelle pour 32 incendies volontaires",
     "score": 97,
-    "count": 4,
+    "count": 6,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
       "https://www.franceinfo.fr/faits-divers.rss",
@@ -844,7 +743,7 @@
       {
         "title": "Une « bombe vivante » : un homme condamné à 12 ans de réclusion criminelle pour 32 incendies volontaires",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-18T19:01:03.269Z",
+        "time": "2026-09-18T22:29:03.531Z",
         "link": "https://www.leparisien.fr/charente-16/une-bombe-vivante-un-homme-condamne-a-12-ans-de-reclusion-criminelle-pour-32-incendies-volontaires-18-09-2026-LKJDZGIVRRHWRDY7KYFLGB4RXA.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Une « bombe vivante » : un homme condamné à 12 ans de réclusion criminelle pour ..."
@@ -872,6 +771,22 @@
         "link": "https://www.cnews.fr/faits-divers/2026-09-18/une-bombe-vivante-un-homme-condamne-12-ans-de-reclusion-criminelle-pour-32",
         "score": 97,
         "summary": "un homme condamné à 12 ans de réclusion criminelle pour 32 incendies volontaires"
+      },
+      {
+        "title": "Meurtre de Zakaria à Romans-sur-Isère : l’auteur du coup mortel condamné à 15 ans de réclusion criminelle",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-09-18T22:29:03.531Z",
+        "link": "https://www.leparisien.fr/faits-divers/meurtre-de-zakaria-a-romans-sur-isere-lauteur-du-coup-mortel-condamne-a-15-ans-de-reclusion-criminelle-18-09-2026-7YP3IJVH55GEFIGXFVACI74KFE.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Meurtre de Zakaria à Romans-sur-Isère : l’auteur du coup mortel condamné à 15 an..."
+      },
+      {
+        "title": "Drôme. Le meurtrier du jeune Zakaria condamné à 15 ans de réclusion criminelle",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-09-18T20:22:00.000Z",
+        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/18/25-ans-de-reclusion-requis-pour-le-meurtre-de-zakaria-a-romans-sur-isere",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Drôme. Le meurtrier du jeune Zakaria condamné à 15 ans de réclusion criminelle..."
       }
     ],
     "summary": "Une « bombe vivante » : un homme condamné à 12 ans de réclusion criminelle pour 32 incendies volontaires / En Charente, un homme condamné à douze ans de réclusion criminelle pour 32 incendies volontaires"
@@ -887,7 +802,7 @@
       {
         "title": "Scandale du périscolaire : à Paris, une famille dénonce l’inaction de la mairie après des soupçons d’abus sur son enfant de 4 ans",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-18T19:01:03.269Z",
+        "time": "2026-09-18T22:29:03.531Z",
         "link": "https://www.leparisien.fr/paris-75/scandale-du-periscolaire-a-paris-une-famille-denonce-linaction-de-la-mairie-apres-des-soupcons-dabus-sur-son-enfant-de-4-ans-18-09-2026-52KNHJPN4FBKRDKE62D64IV7SM.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Scandale du périscolaire : à Paris, une famille dénonce l’inaction de la mairie ..."
@@ -906,7 +821,7 @@
       {
         "title": "Un enfant de 7 ans soupçonné d’avoir tué sa tante à Saint-Maur-des-Fossés, la mère en garde à vue",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-18T19:01:03.269Z",
+        "time": "2026-09-18T22:29:03.531Z",
         "link": "https://www.leparisien.fr/faits-divers/saint-maur-des-fosses-un-enfant-de-7-ans-suspecte-davoir-poignarde-sa-tante-a-mort-18-09-2026-BJ3NV2WCSRGO7JF5GIONFIDLDY.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Un enfant de 7 ans soupçonné d’avoir tué sa tante à Saint-Maur-des-Fossés, la mè..."
@@ -991,7 +906,7 @@
       {
         "title": "Municipales 2026 : huit militants identitaires condamnés pour avoir perturbé un meeting LFI près de Lille",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-18T19:01:03.269Z",
+        "time": "2026-09-18T22:29:03.531Z",
         "link": "https://www.leparisien.fr/faits-divers/municipales-2026-huit-militants-identitaires-condamnes-pour-avoir-perturbe-un-meeting-lfi-pres-de-lille-18-09-2026-JY2FPCXM5NHIFECQAUUDEU2HUI.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Municipales 2026 : huit militants identitaires condamnés pour avoir perturbé un ..."
@@ -1084,6 +999,91 @@
     "summary": "La tour Eiffel, monument de carte postale plombé par les scandales"
   },
   {
+    "title": "Assassinat à Riom: les «amants maudits» condamnés à 30 et 25 ans de réclusion criminelle",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+    ],
+    "items": [
+      {
+        "title": "Assassinat à Riom: les «amants maudits» condamnés à 30 et 25 ans de réclusion criminelle",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-09-18T21:23:29.000Z",
+        "link": "https://www.lefigaro.fr/faits-divers/assassinat-a-riom-les-amants-maudits-condamnes-a-30-et-25-ans-de-reclusion-criminelle-20260918",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Assassinat à Riom: les «amants maudits» condamnés à 30 et 25 ans de réclusion cr..."
+      }
+    ],
+    "summary": "Assassinat à Riom: les «amants maudits» condamnés à 30 et 25 ans de réclusion criminelle"
+  },
+  {
+    "title": "Des chercheurs ont piraté OpenAI en utilisant une IA d'Anthropic",
+    "score": 93,
+    "count": 2,
+    "sources": [
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "https://www.20minutes.fr/feeds/rss-une.xml"
+    ],
+    "items": [
+      {
+        "title": "Des chercheurs ont piraté OpenAI en utilisant une IA d'Anthropic",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-09-18T14:55:06.000Z",
+        "link": "https://www.lefigaro.fr/secteur/high-tech/des-chercheurs-ont-pirate-openai-en-utilisant-une-ia-d-anthropic-20260918",
+        "score": 93,
+        "summary": "Point de situation critique concernant : Des chercheurs ont piraté OpenAI en utilisant une IA d'Anthropic..."
+      },
+      {
+        "title": "IA : Vertige… Des chercheurs ont piraté ChatGPT en utilisant Claude, l’IA concurrente d’Anthropic",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-09-18T14:41:02.000Z",
+        "link": "https://www.20minutes.fr/high-tech/4246613-20260918-ia-vertige-chercheurs-pirate-chatgpt-utilisant-ia-concurrente-anthropic?at_medium=display&at_campaign=149",
+        "score": 93,
+        "summary": "Point de situation critique concernant : IA : Vertige… Des chercheurs ont piraté ChatGPT en utilisant Claude, l’IA concur..."
+      }
+    ],
+    "summary": "Des chercheurs ont piraté OpenAI en utilisant une IA d'Anthropic / IA : Vertige… Des chercheurs ont piraté ChatGPT en utilisant Claude, l’IA concurrente d’Anthropic"
+  },
+  {
+    "title": "Femme tuée au couteau à Saint-Maur : la piste de l’enfant meurtrier de 7 ans se précise",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Femme tuée au couteau à Saint-Maur : la piste de l’enfant meurtrier de 7 ans se précise",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-09-18T22:29:03.531Z",
+        "link": "https://www.leparisien.fr/faits-divers/femme-tuee-au-couteau-a-saint-maur-la-piste-de-lenfant-meurtrier-de-7-ans-se-precise-18-09-2026-6XQONZRV3RHWBEC3HLBAXB3VD4.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Femme tuée au couteau à Saint-Maur : la piste de l’enfant meurtrier de 7 ans se ..."
+      }
+    ],
+    "summary": "Femme tuée au couteau à Saint-Maur : la piste de l’enfant meurtrier de 7 ans se précise"
+  },
+  {
+    "title": "« Un crime odieux qui ne peut pas être banalisé » : le patron de Ryanair s’excuse après sa sortie sur les « violeurs »",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "« Un crime odieux qui ne peut pas être banalisé » : le patron de Ryanair s’excuse après sa sortie sur les « violeurs »",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-09-18T22:29:03.531Z",
+        "link": "https://www.leparisien.fr/faits-divers/un-crime-odieux-qui-ne-peut-pas-etre-banalise-le-patron-de-ryanair-sexcuse-apres-sa-sortie-sur-les-violeurs-18-09-2026-D4K3X7JZTVHBBLMA3ZY54XJLEY.php",
+        "score": 90,
+        "summary": "le patron de Ryanair s’excuse après sa sortie sur les « violeurs »"
+      }
+    ],
+    "summary": "« Un crime odieux qui ne peut pas être banalisé » : le patron de Ryanair s’excuse après sa sortie sur les « violeurs »"
+  },
+  {
     "title": "[CYBER] Les cyberattaques: S Bastien Lecornu donne 15 jours aux ministres pour lutter contre les cyberattaques",
     "score": 90,
     "count": 1,
@@ -1132,7 +1132,7 @@
       {
         "title": "[CYBER] M. D. Muse, fils du personnel de l'agent principal des services secrets.",
         "source": "Le Monde Informatique",
-        "time": "2026-09-18T18:59:51.360Z",
+        "time": "2026-09-18T22:27:54.215Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-meta-devoile-muse-son-premier-agent-ia-personnel-100772.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] M. D. Muse, fils du personnel de l'agent principal des services secrets...."
@@ -1151,7 +1151,7 @@
       {
         "title": "[CYBER] Le nouveau système de facturation électronique: le nouveau système de la cour dans la DSI",
         "source": "Le Monde Informatique",
-        "time": "2026-09-18T18:59:46.180Z",
+        "time": "2026-09-18T22:27:49.202Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-facturation-electronique-le-nouveau-perimetre-de-securite-a-integrer-dans-la-dsi-100775.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le nouveau système de facturation électronique: le nouveau système de la..."
@@ -1170,7 +1170,7 @@
       {
         "title": "[CYBER] Ingram Micro et Xguard One lance un EDR pour les PME",
         "source": "Le Monde Informatique",
-        "time": "2026-09-18T18:59:48.596Z",
+        "time": "2026-09-18T22:27:51.559Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-ingram-micro-et-xguard-one-lancent-un-edr-manage-pour-les-pme-100773.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Ingram Micro et Xguard One lance un EDR pour les PME..."
@@ -1178,7 +1178,7 @@
       {
         "title": "[CYBER] OpenAI lance Astra pour le droit pour les professionnels du droit",
         "source": "Le Monde Informatique",
-        "time": "2026-09-18T18:59:28.193Z",
+        "time": "2026-09-18T22:27:31.823Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-lance-astra-for-law-pour-les-professionnels-du-droit-100794.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] OpenAI lance Astra pour le droit pour les professionnels du droit..."
@@ -1197,7 +1197,7 @@
       {
         "title": "[CYBER] La cybersécurité se réalise chez les PME",
         "source": "Le Monde Informatique",
-        "time": "2026-09-18T18:59:35.442Z",
+        "time": "2026-09-18T22:27:38.883Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-la-cyberassurance-recule-chez-les-pme-francaises-100784.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] La cybersécurité se réalise chez les PME..."
@@ -1216,7 +1216,7 @@
       {
         "title": "[CYBER] Les agents d'OpenAI auraient pour objectif de mettre en place la plateforme RubyGems",
         "source": "Le Monde Informatique",
-        "time": "2026-09-18T18:59:38.635Z",
+        "time": "2026-09-18T22:27:41.929Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-des-agents-d-openai-auraient-cible-la-plateforme-rubygems-100782.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les agents d'OpenAI auraient pour objectif de mettre en place la platefo..."
@@ -1235,7 +1235,7 @@
       {
         "title": "[CYBER] CUEEC 2026: un pacte de richesse et d'intervention pour renforcer la souveraineté de la richesse",
         "source": "Le Monde Informatique",
-        "time": "2026-09-18T18:59:42.850Z",
+        "time": "2026-09-18T22:27:46.005Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-uecc-2026-un-pacte-numerique-et-ia-pour-renforcer-la-souverainete-numerique-100780.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] CUEEC 2026: un pacte de richesse et d'intervention pour renforcer la sou..."
@@ -1254,7 +1254,7 @@
       {
         "title": "[CYBER] IA: peut-on appeler au ralentissement tout en investissant des centaines de milliards?",
         "source": "Le Monde Informatique",
-        "time": "2026-09-18T18:59:31.515Z",
+        "time": "2026-09-18T22:27:35.047Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-ia-peut-on-appeler-au-ralentissement-tout-en-investissant-des-centaines-de-milliards-100786.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] IA: peut-on appeler au ralentissement tout en investissant des centaines..."
@@ -1273,7 +1273,7 @@
       {
         "title": "[CYBER] Microsoft a publié un code de conduite pour encadrer ses IA",
         "source": "Le Monde Informatique",
-        "time": "2026-09-18T18:59:33.674Z",
+        "time": "2026-09-18T22:27:37.175Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-microsoft-publie-un-code-de-conduite-pour-encadrer-ses-ia-100785.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Microsoft a publié un code de conduite pour encadrer ses IA..."
@@ -1292,7 +1292,7 @@
       {
         "title": "[CYBER] Google corrige 42 défaillances de la courbe dans Chrome",
         "source": "Le Monde Informatique",
-        "time": "2026-09-18T18:59:25.893Z",
+        "time": "2026-09-18T22:27:29.599Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-google-corrige-42-failles-de-securite-dans-chrome-100795.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Google corrige 42 défaillances de la courbe dans Chrome..."
