@@ -1,442 +1,482 @@
 [
   {
     "id": 0,
-    "title": "Paris : un animateur périscolaire condamné à cinq ans de prison, dont un ferme, après des agressions sexuelles sur neuf fillettes",
-    "score": 97,
-    "summary": "Paris : un animateur périscolaire condamné à cinq ans de prison, dont un ferme, après des agressions sexuelles sur neuf fillettes / Gironde : le parent d’élève qui avait menacé de mort un surveillant et la principale d’un collège condamné à six mois de prison ferme",
-    "count": 9,
-    "time": "2026-09-19T12:27:30.403Z"
-  },
-  {
-    "id": 1,
-    "title": "Bagui Traoré, frère d’Adama Traoré, a été placé en garde à vue « pour des faits d’extorsion »",
-    "score": 97,
-    "summary": "Bagui Traoré, frère d’Adama Traoré, a été placé en garde à vue « pour des faits d’extorsion »",
-    "count": 1,
-    "time": "2026-09-19T12:27:30.403Z"
-  },
-  {
-    "id": 2,
     "title": "Yvelines : le domicile du président de la Fédération de judo cambriolé, les auteurs lourdement condamnés",
     "score": 97,
     "summary": "Yvelines : le domicile du président de la Fédération de judo cambriolé, les auteurs lourdement condamnés",
     "count": 1,
-    "time": "2026-09-19T12:27:30.403Z"
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 3,
+    "id": 1,
     "title": "« Une escroquerie sophistiquée » : la banque en ligne Revolut victime de pirates informatiques, les données de 680 clients compromises",
     "score": 97,
     "summary": "« Une escroquerie sophistiquée » : la banque en ligne Revolut victime de pirates informatiques, les données de 680 clients compromises",
     "count": 1,
-    "time": "2026-09-19T12:27:30.403Z"
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 4,
+    "id": 2,
     "title": "« Cheval de Troie » de Renault au Parlement européen : le procès pour corruption de Rachida Dati et Carlos Ghosn s’est ouvert à Paris",
     "score": 97,
     "summary": "« Cheval de Troie » de Renault au Parlement européen : le procès pour corruption de Rachida Dati et Carlos Ghosn s’est ouvert à Paris / Rachida Dati s'est expliquée pendant trois heures lors du premier interrogatoire de son procès pour corruption",
     "count": 5,
-    "time": "2026-09-19T12:27:30.403Z"
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 5,
+    "id": 3,
     "title": "Démarchage téléphonique : la répression des fraudes inflige une amende d’un million d’euros à l’opérateur d’Altice Syma Mobile",
     "score": 97,
     "summary": "Démarchage téléphonique : la répression des fraudes inflige une amende d’un million d’euros à l’opérateur d’Altice Syma Mobile",
     "count": 1,
-    "time": "2026-09-19T12:27:30.403Z"
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 6,
+    "id": 4,
     "title": "L’ancien major « pervers » et « malsain » condamné pour l’agression sexuelle de jeunes policières au tribunal de Paris",
     "score": 97,
     "summary": "L’ancien major « pervers » et « malsain » condamné pour l’agression sexuelle de jeunes policières au tribunal de Paris / Tribunal de Pau : chaussures Dior contrefaites, conduite sans permis… un jeune majeur condamné pour plusieurs délits",
     "count": 4,
-    "time": "2026-09-19T12:27:30.403Z"
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 7,
+    "id": 5,
     "title": "Agression à la machette à Mulhouse : un homme placé en détention provisoire",
     "score": 97,
     "summary": "Agression à la machette à Mulhouse : un homme placé en détention provisoire",
     "count": 1,
-    "time": "2026-09-19T12:27:30.403Z"
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 8,
+    "id": 6,
     "title": "L’ancien maire de Nice Christian Estrosi visé par une enquête pour détournement de fonds, après un signalement d’Éric Ciotti",
     "score": 97,
     "summary": "L’ancien maire de Nice Christian Estrosi visé par une enquête pour détournement de fonds, après un signalement d’Éric Ciotti / Le maire de Concarneau placé en garde à vue dans le cadre d’une enquête pour viol",
     "count": 3,
-    "time": "2026-09-19T12:27:30.403Z"
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 9,
-    "title": "Suède : la gauche remporte de justesse les élections législatives, le premier ministre Ulf Kristersson annonce sa démission",
+    "id": 7,
+    "title": "Gironde : le parent d’élève qui avait menacé de mort un surveillant et la principale d’un collège condamné à six mois de prison ferme",
     "score": 97,
-    "summary": "Suède : la gauche remporte de justesse les élections législatives, le premier ministre Ulf Kristersson annonce sa démission",
-    "count": 1,
-    "time": "2026-09-19T12:27:30.403Z"
+    "summary": "Gironde : le parent d’élève qui avait menacé de mort un surveillant et la principale d’un collège condamné à six mois de prison ferme / Insultes et menaces de mort dans un collège en Gironde : un parent d’élève condamné à six mois de prison ferme",
+    "count": 6,
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 10,
-    "title": "Soupçon de fraude électorale à Clichy-la-Garenne : l’annulation de l’élection municipale préconisée au tribunal administratif",
-    "score": 97,
-    "summary": "Soupçon de fraude électorale à Clichy-la-Garenne : l’annulation de l’élection municipale préconisée au tribunal administratif",
-    "count": 1,
-    "time": "2026-09-19T12:27:30.403Z"
-  },
-  {
-    "id": 11,
-    "title": "Dieudonné condamné à six mois sous bracelet électronique pour apologie du terrorisme et injure envers Laurent Nuñez",
-    "score": 97,
-    "summary": "Dieudonné condamné à six mois sous bracelet électronique pour apologie du terrorisme et injure envers Laurent Nuñez / Gironde : Le père d’un collégien condamné à six mois ferme pour avoir menacé de mort un surveillant et la principale",
-    "count": 5,
-    "time": "2026-09-19T12:27:30.403Z"
-  },
-  {
-    "id": 12,
+    "id": 8,
     "title": "Béarn : un gérant de pompes funèbres paloises en détention provisoire pour viol, violences, menaces de mort et harcèlement sur sa maîtresse",
     "score": 97,
     "summary": "Béarn : un gérant de pompes funèbres paloises en détention provisoire pour viol, violences, menaces de mort et harcèlement sur sa maîtresse",
     "count": 1,
-    "time": "2026-09-19T12:27:30.403Z"
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 13,
+    "id": 9,
     "title": "Gironde : coup de filet anti-drogue dans le Libournais, cinq suspects placés en détention provisoire",
     "score": 97,
     "summary": "Gironde : coup de filet anti-drogue dans le Libournais, cinq suspects placés en détention provisoire",
     "count": 1,
-    "time": "2026-09-19T12:27:30.403Z"
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 14,
-    "title": "Dordogne : déjà condamné par le passé, il est de nouveau incarcéré pour avoir violenté sa mère",
-    "score": 97,
-    "summary": "Dordogne : déjà condamné par le passé, il est de nouveau incarcéré pour avoir violenté sa mère",
-    "count": 1,
-    "time": "2026-09-19T12:27:30.403Z"
-  },
-  {
-    "id": 15,
-    "title": "La CGT promet une \"journée noire\": alors que Sébastien Lecornu a proposé un gel du point d'indice des fonctionnaires dans le budget 2027, Sophie Binet dénonce un \"scandale\" et appelle à la mobilisation le 29 septembre",
-    "score": 97,
-    "summary": "La CGT promet une \"journée noire\": alors que Sébastien Lecornu a proposé un gel du point d'indice des fonctionnaires dans le budget 2027, Sophie Binet dénonce un \"scandale\" et appelle à la mobilisation le 29 septembre / Gel du point d’indice des fonctionnaires : Binet dénonce un «scandale» et promet une «journée noire» le 29 septembre",
-    "count": 2,
-    "time": "2026-09-19T12:27:30.403Z"
-  },
-  {
-    "id": 16,
-    "title": "Pédocriminalité : L’ex-directeur d’une école catholique condamné à quinze ans de prison",
-    "score": 97,
-    "summary": "Pédocriminalité : L’ex-directeur d’une école catholique condamné à quinze ans de prison / Drôme : le meurtrier de Zakaria, 15 ans, tué alors qu'il s'interposait lors d'une altercation, condamné à 15 ans de prison",
-    "count": 2,
-    "time": "2026-09-19T12:27:30.403Z"
-  },
-  {
-    "id": 17,
+    "id": 10,
     "title": "Drôme. Trois personnes condamnées pour avoir volé 511 000 euros en pièces et lingots à un octogénaire",
     "score": 97,
     "summary": "Drôme. Trois personnes condamnées pour avoir volé 511 000 euros en pièces et lingots à un octogénaire",
     "count": 1,
-    "time": "2026-09-19T12:27:30.403Z"
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 18,
+    "id": 11,
     "title": "Une « bombe vivante » : un homme condamné à 12 ans de réclusion criminelle pour 32 incendies volontaires",
     "score": 97,
     "summary": "Une « bombe vivante » : un homme condamné à 12 ans de réclusion criminelle pour 32 incendies volontaires / En Charente, un homme condamné à douze ans de réclusion criminelle pour 32 incendies volontaires",
     "count": 6,
-    "time": "2026-09-19T12:27:30.403Z"
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 19,
+    "id": 12,
     "title": "Scandale du périscolaire : à Paris, une famille dénonce l’inaction de la mairie après des soupçons d’abus sur son enfant de 4 ans",
     "score": 97,
     "summary": "Scandale du périscolaire : à Paris, une famille dénonce l’inaction de la mairie après des soupçons d’abus sur son enfant de 4 ans",
     "count": 1,
-    "time": "2026-09-19T12:27:30.403Z"
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 20,
+    "id": 13,
     "title": "Un enfant de 7 ans soupçonné d’avoir tué sa tante à Saint-Maur-des-Fossés, la mère en garde à vue",
     "score": 97,
-    "summary": "Un enfant de 7 ans soupçonné d’avoir tué sa tante à Saint-Maur-des-Fossés, la mère en garde à vue",
-    "count": 1,
-    "time": "2026-09-19T12:27:30.403Z"
+    "summary": "Un enfant de 7 ans soupçonné d’avoir tué sa tante à Saint-Maur-des-Fossés, la mère en garde à vue / Ni garde à vue, ni sanction pénale : comment l’enquête sur l’enfant de 7 ans soupçonné d’avoir tué sa tante va-t-elle se dérouler ?",
+    "count": 2,
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 21,
+    "id": 14,
+    "title": "Stéphane Plaza condamné en appel à dix-huit mois de prison avec sursis pour violences conjugales",
+    "score": 97,
+    "summary": "Stéphane Plaza condamné en appel à dix-huit mois de prison avec sursis pour violences conjugales / Stéphane Plaza : jugé pour violences conjugales, l'ex-animateur condamné en appel à 18 mois d'emprisonnement avec sursis",
+    "count": 2,
+    "time": "2026-09-19T18:34:44.464Z"
+  },
+  {
+    "id": 15,
     "title": "En Charente, un homme à l’origine de 32 incendies condamné à douze ans de prison",
     "score": 97,
     "summary": "En Charente, un homme à l’origine de 32 incendies condamné à douze ans de prison",
     "count": 1,
-    "time": "2026-09-19T12:27:30.403Z"
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 22,
+    "id": 16,
     "title": "Une femme et son bébé tués à l’arme blanche à Drancy, le conjoint placé en garde à vue mais « aucune piste n’est écartée »",
     "score": 97,
     "summary": "Une femme et son bébé tués à l’arme blanche à Drancy, le conjoint placé en garde à vue mais « aucune piste n’est écartée » / Seine-Saint-Denis. Une femme et son bébé tués à l'arme blanche, le conjoint en garde à vue",
-    "count": 2,
-    "time": "2026-09-19T12:27:30.403Z"
+    "count": 3,
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 23,
-    "title": "Violences conjugales : Stéphane Plaza condamné en appel à 18 mois de prison avec sursis",
+    "id": 17,
+    "title": "Un ancien chirurgien condamné pour agressions sexuelles et harcèlement à Colmar",
     "score": 97,
-    "summary": "Violences conjugales : Stéphane Plaza condamné en appel à 18 mois de prison avec sursis",
+    "summary": "Un ancien chirurgien condamné pour agressions sexuelles et harcèlement à Colmar",
     "count": 1,
-    "time": "2026-09-19T12:27:30.403Z"
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 24,
+    "id": 18,
     "title": "Municipales 2026 : huit militants identitaires condamnés pour avoir perturbé un meeting LFI près de Lille",
     "score": 97,
     "summary": "Municipales 2026 : huit militants identitaires condamnés pour avoir perturbé un meeting LFI près de Lille",
     "count": 1,
-    "time": "2026-09-19T12:27:30.403Z"
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 25,
+    "id": 19,
     "title": "Marseille : un enfant de 9 ans arrêté au volant d'une voiture, son père placé en garde à vue",
     "score": 97,
     "summary": "Marseille : un enfant de 9 ans arrêté au volant d'une voiture, son père placé en garde à vue",
     "count": 1,
-    "time": "2026-09-19T12:27:30.403Z"
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 26,
+    "id": 20,
     "title": "Un militaire de Mérignac condamné pour détention de contenus pédopornographiques et sollicitation de mineures",
     "score": 97,
     "summary": "Un militaire de Mérignac condamné pour détention de contenus pédopornographiques et sollicitation de mineures / « Un panel complet des horreurs » : un habitant d’Orthez condamné pour détention et diffusion d’images de viols de fillettes",
     "count": 2,
-    "time": "2026-09-19T12:27:30.403Z"
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 27,
+    "id": 21,
     "title": "Grenoble. Une intervention de police remarquée en centre-ville : un homme en garde à vue pour proxénétisme",
     "score": 97,
     "summary": "Grenoble. Une intervention de police remarquée en centre-ville : un homme en garde à vue pour proxénétisme",
     "count": 1,
-    "time": "2026-09-19T12:27:30.403Z"
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 28,
+    "id": 22,
     "title": "La tour Eiffel, monument de carte postale plombé par les scandales",
     "score": 97,
     "summary": "La tour Eiffel, monument de carte postale plombé par les scandales",
     "count": 1,
-    "time": "2026-09-19T12:27:30.403Z"
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 29,
+    "id": 23,
+    "title": "Drôme : le meurtrier de Zakaria, 15 ans, tué alors qu'il s'interposait lors d'une altercation, condamné à 15 ans de prison",
+    "score": 97,
+    "summary": "Drôme : le meurtrier de Zakaria, 15 ans, tué alors qu'il s'interposait lors d'une altercation, condamné à 15 ans de prison",
+    "count": 1,
+    "time": "2026-09-19T18:34:44.464Z"
+  },
+  {
+    "id": 24,
     "title": "Assassinat à Riom: les «amants maudits» condamnés à 30 et 25 ans de réclusion criminelle",
     "score": 97,
     "summary": "Assassinat à Riom: les «amants maudits» condamnés à 30 et 25 ans de réclusion criminelle",
     "count": 1,
-    "time": "2026-09-19T12:27:30.403Z"
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 30,
+    "id": 25,
     "title": "Le responsable de la sécurité de l’équipe de France mis en examen pour corruption après un don de Kylian Mbappé",
     "score": 97,
     "summary": "Le responsable de la sécurité de l’équipe de France mis en examen pour corruption après un don de Kylian Mbappé / Don de Mbappé : Mohamed Sanhadji, le responsable sécurité des Bleus, mis en examen pour corruption",
     "count": 3,
-    "time": "2026-09-19T12:27:30.403Z"
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 31,
+    "id": 26,
     "title": "Adolescent tué dans la Drôme : l’auteur du coup de couteau condamné à quinze ans de réclusion",
     "score": 97,
     "summary": "Adolescent tué dans la Drôme : l’auteur du coup de couteau condamné à quinze ans de réclusion",
     "count": 1,
-    "time": "2026-09-19T12:27:30.403Z"
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 32,
+    "id": 27,
     "title": "Une « centaine de relations sexuelles avec son fils » à peine majeur : une Américaine de 46 ans inculpée pour inceste",
     "score": 97,
     "summary": "Une « centaine de relations sexuelles avec son fils » à peine majeur : une Américaine de 46 ans inculpée pour inceste",
     "count": 1,
-    "time": "2026-09-19T12:27:30.403Z"
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 33,
+    "id": 28,
     "title": "Chantage à la photo sexuelle : en Essonne, l’ex-athlète Toumany Coulibaly à nouveau condamné",
     "score": 97,
     "summary": "Chantage à la photo sexuelle : en Essonne, l’ex-athlète Toumany Coulibaly à nouveau condamné",
     "count": 1,
-    "time": "2026-09-19T12:27:30.403Z"
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 34,
+    "id": 29,
     "title": "« Le chauffeur » aurait collecté 24 millions d’euros pour le réseau de blanchiment géant",
     "score": 97,
     "summary": "« Le chauffeur » aurait collecté 24 millions d’euros pour le réseau de blanchiment géant",
     "count": 1,
-    "time": "2026-09-19T12:27:30.403Z"
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 35,
+    "id": 30,
     "title": "Lot-et-Garonne : 124 véhicules contrôlés dans la nuit par les gendarmes, un conducteur en garde à vue",
     "score": 97,
     "summary": "Lot-et-Garonne : 124 véhicules contrôlés dans la nuit par les gendarmes, un conducteur en garde à vue",
     "count": 1,
-    "time": "2026-09-19T12:27:30.403Z"
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 36,
-    "title": "Manosque. « Maman est méchante » : une quadragénaire condamnée pour avoir maltraité ses trois filles et son mari",
+    "id": 31,
+    "title": "Alpes de Haute-Provence. « Maman est méchante » : une quadragénaire condamnée pour avoir maltraité ses trois filles et son mari",
     "score": 97,
-    "summary": "Manosque. « Maman est méchante » : une quadragénaire condamnée pour avoir maltraité ses trois filles et son mari",
+    "summary": "Alpes de Haute-Provence. « Maman est méchante » : une quadragénaire condamnée pour avoir maltraité ses trois filles et son mari",
     "count": 1,
-    "time": "2026-09-19T12:27:30.403Z"
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 37,
+    "id": 32,
     "title": "Le scandale du Grand Prix de Formule 1 percute le porte-parole d’Édouard Philippe",
     "score": 97,
     "summary": "Le scandale du Grand Prix de Formule 1 percute le porte-parole d’Édouard Philippe",
     "count": 1,
-    "time": "2026-09-19T12:27:30.403Z"
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 38,
+    "id": 33,
+    "title": "Isère. Détournement de fonds et prise illégale d’intérêts : l’ex-maire de Sainte-Marie-du-Mont bientôt à la barre du tribunal",
+    "score": 97,
+    "summary": "Isère. Détournement de fonds et prise illégale d’intérêts : l’ex-maire de Sainte-Marie-du-Mont bientôt à la barre du tribunal",
+    "count": 1,
+    "time": "2026-09-19T18:34:44.464Z"
+  },
+  {
+    "id": 34,
     "title": "Des chercheurs ont piraté OpenAI en utilisant une IA d'Anthropic",
     "score": 93,
     "summary": "Des chercheurs ont piraté OpenAI en utilisant une IA d'Anthropic / IA : Vertige… Des chercheurs ont piraté ChatGPT en utilisant Claude, l’IA concurrente d’Anthropic",
     "count": 2,
-    "time": "2026-09-19T12:27:30.403Z"
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 39,
+    "id": 35,
     "title": "Cybersécurité. Piratage de l'Afpa : jusqu'à 1,7 million de personnes potentiellement concernées",
     "score": 93,
     "summary": "Cybersécurité. Piratage de l'Afpa : jusqu'à 1,7 million de personnes potentiellement concernées",
     "count": 1,
-    "time": "2026-09-19T12:27:30.403Z"
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 40,
+    "id": 36,
     "title": "« Aidez-moi ! » : la bande-son glaçante du meurtre commis par un enfant de 7 ans à Saint-Maur",
     "score": 90,
     "summary": "« Aidez-moi ! » : la bande-son glaçante du meurtre commis par un enfant de 7 ans à Saint-Maur",
     "count": 1,
-    "time": "2026-09-19T12:27:30.403Z"
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 41,
+    "id": 37,
     "title": "Meurtre de Djamel Bendjaballah dans le Nord : le parquet demande la requalification en crime raciste",
     "score": 90,
     "summary": "Meurtre de Djamel Bendjaballah dans le Nord : le parquet demande la requalification en crime raciste",
     "count": 1,
-    "time": "2026-09-19T12:27:30.403Z"
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 42,
+    "id": 38,
     "title": "Surdose d’insuline et corps enterré sous la terrasse : une infirmière belge de 36 ans accusée d’avoir tué son compagnon en 2018",
     "score": 90,
     "summary": "Surdose d’insuline et corps enterré sous la terrasse : une infirmière belge de 36 ans accusée d’avoir tué son compagnon en 2018",
     "count": 1,
-    "time": "2026-09-19T12:27:30.403Z"
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 43,
+    "id": 39,
     "title": "Double meurtre pour une carotte de shit dans le Loiret : un suspect interpellé à Colombes clame son innocence",
     "score": 90,
     "summary": "Double meurtre pour une carotte de shit dans le Loiret : un suspect interpellé à Colombes clame son innocence",
     "count": 1,
-    "time": "2026-09-19T12:27:30.403Z"
+    "time": "2026-09-19T18:34:44.464Z"
+  },
+  {
+    "id": 40,
+    "title": "« Je vais être très violent » : le père d’une collégienne interpellé en Côte-d’Or après des menaces contre la principale",
+    "score": 90,
+    "summary": "« Je vais être très violent » : le père d’une collégienne interpellé en Côte-d’Or après des menaces contre la principale",
+    "count": 1,
+    "time": "2026-09-19T18:34:44.464Z"
+  },
+  {
+    "id": 41,
+    "title": "Pour le commissaire général Frédéric Lauze, « les établissements scolaires sont devenus des points de rendez-vous de la violence »",
+    "score": 90,
+    "summary": "Pour le commissaire général Frédéric Lauze, « les établissements scolaires sont devenus des points de rendez-vous de la violence »",
+    "count": 1,
+    "time": "2026-09-19T18:34:44.464Z"
+  },
+  {
+    "id": 42,
+    "title": "Après les fusillades près d’écoles à Trappes et à Montataire, faut-il s’inquiéter pour nos enfants ?",
+    "score": 90,
+    "summary": "Après les fusillades près d’écoles à Trappes et à Montataire, faut-il s’inquiéter pour nos enfants ?",
+    "count": 1,
+    "time": "2026-09-19T18:34:44.464Z"
+  },
+  {
+    "id": 43,
+    "title": "Femme tuée au couteau à Saint-Maur : la piste de l’enfant meurtrier de 7 ans se précise",
+    "score": 90,
+    "summary": "Femme tuée au couteau à Saint-Maur : la piste de l’enfant meurtrier de 7 ans se précise",
+    "count": 1,
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
     "id": 44,
+    "title": "« Un crime odieux qui ne peut pas être banalisé » : le patron de Ryanair s’excuse après sa sortie sur les « violeurs »",
+    "score": 90,
+    "summary": "« Un crime odieux qui ne peut pas être banalisé » : le patron de Ryanair s’excuse après sa sortie sur les « violeurs »",
+    "count": 1,
+    "time": "2026-09-19T18:34:44.464Z"
+  },
+  {
+    "id": 45,
+    "title": "« Faites rentrer les enfants et courez ! » : le récit des parents après la fusillade qui a fait deux blessés près d’une école",
+    "score": 90,
+    "summary": "« Faites rentrer les enfants et courez ! » : le récit des parents après la fusillade qui a fait deux blessés près d’une école",
+    "count": 1,
+    "time": "2026-09-19T18:34:44.464Z"
+  },
+  {
+    "id": 46,
+    "title": "« Au départ, elle ne voulait pas déposer plainte » : elle refuse le huis clos au procès pour viol de son compagnon",
+    "score": 90,
+    "summary": "« Au départ, elle ne voulait pas déposer plainte » : elle refuse le huis clos au procès pour viol de son compagnon",
+    "count": 1,
+    "time": "2026-09-19T18:34:44.464Z"
+  },
+  {
+    "id": 47,
+    "title": "Elle est partie faire ses courses et n’est jamais rentrée : inquiétante disparition d’une femme de 85 ans à Herblay",
+    "score": 90,
+    "summary": "Elle est partie faire ses courses et n’est jamais rentrée : inquiétante disparition d’une femme de 85 ans à Herblay",
+    "count": 1,
+    "time": "2026-09-19T18:34:44.464Z"
+  },
+  {
+    "id": 48,
+    "title": "« Même si la justice rend un non-lieu, il sera grillé » : le maire de Concarneau mis en examen pour viol et agression sexuelle",
+    "score": 90,
+    "summary": "« Même si la justice rend un non-lieu, il sera grillé » : le maire de Concarneau mis en examen pour viol et agression sexuelle",
+    "count": 1,
+    "time": "2026-09-19T18:34:44.464Z"
+  },
+  {
+    "id": 49,
     "title": "[CYBER] Les cyberattaques: S Bastien Lecornu donne 15 jours aux ministres pour lutter contre les cyberattaques",
     "score": 90,
     "summary": "[CYBER] Les cyberattaques: S Bastien Lecornu donne 15 jours aux ministres pour lutter contre les cyberattaques",
     "count": 1,
-    "time": "2026-09-19T12:27:30.403Z"
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 45,
+    "id": 50,
     "title": "[CYBER] Le Ministère de la Transition cible d'une cyberattaque",
     "score": 90,
     "summary": "[CYBER] Le Ministère de la Transition cible d'une cyberattaque",
     "count": 1,
-    "time": "2026-09-19T12:27:30.403Z"
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 46,
+    "id": 51,
     "title": "[CYBER] M. D. Muse, fils du personnel de l'agent principal des services secrets.",
     "score": 90,
     "summary": "[CYBER] M. D. Muse, fils du personnel de l'agent principal des services secrets.",
     "count": 1,
-    "time": "2026-09-19T12:27:30.403Z"
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 47,
+    "id": 52,
     "title": "[CYBER] Le nouveau système de facturation électronique: le nouveau système de la cour dans la DSI",
     "score": 90,
     "summary": "[CYBER] Le nouveau système de facturation électronique: le nouveau système de la cour dans la DSI",
     "count": 1,
-    "time": "2026-09-19T12:27:30.403Z"
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 48,
+    "id": 53,
     "title": "[CYBER] Ingram Micro et Xguard One lance un EDR pour les PME",
     "score": 90,
     "summary": "[CYBER] Ingram Micro et Xguard One lance un EDR pour les PME / [CYBER] OpenAI lance Astra pour le droit pour les professionnels du droit",
     "count": 2,
-    "time": "2026-09-19T12:27:30.403Z"
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 49,
+    "id": 54,
     "title": "[CYBER] La cybersécurité se réalise chez les PME",
     "score": 90,
     "summary": "[CYBER] La cybersécurité se réalise chez les PME",
     "count": 1,
-    "time": "2026-09-19T12:27:30.403Z"
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 50,
+    "id": 55,
     "title": "[CYBER] Les agents d'OpenAI auraient pour objectif de mettre en place la plateforme RubyGems",
     "score": 90,
     "summary": "[CYBER] Les agents d'OpenAI auraient pour objectif de mettre en place la plateforme RubyGems",
     "count": 1,
-    "time": "2026-09-19T12:27:30.403Z"
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 51,
+    "id": 56,
     "title": "[CYBER] CUEEC 2026: un pacte de richesse et d'intervention pour renforcer la souveraineté de la richesse",
     "score": 90,
     "summary": "[CYBER] CUEEC 2026: un pacte de richesse et d'intervention pour renforcer la souveraineté de la richesse",
     "count": 1,
-    "time": "2026-09-19T12:27:30.403Z"
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 52,
+    "id": 57,
     "title": "[CYBER] IA: peut-on appeler au ralentissement tout en investissant des centaines de milliards?",
     "score": 90,
     "summary": "[CYBER] IA: peut-on appeler au ralentissement tout en investissant des centaines de milliards?",
     "count": 1,
-    "time": "2026-09-19T12:27:30.403Z"
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 53,
+    "id": 58,
     "title": "[CYBER] Microsoft a publié un code de conduite pour encadrer ses IA",
     "score": 90,
     "summary": "[CYBER] Microsoft a publié un code de conduite pour encadrer ses IA",
     "count": 1,
-    "time": "2026-09-19T12:27:30.403Z"
+    "time": "2026-09-19T18:34:44.464Z"
   },
   {
-    "id": 54,
+    "id": 59,
     "title": "[CYBER] Google corrige 42 défaillances de la courbe dans Chrome",
     "score": 90,
     "summary": "[CYBER] Google corrige 42 défaillances de la courbe dans Chrome",
     "count": 1,
-    "time": "2026-09-19T12:27:30.403Z"
+    "time": "2026-09-19T18:34:44.464Z"
   }
 ]
