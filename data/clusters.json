@@ -1,43 +1,5 @@
 [
   {
-    "title": "Yvelines : le domicile du président de la Fédération de judo cambriolé, les auteurs lourdement condamnés",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Yvelines : le domicile du président de la Fédération de judo cambriolé, les auteurs lourdement condamnés",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-18T12:54:36.687Z",
-        "link": "https://www.leparisien.fr/yvelines-78/yvelines-le-domicile-du-president-de-la-federation-de-judo-cambriole-les-auteurs-lourdement-condamnes-16-09-2026-WAY36Q2QSBDQBNSAKIRIBDMUJM.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Yvelines : le domicile du président de la Fédération de judo cambriolé, les aute..."
-      }
-    ],
-    "summary": "Yvelines : le domicile du président de la Fédération de judo cambriolé, les auteurs lourdement condamnés"
-  },
-  {
-    "title": "« Une escroquerie sophistiquée » : la banque en ligne Revolut victime de pirates informatiques, les données de 680 clients compromises",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "« Une escroquerie sophistiquée » : la banque en ligne Revolut victime de pirates informatiques, les données de 680 clients compromises",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-18T12:54:36.687Z",
-        "link": "https://www.leparisien.fr/high-tech/une-escroquerie-sophistiquee-la-banque-en-ligne-revolut-victime-de-pirates-informatiques-les-donnees-de-680-clients-compromises-16-09-2026-WSBKIH54O5AFFDKFN6JYOWR7IU.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : « Une escroquerie sophistiquée » : la banque en ligne Revolut victime de pirates..."
-      }
-    ],
-    "summary": "« Une escroquerie sophistiquée » : la banque en ligne Revolut victime de pirates informatiques, les données de 680 clients compromises"
-  },
-  {
     "title": "Démarchage téléphonique : la répression des fraudes inflige une amende d’un million d’euros à l’opérateur d’Altice Syma Mobile",
     "score": 97,
     "count": 1,
@@ -59,11 +21,9 @@
   {
     "title": "L’ancien major « pervers » et « malsain » condamné pour l’agression sexuelle de jeunes policières au tribunal de Paris",
     "score": 97,
-    "count": 3,
+    "count": 1,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.sudouest.fr/faits-divers/rss.xml",
-      "https://www.20minutes.fr/feeds/rss-une.xml"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
     "items": [
       {
@@ -73,25 +33,9 @@
         "link": "https://www.leparisien.fr/faits-divers/lancien-major-pervers-et-malsain-condamne-pour-lagression-sexuelle-de-jeunes-policieres-au-tribunal-de-paris-16-09-2026-J4BOQJRCHBEYPO4GBJZBEGNKJ4.php",
         "score": 97,
         "summary": "Point de situation critique concernant : L’ancien major « pervers » et « malsain » condamné pour l’agression sexuelle de ..."
-      },
-      {
-        "title": "« Vous aviez 22 ans, elle en avait 14 » : un jeune sans-abri condamné à Pau à deux mois de prison avec sursis pour agression sexuelle",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-09-18T09:06:11.000Z",
-        "link": "https://www.sudouest.fr/justice/vous-aviez-22-ans-elle-en-avait-14-un-jeune-sans-abri-condamne-a-pau-a-deux-mois-de-prison-avec-sursis-pour-agression-sexuelle-30679719.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : « Vous aviez 22 ans, elle en avait 14 » : un jeune sans-abri condamné à Pau à de..."
-      },
-      {
-        "title": "Stéphane Plaza : L’ancien animateur télé condamné en appel à 18 mois de prison avec sursis pour violences conjugales",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-09-18T11:59:19.000Z",
-        "link": "https://www.20minutes.fr/justice/4246547-20260918-stephane-plaza-ancien-animateur-tv-condamne-appel-18-mois-prison-sursis-violences-conjugales?at_medium=display&at_campaign=149",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Stéphane Plaza : L’ancien animateur télé condamné en appel à 18 mois de prison a..."
       }
     ],
-    "summary": "L’ancien major « pervers » et « malsain » condamné pour l’agression sexuelle de jeunes policières au tribunal de Paris / « Vous aviez 22 ans, elle en avait 14 » : un jeune sans-abri condamné à Pau à deux mois de prison avec sursis pour agression sexuelle"
+    "summary": "L’ancien major « pervers » et « malsain » condamné pour l’agression sexuelle de jeunes policières au tribunal de Paris"
   },
   {
     "title": "Agression à la machette à Mulhouse : un homme placé en détention provisoire",
@@ -131,7 +75,7 @@
       {
         "title": "Le maire de Concarneau placé en garde à vue dans le cadre d’une enquête pour viol",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-20T04:33:03.703Z",
+        "time": "2026-09-20T13:01:39.759Z",
         "link": "https://www.leparisien.fr/faits-divers/le-maire-de-concarneau-place-en-garde-a-vue-dans-le-cadre-dune-enquete-pour-viol-18-09-2026-5GRKQG6UFNGHZA74GCDOYGGYGM.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Le maire de Concarneau placé en garde à vue dans le cadre d’une enquête pour vio..."
@@ -142,16 +86,15 @@
   {
     "title": "Gironde : le parent d’élève qui avait menacé de mort un surveillant et la principale d’un collège condamné à six mois de prison ferme",
     "score": 97,
-    "count": 5,
+    "count": 4,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
     "items": [
       {
         "title": "Gironde : le parent d’élève qui avait menacé de mort un surveillant et la principale d’un collège condamné à six mois de prison ferme",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-20T04:33:03.703Z",
+        "time": "2026-09-20T13:01:39.759Z",
         "link": "https://www.leparisien.fr/gironde-33/gironde-le-parent-deleve-qui-avait-menace-de-mort-un-surveillant-et-la-principale-dun-college-condamne-a-six-mois-de-prison-ferme-17-09-2026-ASURFVLIFBDXDGEGZ4TEVVFILM.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Gironde : le parent d’élève qui avait menacé de mort un surveillant et la princi..."
@@ -159,7 +102,7 @@
       {
         "title": "Peine alourdie pour Stéphane Plaza, condamné en appel à 18 mois de prison avec sursis",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-20T04:33:03.703Z",
+        "time": "2026-09-20T13:01:39.758Z",
         "link": "https://www.leparisien.fr/culture-loisirs/tv/peine-alourdie-pour-stephane-plaza-condamne-en-appel-a-18-mois-de-prison-avec-sursis-18-09-2026-JW3LGMO4DVA4DNR7G5IPCDWYKA.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Peine alourdie pour Stéphane Plaza, condamné en appel à 18 mois de prison avec s..."
@@ -167,23 +110,15 @@
       {
         "title": "Haut-Rhin : un ancien chirurgien condamné à trois ans de prison, dont un ferme, pour agressions sexuelles sur quatre femmes",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-20T04:33:03.703Z",
+        "time": "2026-09-20T13:01:39.759Z",
         "link": "https://www.leparisien.fr/faits-divers/haut-rhin-un-ancien-chirurgien-condamne-a-trois-ans-de-prison-dont-un-ferme-pour-agressions-sexuelles-sur-quatre-femmes-18-09-2026-WRQ2MCXYE5GWPJEKWYRDXBV3JQ.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Haut-Rhin : un ancien chirurgien condamné à trois ans de prison, dont un ferme, ..."
       },
       {
-        "title": "Violences conjugales : Stéphane Plaza condamné en appel à 18 mois de prison avec sursis",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-09-18T12:10:47.000Z",
-        "link": "https://www.lefigaro.fr/faits-divers/violences-conjugales-en-appel-stephane-plaza-condamne-a-18-mois-de-prison-avec-sursis-20260918",
-        "score": 97,
-        "summary": "Stéphane Plaza condamné en appel à 18 mois de prison avec sursis"
-      },
-      {
         "title": "Crachats, insultes… Le motard qui a pourchassé et percuté la voiture du maire d’Armentières-en-Brie condamné à la prison ferme",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-20T04:33:03.702Z",
+        "time": "2026-09-20T13:01:39.758Z",
         "link": "https://www.leparisien.fr/seine-et-marne-77/crachats-insultes-le-motard-qui-a-pourchasse-et-percute-la-voiture-du-maire-darmentieres-en-brie-condamne-a-la-prison-ferme-19-09-2026-3S5VMNGQU5CXHIMHPGA4NZHUJ4.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Crachats, insultes… Le motard qui a pourchassé et percuté la voiture du maire d’..."
@@ -192,58 +127,22 @@
     "summary": "Gironde : le parent d’élève qui avait menacé de mort un surveillant et la principale d’un collège condamné à six mois de prison ferme / Peine alourdie pour Stéphane Plaza, condamné en appel à 18 mois de prison avec sursis"
   },
   {
-    "title": "\"J'ai signé un contrat d'avocate et j'ai exercé comme avocate\", assure Rachida Dati lors de son procès pour corruption",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.francetvinfo.fr/politique.rss"
-    ],
-    "items": [
-      {
-        "title": "\"J'ai signé un contrat d'avocate et j'ai exercé comme avocate\", assure Rachida Dati lors de son procès pour corruption",
-        "source": "https://www.francetvinfo.fr/politique.rss",
-        "time": "2026-09-18T07:00:02.000Z",
-        "link": "https://www.franceinfo.fr/politique/rachida-dati/j-ai-signe-un-contrat-d-avocate-et-j-ai-exerce-comme-avocate-assure-rachida-dati-lors-de-son-proces-pour-corruption_8197910.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 97,
-        "summary": "Point de situation critique concernant : \"J'ai signé un contrat d'avocate et j'ai exercé comme avocate\", assure Rachida D..."
-      }
-    ],
-    "summary": "\"J'ai signé un contrat d'avocate et j'ai exercé comme avocate\", assure Rachida Dati lors de son procès pour corruption"
-  },
-  {
     "title": "Une « bombe vivante » : un homme condamné à 12 ans de réclusion criminelle pour 32 incendies volontaires",
     "score": 97,
-    "count": 6,
+    "count": 4,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.franceinfo.fr/faits-divers.rss",
-      "https://www.ledauphine.com/Faits-divers-Justice/rss",
-      "https://www.cnews.fr/rss/categorie/faits%20divers"
+      "https://www.cnews.fr/rss/categorie/faits%20divers",
+      "https://www.ledauphine.com/Faits-divers-Justice/rss"
     ],
     "items": [
       {
         "title": "Une « bombe vivante » : un homme condamné à 12 ans de réclusion criminelle pour 32 incendies volontaires",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-20T04:33:03.703Z",
+        "time": "2026-09-20T13:01:39.758Z",
         "link": "https://www.leparisien.fr/charente-16/une-bombe-vivante-un-homme-condamne-a-12-ans-de-reclusion-criminelle-pour-32-incendies-volontaires-18-09-2026-LKJDZGIVRRHWRDY7KYFLGB4RXA.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Une « bombe vivante » : un homme condamné à 12 ans de réclusion criminelle pour ..."
-      },
-      {
-        "title": "En Charente, un homme condamné à douze ans de réclusion criminelle pour 32 incendies volontaires",
-        "source": "https://www.franceinfo.fr/faits-divers.rss",
-        "time": "2026-09-18T13:01:27.000Z",
-        "link": "https://www.franceinfo.fr/faits-divers/incendie/en-charente-un-homme-a-ete-condamne-a-12-ans-de-reclusion-criminelle-pour-32-incendies-volontaires_8199053.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 97,
-        "summary": "Point de situation critique concernant : En Charente, un homme condamné à douze ans de réclusion criminelle pour 32 incen..."
-      },
-      {
-        "title": "Charente. « Bombe vivante » : un homme condamné à 12 ans de réclusion criminelle pour 32 incendies volontaires",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-09-18T11:27:00.000Z",
-        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/18/bombe-vivante-un-homme-condamne-a-12-ans-de-reclusion-criminelle-pour-32-incendies-volontaires",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Charente. « Bombe vivante » : un homme condamné à 12 ans de réclusion criminelle..."
       },
       {
         "title": "«Une bombe vivante» : un homme condamné à 12 ans de réclusion criminelle pour 32 incendies volontaires",
@@ -256,7 +155,7 @@
       {
         "title": "Meurtre de Zakaria à Romans-sur-Isère : l’auteur du coup mortel condamné à 15 ans de réclusion criminelle",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-20T04:33:03.702Z",
+        "time": "2026-09-20T13:01:39.758Z",
         "link": "https://www.leparisien.fr/faits-divers/meurtre-de-zakaria-a-romans-sur-isere-lauteur-du-coup-mortel-condamne-a-15-ans-de-reclusion-criminelle-18-09-2026-7YP3IJVH55GEFIGXFVACI74KFE.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Meurtre de Zakaria à Romans-sur-Isère : l’auteur du coup mortel condamné à 15 an..."
@@ -270,7 +169,7 @@
         "summary": "Point de situation critique concernant : Drôme. Le meurtrier du jeune Zakaria condamné à 15 ans de réclusion criminelle..."
       }
     ],
-    "summary": "Une « bombe vivante » : un homme condamné à 12 ans de réclusion criminelle pour 32 incendies volontaires / En Charente, un homme condamné à douze ans de réclusion criminelle pour 32 incendies volontaires"
+    "summary": "Une « bombe vivante » : un homme condamné à 12 ans de réclusion criminelle pour 32 incendies volontaires / «Une bombe vivante» : un homme condamné à 12 ans de réclusion criminelle pour 32 incendies volontaires"
   },
   {
     "title": "Scandale du périscolaire : à Paris, une famille dénonce l’inaction de la mairie après des soupçons d’abus sur son enfant de 4 ans",
@@ -283,7 +182,7 @@
       {
         "title": "Scandale du périscolaire : à Paris, une famille dénonce l’inaction de la mairie après des soupçons d’abus sur son enfant de 4 ans",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-20T04:33:03.703Z",
+        "time": "2026-09-20T13:01:39.758Z",
         "link": "https://www.leparisien.fr/paris-75/scandale-du-periscolaire-a-paris-une-famille-denonce-linaction-de-la-mairie-apres-des-soupcons-dabus-sur-son-enfant-de-4-ans-18-09-2026-52KNHJPN4FBKRDKE62D64IV7SM.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Scandale du périscolaire : à Paris, une famille dénonce l’inaction de la mairie ..."
@@ -302,7 +201,7 @@
       {
         "title": "Un enfant de 7 ans soupçonné d’avoir tué sa tante à Saint-Maur-des-Fossés, la mère en garde à vue",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-20T04:33:03.703Z",
+        "time": "2026-09-20T13:01:39.759Z",
         "link": "https://www.leparisien.fr/faits-divers/saint-maur-des-fosses-un-enfant-de-7-ans-suspecte-davoir-poignarde-sa-tante-a-mort-18-09-2026-BJ3NV2WCSRGO7JF5GIONFIDLDY.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Un enfant de 7 ans soupçonné d’avoir tué sa tante à Saint-Maur-des-Fossés, la mè..."
@@ -310,116 +209,13 @@
       {
         "title": "Ni garde à vue, ni sanction pénale : comment l’enquête sur l’enfant de 7 ans soupçonné d’avoir tué sa tante va-t-elle se dérouler ?",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-20T04:33:03.702Z",
+        "time": "2026-09-20T13:01:39.758Z",
         "link": "https://www.leparisien.fr/faits-divers/ni-garde-a-vue-ni-sanction-penale-comment-lenquete-sur-lenfant-de-7-ans-soupconne-davoir-tue-sa-tante-va-t-elle-se-derouler-19-09-2026-GVQ6I367HJHPRP6QAPDG4LGV5I.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Ni garde à vue, ni sanction pénale : comment l’enquête sur l’enfant de 7 ans sou..."
       }
     ],
     "summary": "Un enfant de 7 ans soupçonné d’avoir tué sa tante à Saint-Maur-des-Fossés, la mère en garde à vue / Ni garde à vue, ni sanction pénale : comment l’enquête sur l’enfant de 7 ans soupçonné d’avoir tué sa tante va-t-elle se dérouler ?"
-  },
-  {
-    "title": "Stéphane Plaza condamné en appel à dix-huit mois de prison avec sursis pour violences conjugales",
-    "score": 97,
-    "count": 2,
-    "sources": [
-      "https://www.lemonde.fr/justice/rss_full.xml",
-      "https://www.cnews.fr/rss/categorie/faits%20divers"
-    ],
-    "items": [
-      {
-        "title": "Stéphane Plaza condamné en appel à dix-huit mois de prison avec sursis pour violences conjugales",
-        "source": "https://www.lemonde.fr/justice/rss_full.xml",
-        "time": "2026-09-18T12:47:27.000Z",
-        "link": "https://www.lemonde.fr/societe/article/2026/09/18/stephane-plaza-condamne-en-appel-a-dix-huit-mois-de-prison-avec-sursis-pour-violences-conjugales_6776789_3224.html",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Stéphane Plaza condamné en appel à dix-huit mois de prison avec sursis pour viol..."
-      },
-      {
-        "title": "Stéphane Plaza : jugé pour violences conjugales, l'ex-animateur condamné en appel à 18 mois d'emprisonnement avec sursis",
-        "source": "https://www.cnews.fr/rss/categorie/faits%20divers",
-        "time": "2026-09-18T11:50:56.000Z",
-        "link": "https://www.cnews.fr/faits-divers/2026-09-18/stephane-plaza-juge-pour-violences-conjugales-lex-animateur-condamne-en",
-        "score": 97,
-        "summary": "jugé pour violences conjugales, l'ex-animateur condamné en appel à 18 mois d'emprisonnement avec sursis"
-      }
-    ],
-    "summary": "Stéphane Plaza condamné en appel à dix-huit mois de prison avec sursis pour violences conjugales / Stéphane Plaza : jugé pour violences conjugales, l'ex-animateur condamné en appel à 18 mois d'emprisonnement avec sursis"
-  },
-  {
-    "title": "En Charente, un homme à l’origine de 32 incendies condamné à douze ans de prison",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.lemonde.fr/justice/rss_full.xml"
-    ],
-    "items": [
-      {
-        "title": "En Charente, un homme à l’origine de 32 incendies condamné à douze ans de prison",
-        "source": "https://www.lemonde.fr/justice/rss_full.xml",
-        "time": "2026-09-18T12:15:19.000Z",
-        "link": "https://www.lemonde.fr/societe/article/2026/09/18/en-charente-un-homme-a-l-origine-de-32-incendies-condamne-a-douze-ans-de-prison_6776784_3224.html",
-        "score": 97,
-        "summary": "Point de situation critique concernant : En Charente, un homme à l’origine de 32 incendies condamné à douze ans de prison..."
-      }
-    ],
-    "summary": "En Charente, un homme à l’origine de 32 incendies condamné à douze ans de prison"
-  },
-  {
-    "title": "Une femme et son bébé tués à l’arme blanche à Drancy, le conjoint placé en garde à vue mais « aucune piste n’est écartée »",
-    "score": 97,
-    "count": 3,
-    "sources": [
-      "https://www.sudouest.fr/faits-divers/rss.xml",
-      "https://www.ledauphine.com/Faits-divers-Justice/rss",
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Une femme et son bébé tués à l’arme blanche à Drancy, le conjoint placé en garde à vue mais « aucune piste n’est écartée »",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-09-18T10:18:40.000Z",
-        "link": "https://www.sudouest.fr/societe/feminicides/une-femme-et-son-bebe-tues-a-l-arme-blanche-a-drancy-le-conjoint-place-en-garde-a-vue-mais-aucune-piste-n-est-ecartee-30681324.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Une femme et son bébé tués à l’arme blanche à Drancy, le conjoint placé en garde..."
-      },
-      {
-        "title": "Seine-Saint-Denis. Une femme et son bébé tués à l'arme blanche, le conjoint en garde à vue",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-09-18T09:40:00.000Z",
-        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/18/une-femme-et-son-bebe-tues-a-l-arme-blanche-le-conjoint-en-garde-a-vue",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Seine-Saint-Denis. Une femme et son bébé tués à l'arme blanche, le conjoint en g..."
-      },
-      {
-        "title": "« Je n’ai pas dormi de la nuit » : l’effroi à Drancy après les meurtres à l’arme blanche d’une femme et de son nourrisson",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-20T04:33:03.703Z",
-        "link": "https://www.leparisien.fr/seine-saint-denis-93/meurtres-dune-femme-et-de-son-bebe-dun-mois-a-drancy-un-homme-sest-rendu-a-la-police-18-09-2026-ASQS6OWAARBDHEMUK7QFAEOIAM.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : « Je n’ai pas dormi de la nuit » : l’effroi à Drancy après les meurtres à l’arme..."
-      }
-    ],
-    "summary": "Une femme et son bébé tués à l’arme blanche à Drancy, le conjoint placé en garde à vue mais « aucune piste n’est écartée » / Seine-Saint-Denis. Une femme et son bébé tués à l'arme blanche, le conjoint en garde à vue"
-  },
-  {
-    "title": "Un ancien chirurgien condamné pour agressions sexuelles et harcèlement à Colmar",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.sudouest.fr/faits-divers/rss.xml"
-    ],
-    "items": [
-      {
-        "title": "Un ancien chirurgien condamné pour agressions sexuelles et harcèlement à Colmar",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-09-18T08:13:35.000Z",
-        "link": "https://www.sudouest.fr/sante/hopital/un-ancien-chirurgien-condamne-pour-agressions-sexuelles-et-harcelement-a-colmar-30679622.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Un ancien chirurgien condamné pour agressions sexuelles et harcèlement à Colmar..."
-      }
-    ],
-    "summary": "Un ancien chirurgien condamné pour agressions sexuelles et harcèlement à Colmar"
   },
   {
     "title": "Municipales 2026 : huit militants identitaires condamnés pour avoir perturbé un meeting LFI près de Lille",
@@ -432,7 +228,7 @@
       {
         "title": "Municipales 2026 : huit militants identitaires condamnés pour avoir perturbé un meeting LFI près de Lille",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-20T04:33:03.702Z",
+        "time": "2026-09-20T13:01:39.758Z",
         "link": "https://www.leparisien.fr/faits-divers/municipales-2026-huit-militants-identitaires-condamnes-pour-avoir-perturbe-un-meeting-lfi-pres-de-lille-18-09-2026-JY2FPCXM5NHIFECQAUUDEU2HUI.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Municipales 2026 : huit militants identitaires condamnés pour avoir perturbé un ..."
@@ -443,9 +239,10 @@
   {
     "title": "Marseille : un enfant de 9 ans arrêté au volant d'une voiture, son père placé en garde à vue",
     "score": 97,
-    "count": 1,
+    "count": 2,
     "sources": [
-      "https://www.franceinfo.fr/faits-divers.rss"
+      "https://www.franceinfo.fr/faits-divers.rss",
+      "https://www.ledauphine.com/Faits-divers-Justice/rss"
     ],
     "items": [
       {
@@ -455,9 +252,17 @@
         "link": "https://www.franceinfo.fr/marseille/marseille-un-enfant-de-9-ans-arrete-au-volant-d-une-voiture-son-pere-place-en-garde-a-vue_8199110.html#xtor=RSS-3-%5Bgeneral%5D",
         "score": 97,
         "summary": "un enfant de 9 ans arrêté au volant d'une voiture, son père placé en garde à vue"
+      },
+      {
+        "title": "Drôme. Plusieurs personnes blessées par balles dans la nuit : un homme arrêté et placé en garde à vue",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-09-20T06:40:00.000Z",
+        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/20/un-homme-arrete-apres-avoir-blesse-par-balles-plusieurs-personnes-dans-la-nuit",
+        "score": 97,
+        "summary": "un homme arrêté et placé en garde à vue"
       }
     ],
-    "summary": "Marseille : un enfant de 9 ans arrêté au volant d'une voiture, son père placé en garde à vue"
+    "summary": "Marseille : un enfant de 9 ans arrêté au volant d'une voiture, son père placé en garde à vue / Drôme. Plusieurs personnes blessées par balles dans la nuit : un homme arrêté et placé en garde à vue"
   },
   {
     "title": "Un militaire de Mérignac condamné pour détention de contenus pédopornographiques et sollicitation de mineures",
@@ -504,25 +309,6 @@
       }
     ],
     "summary": "Grenoble. Une intervention de police remarquée en centre-ville : un homme en garde à vue pour proxénétisme"
-  },
-  {
-    "title": "La tour Eiffel, monument de carte postale plombé par les scandales",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.lemonde.fr/economie/rss_full.xml"
-    ],
-    "items": [
-      {
-        "title": "La tour Eiffel, monument de carte postale plombé par les scandales",
-        "source": "https://www.lemonde.fr/economie/rss_full.xml",
-        "time": "2026-09-18T13:01:35.000Z",
-        "link": "https://www.lemonde.fr/politique/article/2026/09/18/la-tour-eiffel-monument-de-carte-postale-plombe-par-les-scandales_6776793_823448.html",
-        "score": 97,
-        "summary": "Point de situation critique concernant : La tour Eiffel, monument de carte postale plombé par les scandales..."
-      }
-    ],
-    "summary": "La tour Eiffel, monument de carte postale plombé par les scandales"
   },
   {
     "title": "Drôme : le meurtrier de Zakaria, 15 ans, tué alors qu'il s'interposait lors d'une altercation, condamné à 15 ans de prison",
@@ -629,7 +415,7 @@
       {
         "title": "Une « centaine de relations sexuelles avec son fils » à peine majeur : une Américaine de 46 ans inculpée pour inceste",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-20T04:33:03.702Z",
+        "time": "2026-09-20T13:01:39.758Z",
         "link": "https://www.leparisien.fr/faits-divers/une-centaine-de-relations-sexuelles-avec-son-fils-a-peine-majeur-une-americaine-de-46-ans-inculpee-pour-inceste-19-09-2026-KM26CC7RKBHVTKV7S5MBBCQV4Y.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Une « centaine de relations sexuelles avec son fils » à peine majeur : une Améri..."
@@ -648,7 +434,7 @@
       {
         "title": "Chantage à la photo sexuelle : en Essonne, l’ex-athlète Toumany Coulibaly à nouveau condamné",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-20T04:33:03.702Z",
+        "time": "2026-09-20T13:01:39.758Z",
         "link": "https://www.leparisien.fr/essonne-91/chantage-a-la-photo-sexuelle-en-essonne-lex-athlete-toumany-coulibaly-a-nouveau-condamne-19-09-2026-LKLHOEEXTZDY5P7CIXT3BCS5YA.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Chantage à la photo sexuelle : en Essonne, l’ex-athlète Toumany Coulibaly à nouv..."
@@ -667,7 +453,7 @@
       {
         "title": "« Le chauffeur » aurait collecté 24 millions d’euros pour le réseau de blanchiment géant",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-20T04:33:03.702Z",
+        "time": "2026-09-20T13:01:39.758Z",
         "link": "https://www.leparisien.fr/faits-divers/le-chauffeur-aurait-collecte-24-millions-deuros-pour-le-reseau-de-blanchiment-geant-19-09-2026-DNKTFDU3XNBULB64MO5OQRNQZY.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Le chauffeur » aurait collecté 24 millions d’euros pour le réseau de blanchime..."
@@ -771,6 +557,101 @@
     "summary": "Etats-Unis : CNN et d’autres médias recalés de la Maison-Blanche par Trump, on vous explique ce scandale"
   },
   {
+    "title": "Des incidents à Saint-Pierre-des-Corps et un policier en garde à vue après une collision entre une voiture de police et une moto",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.franceinfo.fr/faits-divers.rss"
+    ],
+    "items": [
+      {
+        "title": "Des incidents à Saint-Pierre-des-Corps et un policier en garde à vue après une collision entre une voiture de police et une moto",
+        "source": "https://www.franceinfo.fr/faits-divers.rss",
+        "time": "2026-09-20T10:51:40.000Z",
+        "link": "https://www.franceinfo.fr/faits-divers/des-violences-a-saint-pierre-des-corps-apres-une-collision-entre-une-voiture-de-police-et-une-moto_8201426.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Des incidents à Saint-Pierre-des-Corps et un policier en garde à vue après une c..."
+      }
+    ],
+    "summary": "Des incidents à Saint-Pierre-des-Corps et un policier en garde à vue après une collision entre une voiture de police et une moto"
+  },
+  {
+    "title": "Gironde : il renverse un piéton et prend la fuite, un automobiliste placé en garde à vue",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.sudouest.fr/faits-divers/rss.xml"
+    ],
+    "items": [
+      {
+        "title": "Gironde : il renverse un piéton et prend la fuite, un automobiliste placé en garde à vue",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-09-20T10:49:55.000Z",
+        "link": "https://www.sudouest.fr/faits-divers/gironde-il-renverse-un-pieton-et-prend-la-fuite-un-automobiliste-place-en-garde-a-vue-30708810.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Gironde : il renverse un piéton et prend la fuite, un automobiliste placé en gar..."
+      }
+    ],
+    "summary": "Gironde : il renverse un piéton et prend la fuite, un automobiliste placé en garde à vue"
+  },
+  {
+    "title": "Eure. Il regardait une série Netflix au volant de son camion : un routier condamné après la mort d'un gendarme",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.ledauphine.com/Faits-divers-Justice/rss"
+    ],
+    "items": [
+      {
+        "title": "Eure. Il regardait une série Netflix au volant de son camion : un routier condamné après la mort d'un gendarme",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-09-20T10:02:00.000Z",
+        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/20/il-regardait-une-serie-netflix-au-volant-de-son-camion-un-routier-condamne-apres-la-mort-d-un-gendarme",
+        "score": 97,
+        "summary": "un routier condamné après la mort d'un gendarme"
+      }
+    ],
+    "summary": "Eure. Il regardait une série Netflix au volant de son camion : un routier condamné après la mort d'un gendarme"
+  },
+  {
+    "title": "Football. Droits TV de la Ligue 1 : enquête ouverte contre Nasser Al-Khelaïfi pour prise illégale d'intérêts",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.ledauphine.com/Faits-divers-Justice/rss"
+    ],
+    "items": [
+      {
+        "title": "Football. Droits TV de la Ligue 1 : enquête ouverte contre Nasser Al-Khelaïfi pour prise illégale d'intérêts",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-09-20T10:18:00.000Z",
+        "link": "https://www.ledauphine.com/sport/2026/09/19/droits-tv-de-la-ligue-1-enquete-ouverte-contre-nasser-al-khelaifi-pour-prise-illegale-d-interets",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Football. Droits TV de la Ligue 1 : enquête ouverte contre Nasser Al-Khelaïfi po..."
+      }
+    ],
+    "summary": "Football. Droits TV de la Ligue 1 : enquête ouverte contre Nasser Al-Khelaïfi pour prise illégale d'intérêts"
+  },
+  {
+    "title": "L'État, via Bfpifrance, accorde un prêt de 2 millions d'euros à l'usine Fibre Excellence de Saint-Gaudens, dernier fabricant de pâte à papier en France actuellement en redressement judiciaire",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.bfmtv.com/rss/economie/"
+    ],
+    "items": [
+      {
+        "title": "L'État, via Bfpifrance, accorde un prêt de 2 millions d'euros à l'usine Fibre Excellence de Saint-Gaudens, dernier fabricant de pâte à papier en France actuellement en redressement judiciaire",
+        "source": "https://www.bfmtv.com/rss/economie/",
+        "time": "2026-09-20T09:04:00.000Z",
+        "link": "https://www.bfmtv.com/economie/entreprises/industries/l-etat-via-bfpifrance-accorde-un-pret-de-2-millions-d-euros-a-l-usine-fibre-excellence-de-saint-gaudens-dernier-fabricant-de-pate-a-papier-en-france-actuellement-en-redressement-judiciaire_AD-202609200147.html",
+        "score": 97,
+        "summary": "Point de situation critique concernant : L'État, via Bfpifrance, accorde un prêt de 2 millions d'euros à l'usine Fibre Ex..."
+      }
+    ],
+    "summary": "L'État, via Bfpifrance, accorde un prêt de 2 millions d'euros à l'usine Fibre Excellence de Saint-Gaudens, dernier fabricant de pâte à papier en France actuellement en redressement judiciaire"
+  },
+  {
     "title": "Des chercheurs ont piraté OpenAI en utilisant une IA d'Anthropic",
     "score": 93,
     "count": 2,
@@ -828,7 +709,7 @@
       {
         "title": "« Aidez-moi ! » : la bande-son glaçante du meurtre commis par un enfant de 7 ans à Saint-Maur",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-20T04:33:03.702Z",
+        "time": "2026-09-20T13:01:39.758Z",
         "link": "https://www.leparisien.fr/faits-divers/aidez-moi-la-bande-son-glacante-du-meurtre-commis-par-un-enfant-de-7-ans-a-saint-maur-19-09-2026-NKNBZTGC4FEZLEUWFMT73YJ6AE.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Aidez-moi ! » : la bande-son glaçante du meurtre commis par un enfant de 7 ans..."
@@ -847,7 +728,7 @@
       {
         "title": "Meurtre de Djamel Bendjaballah dans le Nord : le parquet demande la requalification en crime raciste",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-20T04:33:03.702Z",
+        "time": "2026-09-20T13:01:39.758Z",
         "link": "https://www.leparisien.fr/faits-divers/meurtre-de-djamel-bendjaballah-dans-le-nord-le-parquet-demande-la-requalification-en-crime-raciste-19-09-2026-Q53RV5F5SFG7BH4WBFKWXTSE54.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Meurtre de Djamel Bendjaballah dans le Nord : le parquet demande la requalificat..."
@@ -866,7 +747,7 @@
       {
         "title": "Surdose d’insuline et corps enterré sous la terrasse : une infirmière belge de 36 ans accusée d’avoir tué son compagnon en 2018",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-20T04:33:03.702Z",
+        "time": "2026-09-20T13:01:39.758Z",
         "link": "https://www.leparisien.fr/faits-divers/surdose-dinsuline-et-corps-enterre-sous-la-terrasse-une-infirmiere-belge-de-36-ans-accusee-davoir-tue-son-compagnon-en-2018-19-09-2026-ZKG7DTFMTNC2ZOAVUIIAHAAD3A.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Surdose d’insuline et corps enterré sous la terrasse : une infirmière belge de 3..."
@@ -885,7 +766,7 @@
       {
         "title": "Double meurtre pour une carotte de shit dans le Loiret : un suspect interpellé à Colombes clame son innocence",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-20T04:33:03.702Z",
+        "time": "2026-09-20T13:01:39.758Z",
         "link": "https://www.leparisien.fr/faits-divers/double-meurtre-pour-une-carotte-de-shit-dans-le-loiret-un-suspect-interpelle-a-colombes-clame-son-innocence-19-09-2026-XGLONOYJ55CHPBLIGA2D3EN7AM.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Double meurtre pour une carotte de shit dans le Loiret : un suspect interpellé à..."
@@ -904,7 +785,7 @@
       {
         "title": "« Je vais être très violent » : le père d’une collégienne interpellé en Côte-d’Or après des menaces contre la principale",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-20T04:33:03.702Z",
+        "time": "2026-09-20T13:01:39.758Z",
         "link": "https://www.leparisien.fr/faits-divers/je-vais-etre-tres-violent-le-pere-dune-collegienne-interpelle-en-cote-dor-apres-des-menaces-contre-la-principale-19-09-2026-5JLRUK7WYBD3FLAENWHF2R7XQA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Je vais être très violent » : le père d’une collégienne interpellé en Côte-d’O..."
@@ -923,7 +804,7 @@
       {
         "title": "Pour le commissaire général Frédéric Lauze, « les établissements scolaires sont devenus des points de rendez-vous de la violence »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-20T04:33:03.702Z",
+        "time": "2026-09-20T13:01:39.758Z",
         "link": "https://www.leparisien.fr/faits-divers/pour-le-commissaire-general-frederic-lauze-les-etablissements-scolaires-sont-devenus-des-points-de-rendez-vous-de-la-violence-19-09-2026-RIQ55F6ZQJHOPEVLYLACLYNKBU.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Pour le commissaire général Frédéric Lauze, « les établissements scolaires sont ..."
@@ -942,7 +823,7 @@
       {
         "title": "Après les fusillades près d’écoles à Trappes et à Montataire, faut-il s’inquiéter pour nos enfants ?",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-20T04:33:03.702Z",
+        "time": "2026-09-20T13:01:39.758Z",
         "link": "https://www.leparisien.fr/yvelines-78/apres-les-fusillades-pres-decoles-a-trappes-et-a-montataire-faut-il-sinquieter-pour-nos-enfants-19-09-2026-ICRRZYQAHFES5GXLFDGEVHJ4RU.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Après les fusillades près d’écoles à Trappes et à Montataire, faut-il s’inquiéte..."
@@ -961,7 +842,7 @@
       {
         "title": "Femme tuée au couteau à Saint-Maur : la piste de l’enfant meurtrier de 7 ans se précise",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-20T04:33:03.702Z",
+        "time": "2026-09-20T13:01:39.758Z",
         "link": "https://www.leparisien.fr/faits-divers/femme-tuee-au-couteau-a-saint-maur-la-piste-de-lenfant-meurtrier-de-7-ans-se-precise-18-09-2026-6XQONZRV3RHWBEC3HLBAXB3VD4.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Femme tuée au couteau à Saint-Maur : la piste de l’enfant meurtrier de 7 ans se ..."
@@ -980,7 +861,7 @@
       {
         "title": "« Un crime odieux qui ne peut pas être banalisé » : le patron de Ryanair s’excuse après sa sortie sur les « violeurs »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-20T04:33:03.702Z",
+        "time": "2026-09-20T13:01:39.758Z",
         "link": "https://www.leparisien.fr/faits-divers/un-crime-odieux-qui-ne-peut-pas-etre-banalise-le-patron-de-ryanair-sexcuse-apres-sa-sortie-sur-les-violeurs-18-09-2026-D4K3X7JZTVHBBLMA3ZY54XJLEY.php",
         "score": 90,
         "summary": "le patron de Ryanair s’excuse après sa sortie sur les « violeurs »"
@@ -991,7 +872,7 @@
   {
     "title": "« Faites rentrer les enfants et courez ! » : le récit des parents après la fusillade qui a fait deux blessés près d’une école",
     "score": 90,
-    "count": 2,
+    "count": 3,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
@@ -999,7 +880,7 @@
       {
         "title": "« Faites rentrer les enfants et courez ! » : le récit des parents après la fusillade qui a fait deux blessés près d’une école",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-20T04:33:03.702Z",
+        "time": "2026-09-20T13:01:39.758Z",
         "link": "https://www.leparisien.fr/oise-60/faites-rentrer-les-enfants-et-courez-le-recit-des-parents-apres-la-fusillade-qui-a-fait-deux-blesses-pres-dune-ecole-18-09-2026-2EEF52Z56VHNRIDZFY37MYY26I.php",
         "score": 90,
         "summary": "le récit des parents après la fusillade qui a fait deux blessés près d’une école"
@@ -1007,10 +888,18 @@
       {
         "title": "Deux blessés dans une fusillade près d’une école, en pleine sortie des classes",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-20T04:33:03.703Z",
+        "time": "2026-09-20T13:01:39.759Z",
         "link": "https://www.leparisien.fr/oise-60/deux-blesses-dans-une-fusillade-pres-dune-ecole-en-pleine-sortie-des-classes-17-09-2026-MWHNDZZWWZGNXATZM5ZE6FDDXU.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Deux blessés dans une fusillade près d’une école, en pleine sortie des classes..."
+      },
+      {
+        "title": "« Elle n’a pas été surveillée » : deux soignants jugés pour homicide involontaire après le décès post-accouchement d’une jeune mère",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-09-20T13:01:39.759Z",
+        "link": "https://www.leparisien.fr/val-d-oise-95/elle-na-pas-ete-surveillee-deux-soignants-juges-pour-homicide-involontaire-apres-le-deces-post-accouchement-dune-jeune-mere-17-09-2026-DP5WKWLQGNFOFL26EORXERJLDI.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : « Elle n’a pas été surveillée » : deux soignants jugés pour homicide involontair..."
       }
     ],
     "summary": "« Faites rentrer les enfants et courez ! » : le récit des parents après la fusillade qui a fait deux blessés près d’une école / Deux blessés dans une fusillade près d’une école, en pleine sortie des classes"
@@ -1026,7 +915,7 @@
       {
         "title": "« Au départ, elle ne voulait pas déposer plainte » : elle refuse le huis clos au procès pour viol de son compagnon",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-20T04:33:03.702Z",
+        "time": "2026-09-20T13:01:39.758Z",
         "link": "https://www.leparisien.fr/seine-et-marne-77/au-depart-elle-ne-voulait-pas-deposer-plainte-elle-refuse-le-huis-clos-au-proces-pour-viol-de-son-compagnon-18-09-2026-GMYZHVJ45RB4PCL6Y6AS5IVKDY.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Au départ, elle ne voulait pas déposer plainte » : elle refuse le huis clos au..."
@@ -1045,13 +934,32 @@
       {
         "title": "Elle est partie faire ses courses et n’est jamais rentrée : inquiétante disparition d’une femme de 85 ans à Herblay",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-20T04:33:03.702Z",
+        "time": "2026-09-20T13:01:39.758Z",
         "link": "https://www.leparisien.fr/val-d-oise-95/elle-est-partie-faire-ses-courses-et-nest-jamais-rentree-inquietante-disparition-dune-femme-de-85-ans-a-herblay-18-09-2026-AXYLOZ4GPVH5FDI2RJA4YO7XJ4.php",
         "score": 90,
         "summary": "inquiétante disparition d’une femme de 85 ans à Herblay"
       }
     ],
     "summary": "Elle est partie faire ses courses et n’est jamais rentrée : inquiétante disparition d’une femme de 85 ans à Herblay"
+  },
+  {
+    "title": "« Je n’ai pas dormi de la nuit » : l’effroi à Drancy après les meurtres à l’arme blanche d’une femme et de son nourrisson",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "« Je n’ai pas dormi de la nuit » : l’effroi à Drancy après les meurtres à l’arme blanche d’une femme et de son nourrisson",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-09-20T13:01:39.758Z",
+        "link": "https://www.leparisien.fr/seine-saint-denis-93/meurtres-dune-femme-et-de-son-bebe-dun-mois-a-drancy-un-homme-sest-rendu-a-la-police-18-09-2026-ASQS6OWAARBDHEMUK7QFAEOIAM.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : « Je n’ai pas dormi de la nuit » : l’effroi à Drancy après les meurtres à l’arme..."
+      }
+    ],
+    "summary": "« Je n’ai pas dormi de la nuit » : l’effroi à Drancy après les meurtres à l’arme blanche d’une femme et de son nourrisson"
   },
   {
     "title": "« Même si la justice rend un non-lieu, il sera grillé » : le maire de Concarneau mis en examen pour viol et agression sexuelle",
@@ -1064,7 +972,7 @@
       {
         "title": "« Même si la justice rend un non-lieu, il sera grillé » : le maire de Concarneau mis en examen pour viol et agression sexuelle",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-20T04:33:03.703Z",
+        "time": "2026-09-20T13:01:39.759Z",
         "link": "https://www.leparisien.fr/finistere-29/meme-si-la-justice-rend-un-non-lieu-il-sera-grille-a-concarneau-la-garde-a-vue-du-maire-est-au-coeur-de-toutes-les-discussions-18-09-2026-NGEGTXFBCZD6RGZRRLIJLHOZOE.php",
         "score": 90,
         "summary": "le maire de Concarneau mis en examen pour viol et agression sexuelle"
@@ -1083,7 +991,7 @@
       {
         "title": "Arrêté après 9 ans d’enquête, le suspect de l’affaire du « joggeur pousseur » de Londres retrouvé mort à son domicile",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-20T04:33:03.703Z",
+        "time": "2026-09-20T13:01:39.759Z",
         "link": "https://www.leparisien.fr/faits-divers/arrete-apres-9-ans-denquete-le-suspect-de-laffaire-du-joggeur-pousseur-de-londres-retrouve-mort-a-son-domicile-18-09-2026-32SEQQQK2VHX3MJCLSYEDAWKXQ.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Arrêté après 9 ans d’enquête, le suspect de l’affaire du « joggeur pousseur » de..."
@@ -1102,7 +1010,7 @@
       {
         "title": "Brésil : un tueur en série présumé arrêté par la police déguisé en femme, il avoue être derrière 80 meurtres",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-20T04:33:03.703Z",
+        "time": "2026-09-20T13:01:39.759Z",
         "link": "https://www.leparisien.fr/faits-divers/bresil-un-tueur-en-serie-presume-arrete-par-la-police-deguise-en-femme-il-avoue-etre-derriere-80-meurtres-18-09-2026-3KCNPDYEURGFVKD34HAJ6MWYKI.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Brésil : un tueur en série présumé arrêté par la police déguisé en femme, il avo..."
@@ -1121,7 +1029,7 @@
       {
         "title": "Yvelines : un policier mis en examen et écroué pour des projets d’attentats terroristes",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-20T04:33:03.703Z",
+        "time": "2026-09-20T13:01:39.759Z",
         "link": "https://www.leparisien.fr/faits-divers/yvelines-un-policier-mis-en-examen-et-ecroue-pour-des-projets-dattentats-terroristes-17-09-2026-OIQFKMKVKBGXJJQ2U6KATELBUU.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Yvelines : un policier mis en examen et écroué pour des projets d’attentats terr..."
@@ -1140,7 +1048,7 @@
       {
         "title": "Drôme : un détenu dénudé et violemment agressé à la prison de Valence",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-20T04:33:03.703Z",
+        "time": "2026-09-20T13:01:39.759Z",
         "link": "https://www.leparisien.fr/faits-divers/drome-un-detenu-denude-et-violemment-agresse-a-la-prison-de-valence-17-09-2026-NH76CDHI5ZH4VGFK7S46UDYR5A.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Drôme : un détenu dénudé et violemment agressé à la prison de Valence..."
@@ -1159,7 +1067,7 @@
       {
         "title": "Drancy : une femme et son bébé d’un mois tués, le conjoint soupçonné et en fuite",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-20T04:33:03.703Z",
+        "time": "2026-09-20T13:01:39.759Z",
         "link": "https://www.leparisien.fr/seine-saint-denis-93/bobigny-93000/drancy-une-femme-et-son-bebe-dun-mois-tues-le-conjoint-soupconne-et-en-fuite-17-09-2026-YHSYOGHIBJGOTNVRK7RVFQM6GA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Drancy : une femme et son bébé d’un mois tués, le conjoint soupçonné et en fuite..."
@@ -1178,7 +1086,7 @@
       {
         "title": "« C’est tempête sous un crâne alcoolisé » : dans la tête de Loïk Le Priol, le soir de l’assassinat d’Aramburu",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-20T04:33:03.703Z",
+        "time": "2026-09-20T13:01:39.759Z",
         "link": "https://www.leparisien.fr/faits-divers/cest-tempete-sous-un-crane-alcoolise-dans-la-tete-de-loik-le-priol-le-soir-de-lassassinat-daramburu-17-09-2026-5RALTJACPVDEZEJHJQ6X46D7XU.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « C’est tempête sous un crâne alcoolisé » : dans la tête de Loïk Le Priol, le so..."
@@ -1197,7 +1105,7 @@
       {
         "title": "En Guadeloupe, les autorités appellent à un « sursaut » face à la multiplication des homicides",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-20T04:33:03.703Z",
+        "time": "2026-09-20T13:01:39.759Z",
         "link": "https://www.leparisien.fr/faits-divers/en-guadeloupe-les-autorites-appellent-a-un-sursaut-face-a-la-multiplication-des-homicides-17-09-2026-SWNXFV7QFVFTJFCZAGYL2UELLU.php",
         "score": 90,
         "summary": "Point de situation critique concernant : En Guadeloupe, les autorités appellent à un « sursaut » face à la multiplication..."
@@ -1206,23 +1114,99 @@
     "summary": "En Guadeloupe, les autorités appellent à un « sursaut » face à la multiplication des homicides"
   },
   {
-    "title": "[CYBER] Le Ministère de la Transition cible d'une cyberattaque",
+    "title": "Meurtres de Dacheca et son bébé à Drancy : le conjoint hors de cause, l’ancien compagnon suspect numéro 1",
     "score": 90,
     "count": 1,
     "sources": [
-      "Le Monde Informatique"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
     "items": [
       {
-        "title": "[CYBER] Le Ministère de la Transition cible d'une cyberattaque",
-        "source": "Le Monde Informatique",
-        "time": "2026-09-18T12:53:27.630Z",
-        "link": "https://www.lemondeinformatique.fr/actualites/lire-le-ministere-de-la-transition-ecologique-cible-par-une-cyberattaque-100771.html",
+        "title": "Meurtres de Dacheca et son bébé à Drancy : le conjoint hors de cause, l’ancien compagnon suspect numéro 1",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-09-20T13:01:39.758Z",
+        "link": "https://www.leparisien.fr/seine-saint-denis-93/meurtres-de-dacheca-et-son-bebe-a-drancy-le-conjoint-hors-de-cause-lancien-compagnon-suspect-numero-1-20-09-2026-YAJVGIU4E5AJPIFA6ZUYFDU65Y.php",
         "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] Le Ministère de la Transition cible d'une cyberattaque..."
+        "summary": "Point de situation critique concernant : Meurtres de Dacheca et son bébé à Drancy : le conjoint hors de cause, l’ancien c..."
       }
     ],
-    "summary": "[CYBER] Le Ministère de la Transition cible d'une cyberattaque"
+    "summary": "Meurtres de Dacheca et son bébé à Drancy : le conjoint hors de cause, l’ancien compagnon suspect numéro 1"
+  },
+  {
+    "title": "Youn Soo Nam, un touriste sud-coréen de 86 ans, disparu dans le Gers, a été retrouvé mort dans une rivière",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Youn Soo Nam, un touriste sud-coréen de 86 ans, disparu dans le Gers, a été retrouvé mort dans une rivière",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-09-20T13:01:39.759Z",
+        "link": "https://www.leparisien.fr/faits-divers/youn-soo-nam-un-touriste-sud-coreen-de-86-ans-disparu-dans-le-gers-a-ete-retrouve-mort-dans-une-riviere-17-09-2026-4FH4VTSEGFGZPOHMQHDL6D553Q.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Youn Soo Nam, un touriste sud-coréen de 86 ans, disparu dans le Gers, a été retr..."
+      }
+    ],
+    "summary": "Youn Soo Nam, un touriste sud-coréen de 86 ans, disparu dans le Gers, a été retrouvé mort dans une rivière"
+  },
+  {
+    "title": "Neuf femmes retrouvées mortes en deux mois : ce que l’on sait des mystérieux meurtres en Afrique du Sud",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Neuf femmes retrouvées mortes en deux mois : ce que l’on sait des mystérieux meurtres en Afrique du Sud",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-09-20T13:01:39.759Z",
+        "link": "https://www.leparisien.fr/faits-divers/neuf-femmes-retrouvees-mortes-en-deux-mois-ce-que-lon-sait-des-mysterieux-meurtres-en-afrique-du-sud-17-09-2026-C3AGZQ3QDVEHVLGOBGJNQFNLKU.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Neuf femmes retrouvées mortes en deux mois : ce que l’on sait des mystérieux meu..."
+      }
+    ],
+    "summary": "Neuf femmes retrouvées mortes en deux mois : ce que l’on sait des mystérieux meurtres en Afrique du Sud"
+  },
+  {
+    "title": "« Il n’inspirait pas confiance » : qui est Natalino C., le gardien de Jean-Marie Grenier et Milena, soupçonné de les avoir tués au Portugal ?",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "« Il n’inspirait pas confiance » : qui est Natalino C., le gardien de Jean-Marie Grenier et Milena, soupçonné de les avoir tués au Portugal ?",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-09-20T13:01:39.759Z",
+        "link": "https://www.leparisien.fr/faits-divers/il-ninspirait-pas-confiance-qui-est-natalino-c-le-gardien-de-jean-marie-grenier-et-milena-soupconne-de-les-avoir-tues-au-portugal-17-09-2026-EVPAEFBNKJCN3EA7FSW4J7MHPA.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : « Il n’inspirait pas confiance » : qui est Natalino C., le gardien de Jean-Marie..."
+      }
+    ],
+    "summary": "« Il n’inspirait pas confiance » : qui est Natalino C., le gardien de Jean-Marie Grenier et Milena, soupçonné de les avoir tués au Portugal ?"
+  },
+  {
+    "title": "À Paris, un chef d’entreprise écroué pour avoir violé une femme dans les toilettes « Star Wars » d’un restaurant",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "À Paris, un chef d’entreprise écroué pour avoir violé une femme dans les toilettes « Star Wars » d’un restaurant",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-09-20T13:01:39.759Z",
+        "link": "https://www.leparisien.fr/faits-divers/a-paris-un-chef-dentreprise-ecroue-pour-avoir-viole-une-femme-dans-les-toilettes-star-wars-dun-restaurant-17-09-2026-AXSFEW6XOZH2HN4L2PIPKRJB7A.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : À Paris, un chef d’entreprise écroué pour avoir violé une femme dans les toilett..."
+      }
+    ],
+    "summary": "À Paris, un chef d’entreprise écroué pour avoir violé une femme dans les toilettes « Star Wars » d’un restaurant"
   },
   {
     "title": "[CYBER] M. D. Muse, fils du personnel de l'agent principal des services secrets.",
@@ -1235,7 +1219,7 @@
       {
         "title": "[CYBER] M. D. Muse, fils du personnel de l'agent principal des services secrets.",
         "source": "Le Monde Informatique",
-        "time": "2026-09-20T04:31:55.943Z",
+        "time": "2026-09-20T13:00:30.621Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-meta-devoile-muse-son-premier-agent-ia-personnel-100772.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] M. D. Muse, fils du personnel de l'agent principal des services secrets...."
@@ -1254,7 +1238,7 @@
       {
         "title": "[CYBER] Le nouveau système de facturation électronique: le nouveau système de la cour dans la DSI",
         "source": "Le Monde Informatique",
-        "time": "2026-09-20T04:31:50.766Z",
+        "time": "2026-09-20T13:00:25.273Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-facturation-electronique-le-nouveau-perimetre-de-securite-a-integrer-dans-la-dsi-100775.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le nouveau système de facturation électronique: le nouveau système de la..."
@@ -1273,7 +1257,7 @@
       {
         "title": "[CYBER] Ingram Micro et Xguard One lance un EDR pour les PME",
         "source": "Le Monde Informatique",
-        "time": "2026-09-20T04:31:53.195Z",
+        "time": "2026-09-20T13:00:27.812Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-ingram-micro-et-xguard-one-lancent-un-edr-manage-pour-les-pme-100773.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Ingram Micro et Xguard One lance un EDR pour les PME..."
@@ -1281,7 +1265,7 @@
       {
         "title": "[CYBER] OpenAI lance Astra pour le droit pour les professionnels du droit",
         "source": "Le Monde Informatique",
-        "time": "2026-09-20T04:31:32.834Z",
+        "time": "2026-09-20T13:00:06.571Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-lance-astra-for-law-pour-les-professionnels-du-droit-100794.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] OpenAI lance Astra pour le droit pour les professionnels du droit..."
@@ -1300,7 +1284,7 @@
       {
         "title": "[CYBER] La cybersécurité se réalise chez les PME",
         "source": "Le Monde Informatique",
-        "time": "2026-09-20T04:31:40.079Z",
+        "time": "2026-09-20T13:00:14.118Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-la-cyberassurance-recule-chez-les-pme-francaises-100784.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] La cybersécurité se réalise chez les PME..."
@@ -1319,7 +1303,7 @@
       {
         "title": "[CYBER] Les agents d'OpenAI auraient pour objectif de mettre en place la plateforme RubyGems",
         "source": "Le Monde Informatique",
-        "time": "2026-09-20T04:31:43.252Z",
+        "time": "2026-09-20T13:00:17.560Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-des-agents-d-openai-auraient-cible-la-plateforme-rubygems-100782.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les agents d'OpenAI auraient pour objectif de mettre en place la platefo..."
@@ -1338,7 +1322,7 @@
       {
         "title": "[CYBER] CUEEC 2026: un pacte de richesse et d'intervention pour renforcer la souveraineté de la richesse",
         "source": "Le Monde Informatique",
-        "time": "2026-09-20T04:31:47.469Z",
+        "time": "2026-09-20T13:00:21.891Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-uecc-2026-un-pacte-numerique-et-ia-pour-renforcer-la-souverainete-numerique-100780.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] CUEEC 2026: un pacte de richesse et d'intervention pour renforcer la sou..."
@@ -1357,7 +1341,7 @@
       {
         "title": "[CYBER] IA: peut-on appeler au ralentissement tout en investissant des centaines de milliards?",
         "source": "Le Monde Informatique",
-        "time": "2026-09-20T04:31:36.145Z",
+        "time": "2026-09-20T13:00:09.971Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-ia-peut-on-appeler-au-ralentissement-tout-en-investissant-des-centaines-de-milliards-100786.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] IA: peut-on appeler au ralentissement tout en investissant des centaines..."
@@ -1376,7 +1360,7 @@
       {
         "title": "[CYBER] Microsoft a publié un code de conduite pour encadrer ses IA",
         "source": "Le Monde Informatique",
-        "time": "2026-09-20T04:31:38.298Z",
+        "time": "2026-09-20T13:00:12.205Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-microsoft-publie-un-code-de-conduite-pour-encadrer-ses-ia-100785.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Microsoft a publié un code de conduite pour encadrer ses IA..."
@@ -1395,7 +1379,7 @@
       {
         "title": "[CYBER] Google corrige 42 défaillances de la courbe dans Chrome",
         "source": "Le Monde Informatique",
-        "time": "2026-09-20T04:31:30.540Z",
+        "time": "2026-09-20T13:00:04.215Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-google-corrige-42-failles-de-securite-dans-chrome-100795.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Google corrige 42 défaillances de la courbe dans Chrome..."
