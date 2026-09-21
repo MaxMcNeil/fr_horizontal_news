@@ -1,24 +1,5 @@
 [
   {
-    "title": "Démarchage téléphonique : la répression des fraudes inflige une amende d’un million d’euros à l’opérateur d’Altice Syma Mobile",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Démarchage téléphonique : la répression des fraudes inflige une amende d’un million d’euros à l’opérateur d’Altice Syma Mobile",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-19T12:27:28.477Z",
-        "link": "https://www.leparisien.fr/economie/demarchage-telephonique-la-repression-des-fraudes-inflige-une-amende-dun-million-deuros-a-loperateur-daltice-syma-mobile-16-09-2026-LJTFZI3BZJDHBKAXFT3RLRMN34.php",
-        "score": 97,
-        "summary": "la répression des fraudes inflige une amende d’un million d’euros à l’opérateur d’Altice Syma Mobile"
-      }
-    ],
-    "summary": "Démarchage téléphonique : la répression des fraudes inflige une amende d’un million d’euros à l’opérateur d’Altice Syma Mobile"
-  },
-  {
     "title": "Agression à la machette à Mulhouse : un homme placé en détention provisoire",
     "score": 97,
     "count": 1,
@@ -40,9 +21,10 @@
   {
     "title": "L’ancien maire de Nice Christian Estrosi visé par une enquête pour détournement de fonds, après un signalement d’Éric Ciotti",
     "score": 97,
-    "count": 2,
+    "count": 3,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "https://www.franceinfo.fr/faits-divers.rss"
     ],
     "items": [
       {
@@ -60,6 +42,14 @@
         "link": "https://www.leparisien.fr/faits-divers/le-maire-de-concarneau-place-en-garde-a-vue-dans-le-cadre-dune-enquete-pour-viol-18-09-2026-5GRKQG6UFNGHZA74GCDOYGGYGM.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Le maire de Concarneau placé en garde à vue dans le cadre d’une enquête pour vio..."
+      },
+      {
+        "title": "Une enquête pour meurtre ouverte après la mort d'un homme à Clermont-Ferrand, une femme placée en garde à vue",
+        "source": "https://www.franceinfo.fr/faits-divers.rss",
+        "time": "2026-09-21T14:14:56.000Z",
+        "link": "https://www.franceinfo.fr/france/auvergne-rhone-alpes/une-enquete-pour-meurtre-ouverte-apres-la-mort-d-un-homme-a-clermont-ferrand-une-femme-placee-en-garde-a-vue_8203130.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Une enquête pour meurtre ouverte après la mort d'un homme à Clermont-Ferrand, un..."
       }
     ],
     "summary": "L’ancien maire de Nice Christian Estrosi visé par une enquête pour détournement de fonds, après un signalement d’Éric Ciotti / Le maire de Concarneau placé en garde à vue dans le cadre d’une enquête pour viol"
@@ -67,9 +57,10 @@
   {
     "title": "Gironde : le parent d’élève qui avait menacé de mort un surveillant et la principale d’un collège condamné à six mois de prison ferme",
     "score": 97,
-    "count": 4,
+    "count": 5,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "https://www.franceinfo.fr/faits-divers.rss"
     ],
     "items": [
       {
@@ -99,10 +90,18 @@
       {
         "title": "Crachats, insultes… Le motard qui a pourchassé et percuté la voiture du maire d’Armentières-en-Brie condamné à la prison ferme",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-21T04:31:04.449Z",
+        "time": "2026-09-21T20:23:58.169Z",
         "link": "https://www.leparisien.fr/seine-et-marne-77/crachats-insultes-le-motard-qui-a-pourchasse-et-percute-la-voiture-du-maire-darmentieres-en-brie-condamne-a-la-prison-ferme-19-09-2026-3S5VMNGQU5CXHIMHPGA4NZHUJ4.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Crachats, insultes… Le motard qui a pourchassé et percuté la voiture du maire d’..."
+      },
+      {
+        "title": "Le routier intercepté mi-août sur l'A71 avec 109 kilos de cocaïne, condamné à deux ans de prison ferme",
+        "source": "https://www.franceinfo.fr/faits-divers.rss",
+        "time": "2026-09-21T19:31:56.000Z",
+        "link": "https://www.franceinfo.fr/faits-divers/justice-proces/le-routier-intercepte-mi-aout-sur-l-a71-avec-109-kilos-de-cocaine-condamne-a-deux-ans-de-prison-ferme_8203625.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Le routier intercepté mi-août sur l'A71 avec 109 kilos de cocaïne, condamné à de..."
       }
     ],
     "summary": "Gironde : le parent d’élève qui avait menacé de mort un surveillant et la principale d’un collège condamné à six mois de prison ferme / Peine alourdie pour Stéphane Plaza, condamné en appel à 18 mois de prison avec sursis"
@@ -126,7 +125,7 @@
       {
         "title": "Meurtre de Zakaria à Romans-sur-Isère : l’auteur du coup mortel condamné à 15 ans de réclusion criminelle",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-21T04:31:04.449Z",
+        "time": "2026-09-21T20:23:58.169Z",
         "link": "https://www.leparisien.fr/faits-divers/meurtre-de-zakaria-a-romans-sur-isere-lauteur-du-coup-mortel-condamne-a-15-ans-de-reclusion-criminelle-18-09-2026-7YP3IJVH55GEFIGXFVACI74KFE.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Meurtre de Zakaria à Romans-sur-Isère : l’auteur du coup mortel condamné à 15 an..."
@@ -172,7 +171,7 @@
       {
         "title": "Ni garde à vue, ni sanction pénale : comment l’enquête sur l’enfant de 7 ans soupçonné d’avoir tué sa tante va-t-elle se dérouler ?",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-21T04:31:04.449Z",
+        "time": "2026-09-21T20:23:58.169Z",
         "link": "https://www.leparisien.fr/faits-divers/ni-garde-a-vue-ni-sanction-penale-comment-lenquete-sur-lenfant-de-7-ans-soupconne-davoir-tue-sa-tante-va-t-elle-se-derouler-19-09-2026-GVQ6I367HJHPRP6QAPDG4LGV5I.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Ni garde à vue, ni sanction pénale : comment l’enquête sur l’enfant de 7 ans sou..."
@@ -210,7 +209,7 @@
       {
         "title": "Une « centaine de relations sexuelles avec son fils » à peine majeur : une Américaine de 46 ans inculpée pour inceste",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-21T04:31:04.449Z",
+        "time": "2026-09-21T20:23:58.169Z",
         "link": "https://www.leparisien.fr/faits-divers/une-centaine-de-relations-sexuelles-avec-son-fils-a-peine-majeur-une-americaine-de-46-ans-inculpee-pour-inceste-19-09-2026-KM26CC7RKBHVTKV7S5MBBCQV4Y.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Une « centaine de relations sexuelles avec son fils » à peine majeur : une Améri..."
@@ -229,7 +228,7 @@
       {
         "title": "Chantage à la photo sexuelle : en Essonne, l’ex-athlète Toumany Coulibaly à nouveau condamné",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-21T04:31:04.449Z",
+        "time": "2026-09-21T20:23:58.169Z",
         "link": "https://www.leparisien.fr/essonne-91/chantage-a-la-photo-sexuelle-en-essonne-lex-athlete-toumany-coulibaly-a-nouveau-condamne-19-09-2026-LKLHOEEXTZDY5P7CIXT3BCS5YA.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Chantage à la photo sexuelle : en Essonne, l’ex-athlète Toumany Coulibaly à nouv..."
@@ -248,117 +247,13 @@
       {
         "title": "« Le chauffeur » aurait collecté 24 millions d’euros pour le réseau de blanchiment géant",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-21T04:31:04.449Z",
+        "time": "2026-09-21T20:23:58.169Z",
         "link": "https://www.leparisien.fr/faits-divers/le-chauffeur-aurait-collecte-24-millions-deuros-pour-le-reseau-de-blanchiment-geant-19-09-2026-DNKTFDU3XNBULB64MO5OQRNQZY.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Le chauffeur » aurait collecté 24 millions d’euros pour le réseau de blanchime..."
       }
     ],
     "summary": "« Le chauffeur » aurait collecté 24 millions d’euros pour le réseau de blanchiment géant"
-  },
-  {
-    "title": "Lot-et-Garonne : 124 véhicules contrôlés dans la nuit par les gendarmes, un conducteur en garde à vue",
-    "score": 97,
-    "count": 2,
-    "sources": [
-      "https://www.sudouest.fr/faits-divers/rss.xml",
-      "https://www.ledauphine.com/Faits-divers-Justice/rss"
-    ],
-    "items": [
-      {
-        "title": "Lot-et-Garonne : 124 véhicules contrôlés dans la nuit par les gendarmes, un conducteur en garde à vue",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-09-19T07:31:58.000Z",
-        "link": "https://www.sudouest.fr/faits-divers/lot-et-garonne-124-vehicules-controles-dans-la-nuit-par-les-gendarmes-un-conducteur-en-garde-a-vue-30693975.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Lot-et-Garonne : 124 véhicules contrôlés dans la nuit par les gendarmes, un cond..."
-      },
-      {
-        "title": "Drôme. Plusieurs personnes blessées par balles dans la nuit : un homme arrêté et placé en garde à vue",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-09-20T06:40:00.000Z",
-        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/20/un-homme-arrete-apres-avoir-blesse-par-balles-plusieurs-personnes-dans-la-nuit",
-        "score": 97,
-        "summary": "un homme arrêté et placé en garde à vue"
-      }
-    ],
-    "summary": "Lot-et-Garonne : 124 véhicules contrôlés dans la nuit par les gendarmes, un conducteur en garde à vue / Drôme. Plusieurs personnes blessées par balles dans la nuit : un homme arrêté et placé en garde à vue"
-  },
-  {
-    "title": "Football. Don de Mbappé : le responsable sécurité de l'équipe de France mis en examen pour corruption",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.ledauphine.com/Faits-divers-Justice/rss"
-    ],
-    "items": [
-      {
-        "title": "Football. Don de Mbappé : le responsable sécurité de l'équipe de France mis en examen pour corruption",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-09-19T10:43:00.000Z",
-        "link": "https://www.ledauphine.com/sport/2026/09/19/don-de-mbappe-le-responsable-securite-de-l-equipe-de-france-mis-en-examen-pour-corruption",
-        "score": 97,
-        "summary": "le responsable sécurité de l'équipe de France mis en examen pour corruption"
-      }
-    ],
-    "summary": "Football. Don de Mbappé : le responsable sécurité de l'équipe de France mis en examen pour corruption"
-  },
-  {
-    "title": "Alpes de Haute-Provence. « Maman est méchante » : une quadragénaire condamnée pour avoir maltraité ses trois filles et son mari",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.ledauphine.com/Faits-divers-Justice/rss"
-    ],
-    "items": [
-      {
-        "title": "Alpes de Haute-Provence. « Maman est méchante » : une quadragénaire condamnée pour avoir maltraité ses trois filles et son mari",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-09-19T11:30:00.000Z",
-        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/19/maman-est-mechante-une-quadragenaire-condamnee-pour-avoir-maltraite-ses-trois-filles-et-son-mari",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Alpes de Haute-Provence. « Maman est méchante » : une quadragénaire condamnée po..."
-      }
-    ],
-    "summary": "Alpes de Haute-Provence. « Maman est méchante » : une quadragénaire condamnée pour avoir maltraité ses trois filles et son mari"
-  },
-  {
-    "title": "Le scandale du Grand Prix de Formule 1 percute le porte-parole d’Édouard Philippe",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.mediapart.fr/articles/feed"
-    ],
-    "items": [
-      {
-        "title": "Le scandale du Grand Prix de Formule 1 percute le porte-parole d’Édouard Philippe",
-        "source": "https://www.mediapart.fr/articles/feed",
-        "time": "2026-09-19T12:01:44.000Z",
-        "link": "https://www.mediapart.fr/journal/politique/190926/le-scandale-du-grand-prix-de-formule-1-percute-le-porte-parole-d-edouard-philippe",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Le scandale du Grand Prix de Formule 1 percute le porte-parole d’Édouard Philipp..."
-      }
-    ],
-    "summary": "Le scandale du Grand Prix de Formule 1 percute le porte-parole d’Édouard Philippe"
-  },
-  {
-    "title": "Isère. Détournement de fonds et prise illégale d’intérêts : l’ex-maire de Sainte-Marie-du-Mont bientôt à la barre du tribunal",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.ledauphine.com/Faits-divers-Justice/rss"
-    ],
-    "items": [
-      {
-        "title": "Isère. Détournement de fonds et prise illégale d’intérêts : l’ex-maire de Sainte-Marie-du-Mont bientôt à la barre du tribunal",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-09-19T17:14:00.000Z",
-        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/19/detournement-de-fonds-et-prise-illegale-d-interets-l-ex-maire-de-sainte-marie-du-mont-bientot-a-la-barre-du-tribunal",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Isère. Détournement de fonds et prise illégale d’intérêts : l’ex-maire de Sainte..."
-      }
-    ],
-    "summary": "Isère. Détournement de fonds et prise illégale d’intérêts : l’ex-maire de Sainte-Marie-du-Mont bientôt à la barre du tribunal"
   },
   {
     "title": "Etats-Unis : CNN et d’autres médias recalés de la Maison-Blanche par Trump, on vous explique ce scandale",
@@ -437,6 +332,34 @@
     "summary": "Eure. Il regardait une série Netflix au volant de son camion : un routier condamné après la mort d'un gendarme"
   },
   {
+    "title": "Drôme. Plusieurs personnes blessées par balles dans la nuit : un homme arrêté et placé en garde à vue",
+    "score": 97,
+    "count": 2,
+    "sources": [
+      "https://www.ledauphine.com/Faits-divers-Justice/rss",
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Drôme. Plusieurs personnes blessées par balles dans la nuit : un homme arrêté et placé en garde à vue",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-09-20T06:40:00.000Z",
+        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/20/un-homme-arrete-apres-avoir-blesse-par-balles-plusieurs-personnes-dans-la-nuit",
+        "score": 97,
+        "summary": "un homme arrêté et placé en garde à vue"
+      },
+      {
+        "title": "Nantes : un homme blessé par balles sur un point de deal, six personnes interpellées et placées en garde à vue",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-09-21T20:23:58.169Z",
+        "link": "https://www.leparisien.fr/faits-divers/nantes-un-homme-blesse-par-balles-sur-un-point-de-deal-six-personnes-interpellees-et-placees-en-garde-a-vue-21-09-2026-5A3NBHLMZZACZNOIERCSDXYXP4.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Nantes : un homme blessé par balles sur un point de deal, six personnes interpel..."
+      }
+    ],
+    "summary": "Drôme. Plusieurs personnes blessées par balles dans la nuit : un homme arrêté et placé en garde à vue / Nantes : un homme blessé par balles sur un point de deal, six personnes interpellées et placées en garde à vue"
+  },
+  {
     "title": "Football. Droits TV de la Ligue 1 : enquête ouverte contre Nasser Al-Khelaïfi pour prise illégale d'intérêts",
     "score": 97,
     "count": 1,
@@ -494,23 +417,154 @@
     "summary": " Elections régionales en Allemagne : laminé par les extrêmes, le chancelier allemand ne veut pas démissionner "
   },
   {
-    "title": "Cybersécurité. Piratage de l'Afpa : jusqu'à 1,7 million de personnes potentiellement concernées",
-    "score": 93,
-    "count": 1,
+    "title": "« Je n’ai jamais été en situation de conflit d’intérêts » : jugée pour corruption, Rachida Dati ne lâche rien",
+    "score": 97,
+    "count": 3,
     "sources": [
-      "https://www.ledauphine.com/Faits-divers-Justice/rss"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "https://www.francetvinfo.fr/politique.rss"
     ],
     "items": [
       {
-        "title": "Cybersécurité. Piratage de l'Afpa : jusqu'à 1,7 million de personnes potentiellement concernées",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-09-19T10:36:00.000Z",
-        "link": "https://www.ledauphine.com/science-et-technologie/2026/09/19/piratage-de-l-afpa-jusqu-a-1-7-million-de-personnes-potentiellement-concernees",
-        "score": 93,
-        "summary": "jusqu'à 1,7 million de personnes potentiellement concernées"
+        "title": "« Je n’ai jamais été en situation de conflit d’intérêts » : jugée pour corruption, Rachida Dati ne lâche rien",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-09-21T20:23:58.168Z",
+        "link": "https://www.leparisien.fr/faits-divers/je-nai-jamais-ete-en-situation-de-conflit-dinterets-jugee-pour-corruption-rachida-dati-ne-lache-rien-21-09-2026-GCLL4W3ZYJDBDCUULZ2YCTXZUQ.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : « Je n’ai jamais été en situation de conflit d’intérêts » : jugée pour corruptio..."
+      },
+      {
+        "title": "\"Je n'ai jamais été en situation de conflit d'intérêts\" : à son procès pour corruption, l'ex-eurodéputée Rachida Dati confrontée aux soupçons de lobbying pour Renault",
+        "source": "https://www.francetvinfo.fr/politique.rss",
+        "time": "2026-09-21T19:44:39.000Z",
+        "link": "https://www.franceinfo.fr/politique/rachida-dati/je-n-ai-jamais-ete-en-situation-de-conflit-d-interets-a-son-proces-pour-corruption-l-ex-eurodeputee-rachida-dati-confrontee-aux-soupcons-de-lobbying-pour-renault_8203601.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 97,
+        "summary": "à son procès pour corruption, l'ex-eurodéputée Rachida Dati confrontée aux soupçons de lobbying pour Renault"
+      },
+      {
+        "title": "\"Il n'avait pas besoin de moi\" : à son procès pour corruption, Rachida Dati balaie tout lobbying pour le compte de Carlos Ghosn",
+        "source": "https://www.francetvinfo.fr/politique.rss",
+        "time": "2026-09-21T19:47:04.000Z",
+        "link": "https://www.franceinfo.fr/politique/rachida-dati/direct-l-interrogatoire-de-rachida-dati-lors-de-son-proces-pour-corruption-et-trafic-d-influence-se-poursuit-ce-lundi_8202833.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 97,
+        "summary": "à son procès pour corruption, Rachida Dati balaie tout lobbying pour le compte de Carlos Ghosn"
       }
     ],
-    "summary": "Cybersécurité. Piratage de l'Afpa : jusqu'à 1,7 million de personnes potentiellement concernées"
+    "summary": "« Je n’ai jamais été en situation de conflit d’intérêts » : jugée pour corruption, Rachida Dati ne lâche rien / \"Je n'ai jamais été en situation de conflit d'intérêts\" : à son procès pour corruption, l'ex-eurodéputée Rachida Dati confrontée aux soupçons de lobbying pour Renault"
+  },
+  {
+    "title": "« Violences et humiliations » : l’influenceur Mounim Sabhi de « la Team du Château » en garde à vue pour des soupçons d’abus",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "« Violences et humiliations » : l’influenceur Mounim Sabhi de « la Team du Château » en garde à vue pour des soupçons d’abus",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-09-21T20:23:58.168Z",
+        "link": "https://www.leparisien.fr/faits-divers/violences-et-humiliations-linfluenceur-mounim-sabhi-de-la-team-du-chateau-en-garde-a-vue-pour-des-soupcons-dabus-21-09-2026-V5XH3N4E2VEFFMRFHTLHF4LYPU.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : « Violences et humiliations » : l’influenceur Mounim Sabhi de « la Team du Châte..."
+      }
+    ],
+    "summary": "« Violences et humiliations » : l’influenceur Mounim Sabhi de « la Team du Château » en garde à vue pour des soupçons d’abus"
+  },
+  {
+    "title": "Grégory Lenoci, un « homme dangereux » ou un père qui s’est fait justice ? La Belgique divisée sur ce Belge condamné à 17 ans de prison",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Grégory Lenoci, un « homme dangereux » ou un père qui s’est fait justice ? La Belgique divisée sur ce Belge condamné à 17 ans de prison",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-09-21T20:23:58.169Z",
+        "link": "https://www.leparisien.fr/faits-divers/gregory-lenoci-un-homme-dangereux-ou-un-pere-qui-sest-fait-justice-la-belgique-divisee-sur-ce-belge-condamne-a-17-ans-de-prison-21-09-2026-3M6O7TE7AVBZLMY3Z6QI6ON2NQ.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Grégory Lenoci, un « homme dangereux » ou un père qui s’est fait justice ? La Be..."
+      }
+    ],
+    "summary": "Grégory Lenoci, un « homme dangereux » ou un père qui s’est fait justice ? La Belgique divisée sur ce Belge condamné à 17 ans de prison"
+  },
+  {
+    "title": "Derrière l’évasion d’un détenu dans un sac à linge, des soupçons de corruption, des failles et le rôle trouble d’une surveillante de prison",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.lemonde.fr/societe/rss_full.xml"
+    ],
+    "items": [
+      {
+        "title": "Derrière l’évasion d’un détenu dans un sac à linge, des soupçons de corruption, des failles et le rôle trouble d’une surveillante de prison",
+        "source": "https://www.lemonde.fr/societe/rss_full.xml",
+        "time": "2026-09-21T15:30:16.000Z",
+        "link": "https://www.lemonde.fr/societe/article/2026/09/21/derriere-l-evasion-d-un-detenu-dans-un-sac-a-linge-des-soupcons-de-corruption-des-failles-et-le-role-trouble-d-une-surveillante-de-prison_6779250_3224.html",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Derrière l’évasion d’un détenu dans un sac à linge, des soupçons de corruption, ..."
+      }
+    ],
+    "summary": "Derrière l’évasion d’un détenu dans un sac à linge, des soupçons de corruption, des failles et le rôle trouble d’une surveillante de prison"
+  },
+  {
+    "title": "Tribunal de Dax. « Vous avez porté atteinte à l’innocence de l’enfance » : vingt-huit ans après, un beau-père condamné pour avoir agressé sexuellement son beau-fils",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.sudouest.fr/faits-divers/rss.xml"
+    ],
+    "items": [
+      {
+        "title": "Tribunal de Dax. « Vous avez porté atteinte à l’innocence de l’enfance » : vingt-huit ans après, un beau-père condamné pour avoir agressé sexuellement son beau-fils",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-09-21T17:22:06.000Z",
+        "link": "https://www.sudouest.fr/faits-divers/faits-divers-dans-les-landes/tribunal-de-dax-vous-avez-porte-atteinte-a-l-innocence-de-l-enfance-vingt-huit-ans-apres-un-beau-pere-condamne-pour-avoir-agresse-sexuellement-son-beau-fils-30724394.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Tribunal de Dax. « Vous avez porté atteinte à l’innocence de l’enfance » : vingt..."
+      }
+    ],
+    "summary": "Tribunal de Dax. « Vous avez porté atteinte à l’innocence de l’enfance » : vingt-huit ans après, un beau-père condamné pour avoir agressé sexuellement son beau-fils"
+  },
+  {
+    "title": " Surconsommation, fraudes, promos agressives : faut-il interdire la publicité sur les lunettes ? Un projet du gouvernement secoue les opticiens ",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.challenges.fr/rss.xml"
+    ],
+    "items": [
+      {
+        "title": " Surconsommation, fraudes, promos agressives : faut-il interdire la publicité sur les lunettes ? Un projet du gouvernement secoue les opticiens ",
+        "source": "https://www.challenges.fr/rss.xml",
+        "time": "2026-09-21T05:00:00.000Z",
+        "link": " https://www.challenges.fr/entreprise/sante/surconsommation-fraudes-promos-agressives-faut-il-interdire-la-publicite-sur-les-lunettes-un-projet-du-gouvernement-secoue-le-secteur_645881 ",
+        "score": 97,
+        "summary": "Point de situation critique concernant :  Surconsommation, fraudes, promos agressives : faut-il interdire la publicité su..."
+      }
+    ],
+    "summary": " Surconsommation, fraudes, promos agressives : faut-il interdire la publicité sur les lunettes ? Un projet du gouvernement secoue les opticiens "
+  },
+  {
+    "title": "Isère : Soupçonné de dizaines de viols et attouchements sur mineurs, Jacques Leveugle meurt en détention provisoire",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.20minutes.fr/feeds/rss-une.xml"
+    ],
+    "items": [
+      {
+        "title": "Isère : Soupçonné de dizaines de viols et attouchements sur mineurs, Jacques Leveugle meurt en détention provisoire",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-09-21T18:10:05.000Z",
+        "link": "https://www.20minutes.fr/faits_divers/4247538-20260921-isere-soupconne-dizaines-viols-attouchements-mineurs-jacques-leveugle-meurt-detention-provisoire?at_medium=display&at_campaign=149",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Isère : Soupçonné de dizaines de viols et attouchements sur mineurs, Jacques Lev..."
+      }
+    ],
+    "summary": "Isère : Soupçonné de dizaines de viols et attouchements sur mineurs, Jacques Leveugle meurt en détention provisoire"
   },
   {
     "title": " Après OpenAI et Anthropic, Google reconnaît que son IA, Gemini, a elle aussi mené plusieurs cyberattaques ",
@@ -542,7 +596,7 @@
       {
         "title": "Rançon, torture et vidéo : l’inquiétant retour en force des enlèvements-séquestrations",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-21T04:31:04.448Z",
+        "time": "2026-09-21T20:23:58.169Z",
         "link": "https://www.leparisien.fr/faits-divers/rancon-torture-et-video-linquietant-retour-en-force-des-enlevements-sequestrations-21-09-2026-VMU2B2LLOJBATAVDNAIJSIUNM4.php",
         "score": 93,
         "summary": "Point de situation critique concernant : Rançon, torture et vidéo : l’inquiétant retour en force des enlèvements-séquestr..."
@@ -561,7 +615,7 @@
       {
         "title": "« Aidez-moi ! » : la bande-son glaçante du meurtre commis par un enfant de 7 ans à Saint-Maur",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-21T04:31:04.449Z",
+        "time": "2026-09-21T20:23:58.169Z",
         "link": "https://www.leparisien.fr/faits-divers/aidez-moi-la-bande-son-glacante-du-meurtre-commis-par-un-enfant-de-7-ans-a-saint-maur-19-09-2026-NKNBZTGC4FEZLEUWFMT73YJ6AE.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Aidez-moi ! » : la bande-son glaçante du meurtre commis par un enfant de 7 ans..."
@@ -580,7 +634,7 @@
       {
         "title": "Meurtre de Djamel Bendjaballah dans le Nord : le parquet demande la requalification en crime raciste",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-21T04:31:04.449Z",
+        "time": "2026-09-21T20:23:58.169Z",
         "link": "https://www.leparisien.fr/faits-divers/meurtre-de-djamel-bendjaballah-dans-le-nord-le-parquet-demande-la-requalification-en-crime-raciste-19-09-2026-Q53RV5F5SFG7BH4WBFKWXTSE54.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Meurtre de Djamel Bendjaballah dans le Nord : le parquet demande la requalificat..."
@@ -599,7 +653,7 @@
       {
         "title": "Surdose d’insuline et corps enterré sous la terrasse : une infirmière belge de 36 ans accusée d’avoir tué son compagnon en 2018",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-21T04:31:04.449Z",
+        "time": "2026-09-21T20:23:58.169Z",
         "link": "https://www.leparisien.fr/faits-divers/surdose-dinsuline-et-corps-enterre-sous-la-terrasse-une-infirmiere-belge-de-36-ans-accusee-davoir-tue-son-compagnon-en-2018-19-09-2026-ZKG7DTFMTNC2ZOAVUIIAHAAD3A.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Surdose d’insuline et corps enterré sous la terrasse : une infirmière belge de 3..."
@@ -618,7 +672,7 @@
       {
         "title": "Double meurtre pour une carotte de shit dans le Loiret : un suspect interpellé à Colombes clame son innocence",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-21T04:31:04.449Z",
+        "time": "2026-09-21T20:23:58.169Z",
         "link": "https://www.leparisien.fr/faits-divers/double-meurtre-pour-une-carotte-de-shit-dans-le-loiret-un-suspect-interpelle-a-colombes-clame-son-innocence-19-09-2026-XGLONOYJ55CHPBLIGA2D3EN7AM.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Double meurtre pour une carotte de shit dans le Loiret : un suspect interpellé à..."
@@ -637,7 +691,7 @@
       {
         "title": "« Je vais être très violent » : le père d’une collégienne interpellé en Côte-d’Or après des menaces contre la principale",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-21T04:31:04.449Z",
+        "time": "2026-09-21T20:23:58.169Z",
         "link": "https://www.leparisien.fr/faits-divers/je-vais-etre-tres-violent-le-pere-dune-collegienne-interpelle-en-cote-dor-apres-des-menaces-contre-la-principale-19-09-2026-5JLRUK7WYBD3FLAENWHF2R7XQA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Je vais être très violent » : le père d’une collégienne interpellé en Côte-d’O..."
@@ -656,7 +710,7 @@
       {
         "title": "Pour le commissaire général Frédéric Lauze, « les établissements scolaires sont devenus des points de rendez-vous de la violence »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-21T04:31:04.449Z",
+        "time": "2026-09-21T20:23:58.169Z",
         "link": "https://www.leparisien.fr/faits-divers/pour-le-commissaire-general-frederic-lauze-les-etablissements-scolaires-sont-devenus-des-points-de-rendez-vous-de-la-violence-19-09-2026-RIQ55F6ZQJHOPEVLYLACLYNKBU.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Pour le commissaire général Frédéric Lauze, « les établissements scolaires sont ..."
@@ -675,7 +729,7 @@
       {
         "title": "Après les fusillades près d’écoles à Trappes et à Montataire, faut-il s’inquiéter pour nos enfants ?",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-21T04:31:04.449Z",
+        "time": "2026-09-21T20:23:58.169Z",
         "link": "https://www.leparisien.fr/yvelines-78/apres-les-fusillades-pres-decoles-a-trappes-et-a-montataire-faut-il-sinquieter-pour-nos-enfants-19-09-2026-ICRRZYQAHFES5GXLFDGEVHJ4RU.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Après les fusillades près d’écoles à Trappes et à Montataire, faut-il s’inquiéte..."
@@ -694,7 +748,7 @@
       {
         "title": "Femme tuée au couteau à Saint-Maur : la piste de l’enfant meurtrier de 7 ans se précise",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-21T04:31:04.449Z",
+        "time": "2026-09-21T20:23:58.169Z",
         "link": "https://www.leparisien.fr/faits-divers/femme-tuee-au-couteau-a-saint-maur-la-piste-de-lenfant-meurtrier-de-7-ans-se-precise-18-09-2026-6XQONZRV3RHWBEC3HLBAXB3VD4.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Femme tuée au couteau à Saint-Maur : la piste de l’enfant meurtrier de 7 ans se ..."
@@ -713,7 +767,7 @@
       {
         "title": "« Un crime odieux qui ne peut pas être banalisé » : le patron de Ryanair s’excuse après sa sortie sur les « violeurs »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-21T04:31:04.449Z",
+        "time": "2026-09-21T20:23:58.169Z",
         "link": "https://www.leparisien.fr/faits-divers/un-crime-odieux-qui-ne-peut-pas-etre-banalise-le-patron-de-ryanair-sexcuse-apres-sa-sortie-sur-les-violeurs-18-09-2026-D4K3X7JZTVHBBLMA3ZY54XJLEY.php",
         "score": 90,
         "summary": "le patron de Ryanair s’excuse après sa sortie sur les « violeurs »"
@@ -976,7 +1030,7 @@
       {
         "title": "Meurtres de Dacheca et son bébé à Drancy : le conjoint hors de cause, l’ancien compagnon suspect numéro 1",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-21T04:31:04.448Z",
+        "time": "2026-09-21T20:23:58.169Z",
         "link": "https://www.leparisien.fr/seine-saint-denis-93/meurtres-de-dacheca-et-son-bebe-a-drancy-le-conjoint-hors-de-cause-lancien-compagnon-suspect-numero-1-20-09-2026-YAJVGIU4E5AJPIFA6ZUYFDU65Y.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Meurtres de Dacheca et son bébé à Drancy : le conjoint hors de cause, l’ancien c..."
@@ -1071,7 +1125,7 @@
       {
         "title": "« J’ai cru à un mini tremblement de terre » : à Argenteuil, la piste criminelle privilégiée après l’explosion",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-21T04:31:04.448Z",
+        "time": "2026-09-21T20:23:58.169Z",
         "link": "https://www.leparisien.fr/val-d-oise-95/jai-cru-a-un-mini-tremblement-de-terre-a-argenteuil-la-piste-criminelle-privilegiee-apres-lexplosion-20-09-2026-MF3EDJB3DBCSJDDPGSQZAS7I4M.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « J’ai cru à un mini tremblement de terre » : à Argenteuil, la piste criminelle ..."
@@ -1090,7 +1144,7 @@
       {
         "title": "« C’est une ado très discrète » : Nanterre sous le choc après la tentative de meurtre d’une mère sur sa fille",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-21T04:31:04.448Z",
+        "time": "2026-09-21T20:23:58.169Z",
         "link": "https://www.leparisien.fr/faits-divers/cest-une-ado-tres-discrete-nanterre-sous-le-choc-apres-la-tentative-de-meurtre-dune-mere-sur-sa-fille-20-09-2026-UWECBAOQDVDIZIJTDDV3TONPXA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « C’est une ado très discrète » : Nanterre sous le choc après la tentative de me..."
@@ -1109,89 +1163,13 @@
       {
         "title": "Catastrophe d’AZF à Toulouse : 25 ans après l’explosion, la peur des riverains ravivée par des projets industriels",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-21T04:31:04.448Z",
+        "time": "2026-09-21T20:23:58.169Z",
         "link": "https://www.leparisien.fr/haute-garonne-31/catastrophe-dazf-a-toulouse-25-ans-apres-lexplosion-la-peur-des-riverains-ravivee-par-des-projets-industriels-20-09-2026-QY2RUTFADBCV5E2I4E26S5QAFQ.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Catastrophe d’AZF à Toulouse : 25 ans après l’explosion, la peur des riverains r..."
       }
     ],
     "summary": "Catastrophe d’AZF à Toulouse : 25 ans après l’explosion, la peur des riverains ravivée par des projets industriels"
-  },
-  {
-    "title": "« La vie de famille était devenue un cauchemar » : en Belgique, le procès retentissant de l’assassinat de la baronne Ullens par son beau-fils",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "« La vie de famille était devenue un cauchemar » : en Belgique, le procès retentissant de l’assassinat de la baronne Ullens par son beau-fils",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-21T04:31:04.448Z",
-        "link": "https://www.leparisien.fr/faits-divers/la-vie-de-famille-etait-devenue-un-cauchemar-en-belgique-le-proces-retentissant-de-lassassinat-de-la-baronne-ullens-par-son-beau-fils-20-09-2026-NIZLW5XL3FA4ND4JNEX6RB7VV4.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : « La vie de famille était devenue un cauchemar » : en Belgique, le procès retent..."
-      }
-    ],
-    "summary": "« La vie de famille était devenue un cauchemar » : en Belgique, le procès retentissant de l’assassinat de la baronne Ullens par son beau-fils"
-  },
-  {
-    "title": "Loir-et-Cher : le tournoi de pétanque des pompiers se termine en agression, six soldats du feu hospitalisés",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Loir-et-Cher : le tournoi de pétanque des pompiers se termine en agression, six soldats du feu hospitalisés",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-21T04:31:04.448Z",
-        "link": "https://www.leparisien.fr/loir-et-cher-41/loir-et-cher-le-tournoi-de-petanque-des-pompiers-se-termine-en-agression-six-soldats-du-feu-hospitalises-20-09-2026-FM4RFBID3FHQLB4KSMEQLD2O7A.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Loir-et-Cher : le tournoi de pétanque des pompiers se termine en agression, six ..."
-      }
-    ],
-    "summary": "Loir-et-Cher : le tournoi de pétanque des pompiers se termine en agression, six soldats du feu hospitalisés"
-  },
-  {
-    "title": "A Beauvais, un homme armé tué par la police devant son domicile",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://www.lemonde.fr/police/rss_full.xml"
-    ],
-    "items": [
-      {
-        "title": "A Beauvais, un homme armé tué par la police devant son domicile",
-        "source": "https://www.lemonde.fr/police/rss_full.xml",
-        "time": "2026-09-19T14:16:39.000Z",
-        "link": "https://www.lemonde.fr/societe/article/2026/09/19/a-beauvais-un-homme-arme-tue-par-la-police-devant-son-domicile_6777726_3224.html",
-        "score": 90,
-        "summary": "Point de situation critique concernant : A Beauvais, un homme armé tué par la police devant son domicile..."
-      }
-    ],
-    "summary": "A Beauvais, un homme armé tué par la police devant son domicile"
-  },
-  {
-    "title": "Après la disparition de 20 kg de cocaïne, le calvaire de deux jeunes, victimes du supplice de la noyade ",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Après la disparition de 20 kg de cocaïne, le calvaire de deux jeunes, victimes du supplice de la noyade ",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-21T04:31:04.448Z",
-        "link": "https://www.leparisien.fr/faits-divers/apres-la-disparition-de-20-kg-de-cocaine-le-calvaire-de-deux-jeunes-victimes-du-supplice-de-la-noyade-21-09-2026-FU3RMDYJOJAU5D25IWGTREMEXE.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Après la disparition de 20 kg de cocaïne, le calvaire de deux jeunes, victimes d..."
-      }
-    ],
-    "summary": "Après la disparition de 20 kg de cocaïne, le calvaire de deux jeunes, victimes du supplice de la noyade "
   },
   {
     "title": "[CYBER] M. D. Muse, fils du personnel de l'agent principal des services secrets.",
@@ -1223,7 +1201,7 @@
       {
         "title": "[CYBER] Le nouveau système de facturation électronique: le nouveau système de la cour dans la DSI",
         "source": "Le Monde Informatique",
-        "time": "2026-09-21T04:29:51.353Z",
+        "time": "2026-09-21T20:22:44.389Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-facturation-electronique-le-nouveau-perimetre-de-securite-a-integrer-dans-la-dsi-100775.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le nouveau système de facturation électronique: le nouveau système de la..."
@@ -1250,7 +1228,7 @@
       {
         "title": "[CYBER] OpenAI lance Astra pour le droit pour les professionnels du droit",
         "source": "Le Monde Informatique",
-        "time": "2026-09-21T04:29:33.189Z",
+        "time": "2026-09-21T20:22:26.481Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-lance-astra-for-law-pour-les-professionnels-du-droit-100794.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] OpenAI lance Astra pour le droit pour les professionnels du droit..."
@@ -1269,7 +1247,7 @@
       {
         "title": "[CYBER] La cybersécurité se réalise chez les PME",
         "source": "Le Monde Informatique",
-        "time": "2026-09-21T04:29:40.568Z",
+        "time": "2026-09-21T20:22:33.674Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-la-cyberassurance-recule-chez-les-pme-francaises-100784.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] La cybersécurité se réalise chez les PME..."
@@ -1288,7 +1266,7 @@
       {
         "title": "[CYBER] Les agents d'OpenAI auraient pour objectif de mettre en place la plateforme RubyGems",
         "source": "Le Monde Informatique",
-        "time": "2026-09-21T04:29:43.783Z",
+        "time": "2026-09-21T20:22:36.813Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-des-agents-d-openai-auraient-cible-la-plateforme-rubygems-100782.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les agents d'OpenAI auraient pour objectif de mettre en place la platefo..."
@@ -1307,7 +1285,7 @@
       {
         "title": "[CYBER] CUEEC 2026: un pacte de richesse et d'intervention pour renforcer la souveraineté de la richesse",
         "source": "Le Monde Informatique",
-        "time": "2026-09-21T04:29:48.033Z",
+        "time": "2026-09-21T20:22:41.102Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-uecc-2026-un-pacte-numerique-et-ia-pour-renforcer-la-souverainete-numerique-100780.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] CUEEC 2026: un pacte de richesse et d'intervention pour renforcer la sou..."
@@ -1326,7 +1304,7 @@
       {
         "title": "[CYBER] IA: peut-on appeler au ralentissement tout en investissant des centaines de milliards?",
         "source": "Le Monde Informatique",
-        "time": "2026-09-21T04:29:36.557Z",
+        "time": "2026-09-21T20:22:29.764Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-ia-peut-on-appeler-au-ralentissement-tout-en-investissant-des-centaines-de-milliards-100786.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] IA: peut-on appeler au ralentissement tout en investissant des centaines..."
@@ -1345,7 +1323,7 @@
       {
         "title": "[CYBER] Microsoft a publié un code de conduite pour encadrer ses IA",
         "source": "Le Monde Informatique",
-        "time": "2026-09-21T04:29:38.779Z",
+        "time": "2026-09-21T20:22:31.914Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-microsoft-publie-un-code-de-conduite-pour-encadrer-ses-ia-100785.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Microsoft a publié un code de conduite pour encadrer ses IA..."
@@ -1364,12 +1342,50 @@
       {
         "title": "[CYBER] Google corrige 42 défaillances de la courbe dans Chrome",
         "source": "Le Monde Informatique",
-        "time": "2026-09-21T04:29:30.845Z",
+        "time": "2026-09-21T20:22:24.138Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-google-corrige-42-failles-de-securite-dans-chrome-100795.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Google corrige 42 défaillances de la courbe dans Chrome..."
       }
     ],
     "summary": "[CYBER] Google corrige 42 défaillances de la courbe dans Chrome"
+  },
+  {
+    "title": "[CYBER] Le Patch mardi de septembre provoque des insectes",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "Le Monde Informatique"
+    ],
+    "items": [
+      {
+        "title": "[CYBER] Le Patch mardi de septembre provoque des insectes",
+        "source": "Le Monde Informatique",
+        "time": "2026-09-21T20:22:19.897Z",
+        "link": "https://www.lemondeinformatique.fr/actualites/lire-le-patch-tuesday-de-septembre-provoque-des-bugs-100798.html",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] Le Patch mardi de septembre provoque des insectes..."
+      }
+    ],
+    "summary": "[CYBER] Le Patch mardi de septembre provoque des insectes"
+  },
+  {
+    "title": "[CYBER] Les chercheurs de Hacktron AI ont utilisé Claude pour pirate OpenAI",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "Le Monde Informatique"
+    ],
+    "items": [
+      {
+        "title": "[CYBER] Les chercheurs de Hacktron AI ont utilisé Claude pour pirate OpenAI",
+        "source": "Le Monde Informatique",
+        "time": "2026-09-21T20:22:22.143Z",
+        "link": "https://www.lemondeinformatique.fr/actualites/lire-les-chercheurs-de-hacktron-ai-ont-utilise-claude-pour-pirater-openai-100799.html",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] Les chercheurs de Hacktron AI ont utilisé Claude pour pirate OpenAI..."
+      }
+    ],
+    "summary": "[CYBER] Les chercheurs de Hacktron AI ont utilisé Claude pour pirate OpenAI"
   }
 ]
