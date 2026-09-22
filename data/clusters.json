@@ -2,11 +2,12 @@
   {
     "title": "Gironde : le parent d’élève qui avait menacé de mort un surveillant et la principale d’un collège condamné à six mois de prison ferme",
     "score": 97,
-    "count": 6,
+    "count": 7,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
       "https://www.franceinfo.fr/faits-divers.rss",
-      "https://www.ledauphine.com/Faits-divers-Justice/rss"
+      "https://www.ledauphine.com/Faits-divers-Justice/rss",
+      "https://www.lemonde.fr/societe/rss_full.xml"
     ],
     "items": [
       {
@@ -56,6 +57,14 @@
         "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/22/un-automobiliste-recidiviste-condamne-a-12-mois-de-prison-pour-conduite-sous-alcool",
         "score": 97,
         "summary": "Point de situation critique concernant : Alpes-de-Haute-Provence. Un automobiliste récidiviste condamné à 12 mois de pris..."
+      },
+      {
+        "title": "Le négationniste Vincent Reynouard condamné à huit mois de prison ferme",
+        "source": "https://www.lemonde.fr/societe/rss_full.xml",
+        "time": "2026-09-22T17:06:23.000Z",
+        "link": "https://www.lemonde.fr/societe/article/2026/09/22/le-negationniste-vincent-reynouard-condamne-a-huit-mois-de-prison-ferme_6780279_3224.html",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Le négationniste Vincent Reynouard condamné à huit mois de prison ferme..."
       }
     ],
     "summary": "Gironde : le parent d’élève qui avait menacé de mort un surveillant et la principale d’un collège condamné à six mois de prison ferme / Peine alourdie pour Stéphane Plaza, condamné en appel à 18 mois de prison avec sursis"
@@ -63,10 +72,11 @@
   {
     "title": "Le maire de Concarneau placé en garde à vue dans le cadre d’une enquête pour viol",
     "score": 97,
-    "count": 3,
+    "count": 4,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.franceinfo.fr/faits-divers.rss"
+      "https://www.franceinfo.fr/faits-divers.rss",
+      "https://www.francetvinfo.fr/politique.rss"
     ],
     "items": [
       {
@@ -84,6 +94,14 @@
         "link": "https://www.franceinfo.fr/france/auvergne-rhone-alpes/une-enquete-pour-meurtre-ouverte-apres-la-mort-d-un-homme-a-clermont-ferrand-une-femme-placee-en-garde-a-vue_8203130.html#xtor=RSS-3-%5Bgeneral%5D",
         "score": 97,
         "summary": "Point de situation critique concernant : Une enquête pour meurtre ouverte après la mort d'un homme à Clermont-Ferrand, un..."
+      },
+      {
+        "title": "L'opposition municipale à Concarneau réclame la \"démission\" du maire, mis en examen pour viol et agression sexuelle",
+        "source": "https://www.francetvinfo.fr/politique.rss",
+        "time": "2026-09-22T16:53:49.000Z",
+        "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/l-opposition-municipale-a-concarneau-reclame-la-demission-du-maire-mis-en-examen-pour-viol-et-agression-sexuelle_8205059.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 97,
+        "summary": "Point de situation critique concernant : L'opposition municipale à Concarneau réclame la \"démission\" du maire, mis en exa..."
       },
       {
         "title": "« Même si la justice rend un non-lieu, il sera grillé » : le maire de Concarneau mis en examen pour viol et agression sexuelle",
@@ -246,25 +264,6 @@
     "summary": "« Le chauffeur » aurait collecté 24 millions d’euros pour le réseau de blanchiment géant"
   },
   {
-    "title": " Elections régionales en Allemagne : laminé par les extrêmes, le chancelier allemand ne veut pas démissionner ",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.challenges.fr/rss.xml"
-    ],
-    "items": [
-      {
-        "title": " Elections régionales en Allemagne : laminé par les extrêmes, le chancelier allemand ne veut pas démissionner ",
-        "source": "https://www.challenges.fr/rss.xml",
-        "time": "2026-09-20T18:10:00.000Z",
-        "link": " https://www.challenges.fr/monde/elections-regionales-en-allemagne-lamine-par-les-extremes-le-chancelier-allemand-ne-veut-pas-demissionner_645896 ",
-        "score": 97,
-        "summary": "Point de situation critique concernant :  Elections régionales en Allemagne : laminé par les extrêmes, le chancelier alle..."
-      }
-    ],
-    "summary": " Elections régionales en Allemagne : laminé par les extrêmes, le chancelier allemand ne veut pas démissionner "
-  },
-  {
     "title": "« Je n’ai jamais été en situation de conflit d’intérêts » : jugée pour corruption, Rachida Dati ne lâche rien",
     "score": 97,
     "count": 4,
@@ -278,7 +277,7 @@
       {
         "title": "« Je n’ai jamais été en situation de conflit d’intérêts » : jugée pour corruption, Rachida Dati ne lâche rien",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-22T13:19:27.029Z",
+        "time": "2026-09-22T19:42:05.746Z",
         "link": "https://www.leparisien.fr/faits-divers/je-nai-jamais-ete-en-situation-de-conflit-dinterets-jugee-pour-corruption-rachida-dati-ne-lache-rien-21-09-2026-GCLL4W3ZYJDBDCUULZ2YCTXZUQ.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Je n’ai jamais été en situation de conflit d’intérêts » : jugée pour corruptio..."
@@ -313,21 +312,30 @@
   {
     "title": "« Violences et humiliations » : l’influenceur Mounim Sabhi de « la Team du Château » en garde à vue pour des soupçons d’abus",
     "score": 97,
-    "count": 1,
+    "count": 2,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
     ],
     "items": [
       {
         "title": "« Violences et humiliations » : l’influenceur Mounim Sabhi de « la Team du Château » en garde à vue pour des soupçons d’abus",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-22T13:19:27.029Z",
+        "time": "2026-09-22T19:42:05.746Z",
         "link": "https://www.leparisien.fr/faits-divers/violences-et-humiliations-linfluenceur-mounim-sabhi-de-la-team-du-chateau-en-garde-a-vue-pour-des-soupcons-dabus-21-09-2026-V5XH3N4E2VEFFMRFHTLHF4LYPU.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Violences et humiliations » : l’influenceur Mounim Sabhi de « la Team du Châte..."
+      },
+      {
+        "title": "Périscolaire à Paris : un intervenant en anglais en garde à vue pour des soupçons de viols et d’agressions sexuelles sur des enfants de maternelle",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-09-22T19:41:15.000Z",
+        "link": "https://www.lefigaro.fr/faits-divers/periscolaire-a-paris-un-intervenant-en-anglais-en-garde-a-vue-pour-des-soupcons-de-viols-et-d-agressions-sexuelles-sur-des-enfants-de-maternelle-20260922",
+        "score": 97,
+        "summary": "un intervenant en anglais en garde à vue pour des soupçons de viols et d’agressions sexuelles sur des enfants de maternelle"
       }
     ],
-    "summary": "« Violences et humiliations » : l’influenceur Mounim Sabhi de « la Team du Château » en garde à vue pour des soupçons d’abus"
+    "summary": "« Violences et humiliations » : l’influenceur Mounim Sabhi de « la Team du Château » en garde à vue pour des soupçons d’abus / Périscolaire à Paris : un intervenant en anglais en garde à vue pour des soupçons de viols et d’agressions sexuelles sur des enfants de maternelle"
   },
   {
     "title": "Grégory Lenoci, un « homme dangereux » ou un père qui s’est fait justice ? La Belgique divisée sur ce Belge condamné à 17 ans de prison",
@@ -340,7 +348,7 @@
       {
         "title": "Grégory Lenoci, un « homme dangereux » ou un père qui s’est fait justice ? La Belgique divisée sur ce Belge condamné à 17 ans de prison",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-22T13:19:27.029Z",
+        "time": "2026-09-22T19:42:05.746Z",
         "link": "https://www.leparisien.fr/faits-divers/gregory-lenoci-un-homme-dangereux-ou-un-pere-qui-sest-fait-justice-la-belgique-divisee-sur-ce-belge-condamne-a-17-ans-de-prison-21-09-2026-3M6O7TE7AVBZLMY3Z6QI6ON2NQ.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Grégory Lenoci, un « homme dangereux » ou un père qui s’est fait justice ? La Be..."
@@ -348,7 +356,7 @@
       {
         "title": "Violences urbaines à Saint-Pierre-des-Corps : un homme de 19 ans condamné à un an de prison avec sursis",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-22T13:19:27.029Z",
+        "time": "2026-09-22T19:42:05.746Z",
         "link": "https://www.leparisien.fr/indre-et-loire-37/violences-urbaines-a-saint-pierre-des-corps-un-homme-de-19-ans-condamne-a-un-an-de-prison-avec-sursis-22-09-2026-I2A2A62ULBGJTECY2BRB5EAXTQ.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Violences urbaines à Saint-Pierre-des-Corps : un homme de 19 ans condamné à un a..."
@@ -359,21 +367,30 @@
   {
     "title": "Nantes : un homme blessé par balles sur un point de deal, six personnes interpellées et placées en garde à vue",
     "score": 97,
-    "count": 1,
+    "count": 2,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "https://www.sudouest.fr/faits-divers/rss.xml"
     ],
     "items": [
       {
         "title": "Nantes : un homme blessé par balles sur un point de deal, six personnes interpellées et placées en garde à vue",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-22T13:19:27.029Z",
+        "time": "2026-09-22T19:42:05.746Z",
         "link": "https://www.leparisien.fr/faits-divers/nantes-un-homme-blesse-par-balles-sur-un-point-de-deal-six-personnes-interpellees-et-placees-en-garde-a-vue-21-09-2026-5A3NBHLMZZACZNOIERCSDXYXP4.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Nantes : un homme blessé par balles sur un point de deal, six personnes interpel..."
+      },
+      {
+        "title": "INFO « SUD OUEST ». Charente-Maritime : un homme a été battu à mort à Arvert dans la nuit de dimanche à lundi, quatre personnes ont été placées en garde à vue",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-09-22T19:29:54.000Z",
+        "link": "https://www.sudouest.fr/charente-maritime/arvert/info-sud-ouest-charente-maritime-un-homme-a-ete-battu-a-mort-a-arvert-dans-la-nuit-de-dimanche-a-lundi-quatre-personnes-ont-ete-placees-en-garde-a-vue-30741975.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : INFO « SUD OUEST ». Charente-Maritime : un homme a été battu à mort à Arvert dan..."
       }
     ],
-    "summary": "Nantes : un homme blessé par balles sur un point de deal, six personnes interpellées et placées en garde à vue"
+    "summary": "Nantes : un homme blessé par balles sur un point de deal, six personnes interpellées et placées en garde à vue / INFO « SUD OUEST ». Charente-Maritime : un homme a été battu à mort à Arvert dans la nuit de dimanche à lundi, quatre personnes ont été placées en garde à vue"
   },
   {
     "title": "Derrière l’évasion d’un détenu dans un sac à linge, des soupçons de corruption, des failles et le rôle trouble d’une surveillante de prison",
@@ -435,7 +452,7 @@
   {
     "title": "Isère : Soupçonné de dizaines de viols et attouchements sur mineurs, Jacques Leveugle meurt en détention provisoire",
     "score": 97,
-    "count": 3,
+    "count": 2,
     "sources": [
       "https://www.20minutes.fr/feeds/rss-une.xml",
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
@@ -452,18 +469,10 @@
       {
         "title": "Ancien éducateur, soupçonné du meurtre de sa mère… Qui était Jacques Leveugle, accusé d’avoir violé plusieurs dizaines de mineurs ?",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-22T13:19:27.029Z",
+        "time": "2026-09-22T19:42:05.746Z",
         "link": "https://www.leparisien.fr/faits-divers/ancien-educateur-soupconne-du-meurtre-de-sa-mere-qui-etait-jacques-leveugle-accuse-davoir-viole-plusieurs-dizaines-de-mineurs-22-09-2026-QUQPMIEWGFCNFLHTH4DXSGN23Q.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Ancien éducateur, soupçonné du meurtre de sa mère… Qui était Jacques Leveugle, a..."
-      },
-      {
-        "title": "Jacques Leveugle, soupçonné de viols et d’agressions sexuelles sur 89 mineurs, est mort",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-22T13:19:27.029Z",
-        "link": "https://www.leparisien.fr/faits-divers/jacques-leveugle-soupconne-de-viols-et-dagressions-sexuelles-sur-89-mineurs-est-mort-21-09-2026-CADQZZJ6GVFOBG53CTECMLEHTI.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Jacques Leveugle, soupçonné de viols et d’agressions sexuelles sur 89 mineurs, e..."
       }
     ],
     "summary": "Isère : Soupçonné de dizaines de viols et attouchements sur mineurs, Jacques Leveugle meurt en détention provisoire / Ancien éducateur, soupçonné du meurtre de sa mère… Qui était Jacques Leveugle, accusé d’avoir violé plusieurs dizaines de mineurs ?"
@@ -507,23 +516,164 @@
     "summary": "Sri Lanka : 14 accusés condamnés pour leur implication dans les attentats djihadistes de Pâques 2019"
   },
   {
-    "title": " Après OpenAI et Anthropic, Google reconnaît que son IA, Gemini, a elle aussi mené plusieurs cyberattaques ",
-    "score": 93,
+    "title": "États-Unis : l’influenceur masculiniste « Clavicular » inculpé pour viol sur mineure",
+    "score": 97,
     "count": 1,
     "sources": [
-      "https://www.challenges.fr/rss.xml"
+      "https://www.sudouest.fr/faits-divers/rss.xml"
     ],
     "items": [
       {
-        "title": " Après OpenAI et Anthropic, Google reconnaît que son IA, Gemini, a elle aussi mené plusieurs cyberattaques ",
-        "source": "https://www.challenges.fr/rss.xml",
-        "time": "2026-09-20T14:30:00.000Z",
-        "link": " https://www.challenges.fr/entreprise/tech-numerique/apres-openai-et-anthropic-google-reconnait-que-son-ia-gemini-a-elle-aussi-mene-plusieurs-cyberattaques_645893 ",
-        "score": 93,
-        "summary": "Point de situation critique concernant :  Après OpenAI et Anthropic, Google reconnaît que son IA, Gemini, a elle aussi me..."
+        "title": "États-Unis : l’influenceur masculiniste « Clavicular » inculpé pour viol sur mineure",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-09-22T19:12:34.000Z",
+        "link": "https://www.sudouest.fr/faits-divers/etats-unis-l-influenceur-masculiniste-clavicular-inculpe-pour-viol-sur-mineure-30742297.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : États-Unis : l’influenceur masculiniste « Clavicular » inculpé pour viol sur min..."
       }
     ],
-    "summary": " Après OpenAI et Anthropic, Google reconnaît que son IA, Gemini, a elle aussi mené plusieurs cyberattaques "
+    "summary": "États-Unis : l’influenceur masculiniste « Clavicular » inculpé pour viol sur mineure"
+  },
+  {
+    "title": "Pays basque : condamné pour violences habituelles sur sa famille, il réfute toute responsabilité",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.sudouest.fr/faits-divers/rss.xml"
+    ],
+    "items": [
+      {
+        "title": "Pays basque : condamné pour violences habituelles sur sa famille, il réfute toute responsabilité",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-09-22T18:26:08.000Z",
+        "link": "https://www.sudouest.fr/pyrenees-atlantiques/bayonne/pays-basque-condamne-pour-violences-habituelles-sur-sa-famille-il-refute-toute-responsabilite-30739783.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Pays basque : condamné pour violences habituelles sur sa famille, il réfute tout..."
+      }
+    ],
+    "summary": "Pays basque : condamné pour violences habituelles sur sa famille, il réfute toute responsabilité"
+  },
+  {
+    "title": "Assassinat de Federico Martín Aramburú : « J’espère être condamné mais uniquement pour mes actes », clame Romain Bouvier",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.sudouest.fr/faits-divers/rss.xml"
+    ],
+    "items": [
+      {
+        "title": "Assassinat de Federico Martín Aramburú : « J’espère être condamné mais uniquement pour mes actes », clame Romain Bouvier",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-09-22T17:45:47.000Z",
+        "link": "https://www.sudouest.fr/pyrenees-atlantiques/biarritz/assassinat-de-federico-martin-aramburu-j-espere-etre-condamne-mais-uniquement-pour-mes-actes-clame-romain-bouvier-30735896.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Assassinat de Federico Martín Aramburú : « J’espère être condamné mais uniquemen..."
+      }
+    ],
+    "summary": "Assassinat de Federico Martín Aramburú : « J’espère être condamné mais uniquement pour mes actes », clame Romain Bouvier"
+  },
+  {
+    "title": "Soupçon de corruption au sein du centre de détention d’Eysses, en Lot-et-Garonne : un agent pénitentiaire et un détenu placés en garde à vue",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.sudouest.fr/faits-divers/rss.xml"
+    ],
+    "items": [
+      {
+        "title": "Soupçon de corruption au sein du centre de détention d’Eysses, en Lot-et-Garonne : un agent pénitentiaire et un détenu placés en garde à vue",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-09-22T17:00:00.000Z",
+        "link": "https://www.sudouest.fr/lot-et-garonne/villeneuve-sur-lot/soupcon-de-corruption-au-sein-du-centre-de-detention-d-eysses-en-lot-et-garonne-un-agent-penitentiaire-et-un-detenu-places-en-garde-a-vue-30738935.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Soupçon de corruption au sein du centre de détention d’Eysses, en Lot-et-Garonne..."
+      }
+    ],
+    "summary": "Soupçon de corruption au sein du centre de détention d’Eysses, en Lot-et-Garonne : un agent pénitentiaire et un détenu placés en garde à vue"
+  },
+  {
+    "title": "Paris. Viols et agressions sexuelles sur des enfants de maternelle : un intervenant d'anglais en garde à vue",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.ledauphine.com/Faits-divers-Justice/rss"
+    ],
+    "items": [
+      {
+        "title": "Paris. Viols et agressions sexuelles sur des enfants de maternelle : un intervenant d'anglais en garde à vue",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-09-22T17:53:00.000Z",
+        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/22/viols-et-agressions-sexuelles-sur-des-enfants-de-maternelle-un-intervenant-d-anglais-en-garde-a-vue",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Paris. Viols et agressions sexuelles sur des enfants de maternelle : un interven..."
+      }
+    ],
+    "summary": "Paris. Viols et agressions sexuelles sur des enfants de maternelle : un intervenant d'anglais en garde à vue"
+  },
+  {
+    "title": "Paris. « Impossibilité technique » des chambres à gaz : le négationniste Vincent Reynouard condamné",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.ledauphine.com/Faits-divers-Justice/rss"
+    ],
+    "items": [
+      {
+        "title": "Paris. « Impossibilité technique » des chambres à gaz : le négationniste Vincent Reynouard condamné",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-09-22T16:45:00.000Z",
+        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/22/impossibilite-technique-des-chambres-a-gaz-le-negationniste-vincent-reynouard-condamne",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Paris. « Impossibilité technique » des chambres à gaz : le négationniste Vincent..."
+      }
+    ],
+    "summary": "Paris. « Impossibilité technique » des chambres à gaz : le négationniste Vincent Reynouard condamné"
+  },
+  {
+    "title": "Microsoft : encore des licenciements chez Xbox - 22/09",
+    "score": 97,
+    "count": 2,
+    "sources": [
+      "https://www.bfmtv.com/rss/economie/"
+    ],
+    "items": [
+      {
+        "title": "Microsoft : encore des licenciements chez Xbox - 22/09",
+        "source": "https://www.bfmtv.com/rss/economie/",
+        "time": "2026-09-22T18:10:03.000Z",
+        "link": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-microsoft-encore-des-licenciements-chez-xbox-22-09_VN-202609220824.html",
+        "score": 97,
+        "summary": "encore des licenciements chez Xbox - 22/09"
+      },
+      {
+        "title": "Microsoft : encore des licenciements chez Xbox – 22/09",
+        "source": "https://www.bfmtv.com/rss/economie/",
+        "time": "2026-09-22T18:09:41.000Z",
+        "link": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/microsoft-encore-des-licenciements-chez-xbox-22-09_EN-202609220814.html",
+        "score": 97,
+        "summary": "encore des licenciements chez Xbox – 22/09"
+      }
+    ],
+    "summary": "Microsoft : encore des licenciements chez Xbox - 22/09 / Microsoft : encore des licenciements chez Xbox – 22/09"
+  },
+  {
+    "title": "Scandale du périscolaire à Paris : le rapport de 2026 confirme des lacunes persistantes depuis 2015",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+    ],
+    "items": [
+      {
+        "title": "Scandale du périscolaire à Paris : le rapport de 2026 confirme des lacunes persistantes depuis 2015",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-09-22T15:29:28.000Z",
+        "link": "https://www.lefigaro.fr/actualite-france/scandale-du-periscolaire-a-paris-le-rapport-de-2026-confirme-des-lacunes-persistantes-depuis-2015-20260922",
+        "score": 97,
+        "summary": "le rapport de 2026 confirme des lacunes persistantes depuis 2015"
+      }
+    ],
+    "summary": "Scandale du périscolaire à Paris : le rapport de 2026 confirme des lacunes persistantes depuis 2015"
   },
   {
     "title": "Rançon, torture et vidéo : l’inquiétant retour en force des enlèvements-séquestrations",
@@ -536,7 +686,7 @@
       {
         "title": "Rançon, torture et vidéo : l’inquiétant retour en force des enlèvements-séquestrations",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-22T13:19:27.030Z",
+        "time": "2026-09-22T19:42:05.746Z",
         "link": "https://www.leparisien.fr/faits-divers/rancon-torture-et-video-linquietant-retour-en-force-des-enlevements-sequestrations-21-09-2026-VMU2B2LLOJBATAVDNAIJSIUNM4.php",
         "score": 93,
         "summary": "Point de situation critique concernant : Rançon, torture et vidéo : l’inquiétant retour en force des enlèvements-séquestr..."
@@ -951,32 +1101,13 @@
       {
         "title": "Meurtres de Dacheca et son bébé à Drancy : le conjoint hors de cause, l’ancien compagnon suspect numéro 1",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-22T13:19:27.030Z",
+        "time": "2026-09-22T19:42:05.747Z",
         "link": "https://www.leparisien.fr/seine-saint-denis-93/meurtres-de-dacheca-et-son-bebe-a-drancy-le-conjoint-hors-de-cause-lancien-compagnon-suspect-numero-1-20-09-2026-YAJVGIU4E5AJPIFA6ZUYFDU65Y.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Meurtres de Dacheca et son bébé à Drancy : le conjoint hors de cause, l’ancien c..."
       }
     ],
     "summary": "Meurtres de Dacheca et son bébé à Drancy : le conjoint hors de cause, l’ancien compagnon suspect numéro 1"
-  },
-  {
-    "title": "Youn Soo Nam, un touriste sud-coréen de 86 ans, disparu dans le Gers, a été retrouvé mort dans une rivière",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Youn Soo Nam, un touriste sud-coréen de 86 ans, disparu dans le Gers, a été retrouvé mort dans une rivière",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-20T18:41:50.704Z",
-        "link": "https://www.leparisien.fr/faits-divers/youn-soo-nam-un-touriste-sud-coreen-de-86-ans-disparu-dans-le-gers-a-ete-retrouve-mort-dans-une-riviere-17-09-2026-4FH4VTSEGFGZPOHMQHDL6D553Q.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Youn Soo Nam, un touriste sud-coréen de 86 ans, disparu dans le Gers, a été retr..."
-      }
-    ],
-    "summary": "Youn Soo Nam, un touriste sud-coréen de 86 ans, disparu dans le Gers, a été retrouvé mort dans une rivière"
   },
   {
     "title": "« J’ai cru à un mini tremblement de terre » : à Argenteuil, la piste criminelle privilégiée après l’explosion",
@@ -989,7 +1120,7 @@
       {
         "title": "« J’ai cru à un mini tremblement de terre » : à Argenteuil, la piste criminelle privilégiée après l’explosion",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-22T13:19:27.030Z",
+        "time": "2026-09-22T19:42:05.746Z",
         "link": "https://www.leparisien.fr/val-d-oise-95/jai-cru-a-un-mini-tremblement-de-terre-a-argenteuil-la-piste-criminelle-privilegiee-apres-lexplosion-20-09-2026-MF3EDJB3DBCSJDDPGSQZAS7I4M.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « J’ai cru à un mini tremblement de terre » : à Argenteuil, la piste criminelle ..."
@@ -1008,7 +1139,7 @@
       {
         "title": "« C’est une ado très discrète » : Nanterre sous le choc après la tentative de meurtre d’une mère sur sa fille",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-22T13:19:27.030Z",
+        "time": "2026-09-22T19:42:05.747Z",
         "link": "https://www.leparisien.fr/faits-divers/cest-une-ado-tres-discrete-nanterre-sous-le-choc-apres-la-tentative-de-meurtre-dune-mere-sur-sa-fille-20-09-2026-UWECBAOQDVDIZIJTDDV3TONPXA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « C’est une ado très discrète » : Nanterre sous le choc après la tentative de me..."
@@ -1027,7 +1158,7 @@
       {
         "title": "Catastrophe d’AZF à Toulouse : 25 ans après l’explosion, la peur des riverains ravivée par des projets industriels",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-22T13:19:27.030Z",
+        "time": "2026-09-22T19:42:05.747Z",
         "link": "https://www.leparisien.fr/haute-garonne-31/catastrophe-dazf-a-toulouse-25-ans-apres-lexplosion-la-peur-des-riverains-ravivee-par-des-projets-industriels-20-09-2026-QY2RUTFADBCV5E2I4E26S5QAFQ.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Catastrophe d’AZF à Toulouse : 25 ans après l’explosion, la peur des riverains r..."
@@ -1046,165 +1177,13 @@
       {
         "title": "Nouvelles circonstances aggravantes en cas de viol, prison pour l’envoi de photos porno… La loi sur les violences sexuelles élargit la répression",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-22T13:19:27.029Z",
+        "time": "2026-09-22T19:42:05.746Z",
         "link": "https://www.leparisien.fr/societe/nouvelles-circonstances-aggravantes-en-cas-de-viol-prison-pour-lenvoi-de-photos-porno-la-loi-sur-les-violences-sexuelles-elargit-la-repression-22-09-2026-4XLS75T2G5HYTPNZGXLFC7K3B4.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Nouvelles circonstances aggravantes en cas de viol, prison pour l’envoi de photo..."
       }
     ],
     "summary": "Nouvelles circonstances aggravantes en cas de viol, prison pour l’envoi de photos porno… La loi sur les violences sexuelles élargit la répression"
-  },
-  {
-    "title": "Le masculiniste américain Clavicular visé par des accusations de viols et d’administration de substances par une influenceuse",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Le masculiniste américain Clavicular visé par des accusations de viols et d’administration de substances par une influenceuse",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-22T13:19:27.029Z",
-        "link": "https://www.leparisien.fr/culture-loisirs/le-masculiniste-americain-clavicular-vise-par-des-accusations-de-viols-et-dadministration-de-substances-par-une-influenceuse-22-09-2026-3O6X7GPOBFH6NCDHBWPUJARB34.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Le masculiniste américain Clavicular visé par des accusations de viols et d’admi..."
-      }
-    ],
-    "summary": "Le masculiniste américain Clavicular visé par des accusations de viols et d’administration de substances par une influenceuse"
-  },
-  {
-    "title": "Une fillette de 5 ans retrouvée morte à Blois, son père soupçonné d’infanticide",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Une fillette de 5 ans retrouvée morte à Blois, son père soupçonné d’infanticide",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-22T13:19:27.029Z",
-        "link": "https://www.leparisien.fr/loir-et-cher-41/une-fillette-de-5-ans-retrouvee-morte-son-pere-soupconne-dinfanticide-22-09-2026-CFCDC6YZVBDXNM5BIZGOIDBJ2E.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Une fillette de 5 ans retrouvée morte à Blois, son père soupçonné d’infanticide..."
-      }
-    ],
-    "summary": "Une fillette de 5 ans retrouvée morte à Blois, son père soupçonné d’infanticide"
-  },
-  {
-    "title": "Attentats du 13 Novembre : Salah Abdeslam restera placé à l’isolement, tranche la justice",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Attentats du 13 Novembre : Salah Abdeslam restera placé à l’isolement, tranche la justice",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-22T13:19:27.029Z",
-        "link": "https://www.leparisien.fr/faits-divers/attentats-du-13-novembre-salah-abdeslam-restera-place-a-lisolement-tranche-la-justice-22-09-2026-DSPH3JSMSBFO3LKQRQ7JMZVF3Y.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Attentats du 13 Novembre : Salah Abdeslam restera placé à l’isolement, tranche l..."
-      }
-    ],
-    "summary": "Attentats du 13 Novembre : Salah Abdeslam restera placé à l’isolement, tranche la justice"
-  },
-  {
-    "title": "Paris : un enseignant en anglais soupçonné de viols et d’agressions sexuelles sur des enfants de 3 à 5 ans",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Paris : un enseignant en anglais soupçonné de viols et d’agressions sexuelles sur des enfants de 3 à 5 ans",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-22T13:19:27.029Z",
-        "link": "https://www.leparisien.fr/faits-divers/nouveau-scandale-de-pedophilie-dans-une-ecole-maternelle-a-paris-un-professeur-danglais-en-garde-a-vue-22-09-2026-QZW66NOKHRGD5ABBAJBQIQPVGM.php",
-        "score": 90,
-        "summary": "un enseignant en anglais soupçonné de viols et d’agressions sexuelles sur des enfants de 3 à 5 ans"
-      }
-    ],
-    "summary": "Paris : un enseignant en anglais soupçonné de viols et d’agressions sexuelles sur des enfants de 3 à 5 ans"
-  },
-  {
-    "title": "Gardien de nuit d’hôtel social tué à Paris : un suspect arrêté au Maroc et placé en détention",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Gardien de nuit d’hôtel social tué à Paris : un suspect arrêté au Maroc et placé en détention",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-22T13:19:27.029Z",
-        "link": "https://www.leparisien.fr/faits-divers/gardien-de-nuit-dhotel-social-tue-a-paris-un-suspect-arrete-au-maroc-et-place-en-detention-22-09-2026-TPVJWMRGVNCXDMYV7KT4RTBX3Q.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Gardien de nuit d’hôtel social tué à Paris : un suspect arrêté au Maroc et placé..."
-      }
-    ],
-    "summary": "Gardien de nuit d’hôtel social tué à Paris : un suspect arrêté au Maroc et placé en détention"
-  },
-  {
-    "title": "Gérald Darmanin considère qu’une libération du logisticien des attentats du 13 Novembre « serait un affront à la douleur des victimes »",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Gérald Darmanin considère qu’une libération du logisticien des attentats du 13 Novembre « serait un affront à la douleur des victimes »",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-22T13:19:27.029Z",
-        "link": "https://www.leparisien.fr/societe/gerald-darmanin-considere-quune-liberation-du-logisticien-des-attentats-du-13-novembre-serait-un-affront-a-la-douleur-des-victimes-21-09-2026-R3UGN4AZUNCHRMN5ZT4VJZ6FTU.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Gérald Darmanin considère qu’une libération du logisticien des attentats du 13 N..."
-      }
-    ],
-    "summary": "Gérald Darmanin considère qu’une libération du logisticien des attentats du 13 Novembre « serait un affront à la douleur des victimes »"
-  },
-  {
-    "title": "Accusations de violence, gardes à vue... : bilan de la manifestation contre la loi « Ripost » à Reims ce week-end",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Accusations de violence, gardes à vue... : bilan de la manifestation contre la loi « Ripost » à Reims ce week-end",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-22T13:19:27.029Z",
-        "link": "https://www.leparisien.fr/marne-51/accusations-de-violence-gardes-a-vue-bilan-de-la-manifestation-contre-la-loi-ripost-a-reims-ce-week-end-21-09-2026-KMWKGVJCH5D5FPPBRKPMFIQXEU.php",
-        "score": 90,
-        "summary": "bilan de la manifestation contre la loi « Ripost » à Reims ce week-end"
-      }
-    ],
-    "summary": "Accusations de violence, gardes à vue... : bilan de la manifestation contre la loi « Ripost » à Reims ce week-end"
-  },
-  {
-    "title": "Seine-Maritime : un blessé grave après une explosion sur un site Seveso à Saint-Pierre-lès-Elbeuf",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Seine-Maritime : un blessé grave après une explosion sur un site Seveso à Saint-Pierre-lès-Elbeuf",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-22T13:19:27.029Z",
-        "link": "https://www.leparisien.fr/seine-maritime-76/seine-maritime-un-blesse-grave-apres-une-explosion-sur-un-site-seveso-a-saint-pierre-les-elbeuf-21-09-2026-FDP4TWRAUNFJBCZEZN4RVZYPFQ.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Seine-Maritime : un blessé grave après une explosion sur un site Seveso à Saint-..."
-      }
-    ],
-    "summary": "Seine-Maritime : un blessé grave après une explosion sur un site Seveso à Saint-Pierre-lès-Elbeuf"
   },
   {
     "title": "[CYBER] M. D. Muse, fils du personnel de l'agent principal des services secrets.",
@@ -1263,7 +1242,7 @@
       {
         "title": "[CYBER] OpenAI lance Astra pour le droit pour les professionnels du droit",
         "source": "Le Monde Informatique",
-        "time": "2026-09-22T13:18:32.724Z",
+        "time": "2026-09-22T19:41:13.891Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-lance-astra-for-law-pour-les-professionnels-du-droit-100794.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] OpenAI lance Astra pour le droit pour les professionnels du droit..."
@@ -1282,7 +1261,7 @@
       {
         "title": "[CYBER] La cybersécurité se réalise chez les PME",
         "source": "Le Monde Informatique",
-        "time": "2026-09-22T13:18:36.934Z",
+        "time": "2026-09-22T19:41:18.159Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-la-cyberassurance-recule-chez-les-pme-francaises-100784.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] La cybersécurité se réalise chez les PME..."
@@ -1301,7 +1280,7 @@
       {
         "title": "[CYBER] Les agents d'OpenAI auraient pour objectif de mettre en place la plateforme RubyGems",
         "source": "Le Monde Informatique",
-        "time": "2026-09-22T13:18:38.747Z",
+        "time": "2026-09-22T19:41:19.969Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-des-agents-d-openai-auraient-cible-la-plateforme-rubygems-100782.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les agents d'OpenAI auraient pour objectif de mettre en place la platefo..."
@@ -1339,7 +1318,7 @@
       {
         "title": "[CYBER] IA: peut-on appeler au ralentissement tout en investissant des centaines de milliards?",
         "source": "Le Monde Informatique",
-        "time": "2026-09-22T13:18:34.614Z",
+        "time": "2026-09-22T19:41:15.889Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-ia-peut-on-appeler-au-ralentissement-tout-en-investissant-des-centaines-de-milliards-100786.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] IA: peut-on appeler au ralentissement tout en investissant des centaines..."
@@ -1358,7 +1337,7 @@
       {
         "title": "[CYBER] Microsoft a publié un code de conduite pour encadrer ses IA",
         "source": "Le Monde Informatique",
-        "time": "2026-09-22T13:18:35.880Z",
+        "time": "2026-09-22T19:41:17.150Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-microsoft-publie-un-code-de-conduite-pour-encadrer-ses-ia-100785.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Microsoft a publié un code de conduite pour encadrer ses IA..."
@@ -1377,7 +1356,7 @@
       {
         "title": "[CYBER] Google corrige 42 défaillances de la courbe dans Chrome",
         "source": "Le Monde Informatique",
-        "time": "2026-09-22T13:18:31.425Z",
+        "time": "2026-09-22T19:41:12.494Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-google-corrige-42-failles-de-securite-dans-chrome-100795.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Google corrige 42 défaillances de la courbe dans Chrome..."
@@ -1396,7 +1375,7 @@
       {
         "title": "[CYBER] Le Patch mardi de septembre provoque des insectes",
         "source": "Le Monde Informatique",
-        "time": "2026-09-22T13:18:28.872Z",
+        "time": "2026-09-22T19:41:09.866Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-le-patch-tuesday-de-septembre-provoque-des-bugs-100798.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le Patch mardi de septembre provoque des insectes..."
@@ -1415,7 +1394,7 @@
       {
         "title": "[CYBER] Les chercheurs de Hacktron AI ont utilisé Claude pour pirate OpenAI",
         "source": "Le Monde Informatique",
-        "time": "2026-09-22T13:18:30.201Z",
+        "time": "2026-09-22T19:41:11.248Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-les-chercheurs-de-hacktron-ai-ont-utilise-claude-pour-pirater-openai-100799.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les chercheurs de Hacktron AI ont utilisé Claude pour pirate OpenAI..."
@@ -1434,12 +1413,88 @@
       {
         "title": "[CYBER] Les deux jumeaux accèdent à l'erreur aux trois entreprises",
         "source": "Le Monde Informatique",
-        "time": "2026-09-22T13:18:27.783Z",
+        "time": "2026-09-22T19:41:08.760Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-gemini-accede-par-erreur-aux-systemes-de-trois-entreprises-100800.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les deux jumeaux accèdent à l'erreur aux trois entreprises..."
       }
     ],
     "summary": "[CYBER] Les deux jumeaux accèdent à l'erreur aux trois entreprises"
+  },
+  {
+    "title": "[CYBER] Facture électronique: les premières arnaques répétées",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "Zataz"
+    ],
+    "items": [
+      {
+        "title": "[CYBER] Facture électronique: les premières arnaques répétées",
+        "source": "Zataz",
+        "time": "2026-09-22T15:05:21.000Z",
+        "link": "https://www.zataz.com/facture-electronique-les-premieres-arnaques-reperees/",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] Facture électronique: les premières arnaques répétées..."
+      }
+    ],
+    "summary": "[CYBER] Facture électronique: les premières arnaques répétées"
+  },
+  {
+    "title": "[CYBER] UNCyber recruter un expert en enquêtes numériques",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "Zataz"
+    ],
+    "items": [
+      {
+        "title": "[CYBER] UNCyber recruter un expert en enquêtes numériques",
+        "source": "Zataz",
+        "time": "2026-09-22T14:28:39.000Z",
+        "link": "https://www.zataz.com/uncyber-recrute-un-expert-en-investigations-numeriques/",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] UNCyber recruter un expert en enquêtes numériques..."
+      }
+    ],
+    "summary": "[CYBER] UNCyber recruter un expert en enquêtes numériques"
+  },
+  {
+    "title": "[CYBER] Le faux badge Google qui piège les entreprises",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "Zataz"
+    ],
+    "items": [
+      {
+        "title": "[CYBER] Le faux badge Google qui piège les entreprises",
+        "source": "Zataz",
+        "time": "2026-09-22T14:12:05.000Z",
+        "link": "https://www.zataz.com/le-faux-badge-google-qui-piege-les-entreprises/",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] Le faux badge Google qui piège les entreprises..."
+      }
+    ],
+    "summary": "[CYBER] Le faux badge Google qui piège les entreprises"
+  },
+  {
+    "title": "[CYBER] NetExplorer changement de nom et devient Voltn",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "Le Monde Informatique"
+    ],
+    "items": [
+      {
+        "title": "[CYBER] NetExplorer changement de nom et devient Voltn",
+        "source": "Le Monde Informatique",
+        "time": "2026-09-22T19:41:07.314Z",
+        "link": "https://www.lemondeinformatique.fr/actualites/lire-netexplorer-change-de-nom-et-devient-voltn-100801.html",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] NetExplorer changement de nom et devient Voltn..."
+      }
+    ],
+    "summary": "[CYBER] NetExplorer changement de nom et devient Voltn"
   }
 ]
