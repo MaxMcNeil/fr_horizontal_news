@@ -2,7 +2,7 @@
   {
     "title": "« Je n’ai jamais été en situation de conflit d’intérêts » : jugée pour corruption, Rachida Dati ne lâche rien",
     "score": 97,
-    "count": 5,
+    "count": 6,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
       "https://www.francetvinfo.fr/politique.rss",
@@ -50,6 +50,14 @@
         "link": "https://www.lemonde.fr/societe/article/2026/09/24/au-proces-de-rachida-dati-pour-corruption-je-suis-tres-choquee-que-vous-me-traitiez-de-menteuse-je-ne-sais-meme-pas-a-quoi-sert-l-audience_6781337_3224.html",
         "score": 97,
         "summary": "Point de situation critique concernant : Au procès de Rachida Dati pour « corruption » : « Je suis très choquée que vous ..."
+      },
+      {
+        "title": "« Fichez-moi la paix ! », « Je sais lire et écrire » : à son procès pour corruption, une journée émaillée de tensions entre Rachida Dati et les parties civiles",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-09-24T15:46:44.000Z",
+        "link": "https://www.sudouest.fr/justice/fichez-moi-la-paix-je-sais-lire-et-ecrire-a-son-proces-pour-corruption-une-journee-emaillee-de-tensions-entre-rachida-dati-et-les-parties-civiles-30768821.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : « Fichez-moi la paix ! », « Je sais lire et écrire » : à son procès pour corrupt..."
       }
     ],
     "summary": "« Je n’ai jamais été en situation de conflit d’intérêts » : jugée pour corruption, Rachida Dati ne lâche rien / \"Ça surprend, mais j'avais des compétences\" : à son procès pour corruption et trafic d'influence, Rachida Dati poussée dans ses retranchements"
@@ -60,9 +68,9 @@
     "count": 5,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml",
       "https://www.lemonde.fr/politique/rss_full.xml",
-      "https://www.franceinfo.fr/faits-divers.rss"
+      "https://www.franceinfo.fr/faits-divers.rss",
+      "https://www.ledauphine.com/Faits-divers-Justice/rss"
     ],
     "items": [
       {
@@ -72,14 +80,6 @@
         "link": "https://www.leparisien.fr/faits-divers/violences-et-humiliations-linfluenceur-mounim-sabhi-de-la-team-du-chateau-en-garde-a-vue-pour-des-soupcons-dabus-21-09-2026-V5XH3N4E2VEFFMRFHTLHF4LYPU.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Violences et humiliations » : l’influenceur Mounim Sabhi de « la Team du Châte..."
-      },
-      {
-        "title": "Périscolaire à Paris : un intervenant en anglais en garde à vue pour des soupçons de viols et d’agressions sexuelles sur des enfants de maternelle",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-09-22T19:41:15.000Z",
-        "link": "https://www.lefigaro.fr/faits-divers/periscolaire-a-paris-un-intervenant-en-anglais-en-garde-a-vue-pour-des-soupcons-de-viols-et-d-agressions-sexuelles-sur-des-enfants-de-maternelle-20260922",
-        "score": 97,
-        "summary": "un intervenant en anglais en garde à vue pour des soupçons de viols et d’agressions sexuelles sur des enfants de maternelle"
       },
       {
         "title": "A Paris, un intervenant en anglais en garde à vue pour des soupçons de viols et d’agressions sexuelles sur des enfants de maternelle",
@@ -92,7 +92,7 @@
       {
         "title": "« La Team du Château » : l’influenceur Mounim Sabhi, soupçonné de violences filmées en direct, placé en détention provisoire",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-24T13:30:18.993Z",
+        "time": "2026-09-24T19:58:16.717Z",
         "link": "https://www.leparisien.fr/faits-divers/la-team-du-chateau-linfluenceur-mounim-sabhi-soupconne-de-violences-filmees-en-direct-place-en-detention-provisoire-23-09-2026-ST6G7HZIPVH33HELUXK5Z6HFHI.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « La Team du Château » : l’influenceur Mounim Sabhi, soupçonné de violences film..."
@@ -104,9 +104,17 @@
         "link": "https://www.franceinfo.fr/faits-divers/l-influenceur-mounim-sabhi-soupconne-de-violences-filmees-en-direct-place-en-detention-provisoire_8207630.html#xtor=RSS-3-%5Bgeneral%5D",
         "score": 97,
         "summary": "Point de situation critique concernant : L'influenceur Mounim Sabhi, soupçonné de violences filmées en direct, placé en d..."
+      },
+      {
+        "title": "Rhône. Victoire du PSG : un policier lyonnais condamné à du sursis pour des violences en garde à vue",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-09-24T17:45:00.000Z",
+        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/24/victoire-du-psg-un-policier-condamne-a-du-sursis-pour-des-violences-en-garde-a-vue",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Rhône. Victoire du PSG : un policier lyonnais condamné à du sursis pour des viol..."
       }
     ],
-    "summary": "« Violences et humiliations » : l’influenceur Mounim Sabhi de « la Team du Château » en garde à vue pour des soupçons d’abus / Périscolaire à Paris : un intervenant en anglais en garde à vue pour des soupçons de viols et d’agressions sexuelles sur des enfants de maternelle"
+    "summary": "« Violences et humiliations » : l’influenceur Mounim Sabhi de « la Team du Château » en garde à vue pour des soupçons d’abus / A Paris, un intervenant en anglais en garde à vue pour des soupçons de viols et d’agressions sexuelles sur des enfants de maternelle"
   },
   {
     "title": "Grégory Lenoci, un « homme dangereux » ou un père qui s’est fait justice ? La Belgique divisée sur ce Belge condamné à 17 ans de prison",
@@ -138,10 +146,9 @@
   {
     "title": "Nantes : un homme blessé par balles sur un point de deal, six personnes interpellées et placées en garde à vue",
     "score": 97,
-    "count": 2,
+    "count": 1,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.sudouest.fr/faits-divers/rss.xml"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
     "items": [
       {
@@ -151,257 +158,9 @@
         "link": "https://www.leparisien.fr/faits-divers/nantes-un-homme-blesse-par-balles-sur-un-point-de-deal-six-personnes-interpellees-et-placees-en-garde-a-vue-21-09-2026-5A3NBHLMZZACZNOIERCSDXYXP4.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Nantes : un homme blessé par balles sur un point de deal, six personnes interpel..."
-      },
-      {
-        "title": "INFO « SUD OUEST ». Charente-Maritime : un homme a été battu à mort à Arvert dans la nuit de dimanche à lundi, quatre personnes ont été placées en garde à vue",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-09-22T19:29:54.000Z",
-        "link": "https://www.sudouest.fr/charente-maritime/arvert/info-sud-ouest-charente-maritime-un-homme-a-ete-battu-a-mort-a-arvert-dans-la-nuit-de-dimanche-a-lundi-quatre-personnes-ont-ete-placees-en-garde-a-vue-30741975.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : INFO « SUD OUEST ». Charente-Maritime : un homme a été battu à mort à Arvert dan..."
       }
     ],
-    "summary": "Nantes : un homme blessé par balles sur un point de deal, six personnes interpellées et placées en garde à vue / INFO « SUD OUEST ». Charente-Maritime : un homme a été battu à mort à Arvert dans la nuit de dimanche à lundi, quatre personnes ont été placées en garde à vue"
-  },
-  {
-    "title": "Le négationniste Vincent Reynouard condamné à huit mois de prison ferme",
-    "score": 97,
-    "count": 3,
-    "sources": [
-      "https://www.lemonde.fr/justice/rss_full.xml",
-      "https://www.ledauphine.com/Faits-divers-Justice/rss"
-    ],
-    "items": [
-      {
-        "title": "Le négationniste Vincent Reynouard condamné à huit mois de prison ferme",
-        "source": "https://www.lemonde.fr/justice/rss_full.xml",
-        "time": "2026-09-22T17:06:23.000Z",
-        "link": "https://www.lemonde.fr/societe/article/2026/09/22/le-negationniste-vincent-reynouard-condamne-a-huit-mois-de-prison-ferme_6780279_3224.html",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Le négationniste Vincent Reynouard condamné à huit mois de prison ferme..."
-      },
-      {
-        "title": "Paris. « Impossibilité technique » des chambres à gaz : le négationniste Vincent Reynouard condamné",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-09-22T16:45:00.000Z",
-        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/22/impossibilite-technique-des-chambres-a-gaz-le-negationniste-vincent-reynouard-condamne",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Paris. « Impossibilité technique » des chambres à gaz : le négationniste Vincent..."
-      },
-      {
-        "title": "Isère. Condamné à deux ans de prison ferme pour une quinzaine de cambriolages commis à Meylan et Corenc",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-09-23T18:04:00.000Z",
-        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/23/condamne-a-deux-ans-de-prison-ferme-pour-une-quinzaine-de-cambriolages",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Isère. Condamné à deux ans de prison ferme pour une quinzaine de cambriolages co..."
-      }
-    ],
-    "summary": "Le négationniste Vincent Reynouard condamné à huit mois de prison ferme / Paris. « Impossibilité technique » des chambres à gaz : le négationniste Vincent Reynouard condamné"
-  },
-  {
-    "title": "États-Unis : l’influenceur masculiniste « Clavicular » inculpé pour viol sur mineure",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.sudouest.fr/faits-divers/rss.xml"
-    ],
-    "items": [
-      {
-        "title": "États-Unis : l’influenceur masculiniste « Clavicular » inculpé pour viol sur mineure",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-09-22T19:12:34.000Z",
-        "link": "https://www.sudouest.fr/faits-divers/etats-unis-l-influenceur-masculiniste-clavicular-inculpe-pour-viol-sur-mineure-30742297.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : États-Unis : l’influenceur masculiniste « Clavicular » inculpé pour viol sur min..."
-      }
-    ],
-    "summary": "États-Unis : l’influenceur masculiniste « Clavicular » inculpé pour viol sur mineure"
-  },
-  {
-    "title": "Pays basque : condamné pour violences habituelles sur sa famille, il réfute toute responsabilité",
-    "score": 97,
-    "count": 2,
-    "sources": [
-      "https://www.sudouest.fr/faits-divers/rss.xml"
-    ],
-    "items": [
-      {
-        "title": "Pays basque : condamné pour violences habituelles sur sa famille, il réfute toute responsabilité",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-09-22T18:26:08.000Z",
-        "link": "https://www.sudouest.fr/pyrenees-atlantiques/bayonne/pays-basque-condamne-pour-violences-habituelles-sur-sa-famille-il-refute-toute-responsabilite-30739783.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Pays basque : condamné pour violences habituelles sur sa famille, il réfute tout..."
-      },
-      {
-        "title": "Pays basque : un SDF condamné à 15 ans de réclusion criminelle après une bagarre mortelle à Anglet",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-09-23T08:57:00.000Z",
-        "link": "https://www.sudouest.fr/pyrenees-atlantiques/anglet/pays-basque-un-sdf-condamne-a-15-ans-de-reclusion-criminelle-apres-une-bagarre-mortelle-a-anglet-30654746.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Pays basque : un SDF condamné à 15 ans de réclusion criminelle après une bagarre..."
-      }
-    ],
-    "summary": "Pays basque : condamné pour violences habituelles sur sa famille, il réfute toute responsabilité / Pays basque : un SDF condamné à 15 ans de réclusion criminelle après une bagarre mortelle à Anglet"
-  },
-  {
-    "title": "Assassinat de Federico Martín Aramburú : « J’espère être condamné mais uniquement pour mes actes », clame Romain Bouvier",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.sudouest.fr/faits-divers/rss.xml"
-    ],
-    "items": [
-      {
-        "title": "Assassinat de Federico Martín Aramburú : « J’espère être condamné mais uniquement pour mes actes », clame Romain Bouvier",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-09-22T17:45:47.000Z",
-        "link": "https://www.sudouest.fr/pyrenees-atlantiques/biarritz/assassinat-de-federico-martin-aramburu-j-espere-etre-condamne-mais-uniquement-pour-mes-actes-clame-romain-bouvier-30735896.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Assassinat de Federico Martín Aramburú : « J’espère être condamné mais uniquemen..."
-      }
-    ],
-    "summary": "Assassinat de Federico Martín Aramburú : « J’espère être condamné mais uniquement pour mes actes », clame Romain Bouvier"
-  },
-  {
-    "title": "Soupçon de corruption au sein du centre de détention d’Eysses, en Lot-et-Garonne : un agent pénitentiaire et un détenu placés en garde à vue",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.sudouest.fr/faits-divers/rss.xml"
-    ],
-    "items": [
-      {
-        "title": "Soupçon de corruption au sein du centre de détention d’Eysses, en Lot-et-Garonne : un agent pénitentiaire et un détenu placés en garde à vue",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-09-22T17:00:00.000Z",
-        "link": "https://www.sudouest.fr/lot-et-garonne/villeneuve-sur-lot/soupcon-de-corruption-au-sein-du-centre-de-detention-d-eysses-en-lot-et-garonne-un-agent-penitentiaire-et-un-detenu-places-en-garde-a-vue-30738935.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Soupçon de corruption au sein du centre de détention d’Eysses, en Lot-et-Garonne..."
-      }
-    ],
-    "summary": "Soupçon de corruption au sein du centre de détention d’Eysses, en Lot-et-Garonne : un agent pénitentiaire et un détenu placés en garde à vue"
-  },
-  {
-    "title": "Paris. Viols et agressions sexuelles sur des enfants de maternelle : un intervenant d'anglais en garde à vue",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.ledauphine.com/Faits-divers-Justice/rss"
-    ],
-    "items": [
-      {
-        "title": "Paris. Viols et agressions sexuelles sur des enfants de maternelle : un intervenant d'anglais en garde à vue",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-09-22T17:53:00.000Z",
-        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/22/viols-et-agressions-sexuelles-sur-des-enfants-de-maternelle-un-intervenant-d-anglais-en-garde-a-vue",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Paris. Viols et agressions sexuelles sur des enfants de maternelle : un interven..."
-      }
-    ],
-    "summary": "Paris. Viols et agressions sexuelles sur des enfants de maternelle : un intervenant d'anglais en garde à vue"
-  },
-  {
-    "title": "L'opposition municipale à Concarneau réclame la \"démission\" du maire, mis en examen pour viol et agression sexuelle",
-    "score": 97,
-    "count": 5,
-    "sources": [
-      "https://www.francetvinfo.fr/politique.rss",
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.lemonde.fr/societe/rss_full.xml",
-      "https://www.sudouest.fr/faits-divers/rss.xml",
-      "https://www.ledauphine.com/Faits-divers-Justice/rss"
-    ],
-    "items": [
-      {
-        "title": "L'opposition municipale à Concarneau réclame la \"démission\" du maire, mis en examen pour viol et agression sexuelle",
-        "source": "https://www.francetvinfo.fr/politique.rss",
-        "time": "2026-09-22T16:53:49.000Z",
-        "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/l-opposition-municipale-a-concarneau-reclame-la-demission-du-maire-mis-en-examen-pour-viol-et-agression-sexuelle_8205059.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 97,
-        "summary": "Point de situation critique concernant : L'opposition municipale à Concarneau réclame la \"démission\" du maire, mis en exa..."
-      },
-      {
-        "title": "« C’est un scandale » : condamné pour agression sexuelle, le chanteur Clayton Hamilton libéré après une erreur de procédure",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-24T13:30:18.993Z",
-        "link": "https://www.leparisien.fr/faits-divers/cest-un-scandale-une-erreur-judiciaire-fait-liberer-le-chanteur-clayton-hamilton-condamne-pour-agression-sexuelle-23-09-2026-O3ISEFBHMRBMXHYVFVAIMLGZZE.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : « C’est un scandale » : condamné pour agression sexuelle, le chanteur Clayton Ha..."
-      },
-      {
-        "title": "Harvey Weinstein est condamné à quinze ans de prison pour une agression sexuelle commise en 2006",
-        "source": "https://www.lemonde.fr/societe/rss_full.xml",
-        "time": "2026-09-23T16:55:40.000Z",
-        "link": "https://www.lemonde.fr/international/article/2026/09/23/le-magnat-du-cinema-harvey-weinstein-est-condamne-a-quinze-ans-de-prison_6780947_3210.html",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Harvey Weinstein est condamné à quinze ans de prison pour une agression sexuelle..."
-      },
-      {
-        "title": "Harvey Weinstein : l’ex-producteur de Hollywood de nouveau condamné à 15 ans de prison pour agression sexuelle en 2006",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-09-23T16:25:27.000Z",
-        "link": "https://www.sudouest.fr/faits-divers/harvey-weinstein-l-ex-producteur-de-hollywood-de-nouveau-condamne-a-15-ans-de-prison-pour-agression-sexuelle-en-2006-30754231.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Harvey Weinstein : l’ex-producteur de Hollywood de nouveau condamné à 15 ans de ..."
-      },
-      {
-        "title": "États-Unis. Harvey Weinstein condamné à 15 ans de prison pour une agression sexuelle datant de 2006",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-09-23T16:08:00.000Z",
-        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/23/harvey-weinstein-condamne-a-15-ans-de-prison-pour-une-agression-sexuelle-datant-de-2006",
-        "score": 97,
-        "summary": "Point de situation critique concernant : États-Unis. Harvey Weinstein condamné à 15 ans de prison pour une agression sexu..."
-      }
-    ],
-    "summary": "L'opposition municipale à Concarneau réclame la \"démission\" du maire, mis en examen pour viol et agression sexuelle / « C’est un scandale » : condamné pour agression sexuelle, le chanteur Clayton Hamilton libéré après une erreur de procédure"
-  },
-  {
-    "title": "Microsoft : encore des licenciements chez Xbox - 22/09",
-    "score": 97,
-    "count": 2,
-    "sources": [
-      "https://www.bfmtv.com/rss/economie/"
-    ],
-    "items": [
-      {
-        "title": "Microsoft : encore des licenciements chez Xbox - 22/09",
-        "source": "https://www.bfmtv.com/rss/economie/",
-        "time": "2026-09-22T18:10:03.000Z",
-        "link": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-microsoft-encore-des-licenciements-chez-xbox-22-09_VN-202609220824.html",
-        "score": 97,
-        "summary": "encore des licenciements chez Xbox - 22/09"
-      },
-      {
-        "title": "Microsoft : encore des licenciements chez Xbox – 22/09",
-        "source": "https://www.bfmtv.com/rss/economie/",
-        "time": "2026-09-22T18:09:41.000Z",
-        "link": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/microsoft-encore-des-licenciements-chez-xbox-22-09_EN-202609220814.html",
-        "score": 97,
-        "summary": "encore des licenciements chez Xbox – 22/09"
-      }
-    ],
-    "summary": "Microsoft : encore des licenciements chez Xbox - 22/09 / Microsoft : encore des licenciements chez Xbox – 22/09"
-  },
-  {
-    "title": "Scandale du périscolaire à Paris : le rapport de 2026 confirme des lacunes persistantes depuis 2015",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
-    ],
-    "items": [
-      {
-        "title": "Scandale du périscolaire à Paris : le rapport de 2026 confirme des lacunes persistantes depuis 2015",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-09-22T15:29:28.000Z",
-        "link": "https://www.lefigaro.fr/actualite-france/scandale-du-periscolaire-a-paris-le-rapport-de-2026-confirme-des-lacunes-persistantes-depuis-2015-20260922",
-        "score": 97,
-        "summary": "le rapport de 2026 confirme des lacunes persistantes depuis 2015"
-      }
-    ],
-    "summary": "Scandale du périscolaire à Paris : le rapport de 2026 confirme des lacunes persistantes depuis 2015"
+    "summary": "Nantes : un homme blessé par balles sur un point de deal, six personnes interpellées et placées en garde à vue"
   },
   {
     "title": "« L’éternel choix du pire » : le djihadiste Othman Garrido condamné à trente ans de prison",
@@ -418,7 +177,7 @@
       {
         "title": "« L’éternel choix du pire » : le djihadiste Othman Garrido condamné à trente ans de prison",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-24T13:30:18.993Z",
+        "time": "2026-09-24T19:58:16.717Z",
         "link": "https://www.leparisien.fr/faits-divers/il-avait-le-choix-de-sortir-de-cet-embrigadement-le-djihadiste-othman-garrido-condamne-a-trente-ans-de-prison-22-09-2026-4CEOPJYVJVGGZJMXV6ZYJ4EOCE.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « L’éternel choix du pire » : le djihadiste Othman Garrido condamné à trente ans..."
@@ -534,7 +293,7 @@
       {
         "title": "Les affaires de corruption et d’atteinte à la probité dans la police « en nette augmentation » : le chef de l’IGPN fait le bilan",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-24T13:30:18.993Z",
+        "time": "2026-09-24T19:58:16.717Z",
         "link": "https://www.leparisien.fr/faits-divers/les-affaires-de-corruption-et-datteinte-a-la-probite-dans-la-police-en-nette-augmentation-le-chef-de-ligpn-fait-le-bilan-23-09-2026-PR6RBOPW7NAK7F2OWOP4WMX7B4.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Les affaires de corruption et d’atteinte à la probité dans la police « en nette ..."
@@ -559,6 +318,68 @@
     "summary": "Les affaires de corruption et d’atteinte à la probité dans la police « en nette augmentation » : le chef de l’IGPN fait le bilan / Tirs mortels en baisse, affaires de corruption en hausse... Quatre infos à retenir du rapport annuel de l'IGPN, \"la police des polices\""
   },
   {
+    "title": "« C’est un scandale » : condamné pour agression sexuelle, le chanteur Clayton Hamilton libéré après une erreur de procédure",
+    "score": 97,
+    "count": 6,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "https://www.lemonde.fr/societe/rss_full.xml",
+      "https://www.sudouest.fr/faits-divers/rss.xml",
+      "https://www.ledauphine.com/Faits-divers-Justice/rss"
+    ],
+    "items": [
+      {
+        "title": "« C’est un scandale » : condamné pour agression sexuelle, le chanteur Clayton Hamilton libéré après une erreur de procédure",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-09-24T19:58:16.717Z",
+        "link": "https://www.leparisien.fr/faits-divers/cest-un-scandale-une-erreur-judiciaire-fait-liberer-le-chanteur-clayton-hamilton-condamne-pour-agression-sexuelle-23-09-2026-O3ISEFBHMRBMXHYVFVAIMLGZZE.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : « C’est un scandale » : condamné pour agression sexuelle, le chanteur Clayton Ha..."
+      },
+      {
+        "title": "#MeToo : Harvey Weinstein condamné à 15 ans de prison pour l’agression sexuelle d’une assistante de production",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-09-24T19:58:16.717Z",
+        "link": "https://www.leparisien.fr/faits-divers/metoo-harvey-weinstein-condamne-a-15-ans-de-prison-pour-lagression-sexuelle-dune-assistante-de-production-23-09-2026-WHPGFC7HAZHNJKHLXL4DJBZKD4.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : #MeToo : Harvey Weinstein condamné à 15 ans de prison pour l’agression sexuelle ..."
+      },
+      {
+        "title": "Harvey Weinstein est condamné à quinze ans de prison pour une agression sexuelle commise en 2006",
+        "source": "https://www.lemonde.fr/societe/rss_full.xml",
+        "time": "2026-09-23T16:55:40.000Z",
+        "link": "https://www.lemonde.fr/international/article/2026/09/23/le-magnat-du-cinema-harvey-weinstein-est-condamne-a-quinze-ans-de-prison_6780947_3210.html",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Harvey Weinstein est condamné à quinze ans de prison pour une agression sexuelle..."
+      },
+      {
+        "title": "Harvey Weinstein : l’ex-producteur de Hollywood de nouveau condamné à 15 ans de prison pour agression sexuelle en 2006",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-09-23T16:25:27.000Z",
+        "link": "https://www.sudouest.fr/faits-divers/harvey-weinstein-l-ex-producteur-de-hollywood-de-nouveau-condamne-a-15-ans-de-prison-pour-agression-sexuelle-en-2006-30754231.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Harvey Weinstein : l’ex-producteur de Hollywood de nouveau condamné à 15 ans de ..."
+      },
+      {
+        "title": "États-Unis. Harvey Weinstein condamné à 15 ans de prison pour une agression sexuelle datant de 2006",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-09-23T16:08:00.000Z",
+        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/23/harvey-weinstein-condamne-a-15-ans-de-prison-pour-une-agression-sexuelle-datant-de-2006",
+        "score": 97,
+        "summary": "Point de situation critique concernant : États-Unis. Harvey Weinstein condamné à 15 ans de prison pour une agression sexu..."
+      },
+      {
+        "title": "Bas-Rhin. Après 11 ans de cavale, Joelan Mootoosamy condamné à 20 ans pour un passage à tabac mortel",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-09-24T19:00:00.000Z",
+        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/24/apres-11-ans-de-cavale-joelan-mootoosamy-condamne-a-20-ans-pour-un-passage-a-tabac-mortel",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Bas-Rhin. Après 11 ans de cavale, Joelan Mootoosamy condamné à 20 ans pour un pa..."
+      }
+    ],
+    "summary": "« C’est un scandale » : condamné pour agression sexuelle, le chanteur Clayton Hamilton libéré après une erreur de procédure / #MeToo : Harvey Weinstein condamné à 15 ans de prison pour l’agression sexuelle d’une assistante de production"
+  },
+  {
     "title": "Un homme de 90 ans en garde à vue dans les Pyrénées-Atlantiques, soupçonné d'avoir tué ses voisins",
     "score": 97,
     "count": 2,
@@ -578,13 +399,32 @@
       {
         "title": "Dijon : un homme soupçonné de féminicide interpellé, sa compagne retrouvée morte dans un appartement",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-24T13:30:18.993Z",
+        "time": "2026-09-24T19:58:16.716Z",
         "link": "https://www.leparisien.fr/faits-divers/dijon-un-homme-soupconne-de-feminicide-interpelle-sa-compagne-retrouvee-morte-dans-un-appartement-24-09-2026-WT45GBFJ6JB7BGXY3ZMCGIA7CU.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Dijon : un homme soupçonné de féminicide interpellé, sa compagne retrouvée morte..."
       }
     ],
     "summary": "Un homme de 90 ans en garde à vue dans les Pyrénées-Atlantiques, soupçonné d'avoir tué ses voisins / Dijon : un homme soupçonné de féminicide interpellé, sa compagne retrouvée morte dans un appartement"
+  },
+  {
+    "title": "Pays basque : un SDF condamné à 15 ans de réclusion criminelle après une bagarre mortelle à Anglet",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.sudouest.fr/faits-divers/rss.xml"
+    ],
+    "items": [
+      {
+        "title": "Pays basque : un SDF condamné à 15 ans de réclusion criminelle après une bagarre mortelle à Anglet",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-09-23T08:57:00.000Z",
+        "link": "https://www.sudouest.fr/pyrenees-atlantiques/anglet/pays-basque-un-sdf-condamne-a-15-ans-de-reclusion-criminelle-apres-une-bagarre-mortelle-a-anglet-30654746.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Pays basque : un SDF condamné à 15 ans de réclusion criminelle après une bagarre..."
+      }
+    ],
+    "summary": "Pays basque : un SDF condamné à 15 ans de réclusion criminelle après une bagarre mortelle à Anglet"
   },
   {
     "title": "Un couple de retraités tué par balle à Lagor en Béarn, leur voisin de 90 ans en garde à vue, « le conflit durait depuis des décennies »",
@@ -627,10 +467,9 @@
   {
     "title": "Affaire des folles dépenses de fournitures : le PS de Gironde condamné pour le licenciement d’une cadre administrative",
     "score": 97,
-    "count": 2,
+    "count": 1,
     "sources": [
-      "https://www.sudouest.fr/faits-divers/rss.xml",
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+      "https://www.sudouest.fr/faits-divers/rss.xml"
     ],
     "items": [
       {
@@ -640,17 +479,9 @@
         "link": "https://www.sudouest.fr/gironde/affaire-des-folles-depenses-de-fournitures-le-ps-de-gironde-condamne-pour-le-licenciement-d-une-cadre-administrative-30726521.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Affaire des folles dépenses de fournitures : le PS de Gironde condamné pour le l..."
-      },
-      {
-        "title": "#MeToo : Harvey Weinstein condamné à 15 ans de prison pour l’agression sexuelle d’une assistante de production",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-24T13:30:18.993Z",
-        "link": "https://www.leparisien.fr/faits-divers/metoo-harvey-weinstein-condamne-a-15-ans-de-prison-pour-lagression-sexuelle-dune-assistante-de-production-23-09-2026-WHPGFC7HAZHNJKHLXL4DJBZKD4.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : #MeToo : Harvey Weinstein condamné à 15 ans de prison pour l’agression sexuelle ..."
       }
     ],
-    "summary": "Affaire des folles dépenses de fournitures : le PS de Gironde condamné pour le licenciement d’une cadre administrative / #MeToo : Harvey Weinstein condamné à 15 ans de prison pour l’agression sexuelle d’une assistante de production"
+    "summary": "Affaire des folles dépenses de fournitures : le PS de Gironde condamné pour le licenciement d’une cadre administrative"
   },
   {
     "title": "Marseille. Il se vantait de ses profits sur internet : un « coach immobilier » condamné à 440 000 euros d'amende",
@@ -740,16 +571,17 @@
   {
     "title": "Les cambrioleurs de François Hollande et Julie Gayet condamnés à 18 mois de prison avec sursis pour une montre et un iPad",
     "score": 97,
-    "count": 2,
+    "count": 3,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.sudouest.fr/faits-divers/rss.xml"
+      "https://www.sudouest.fr/faits-divers/rss.xml",
+      "https://www.franceinfo.fr/faits-divers.rss"
     ],
     "items": [
       {
         "title": "Les cambrioleurs de François Hollande et Julie Gayet condamnés à 18 mois de prison avec sursis pour une montre et un iPad",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-24T13:30:18.993Z",
+        "time": "2026-09-24T19:58:16.716Z",
         "link": "https://www.leparisien.fr/faits-divers/les-cambrioleurs-de-francois-hollande-et-julie-gayet-condamnes-a-18-mois-de-prison-avec-sursis-pour-une-montre-et-un-ipad-23-09-2026-NJXVPFVZBRANJOVYZ2WNJKOT6I.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Les cambrioleurs de François Hollande et Julie Gayet condamnés à 18 mois de pris..."
@@ -761,6 +593,14 @@
         "link": "https://www.sudouest.fr/justice/dordogne-ils-agressent-deux-personnes-pour-leur-voler-leur-telephone-portable-ils-sont-condamnes-a-dix-huit-mois-et-quatre-ans-de-prison-30748325.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Dordogne : ils agressent deux personnes pour leur voler leur téléphone portable,..."
+      },
+      {
+        "title": "Un agriculteur condamné à un an de prison ferme pour avoir tiré sur ses cambrioleurs venus lui siphonner son carburant",
+        "source": "https://www.franceinfo.fr/faits-divers.rss",
+        "time": "2026-09-24T16:11:34.000Z",
+        "link": "https://www.franceinfo.fr/faits-divers/un-agriculteur-condamne-a-un-an-de-prison-ferme-pour-avoir-tire-sur-ses-cambrioleurs-venus-lui-siphonner-son-carburant_8208383.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Un agriculteur condamné à un an de prison ferme pour avoir tiré sur ses cambriol..."
       }
     ],
     "summary": "Les cambrioleurs de François Hollande et Julie Gayet condamnés à 18 mois de prison avec sursis pour une montre et un iPad / Dordogne : ils agressent deux personnes pour leur voler leur téléphone portable, ils sont condamnés à dix-huit mois et quatre ans de prison"
@@ -776,7 +616,7 @@
       {
         "title": "Kalachnikovs, montres de luxe et trois millions d’euros cachés dans les murs : l’incroyable perquisition d’un baron de la drogue à Naples",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-24T13:30:18.993Z",
+        "time": "2026-09-24T19:58:16.717Z",
         "link": "https://www.leparisien.fr/international/italie/kalachnikovs-montres-de-luxe-et-trois-millions-deuros-caches-dans-les-murs-lincroyable-perquisition-dun-baron-de-la-drogue-a-naples-23-09-2026-J2GLBACILBDTBFJCZ7WBDZCNGY.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Kalachnikovs, montres de luxe et trois millions d’euros cachés dans les murs : l..."
@@ -787,21 +627,31 @@
   {
     "title": "Attentat de Magnanville en 2016 : la Cour de cassation ordonne un nouveau procès pour Mohamed Lamine Aberouz, condamné pour complicité",
     "score": 97,
-    "count": 5,
+    "count": 10,
     "sources": [
-      "https://www.lemonde.fr/societe/rss_full.xml",
-      "https://www.bfmtv.com/rss/politique/",
+      "https://www.lemonde.fr/police/rss_full.xml",
       "https://www.ledauphine.com/Faits-divers-Justice/rss",
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+      "https://www.bfmtv.com/rss/politique/",
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "https://www.sudouest.fr/faits-divers/rss.xml",
+      "https://www.mediapart.fr/articles/feed"
     ],
     "items": [
       {
         "title": "Attentat de Magnanville en 2016 : la Cour de cassation ordonne un nouveau procès pour Mohamed Lamine Aberouz, condamné pour complicité",
-        "source": "https://www.lemonde.fr/societe/rss_full.xml",
+        "source": "https://www.lemonde.fr/police/rss_full.xml",
         "time": "2026-09-23T15:53:31.000Z",
         "link": "https://www.lemonde.fr/societe/article/2026/09/23/attentat-de-magnanville-la-cour-de-cassation-ordonne-un-nouveau-proces-sur-la-peine-du-condamne-a-la-perpetuite_6780933_3224.html",
         "score": 97,
         "summary": "Point de situation critique concernant : Attentat de Magnanville en 2016 : la Cour de cassation ordonne un nouveau procès..."
+      },
+      {
+        "title": "Isère. Condamné à deux ans de prison ferme pour une quinzaine de cambriolages commis à Meylan et Corenc",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-09-23T18:04:00.000Z",
+        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/23/condamne-a-deux-ans-de-prison-ferme-pour-une-quinzaine-de-cambriolages",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Isère. Condamné à deux ans de prison ferme pour une quinzaine de cambriolages co..."
       },
       {
         "title": "Suppression de l'édito de Charles Sapin sur France Inter: \"Valeurs actuelles a été condamné pour racisme\", rappelle le journaliste politique Thomas Legrand",
@@ -820,9 +670,41 @@
         "summary": "Point de situation critique concernant : Isère. Agressions sexuelles au sein d’un foyer pour jeunes adultes : un résident..."
       },
       {
+        "title": "« Un coup de sang » : l’improbable vengeance d’un policier, condamné pour avoir vandalisé la voiture d’un particulier",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-09-24T19:58:16.716Z",
+        "link": "https://www.leparisien.fr/faits-divers/un-coup-de-sang-limprobable-vengeance-dun-policier-condamne-pour-avoir-vandalise-la-voiture-dun-particulier-24-09-2026-MFNZQEGSZNG5DAIXD5FD6UCMBA.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : « Un coup de sang » : l’improbable vengeance d’un policier, condamné pour avoir ..."
+      },
+      {
+        "title": "« Je pensais que cela n’avait pas d’incidence car c’était virtuel » : un instituteur condamné pour détention de 86 images et 11 vidéos pédopornographiques",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-09-24T17:05:47.000Z",
+        "link": "https://www.sudouest.fr/dordogne/bergerac/je-pensais-que-cela-n-avait-pas-d-incidence-car-c-etait-virtuel-un-instituteur-condamne-pour-detention-de-86-images-et-11-videos-pedopornographiques-30769349.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : « Je pensais que cela n’avait pas d’incidence car c’était virtuel » : un institu..."
+      },
+      {
+        "title": "Gap. 4e RCh : un militaire condamné pour un trafic de “Pète ton crâne”",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-09-24T18:56:35.000Z",
+        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/24/4-sup-e-sup-rch-un-militaire-condamne-pour-un-trafic-de-pete-ton-crane",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Gap. 4e RCh : un militaire condamné pour un trafic de “Pète ton crâne”..."
+      },
+      {
+        "title": "«La police est venue dans mon parking et ils ont cassé ma voiture»: un policier parisien condamné pour dégradations",
+        "source": "https://www.mediapart.fr/articles/feed",
+        "time": "2026-09-24T18:04:28.000Z",
+        "link": "https://www.mediapart.fr/journal/france/240926/la-police-est-venue-dans-mon-parking-et-ils-ont-casse-ma-voiture-un-policier-parisien-condamne-pour-degrad",
+        "score": 97,
+        "summary": "Point de situation critique concernant : «La police est venue dans mon parking et ils ont cassé ma voiture»: un policier ..."
+      },
+      {
         "title": "PSG : la réponse du club après la confirmation du renvoi d’Achraf Hakimi devant une cour criminelle pour viol",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-24T13:30:18.993Z",
+        "time": "2026-09-24T19:58:16.717Z",
         "link": "https://www.leparisien.fr/sports/football/psg/psg-la-reponse-du-club-apres-la-confirmation-du-renvoi-dachraf-hakimi-devant-une-cour-criminelle-pour-viol-23-09-2026-ZGCFFYJXWRFU5CMOH25QBU4ROQ.php",
         "score": 90,
         "summary": "la réponse du club après la confirmation du renvoi d’Achraf Hakimi devant une cour criminelle pour viol"
@@ -830,13 +712,13 @@
       {
         "title": "Football : renvoyé en procès par la Cour de cassation, Achraf Hakimi sera bien jugé pour viol",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-24T13:30:18.993Z",
+        "time": "2026-09-24T19:58:16.717Z",
         "link": "https://www.leparisien.fr/sports/football/psg/football-renvoye-en-proces-par-la-cour-de-cassation-achraf-hakimi-sera-bien-juge-pour-viol-23-09-2026-62ECVVXNGBDFNPIC4IQUI7UJYM.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Football : renvoyé en procès par la Cour de cassation, Achraf Hakimi sera bien j..."
       }
     ],
-    "summary": "Attentat de Magnanville en 2016 : la Cour de cassation ordonne un nouveau procès pour Mohamed Lamine Aberouz, condamné pour complicité / Suppression de l'édito de Charles Sapin sur France Inter: \"Valeurs actuelles a été condamné pour racisme\", rappelle le journaliste politique Thomas Legrand"
+    "summary": "Attentat de Magnanville en 2016 : la Cour de cassation ordonne un nouveau procès pour Mohamed Lamine Aberouz, condamné pour complicité / Isère. Condamné à deux ans de prison ferme pour une quinzaine de cambriolages commis à Meylan et Corenc"
   },
   {
     "title": "Bordeaux : deux hommes en garde à vue après un refus d’obtempérer avec un scooter volé",
@@ -860,7 +742,7 @@
   {
     "title": "Un gardien de prison lot-et-garonnais jugé pour corruption à Agen",
     "score": 97,
-    "count": 1,
+    "count": 2,
     "sources": [
       "https://www.sudouest.fr/faits-divers/rss.xml"
     ],
@@ -872,9 +754,17 @@
         "link": "https://www.sudouest.fr/lot-et-garonne/villeneuve-sur-lot/un-gardien-de-prison-lot-et-garonnais-juge-pour-corruption-a-agen-30754784.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Un gardien de prison lot-et-garonnais jugé pour corruption à Agen..."
+      },
+      {
+        "title": "« Je dissimulais la drogue dans des gourdes ; l’alcool dans des bouteilles en plastique » : un an ferme pour le surveillant de prison accusé de corruption en Lot-et-Garonne",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-09-24T18:00:00.000Z",
+        "link": "https://www.sudouest.fr/lot-et-garonne/villeneuve-sur-lot/je-dissimulais-la-drogue-dans-des-gourdes-l-alcool-dans-des-bouteilles-en-plastique-un-an-ferme-pour-le-surveillant-de-prison-accuse-de-corruption-en-lot-et-garonne-30769003.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : « Je dissimulais la drogue dans des gourdes ; l’alcool dans des bouteilles en pl..."
       }
     ],
-    "summary": "Un gardien de prison lot-et-garonnais jugé pour corruption à Agen"
+    "summary": "Un gardien de prison lot-et-garonnais jugé pour corruption à Agen / « Je dissimulais la drogue dans des gourdes ; l’alcool dans des bouteilles en plastique » : un an ferme pour le surveillant de prison accusé de corruption en Lot-et-Garonne"
   },
   {
     "title": "Haute-Savoie. « J’ai cru qu’il allait me tuer, il me regardait avec des yeux haineux » : un septuagénaire condamné pour violences habituelles et menaces de mort",
@@ -900,12 +790,12 @@
     "score": 97,
     "count": 1,
     "sources": [
-      "https://www.lemonde.fr/economie/rss_full.xml"
+      "https://www.lemonde.fr/societe/rss_full.xml"
     ],
     "items": [
       {
         "title": "Fraude au faux RIB : celui qui a de bonne foi viré l’argent à un escroc est-il libéré de sa dette ?",
-        "source": "https://www.lemonde.fr/economie/rss_full.xml",
+        "source": "https://www.lemonde.fr/societe/rss_full.xml",
         "time": "2026-09-24T04:00:20.000Z",
         "link": "https://www.lemonde.fr/argent/article/2026/09/24/fraude-au-faux-rib-celui-qui-a-de-bonne-foi-vire-l-argent-a-un-escroc-est-il-libere-de-sa-dette_6781340_1657007.html",
         "score": 97,
@@ -925,7 +815,7 @@
       {
         "title": "1,7 million d’euros de préjudice : deux infirmiers libéraux auraient monté un vrai système de fraude à la Sécu",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-24T13:30:18.992Z",
+        "time": "2026-09-24T19:58:16.716Z",
         "link": "https://www.leparisien.fr/val-d-oise-95/hyperactivite-soins-non-realises-ordonnances-modifiees-deux-infirmiers-soupconnes-dune-fraude-a-17-million-deuros-24-09-2026-AB5KOZ5KENA7TJL257HRAELRWI.php",
         "score": 97,
         "summary": "Point de situation critique concernant : 1,7 million d’euros de préjudice : deux infirmiers libéraux auraient monté un vr..."
@@ -970,6 +860,63 @@
       }
     ],
     "summary": "Assises de la Dordogne : les parents de Valentin, « symbole de l’enfance maltraitée », condamnés et placés en détention dès le verdict prononcé"
+  },
+  {
+    "title": "Pluie de Légions d’honneur suspectes : le général cinq étoiles Benoît Puga a été placé en garde à vue",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Pluie de Légions d’honneur suspectes : le général cinq étoiles Benoît Puga a été placé en garde à vue",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-09-24T19:58:16.716Z",
+        "link": "https://www.leparisien.fr/faits-divers/pluie-de-legions-dhonneur-suspectes-le-general-cinq-etoiles-benoit-puga-a-ete-place-en-garde-a-vue-24-09-2026-R6X3E7FEOZC7HNDK3V4VGIMUDE.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Pluie de Légions d’honneur suspectes : le général cinq étoiles Benoît Puga a été..."
+      }
+    ],
+    "summary": "Pluie de Légions d’honneur suspectes : le général cinq étoiles Benoît Puga a été placé en garde à vue"
+  },
+  {
+    "title": "Le référent intégrité de Santé publique France démissionne après sa mise en cause pour des liens avec Pfizer",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.lemonde.fr/economie/rss_full.xml"
+    ],
+    "items": [
+      {
+        "title": "Le référent intégrité de Santé publique France démissionne après sa mise en cause pour des liens avec Pfizer",
+        "source": "https://www.lemonde.fr/economie/rss_full.xml",
+        "time": "2026-09-24T16:13:03.000Z",
+        "link": "https://www.lemonde.fr/planete/article/2026/09/24/le-referent-integrite-de-sante-publique-france-demissionne-apres-sa-mise-en-cause-pour-des-liens-avec-pfizer_6781556_3244.html",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Le référent intégrité de Santé publique France démissionne après sa mise en caus..."
+      }
+    ],
+    "summary": "Le référent intégrité de Santé publique France démissionne après sa mise en cause pour des liens avec Pfizer"
+  },
+  {
+    "title": "Ardèche. Chienne rouée de coups et retrouvée pendue dans une forêt : le propriétaire de Rubis condamné à un an de prison ferme",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.ledauphine.com/Faits-divers-Justice/rss"
+    ],
+    "items": [
+      {
+        "title": "Ardèche. Chienne rouée de coups et retrouvée pendue dans une forêt : le propriétaire de Rubis condamné à un an de prison ferme",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-09-24T16:14:00.000Z",
+        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/24/le-proprietaire-de-rubis-chienne-rouee-de-coups-et-pendue-a-roiffieux-condamne-a-un-an-de-prison-ferme",
+        "score": 97,
+        "summary": "le propriétaire de Rubis condamné à un an de prison ferme"
+      }
+    ],
+    "summary": "Ardèche. Chienne rouée de coups et retrouvée pendue dans une forêt : le propriétaire de Rubis condamné à un an de prison ferme"
   },
   {
     "title": "Rançon, torture et vidéo : l’inquiétant retour en force des enlèvements-séquestrations",
@@ -1020,7 +967,7 @@
       {
         "title": "Un homme arrêté onze ans après l’agression sexuelle d’une femme à Paris",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-24T13:30:18.993Z",
+        "time": "2026-09-24T19:58:16.716Z",
         "link": "https://www.leparisien.fr/faits-divers/un-homme-arrete-onze-ans-apres-lagression-sexuelle-dune-femme-a-paris-24-09-2026-244MDDIQB5CXNB5AVDZ4VSS4KE.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Un homme arrêté onze ans après l’agression sexuelle d’une femme à Paris..."
@@ -1039,7 +986,7 @@
       {
         "title": "13 Novembre : la justice belge va auditionner les victimes avant la possible libération du « logisticien des attentats »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-24T13:30:18.993Z",
+        "time": "2026-09-24T19:58:16.716Z",
         "link": "https://www.leparisien.fr/faits-divers/13-novembre-la-justice-belge-va-auditionner-les-victimes-avant-la-possible-liberation-du-logisticien-des-attentats-23-09-2026-OGXRFOKVOJF6DPBG4SELW7GJ3A.php",
         "score": 90,
         "summary": "Point de situation critique concernant : 13 Novembre : la justice belge va auditionner les victimes avant la possible lib..."
@@ -1058,7 +1005,7 @@
       {
         "title": "Aube : un sexagénaire tué à son domicile, ses agresseurs en fuite",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-24T13:30:18.993Z",
+        "time": "2026-09-24T19:58:16.716Z",
         "link": "https://www.leparisien.fr/aube-10/aube-un-sexagenaire-tue-a-son-domicile-ses-agresseurs-en-fuite-23-09-2026-SBVECX6VDFF4BIHP3DEYFEQDIE.php",
         "score": 90,
         "summary": "un sexagénaire tué à son domicile, ses agresseurs en fuite"
@@ -1077,7 +1024,7 @@
       {
         "title": "Attentat de la Tour Eiffel en 2023 : les investigations rouvertes à la demande de la défense",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-24T13:30:18.993Z",
+        "time": "2026-09-24T19:58:16.716Z",
         "link": "https://www.leparisien.fr/faits-divers/attentat-de-la-tour-eiffel-en-2023-les-investigations-rouvertes-a-la-demande-de-la-defense-23-09-2026-5TKYOIXOBFHPTGTCYSJBUZKYQM.php",
         "score": 90,
         "summary": "les investigations rouvertes à la demande de la défense"
@@ -1096,7 +1043,7 @@
       {
         "title": "Attentat de Magnanville : vers un troisième procès du complice présumé",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-24T13:30:18.993Z",
+        "time": "2026-09-24T19:58:16.717Z",
         "link": "https://www.leparisien.fr/faits-divers/attentat-de-magnanville-vers-un-troisieme-proces-du-complice-presume-23-09-2026-ILAOBLEKOVBKNP2Q7ZWCOBBMDM.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Attentat de Magnanville : vers un troisième procès du complice présumé..."
@@ -1115,13 +1062,32 @@
       {
         "title": "Enlèvement de Mia : 5 ans après, le complotiste Rémy Daillet est jugé",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-24T13:30:18.993Z",
+        "time": "2026-09-24T19:58:16.717Z",
         "link": "https://www.leparisien.fr/podcasts/code-source/enlevement-de-mia-5-ans-apres-le-complotiste-remy-daillet-est-juge-23-09-2026-H34UBN3CWNFOBJCMALIRQBVDCM.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Enlèvement de Mia : 5 ans après, le complotiste Rémy Daillet est jugé..."
       }
     ],
     "summary": "Enlèvement de Mia : 5 ans après, le complotiste Rémy Daillet est jugé"
+  },
+  {
+    "title": "Paris : le professeur d’anglais soupçonné de viols et d’agressions sexuelles sur des enfants de 3 à 5 ans mis en examen et incarcéré",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Paris : le professeur d’anglais soupçonné de viols et d’agressions sexuelles sur des enfants de 3 à 5 ans mis en examen et incarcéré",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-09-24T19:58:16.716Z",
+        "link": "https://www.leparisien.fr/paris-75/paris-le-professeur-danglais-soupconne-de-viols-et-dagressions-sexuelles-sur-des-enfants-de-3-a-5-ans-mis-en-examen-et-incarcere-24-09-2026-2HQYOMU3TZGWHFKW73MS7KBRUA.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Paris : le professeur d’anglais soupçonné de viols et d’agressions sexuelles sur..."
+      }
+    ],
+    "summary": "Paris : le professeur d’anglais soupçonné de viols et d’agressions sexuelles sur des enfants de 3 à 5 ans mis en examen et incarcéré"
   },
   {
     "title": "[CYBER] La cybersécurité se réalise chez les PME",
@@ -1172,7 +1138,7 @@
       {
         "title": "[CYBER] IA: peut-on appeler au ralentissement tout en investissant des centaines de milliards?",
         "source": "Le Monde Informatique",
-        "time": "2026-09-24T13:28:56.701Z",
+        "time": "2026-09-24T19:56:54.723Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-ia-peut-on-appeler-au-ralentissement-tout-en-investissant-des-centaines-de-milliards-100786.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] IA: peut-on appeler au ralentissement tout en investissant des centaines..."
@@ -1191,7 +1157,7 @@
       {
         "title": "[CYBER] Microsoft a publié un code de conduite pour encadrer ses IA",
         "source": "Le Monde Informatique",
-        "time": "2026-09-24T13:28:58.947Z",
+        "time": "2026-09-24T19:56:56.985Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-microsoft-publie-un-code-de-conduite-pour-encadrer-ses-ia-100785.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Microsoft a publié un code de conduite pour encadrer ses IA..."
@@ -1210,7 +1176,7 @@
       {
         "title": "[CYBER] OpenAI lance Astra pour le droit pour les professionnels du droit",
         "source": "Le Monde Informatique",
-        "time": "2026-09-24T13:28:53.242Z",
+        "time": "2026-09-24T19:56:51.274Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-lance-astra-for-law-pour-les-professionnels-du-droit-100794.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] OpenAI lance Astra pour le droit pour les professionnels du droit..."
@@ -1218,7 +1184,7 @@
       {
         "title": "[CYBER] Les chercheurs de Hacktron AI ont utilisé Claude pour pirate OpenAI",
         "source": "Le Monde Informatique",
-        "time": "2026-09-24T13:28:48.666Z",
+        "time": "2026-09-24T19:56:46.707Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-les-chercheurs-de-hacktron-ai-ont-utilise-claude-pour-pirater-openai-100799.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les chercheurs de Hacktron AI ont utilisé Claude pour pirate OpenAI..."
@@ -1226,7 +1192,7 @@
       {
         "title": "[CYBER] La lance de Secutec un outil pour contrer l' IA de l' Ombre",
         "source": "Le Monde Informatique",
-        "time": "2026-09-24T13:28:36.853Z",
+        "time": "2026-09-24T19:56:34.970Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-secutec-lance-un-outil-pour-controler-le-shadow-ai-100803.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] La lance de Secutec un outil pour contrer l' IA de l' Ombre..."
@@ -1245,7 +1211,7 @@
       {
         "title": "[CYBER] Google corrige 42 défaillances de la courbe dans Chrome",
         "source": "Le Monde Informatique",
-        "time": "2026-09-24T13:28:50.844Z",
+        "time": "2026-09-24T19:56:48.878Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-google-corrige-42-failles-de-securite-dans-chrome-100795.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Google corrige 42 défaillances de la courbe dans Chrome..."
@@ -1264,7 +1230,7 @@
       {
         "title": "[CYBER] Le Patch mardi de septembre provoque des insectes",
         "source": "Le Monde Informatique",
-        "time": "2026-09-24T13:28:46.245Z",
+        "time": "2026-09-24T19:56:44.295Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-le-patch-tuesday-de-septembre-provoque-des-bugs-100798.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le Patch mardi de septembre provoque des insectes..."
@@ -1283,70 +1249,13 @@
       {
         "title": "[CYBER] Les deux jumeaux accèdent à l'erreur aux trois entreprises",
         "source": "Le Monde Informatique",
-        "time": "2026-09-24T13:28:44.252Z",
+        "time": "2026-09-24T19:56:42.302Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-gemini-accede-par-erreur-aux-systemes-de-trois-entreprises-100800.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les deux jumeaux accèdent à l'erreur aux trois entreprises..."
       }
     ],
     "summary": "[CYBER] Les deux jumeaux accèdent à l'erreur aux trois entreprises"
-  },
-  {
-    "title": "[CYBER] Facture électronique: les premières arnaques répétées",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "Zataz"
-    ],
-    "items": [
-      {
-        "title": "[CYBER] Facture électronique: les premières arnaques répétées",
-        "source": "Zataz",
-        "time": "2026-09-22T15:05:21.000Z",
-        "link": "https://www.zataz.com/facture-electronique-les-premieres-arnaques-reperees/",
-        "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] Facture électronique: les premières arnaques répétées..."
-      }
-    ],
-    "summary": "[CYBER] Facture électronique: les premières arnaques répétées"
-  },
-  {
-    "title": "[CYBER] UNCyber recruter un expert en enquêtes numériques",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "Zataz"
-    ],
-    "items": [
-      {
-        "title": "[CYBER] UNCyber recruter un expert en enquêtes numériques",
-        "source": "Zataz",
-        "time": "2026-09-22T14:28:39.000Z",
-        "link": "https://www.zataz.com/uncyber-recrute-un-expert-en-investigations-numeriques/",
-        "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] UNCyber recruter un expert en enquêtes numériques..."
-      }
-    ],
-    "summary": "[CYBER] UNCyber recruter un expert en enquêtes numériques"
-  },
-  {
-    "title": "[CYBER] Le faux badge Google qui piège les entreprises",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "Zataz"
-    ],
-    "items": [
-      {
-        "title": "[CYBER] Le faux badge Google qui piège les entreprises",
-        "source": "Zataz",
-        "time": "2026-09-22T14:12:05.000Z",
-        "link": "https://www.zataz.com/le-faux-badge-google-qui-piege-les-entreprises/",
-        "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] Le faux badge Google qui piège les entreprises..."
-      }
-    ],
-    "summary": "[CYBER] Le faux badge Google qui piège les entreprises"
   },
   {
     "title": "[CYBER] NetExplorer changement de nom et devient Voltn",
@@ -1359,7 +1268,7 @@
       {
         "title": "[CYBER] NetExplorer changement de nom et devient Voltn",
         "source": "Le Monde Informatique",
-        "time": "2026-09-24T13:28:41.715Z",
+        "time": "2026-09-24T19:56:39.787Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-netexplorer-change-de-nom-et-devient-voltn-100801.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] NetExplorer changement de nom et devient Voltn..."
@@ -1416,7 +1325,7 @@
       {
         "title": "[CYBER] Appel à renforcer le contrôle de l'IA: la France non signataire",
         "source": "Le Monde Informatique",
-        "time": "2026-09-24T13:28:39.659Z",
+        "time": "2026-09-24T19:56:37.760Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-appel-a-renforcer-le-controle-de-l-ia-la-france-non-signataire-100804.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Appel à renforcer le contrôle de l'IA: la France non signataire..."
