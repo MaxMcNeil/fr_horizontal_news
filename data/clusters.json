@@ -162,19 +162,17 @@
   {
     "title": "Frappée à mort « avec un haltère » : un homme de 72 ans placé en garde à vue pour le meurtre de sa compagne de 70 ans au Havre",
     "score": 97,
-    "count": 10,
+    "count": 7,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.lemonde.fr/police/rss_full.xml",
-      "https://www.sudouest.fr/faits-divers/rss.xml",
       "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "https://www.20minutes.fr/feeds/rss-une.xml"
+      "https://www.sudouest.fr/faits-divers/rss.xml"
     ],
     "items": [
       {
         "title": "Frappée à mort « avec un haltère » : un homme de 72 ans placé en garde à vue pour le meurtre de sa compagne de 70 ans au Havre",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-30T05:09:38.283Z",
+        "time": "2026-09-30T14:51:49.489Z",
         "link": "https://www.leparisien.fr/faits-divers/frappee-a-mort-avec-un-haltere-un-homme-de-72-ans-place-en-garde-a-vue-pour-le-meurtre-de-sa-compagne-de-70-ans-au-havre-28-09-2026-RFYDLFVFRNAF7PL7YN2427ZVUY.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Frappée à mort « avec un haltère » : un homme de 72 ans placé en garde à vue pou..."
@@ -188,36 +186,12 @@
         "summary": "Point de situation critique concernant : Visé par une plainte pour violences conjugales, le youtubeur Greg Guillotin plac..."
       },
       {
-        "title": "Le youtubeur Greg Guillotin a été placé en garde à vue à la suite d’une plainte pour violences conjugales et harcèlement",
-        "source": "https://www.lemonde.fr/police/rss_full.xml",
-        "time": "2026-09-28T09:09:26.000Z",
-        "link": "https://www.lemonde.fr/societe/article/2026/09/28/le-youtubeur-greg-guillotin-a-ete-place-en-garde-a-vue-a-la-suite-d-une-plainte-pour-violences-conjugales-et-harcelement_6785031_3224.html",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Le youtubeur Greg Guillotin a été placé en garde à vue à la suite d’une plainte ..."
-      },
-      {
-        "title": "Un septuagénaire en garde à vue au Havre après avoir tué sa compagne « avec un haltère »",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-09-28T13:03:45.000Z",
-        "link": "https://www.sudouest.fr/societe/violences-faites-aux-femmes/un-septuagenaire-en-garde-a-vue-au-havre-apres-avoir-tue-sa-compagne-avec-un-haltere-30821446.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Un septuagénaire en garde à vue au Havre après avoir tué sa compagne « avec un h..."
-      },
-      {
         "title": "Au Havre, un septuagénaire en garde à vue pour avoir frappé à mort sa compagne «avec un haltère»",
         "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
         "time": "2026-09-28T16:38:08.000Z",
         "link": "https://www.lefigaro.fr/faits-divers/au-havre-un-septuagenaire-en-garde-a-vue-pour-avoir-frappe-a-mort-sa-compagne-avec-un-haltere-20260928",
         "score": 97,
         "summary": "Point de situation critique concernant : Au Havre, un septuagénaire en garde à vue pour avoir frappé à mort sa compagne «..."
-      },
-      {
-        "title": "Greg Guillotin : Le youtubeur placé en garde à vue après une plainte pour violences conjugales",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-09-28T09:50:04.000Z",
-        "link": "https://www.20minutes.fr/faits_divers/4249386-20260928-greg-guillotin-youtubeur-place-garde-vue-apres-plainte-violences-conjugales?at_medium=display&at_campaign=149",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Greg Guillotin : Le youtubeur placé en garde à vue après une plainte pour violen..."
       },
       {
         "title": "Un adolescent de 16 ans placé en garde à vue pour menace d’attentat contre un lycée dans le Haut-Rhin",
@@ -230,7 +204,7 @@
       {
         "title": "Le rappeur Doums placé en garde à vue pour menaces réitérées sur conjoint",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-30T05:09:38.283Z",
+        "time": "2026-09-30T14:51:49.489Z",
         "link": "https://www.leparisien.fr/faits-divers/le-rappeur-doums-place-en-garde-a-vue-pour-menaces-reiterees-sur-conjoint-29-09-2026-UTII5LDSWBEPNBQS7DCIZXABTQ.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Le rappeur Doums placé en garde à vue pour menaces réitérées sur conjoint..."
@@ -246,7 +220,7 @@
       {
         "title": "Un septuagénaire mis en examen au Havre pour le meurtre de sa compagne à coups d’haltère",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-30T05:09:38.282Z",
+        "time": "2026-09-30T14:51:49.488Z",
         "link": "https://www.leparisien.fr/faits-divers/un-septuagenaire-mis-en-examen-au-havre-pour-le-meurtre-de-sa-compagne-a-coups-dhaltere-29-09-2026-LFTAKM6TENFIFF7C47RBWP5VSA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Un septuagénaire mis en examen au Havre pour le meurtre de sa compagne à coups d..."
@@ -265,7 +239,7 @@
       {
         "title": "Blanchiment au « Petit Kaboul » à Paris : le patron du restaurant derrière les barreaux",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-30T05:09:38.283Z",
+        "time": "2026-09-30T14:51:49.490Z",
         "link": "https://www.leparisien.fr/faits-divers/blanchiment-au-petit-kaboul-a-paris-le-patron-du-restaurant-derriere-les-barreaux-28-09-2026-5L2E74IB4FFHHDXQL6KZNHHA3I.php",
         "score": 97,
         "summary": "le patron du restaurant derrière les barreaux"
@@ -284,7 +258,7 @@
       {
         "title": "« Un jour, Lubrizol devra être condamné » : sept ans après, l’Union des victimes réclame l’ouverture rapide d’un procès",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-30T05:09:38.283Z",
+        "time": "2026-09-30T14:51:49.490Z",
         "link": "https://www.leparisien.fr/seine-maritime-76/un-jour-lubrizol-devra-etre-condamne-sept-ans-apres-lunion-des-victimes-reclame-louverture-rapide-dun-proces-28-09-2026-TBLJH5NBRFEBNPLZ4NUV4HTZGE.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Un jour, Lubrizol devra être condamné » : sept ans après, l’Union des victimes..."
@@ -295,58 +269,21 @@
   {
     "title": "Crash du vol Air Algérie : la compagnie Swiftair condamnée pour « homicides involontaires »",
     "score": 97,
-    "count": 2,
+    "count": 1,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.20minutes.fr/feeds/rss-une.xml"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
     "items": [
       {
         "title": "Crash du vol Air Algérie : la compagnie Swiftair condamnée pour « homicides involontaires »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-30T05:09:38.283Z",
+        "time": "2026-09-30T14:51:49.490Z",
         "link": "https://www.leparisien.fr/faits-divers/crash-du-vol-air-algerie-la-compagnie-swiftair-condamnee-pour-homicides-involontaires-28-09-2026-BLPDV5AAONFX3DRRYJQVCR2DN4.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Crash du vol Air Algérie : la compagnie Swiftair condamnée pour « homicides invo..."
-      },
-      {
-        "title": "Crash d'Air Algérie : La compagnie Swiftair condamnée à une amende de 225.000 euros pour homicides involontaires",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-09-28T10:06:35.000Z",
-        "link": "https://www.20minutes.fr/justice/4249391-20260928-crash-ouagadougou-alger-compagnie-swiftair-condamnee-amende-225-000-euros-homicides-involontaires?at_medium=display&at_campaign=149",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Crash d'Air Algérie : La compagnie Swiftair condamnée à une amende de 225.000 eu..."
       }
     ],
-    "summary": "Crash du vol Air Algérie : la compagnie Swiftair condamnée pour « homicides involontaires » / Crash d'Air Algérie : La compagnie Swiftair condamnée à une amende de 225.000 euros pour homicides involontaires"
-  },
-  {
-    "title": "Au procès de Rachida Dati pour « corruption », quatre ans de prison, dont deux ans ferme, requis contre l’ancienne ministre",
-    "score": 97,
-    "count": 2,
-    "sources": [
-      "https://www.lemonde.fr/justice/rss_full.xml",
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Au procès de Rachida Dati pour « corruption », quatre ans de prison, dont deux ans ferme, requis contre l’ancienne ministre",
-        "source": "https://www.lemonde.fr/justice/rss_full.xml",
-        "time": "2026-09-28T12:17:08.000Z",
-        "link": "https://www.lemonde.fr/societe/article/2026/09/28/proces-de-rachida-dati-quatre-ans-de-prison-requis-contre-l-ancienne-ministre-accusee-d-avoir-noue-un-pacte-de-corruption-avec-carlos-ghosn_6785050_3224.html",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Au procès de Rachida Dati pour « corruption », quatre ans de prison, dont deux a..."
-      },
-      {
-        "title": "« Trahison » et « esprit de lucre » : le PNF réclame deux ans de prison ferme contre Rachida Dati pour corruption",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-30T05:09:38.283Z",
-        "link": "https://www.leparisien.fr/faits-divers/trahison-et-esprit-de-lucre-le-pnf-reclame-deux-ans-de-prison-ferme-contre-rachida-dati-pour-corruption-28-09-2026-ESVFR6X6MVCMZP5P5Y2A5M72ZA.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : « Trahison » et « esprit de lucre » : le PNF réclame deux ans de prison ferme co..."
-      }
-    ],
-    "summary": "Au procès de Rachida Dati pour « corruption », quatre ans de prison, dont deux ans ferme, requis contre l’ancienne ministre / « Trahison » et « esprit de lucre » : le PNF réclame deux ans de prison ferme contre Rachida Dati pour corruption"
+    "summary": "Crash du vol Air Algérie : la compagnie Swiftair condamnée pour « homicides involontaires »"
   },
   {
     "title": "À Arès, le conseil municipal marqué par une démission et les suites de l’incendie",
@@ -366,25 +303,6 @@
       }
     ],
     "summary": "À Arès, le conseil municipal marqué par une démission et les suites de l’incendie"
-  },
-  {
-    "title": "Élu sénateur, Renaud Muselier démissionne de la présidence de la région Sud-PACA mais reste conseiller régional",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.francetvinfo.fr/politique.rss"
-    ],
-    "items": [
-      {
-        "title": "Élu sénateur, Renaud Muselier démissionne de la présidence de la région Sud-PACA mais reste conseiller régional",
-        "source": "https://www.francetvinfo.fr/politique.rss",
-        "time": "2026-09-28T12:53:04.000Z",
-        "link": "https://www.franceinfo.fr/politique/elu-senateur-renaud-muselier-demissionne-de-la-presidence-de-la-region-sud-paca-mais-reste-conseiller-regional_8213426.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Élu sénateur, Renaud Muselier démissionne de la présidence de la région Sud-PACA..."
-      }
-    ],
-    "summary": "Élu sénateur, Renaud Muselier démissionne de la présidence de la région Sud-PACA mais reste conseiller régional"
   },
   {
     "title": "En Turquie, un vaste scandale de fraude financière éclabousse des proches du pouvoir",
@@ -435,13 +353,32 @@
       {
         "title": "Accident à la Marche pour le climat de Clermont-Ferrand : l’automobiliste placé en détention provisoire",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-30T05:09:38.283Z",
+        "time": "2026-09-30T14:51:49.489Z",
         "link": "https://www.leparisien.fr/faits-divers/accident-a-la-marche-pour-le-climat-de-clermont-ferrand-lautomobiliste-place-en-detention-provisoire-28-09-2026-WXXC65IHFVBJZEIYZQZMO3EN7M.php",
         "score": 97,
         "summary": "l’automobiliste placé en détention provisoire"
       }
     ],
     "summary": "Accident à la Marche pour le climat de Clermont-Ferrand : l’automobiliste placé en détention provisoire"
+  },
+  {
+    "title": "« Trahison » et « esprit de lucre » : le PNF réclame deux ans de prison ferme contre Rachida Dati pour corruption",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "« Trahison » et « esprit de lucre » : le PNF réclame deux ans de prison ferme contre Rachida Dati pour corruption",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-09-30T14:51:49.489Z",
+        "link": "https://www.leparisien.fr/faits-divers/trahison-et-esprit-de-lucre-le-pnf-reclame-deux-ans-de-prison-ferme-contre-rachida-dati-pour-corruption-28-09-2026-ESVFR6X6MVCMZP5P5Y2A5M72ZA.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : « Trahison » et « esprit de lucre » : le PNF réclame deux ans de prison ferme co..."
+      }
+    ],
+    "summary": "« Trahison » et « esprit de lucre » : le PNF réclame deux ans de prison ferme contre Rachida Dati pour corruption"
   },
   {
     "title": "Haut-Rhin : un jeune de 16 ans en garde à vue pour menace d’attentat contre un lycée",
@@ -456,7 +393,7 @@
       {
         "title": "Haut-Rhin : un jeune de 16 ans en garde à vue pour menace d’attentat contre un lycée",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-30T05:09:38.283Z",
+        "time": "2026-09-30T14:51:49.489Z",
         "link": "https://www.leparisien.fr/faits-divers/haut-rhin-un-jeune-de-16-ans-en-garde-a-vue-pour-menace-dattentat-contre-un-lycee-28-09-2026-32KIE5LC4VAGBKNBHENHKX2UMM.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Haut-Rhin : un jeune de 16 ans en garde à vue pour menace d’attentat contre un l..."
@@ -488,7 +425,7 @@
       {
         "title": "Menace d’attentat dans le Haut-Rhin : une « blague » de lycéen partie d’un groupe Snapchat",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-30T05:09:38.282Z",
+        "time": "2026-09-30T14:51:49.488Z",
         "link": "https://www.leparisien.fr/faits-divers/menace-dattentat-dans-le-haut-rhin-une-blague-de-lyceen-partie-dun-groupe-snapchat-29-09-2026-FQDMUGXON5CBXDLFVKX6TIN4DY.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Menace d’attentat dans le Haut-Rhin : une « blague » de lycéen partie d’un group..."
@@ -507,32 +444,13 @@
       {
         "title": "Escroqueries via des courriels de services de police ou de justice : un suspect résidant à l’étranger écroué",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-30T05:09:38.283Z",
+        "time": "2026-09-30T14:51:49.489Z",
         "link": "https://www.leparisien.fr/faits-divers/escroqueries-via-des-courriels-de-services-de-police-ou-de-justice-un-suspect-residant-a-letranger-ecroue-28-09-2026-HVAY2ELJO5FSBEZ4PDQAMHED2M.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Escroqueries via des courriels de services de police ou de justice : un suspect ..."
       }
     ],
     "summary": "Escroqueries via des courriels de services de police ou de justice : un suspect résidant à l’étranger écroué"
-  },
-  {
-    "title": "Isère. Suicide de Joris : quatre jeunes placés en garde à vue",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.ledauphine.com/Faits-divers-Justice/rss"
-    ],
-    "items": [
-      {
-        "title": "Isère. Suicide de Joris : quatre jeunes placés en garde à vue",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-09-28T12:05:00.000Z",
-        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/28/suicide-de-joris-quatre-jeunes-gens-en-garde-a-vue",
-        "score": 97,
-        "summary": "quatre jeunes placés en garde à vue"
-      }
-    ],
-    "summary": "Isère. Suicide de Joris : quatre jeunes placés en garde à vue"
   },
   {
     "title": "Doubs. « Un différend d'ordre personnel » : un jeune de 15 ans en détention provisoire pour tentative de meurtre",
@@ -556,7 +474,7 @@
   {
     "title": "Alpes-de-Haute-Provence. Contrôlé sans permis, sous cocaïne et alcool, il est condamné à 12 mois de prison ferme",
     "score": 97,
-    "count": 2,
+    "count": 3,
     "sources": [
       "https://www.ledauphine.com/Faits-divers-Justice/rss",
       "https://www.lefigaro.fr/rss/figaro_actualites.xml"
@@ -577,6 +495,14 @@
         "link": "https://www.lefigaro.fr/culture/en-turquie-l-humoriste-deniz-goektas-condamne-a-19-mois-de-prison-20260929",
         "score": 97,
         "summary": "Point de situation critique concernant : En Turquie, l’humoriste Deniz Göktas condamné à 19 mois de prison..."
+      },
+      {
+        "title": "Aiton. Il crache au visage de trois surveillants du quartier disciplinaire : le détenu condamné à six mois ferme",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-09-30T14:49:00.000Z",
+        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/30/il-crache-au-visage-de-trois-surveillants-du-quartier-disciplinaire-le-detenu-condamne-a-six-mois-ferme",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Aiton. Il crache au visage de trois surveillants du quartier disciplinaire : le ..."
       }
     ],
     "summary": "Alpes-de-Haute-Provence. Contrôlé sans permis, sous cocaïne et alcool, il est condamné à 12 mois de prison ferme / En Turquie, l’humoriste Deniz Göktas condamné à 19 mois de prison"
@@ -629,7 +555,7 @@
       {
         "title": "Multi condamné à 32 ans et tout juste sorti de prison : le lourd passé judiciaire de Willy Baron, soupçonné du féminicide d’Alexandra Cagnot",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-30T05:09:38.283Z",
+        "time": "2026-09-30T14:51:49.489Z",
         "link": "https://www.leparisien.fr/faits-divers/multi-condamne-a-32-ans-et-tout-juste-sorti-de-prison-le-lourd-passe-judiciaire-de-willy-baron-soupconne-du-feminicide-dalexandra-cagnot-29-09-2026-3U6HNTXVCVE2XMS5NGMU7IAO2I.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Multi condamné à 32 ans et tout juste sorti de prison : le lourd passé judiciair..."
@@ -648,7 +574,7 @@
       {
         "title": "« Quand le bateau tangue, le capitaine tient la barre » : le maire de Concarneau annonce ne pas démissionner",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-30T05:09:38.283Z",
+        "time": "2026-09-30T14:51:49.489Z",
         "link": "https://www.leparisien.fr/finistere-29/quand-le-bateau-tangue-le-capitaine-tient-la-barre-le-maire-de-concarneau-annonce-ne-pas-demissionner-29-09-2026-I4Q5EQXUOVBIPJ6IE4SUZ6WTA4.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Quand le bateau tangue, le capitaine tient la barre » : le maire de Concarneau..."
@@ -751,7 +677,7 @@
       {
         "title": "Près d’Angers, une femme tuée par arme à feu, un ancien tireur d’élite en garde à vue",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-30T05:09:38.283Z",
+        "time": "2026-09-30T14:51:49.489Z",
         "link": "https://www.leparisien.fr/faits-divers/pres-dangers-une-femme-tuee-par-arme-a-feu-un-ancien-tireur-delite-en-garde-a-vue-29-09-2026-5E4GTZFXCBGY5LY277FWM5MBG4.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Près d’Angers, une femme tuée par arme à feu, un ancien tireur d’élite en garde ..."
@@ -819,21 +745,30 @@
   {
     "title": "Blocus des lycées à Ivry-sur-Seine : un mineur en garde à vue après avoir mis en joue des policiers avec un pistolet à billes",
     "score": 97,
-    "count": 1,
+    "count": 2,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "https://www.sudouest.fr/faits-divers/rss.xml"
     ],
     "items": [
       {
         "title": "Blocus des lycées à Ivry-sur-Seine : un mineur en garde à vue après avoir mis en joue des policiers avec un pistolet à billes",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-30T05:09:38.282Z",
+        "time": "2026-09-30T14:51:49.488Z",
         "link": "https://www.leparisien.fr/faits-divers/blocus-des-lycees-a-ivry-sur-seine-un-mineur-en-garde-a-vue-apres-avoir-mis-en-joue-des-policiers-avec-un-pistolet-a-billes-29-09-2026-MEAKSE6ABJESJFN42XCO56ISAQ.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Blocus des lycées à Ivry-sur-Seine : un mineur en garde à vue après avoir mis en..."
+      },
+      {
+        "title": "VIDÉO. Blocus des lycées en Gironde : des poubelles incendiées et des tirs de mortiers à Bordeaux, trois jeunes en garde à vue",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-09-30T08:15:28.000Z",
+        "link": "https://www.sudouest.fr/gironde/bordeaux/video-gironde-des-lyceens-manifestent-a-bordeaux-et-lormont-des-poubelles-incendiees-et-des-tirs-de-mortiers-30847195.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : VIDÉO. Blocus des lycées en Gironde : des poubelles incendiées et des tirs de mo..."
       }
     ],
-    "summary": "Blocus des lycées à Ivry-sur-Seine : un mineur en garde à vue après avoir mis en joue des policiers avec un pistolet à billes"
+    "summary": "Blocus des lycées à Ivry-sur-Seine : un mineur en garde à vue après avoir mis en joue des policiers avec un pistolet à billes / VIDÉO. Blocus des lycées en Gironde : des poubelles incendiées et des tirs de mortiers à Bordeaux, trois jeunes en garde à vue"
   },
   {
     "title": "Pays basque. « On nous a enlevé la joie » : un homme condamné pour homicide routier après un accident mortel à Hendaye",
@@ -874,6 +809,90 @@
     "summary": "« On ne peut pas acheter la Légion d’honneur » : sorti libre de garde à vue, le général Puga riposte par la voix de son avocat"
   },
   {
+    "title": "« Aucune leçon n’a été tirée » : après le martyre de Keysha, la mère condamnée à 10 ans de prison ferme, le beau-père à 1 an",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "« Aucune leçon n’a été tirée » : après le martyre de Keysha, la mère condamnée à 10 ans de prison ferme, le beau-père à 1 an",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-09-30T14:51:49.488Z",
+        "link": "https://www.leparisien.fr/faits-divers/aucune-lecon-na-ete-tiree-apres-le-martyre-de-keysha-la-mere-condamnee-a-10-ans-de-prison-ferme-le-beau-pere-a-1-an-30-09-2026-WNWDFYASP5C25KHNWV5HHMBY44.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : « Aucune leçon n’a été tirée » : après le martyre de Keysha, la mère condamnée à..."
+      }
+    ],
+    "summary": "« Aucune leçon n’a été tirée » : après le martyre de Keysha, la mère condamnée à 10 ans de prison ferme, le beau-père à 1 an"
+  },
+  {
+    "title": "« Les rapports sexuels devenaient très violents » : un producteur de cinéma en garde à vue pour viol et violences conjugales",
+    "score": 97,
+    "count": 2,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "« Les rapports sexuels devenaient très violents » : un producteur de cinéma en garde à vue pour viol et violences conjugales",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-09-30T14:51:49.488Z",
+        "link": "https://www.leparisien.fr/faits-divers/les-rapports-sexuels-devenaient-tres-violents-un-producteur-de-cinema-en-garde-a-vue-pour-viol-et-violences-conjugales-30-09-2026-JW44YNHIMRHH5J7JVBCIBXHRBA.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : « Les rapports sexuels devenaient très violents » : un producteur de cinéma en g..."
+      },
+      {
+        "title": "Le youtubeur Greg Guillotin sera jugé le 27 novembre pour des violences conjugales sur son ex-compagne",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-09-30T14:51:49.488Z",
+        "link": "https://www.leparisien.fr/faits-divers/le-youtubeur-greg-guillotin-sera-juge-le-27-novembre-pour-des-violences-conjugales-sur-son-ex-compagne-29-09-2026-SNOS63DJC5FIXPBMXXFU7EFSPI.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Le youtubeur Greg Guillotin sera jugé le 27 novembre pour des violences conjugal..."
+      }
+    ],
+    "summary": "« Les rapports sexuels devenaient très violents » : un producteur de cinéma en garde à vue pour viol et violences conjugales / Le youtubeur Greg Guillotin sera jugé le 27 novembre pour des violences conjugales sur son ex-compagne"
+  },
+  {
+    "title": "« Reproduire les attentats du 11 septembre » : comment les passagers ont survécu par miracle au détournement d’un vol Dubaï-Tel Aviv",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "« Reproduire les attentats du 11 septembre » : comment les passagers ont survécu par miracle au détournement d’un vol Dubaï-Tel Aviv",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-09-30T14:51:49.488Z",
+        "link": "https://www.leparisien.fr/international/israel/reproduire-les-attentats-du-11-septembre-comment-les-passagers-ont-survecu-par-miracle-au-detournement-dun-vol-dubai-tel-aviv-30-09-2026-YJU3JLXJONA57AD3EORZT6VHKM.php",
+        "score": 97,
+        "summary": "comment les passagers ont survécu par miracle au détournement d’un vol Dubaï-Tel Aviv"
+      }
+    ],
+    "summary": "« Reproduire les attentats du 11 septembre » : comment les passagers ont survécu par miracle au détournement d’un vol Dubaï-Tel Aviv"
+  },
+  {
+    "title": "Un adjoint à une maire RN du Pas-de-Calais arbore un t-shirt suprémaciste blanc, l'opposition réclame sa démission",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.francetvinfo.fr/politique.rss"
+    ],
+    "items": [
+      {
+        "title": "Un adjoint à une maire RN du Pas-de-Calais arbore un t-shirt suprémaciste blanc, l'opposition réclame sa démission",
+        "source": "https://www.francetvinfo.fr/politique.rss",
+        "time": "2026-09-30T09:52:10.000Z",
+        "link": "https://www.franceinfo.fr/politique/front-national/un-adjoint-a-une-maire-rn-du-pas-de-calais-arbore-un-t-shirt-supremaciste-blanc-l-opposition-reclame-sa-demission_8216134.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Un adjoint à une maire RN du Pas-de-Calais arbore un t-shirt suprémaciste blanc,..."
+      }
+    ],
+    "summary": "Un adjoint à une maire RN du Pas-de-Calais arbore un t-shirt suprémaciste blanc, l'opposition réclame sa démission"
+  },
+  {
     "title": "Édouard Philippe, Marine Tondelier, François Ruffin, parmi les nombreux concernés par la fuite de données personnelles en ligne",
     "score": 93,
     "count": 1,
@@ -910,6 +929,25 @@
       }
     ],
     "summary": "Piratage du site des impôts : un rapport officiel détaille les failles qui ont permis le vol des données de centaines de milliers de Français"
+  },
+  {
+    "title": "Piratage de Hugging Face : une ONG assigne OpenAI devant la justice pour infraction à la loi sur les cyberattaques",
+    "score": 93,
+    "count": 1,
+    "sources": [
+      "https://www.lemonde.fr/economie/rss_full.xml"
+    ],
+    "items": [
+      {
+        "title": "Piratage de Hugging Face : une ONG assigne OpenAI devant la justice pour infraction à la loi sur les cyberattaques",
+        "source": "https://www.lemonde.fr/economie/rss_full.xml",
+        "time": "2026-09-30T08:43:17.000Z",
+        "link": "https://www.lemonde.fr/pixels/article/2026/09/30/piratage-de-hugging-face-une-ong-assigne-openai-devant-la-justice-pour-infraction-a-la-loi-sur-les-cyberattaques_6786030_4408996.html",
+        "score": 93,
+        "summary": "une ONG assigne OpenAI devant la justice pour infraction à la loi sur les cyberattaques"
+      }
+    ],
+    "summary": "Piratage de Hugging Face : une ONG assigne OpenAI devant la justice pour infraction à la loi sur les cyberattaques"
   },
   {
     "title": "Une femme pompier de 24 ans tuée dans un feu de forêt dans le nord du Portugal",
@@ -957,7 +995,7 @@
       {
         "title": "Une altercation liée à la vente de puffs ? Un quinquagénaire mis en examen pour le meurtre d’un jeune de 19 ans dans la Loire",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-30T05:09:38.282Z",
+        "time": "2026-09-30T14:51:49.488Z",
         "link": "https://www.leparisien.fr/faits-divers/une-altercation-liee-a-la-vente-de-puffs-un-quinquagenaire-mis-en-examen-pour-le-meurtre-dun-jeune-de-19-ans-dans-la-loire-29-09-2026-IJSSSSGLPRAGBKWOHWLX7WSHZ4.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Une altercation liée à la vente de puffs ? Un quinquagénaire mis en examen pour ..."
@@ -1090,7 +1128,7 @@
       {
         "title": "« Je n’ai rien à faire sur cette terre » : la détresse d’Arthur, 7 ans, qui accuse le directeur de l’école de viols",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-30T05:09:38.282Z",
+        "time": "2026-09-30T14:51:49.488Z",
         "link": "https://www.leparisien.fr/societe/je-nai-rien-a-faire-sur-cette-terre-la-detresse-darthur-7-ans-qui-accuse-le-directeur-de-lecole-de-viols-30-09-2026-ALPXU4B3KRAGTATSMDSSXMSCEA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Je n’ai rien à faire sur cette terre » : la détresse d’Arthur, 7 ans, qui accu..."
@@ -1109,32 +1147,13 @@
       {
         "title": "Des « violences inqualifiables » : au moins dix personnels blessés dans les blocus des lycées, annonce Édouard Geffray",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-30T05:09:38.282Z",
+        "time": "2026-09-30T14:51:49.488Z",
         "link": "https://www.leparisien.fr/societe/des-violences-inqualifiables-au-moins-dix-personnels-blesses-dans-les-blocus-des-lycees-annonce-edouard-geffray-29-09-2026-Q7LB3IMKTJDDBPEFU5KKCVMAE4.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Des « violences inqualifiables » : au moins dix personnels blessés dans les bloc..."
       }
     ],
     "summary": "Des « violences inqualifiables » : au moins dix personnels blessés dans les blocus des lycées, annonce Édouard Geffray"
-  },
-  {
-    "title": "Le youtubeur Greg Guillotin sera jugé le 27 novembre pour des violences conjugales sur son ex-compagne",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Le youtubeur Greg Guillotin sera jugé le 27 novembre pour des violences conjugales sur son ex-compagne",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-30T05:09:38.282Z",
-        "link": "https://www.leparisien.fr/faits-divers/le-youtubeur-greg-guillotin-sera-juge-le-27-novembre-pour-des-violences-conjugales-sur-son-ex-compagne-29-09-2026-SNOS63DJC5FIXPBMXXFU7EFSPI.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Le youtubeur Greg Guillotin sera jugé le 27 novembre pour des violences conjugal..."
-      }
-    ],
-    "summary": "Le youtubeur Greg Guillotin sera jugé le 27 novembre pour des violences conjugales sur son ex-compagne"
   },
   {
     "title": "Assassinat de Johnnay à Champigny : la défense tente de torpiller l’enquête",
@@ -1147,7 +1166,7 @@
       {
         "title": "Assassinat de Johnnay à Champigny : la défense tente de torpiller l’enquête",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-30T05:09:38.282Z",
+        "time": "2026-09-30T14:51:49.489Z",
         "link": "https://www.leparisien.fr/faits-divers/assassinat-de-johnnay-a-champigny-la-defense-tente-de-torpiller-lenquete-29-09-2026-BFFK25LWVZDKVI2JGJJR6MOI6Y.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Assassinat de Johnnay à Champigny : la défense tente de torpiller l’enquête..."
@@ -1156,47 +1175,9 @@
     "summary": "Assassinat de Johnnay à Champigny : la défense tente de torpiller l’enquête"
   },
   {
-    "title": "Rixes entre bandes rivales : après l’agression d’Ibrahim dans l’Essonne, les accusés clament leur innocence",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Rixes entre bandes rivales : après l’agression d’Ibrahim dans l’Essonne, les accusés clament leur innocence",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-30T05:09:38.282Z",
-        "link": "https://www.leparisien.fr/faits-divers/rixes-entre-bandes-rivales-apres-lagression-dibrahim-dans-lessonne-les-accuses-clament-leur-innocence-29-09-2026-JH34NYQMIFD27M6VEN3ULT35VI.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Rixes entre bandes rivales : après l’agression d’Ibrahim dans l’Essonne, les acc..."
-      }
-    ],
-    "summary": "Rixes entre bandes rivales : après l’agression d’Ibrahim dans l’Essonne, les accusés clament leur innocence"
-  },
-  {
-    "title": "« Des clubs masculinistes » : une affaire de viol collectif secoue l’une des meilleures universités des États-Unis",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "« Des clubs masculinistes » : une affaire de viol collectif secoue l’une des meilleures universités des États-Unis",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-30T05:09:38.283Z",
-        "link": "https://www.leparisien.fr/international/etats-unis/des-clubs-masculinistes-une-affaire-de-viol-collectif-secoue-lune-des-meilleures-universites-des-etats-unis-29-09-2026-DCP6T62DSFCL5DVDBXKKSPOCE4.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : « Des clubs masculinistes » : une affaire de viol collectif secoue l’une des mei..."
-      }
-    ],
-    "summary": "« Des clubs masculinistes » : une affaire de viol collectif secoue l’une des meilleures universités des États-Unis"
-  },
-  {
     "title": "[CYBER] OpenAI lance Astra pour le droit pour les professionnels du droit",
     "score": 90,
-    "count": 4,
+    "count": 5,
     "sources": [
       "Le Monde Informatique",
       "Zataz"
@@ -1221,7 +1202,7 @@
       {
         "title": "[CYBER] La lance de Secutec un outil pour contrer l' IA de l' Ombre",
         "source": "Le Monde Informatique",
-        "time": "2026-09-30T05:08:27.199Z",
+        "time": "2026-09-30T14:50:27.082Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-secutec-lance-un-outil-pour-controler-le-shadow-ai-100803.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] La lance de Secutec un outil pour contrer l' IA de l' Ombre..."
@@ -1233,6 +1214,14 @@
         "link": "https://www.zataz.com/vol-de-carburant-quand-les-pompes-deviennent-une-cible-pour-les-pirates/",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Vol de carburant: quand les pompes deviennent une cible pour les pirates..."
+      },
+      {
+        "title": "[CYBER] SFR: nouveau piratage pour l'opérateur?",
+        "source": "Zataz",
+        "time": "2026-09-30T09:10:23.000Z",
+        "link": "https://www.zataz.com/sfr-nouveau-piratage-pour-loperateur/",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] SFR: nouveau piratage pour l'opérateur?..."
       }
     ],
     "summary": "[CYBER] OpenAI lance Astra pour le droit pour les professionnels du droit / [CYBER] Les chercheurs de Hacktron AI ont utilisé Claude pour pirate OpenAI"
@@ -1267,7 +1256,7 @@
       {
         "title": "[CYBER] Le Patch mardi de septembre provoque des insectes",
         "source": "Le Monde Informatique",
-        "time": "2026-09-30T05:08:34.954Z",
+        "time": "2026-09-30T14:50:36.059Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-le-patch-tuesday-de-septembre-provoque-des-bugs-100798.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le Patch mardi de septembre provoque des insectes..."
@@ -1286,7 +1275,7 @@
       {
         "title": "[CYBER] Les deux jumeaux accèdent à l'erreur aux trois entreprises",
         "source": "Le Monde Informatique",
-        "time": "2026-09-30T05:08:33.324Z",
+        "time": "2026-09-30T14:50:34.148Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-gemini-accede-par-erreur-aux-systemes-de-trois-entreprises-100800.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les deux jumeaux accèdent à l'erreur aux trois entreprises..."
@@ -1305,7 +1294,7 @@
       {
         "title": "[CYBER] NetExplorer changement de nom et devient Voltn",
         "source": "Le Monde Informatique",
-        "time": "2026-09-30T05:08:31.232Z",
+        "time": "2026-09-30T14:50:31.713Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-netexplorer-change-de-nom-et-devient-voltn-100801.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] NetExplorer changement de nom et devient Voltn..."
@@ -1324,89 +1313,13 @@
       {
         "title": "[CYBER] Appel à renforcer le contrôle de l'IA: la France non signataire",
         "source": "Le Monde Informatique",
-        "time": "2026-09-30T05:08:29.537Z",
+        "time": "2026-09-30T14:50:29.844Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-appel-a-renforcer-le-controle-de-l-ia-la-france-non-signataire-100804.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Appel à renforcer le contrôle de l'IA: la France non signataire..."
       }
     ],
     "summary": "[CYBER] Appel à renforcer le contrôle de l'IA: la France non signataire"
-  },
-  {
-    "title": "[CYBER] Une fuite revendiquée par un pirate qui veut se venger!",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "Zataz"
-    ],
-    "items": [
-      {
-        "title": "[CYBER] Une fuite revendiquée par un pirate qui veut se venger!",
-        "source": "Zataz",
-        "time": "2026-09-28T14:00:29.000Z",
-        "link": "https://www.zataz.com/relais-colis-une-fuite-revendiquee-par-un-pirate-qui-veut-se-venger/",
-        "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] Une fuite revendiquée par un pirate qui veut se venger!..."
-      }
-    ],
-    "summary": "[CYBER] Une fuite revendiquée par un pirate qui veut se venger!"
-  },
-  {
-    "title": "[CYBER] Une base de données piraté: le pirate vend les codes!",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "Zataz"
-    ],
-    "items": [
-      {
-        "title": "[CYBER] Une base de données piraté: le pirate vend les codes!",
-        "source": "Zataz",
-        "time": "2026-09-28T13:34:32.000Z",
-        "link": "https://www.zataz.com/une-base-de-donnees-piratee-le-hacker-vend-les-digicodes/",
-        "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] Une base de données piraté: le pirate vend les codes!..."
-      }
-    ],
-    "summary": "[CYBER] Une base de données piraté: le pirate vend les codes!"
-  },
-  {
-    "title": "[CYBER] TotalEnergies: des données du Club dérobées chez un prestataire",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "Zataz"
-    ],
-    "items": [
-      {
-        "title": "[CYBER] TotalEnergies: des données du Club dérobées chez un prestataire",
-        "source": "Zataz",
-        "time": "2026-09-28T08:17:52.000Z",
-        "link": "https://www.zataz.com/totalenergies-des-donnees-du-club-derobees-chez-un-prestataire/",
-        "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] TotalEnergies: des données du Club dérobées chez un prestataire..."
-      }
-    ],
-    "summary": "[CYBER] TotalEnergies: des données du Club dérobées chez un prestataire"
-  },
-  {
-    "title": "[CYBER] HackFest Québec 2026: mon retour au CTF d'ingénierie sociale",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "Zataz"
-    ],
-    "items": [
-      {
-        "title": "[CYBER] HackFest Québec 2026: mon retour au CTF d'ingénierie sociale",
-        "source": "Zataz",
-        "time": "2026-09-28T07:36:49.000Z",
-        "link": "https://www.zataz.com/hackfest-quebec-2026-mon-retour-au-ctf-dingenierie-sociale/",
-        "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] HackFest Québec 2026: mon retour au CTF d'ingénierie sociale..."
-      }
-    ],
-    "summary": "[CYBER] HackFest Québec 2026: mon retour au CTF d'ingénierie sociale"
   },
   {
     "title": "[CYBER] Un agent d'OpenAI est introduit dans l'assurance maladie en Australie",
@@ -1419,7 +1332,7 @@
       {
         "title": "[CYBER] Un agent d'OpenAI est introduit dans l'assurance maladie en Australie",
         "source": "Le Monde Informatique",
-        "time": "2026-09-30T05:08:23.066Z",
+        "time": "2026-09-30T14:50:22.233Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-un-agent-d-openai-s-introduit-dans-medicare-en-australie-100810.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Un agent d'OpenAI est introduit dans l'assurance maladie en Australie..."
@@ -1438,7 +1351,7 @@
       {
         "title": "[CYBER] WordPress corrige une vulne rabilit critique",
         "source": "Le Monde Informatique",
-        "time": "2026-09-30T05:08:24.467Z",
+        "time": "2026-09-30T14:50:23.870Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-wordpress-corrige-une-vulnerabilite-critique-100813.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] WordPress corrige une vulne rabilit critique..."
@@ -1476,12 +1389,88 @@
       {
         "title": "[CYBER] Le son de Claude Sonnet 5.5",
         "source": "Le Monde Informatique",
-        "time": "2026-09-30T05:08:20.842Z",
+        "time": "2026-09-30T14:50:19.592Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-anthropic-devoile-claude-sonnet-55-100820.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le son de Claude Sonnet 5.5..."
       }
     ],
     "summary": "[CYBER] Le son de Claude Sonnet 5.5"
+  },
+  {
+    "title": "[CYBER] FFRD: 1,43 millions de fichiers proposés à la vente?",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "Zataz"
+    ],
+    "items": [
+      {
+        "title": "[CYBER] FFRD: 1,43 millions de fichiers proposés à la vente?",
+        "source": "Zataz",
+        "time": "2026-09-30T08:49:49.000Z",
+        "link": "https://www.zataz.com/ffrandonnee-143-million-de-fiches-proposees-a-la-vente/",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] FFRD: 1,43 millions de fichiers proposés à la vente?..."
+      }
+    ],
+    "summary": "[CYBER] FFRD: 1,43 millions de fichiers proposés à la vente?"
+  },
+  {
+    "title": "[CYBER] Mexique: une ferme de cryptomonnaies sous enquête",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "Zataz"
+    ],
+    "items": [
+      {
+        "title": "[CYBER] Mexique: une ferme de cryptomonnaies sous enquête",
+        "source": "Zataz",
+        "time": "2026-09-30T08:35:13.000Z",
+        "link": "https://www.zataz.com/mexique-une-ferme-de-cryptomonnaies-sous-enquete/",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] Mexique: une ferme de cryptomonnaies sous enquête..."
+      }
+    ],
+    "summary": "[CYBER] Mexique: une ferme de cryptomonnaies sous enquête"
+  },
+  {
+    "title": "[CYBER] Carrefour avertit ses clients d'une fuite de don au prestataire de l'expédition",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "Le Monde Informatique"
+    ],
+    "items": [
+      {
+        "title": "[CYBER] Carrefour avertit ses clients d'une fuite de don au prestataire de l'expédition",
+        "source": "Le Monde Informatique",
+        "time": "2026-09-30T14:50:15.933Z",
+        "link": "https://www.lemondeinformatique.fr/actualites/lire-carrefour-alerte-ses-clients-apres-une-fuite-de-donnees-chez-le-prestataire-shipup-100822.html",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] Carrefour avertit ses clients d'une fuite de don au prestataire de l'exp..."
+      }
+    ],
+    "summary": "[CYBER] Carrefour avertit ses clients d'une fuite de don au prestataire de l'expédition"
+  },
+  {
+    "title": "[CYBER] L'OpenAI renonce au lanceur GPT-6.1 Astra",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "Le Monde Informatique"
+    ],
+    "items": [
+      {
+        "title": "[CYBER] L'OpenAI renonce au lanceur GPT-6.1 Astra",
+        "source": "Le Monde Informatique",
+        "time": "2026-09-30T14:50:18.363Z",
+        "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-renonce-a-lancer-son-modele-gpt-61-astra-100821.html",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] L'OpenAI renonce au lanceur GPT-6.1 Astra..."
+      }
+    ],
+    "summary": "[CYBER] L'OpenAI renonce au lanceur GPT-6.1 Astra"
   }
 ]
