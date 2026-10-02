@@ -2,9 +2,10 @@
   {
     "title": "Frappée à mort « avec un haltère » : un homme de 72 ans placé en garde à vue pour le meurtre de sa compagne de 70 ans au Havre",
     "score": 97,
-    "count": 3,
+    "count": 5,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "https://www.20minutes.fr/feeds/rss-une.xml"
     ],
     "items": [
       {
@@ -22,6 +23,22 @@
         "link": "https://www.leparisien.fr/faits-divers/le-rappeur-doums-place-en-garde-a-vue-pour-menaces-reiterees-sur-conjoint-29-09-2026-UTII5LDSWBEPNBQS7DCIZXABTQ.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Le rappeur Doums placé en garde à vue pour menaces réitérées sur conjoint..."
+      },
+      {
+        "title": "Mort de Federico Martin Aramburu : condamné à 19 ans de réclusion pour tentative de meurtre, Romain Bouvier fait appel",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-02T14:42:06.819Z",
+        "link": "https://www.leparisien.fr/faits-divers/mort-de-federico-martin-aramburu-condamne-a-19-ans-de-reclusion-pour-tentative-de-meurtre-romain-bouvier-fait-appel-02-10-2026-PXNHJ3OF7RBSFIE5QSVRRQX6YQ.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Mort de Federico Martin Aramburu : condamné à 19 ans de réclusion pour tentative..."
+      },
+      {
+        "title": "L’ancien nageur Amaury Leveaux placé en garde à vue pour des soupçons de violences sur son bébé de six mois",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-10-02T09:52:54.000Z",
+        "link": "https://www.20minutes.fr/sport/natation/4250689-20261002-ancien-nageur-amaury-leveaux-place-garde-vue-soupcons-violences-bebe-six-mois?at_medium=display&at_campaign=149",
+        "score": 97,
+        "summary": "Point de situation critique concernant : L’ancien nageur Amaury Leveaux placé en garde à vue pour des soupçons de violenc..."
       },
       {
         "title": "Un septuagénaire mis en examen au Havre pour le meurtre de sa compagne à coups d’haltère",
@@ -129,7 +146,7 @@
       {
         "title": "Rachida Dati jugée pour « corruption » : pourquoi Renault lui a versé 900 000 euros ?",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-02T05:12:59.967Z",
+        "time": "2026-10-02T14:42:06.819Z",
         "link": "https://www.leparisien.fr/podcasts/code-source/rachida-dati-jugee-pour-corruption-pourquoi-renault-lui-a-verse-900-000-euros-01-10-2026-PXZC43AAI5EMDF5RFPONDIGSLA.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Rachida Dati jugée pour « corruption » : pourquoi Renault lui a versé 900 000 eu..."
@@ -202,7 +219,7 @@
       {
         "title": "« Ça va juste se terminer en féminicide » : le calvaire d’une mère de famille, traquée par son ex conjoint violent tout juste sorti de prison",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-02T05:12:59.967Z",
+        "time": "2026-10-02T14:42:06.819Z",
         "link": "https://www.leparisien.fr/faits-divers/ca-va-juste-se-terminer-en-feminicide-le-calvaire-dune-mere-de-famille-traquee-par-son-ex-conjoint-violent-tout-juste-sorti-de-prison-01-10-2026-GBULG2POTVHSTKVWAL7DSDKPSI.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Ça va juste se terminer en féminicide » : le calvaire d’une mère de famille, t..."
@@ -251,11 +268,11 @@
   {
     "title": "Blocus des lycées à Ivry-sur-Seine : un mineur en garde à vue après avoir mis en joue des policiers avec un pistolet à billes",
     "score": 97,
-    "count": 5,
+    "count": 4,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.sudouest.fr/faits-divers/rss.xml",
       "https://www.franceinfo.fr/faits-divers.rss",
+      "https://www.sudouest.fr/faits-divers/rss.xml",
       "https://www.ledauphine.com/Faits-divers-Justice/rss"
     ],
     "items": [
@@ -266,14 +283,6 @@
         "link": "https://www.leparisien.fr/faits-divers/blocus-des-lycees-a-ivry-sur-seine-un-mineur-en-garde-a-vue-apres-avoir-mis-en-joue-des-policiers-avec-un-pistolet-a-billes-29-09-2026-MEAKSE6ABJESJFN42XCO56ISAQ.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Blocus des lycées à Ivry-sur-Seine : un mineur en garde à vue après avoir mis en..."
-      },
-      {
-        "title": "VIDÉO. Blocus des lycées en Gironde : des poubelles incendiées et des tirs de mortiers à Bordeaux, trois jeunes en garde à vue",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-09-30T08:15:28.000Z",
-        "link": "https://www.sudouest.fr/gironde/bordeaux/video-gironde-des-lyceens-manifestent-a-bordeaux-et-lormont-des-poubelles-incendiees-et-des-tirs-de-mortiers-30847195.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : VIDÉO. Blocus des lycées en Gironde : des poubelles incendiées et des tirs de mo..."
       },
       {
         "title": "Deux suspects, dont un mineur, placés en garde à vue après un meurtre par balles à Roubaix",
@@ -300,7 +309,7 @@
         "summary": "170 élèves blessés et près de 1 800 personnes placées en garde à vue depuis lundi"
       }
     ],
-    "summary": "Blocus des lycées à Ivry-sur-Seine : un mineur en garde à vue après avoir mis en joue des policiers avec un pistolet à billes / VIDÉO. Blocus des lycées en Gironde : des poubelles incendiées et des tirs de mortiers à Bordeaux, trois jeunes en garde à vue"
+    "summary": "Blocus des lycées à Ivry-sur-Seine : un mineur en garde à vue après avoir mis en joue des policiers avec un pistolet à billes / Deux suspects, dont un mineur, placés en garde à vue après un meurtre par balles à Roubaix"
   },
   {
     "title": "« Aucune leçon n’a été tirée » : après le martyre de Keysha, la mère condamnée à 10 ans de prison ferme, le beau-père à 1 an",
@@ -314,7 +323,7 @@
       {
         "title": "« Aucune leçon n’a été tirée » : après le martyre de Keysha, la mère condamnée à 10 ans de prison ferme, le beau-père à 1 an",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-02T05:12:59.967Z",
+        "time": "2026-10-02T14:42:06.819Z",
         "link": "https://www.leparisien.fr/faits-divers/aucune-lecon-na-ete-tiree-apres-le-martyre-de-keysha-la-mere-condamnee-a-10-ans-de-prison-ferme-le-beau-pere-a-1-an-30-09-2026-WNWDFYASP5C25KHNWV5HHMBY44.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Aucune leçon n’a été tirée » : après le martyre de Keysha, la mère condamnée à..."
@@ -333,18 +342,27 @@
   {
     "title": "« Les rapports sexuels devenaient très violents » : un producteur de cinéma en garde à vue pour viol et violences conjugales",
     "score": 97,
-    "count": 2,
+    "count": 3,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "https://www.ledauphine.com/Faits-divers-Justice/rss"
     ],
     "items": [
       {
         "title": "« Les rapports sexuels devenaient très violents » : un producteur de cinéma en garde à vue pour viol et violences conjugales",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-02T05:12:59.967Z",
+        "time": "2026-10-02T14:42:06.819Z",
         "link": "https://www.leparisien.fr/faits-divers/les-rapports-sexuels-devenaient-tres-violents-un-producteur-de-cinema-en-garde-a-vue-pour-viol-et-violences-conjugales-30-09-2026-JW44YNHIMRHH5J7JVBCIBXHRBA.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Les rapports sexuels devenaient très violents » : un producteur de cinéma en g..."
+      },
+      {
+        "title": "Natation. Le champion olympique Amaury Leveaux en garde à vue pour violences sur sa conjointe et leur bébé de 6 mois",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-10-02T10:13:00.000Z",
+        "link": "https://www.ledauphine.com/faits-divers-justice/2026/10/02/amaury-leveaux-en-garde-a-vue-pour-violences-sur-sa-conjointe-et-leur-bebe",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Natation. Le champion olympique Amaury Leveaux en garde à vue pour violences sur..."
       },
       {
         "title": "Le youtubeur Greg Guillotin sera jugé le 27 novembre pour des violences conjugales sur son ex-compagne",
@@ -355,7 +373,7 @@
         "summary": "Point de situation critique concernant : Le youtubeur Greg Guillotin sera jugé le 27 novembre pour des violences conjugal..."
       }
     ],
-    "summary": "« Les rapports sexuels devenaient très violents » : un producteur de cinéma en garde à vue pour viol et violences conjugales / Le youtubeur Greg Guillotin sera jugé le 27 novembre pour des violences conjugales sur son ex-compagne"
+    "summary": "« Les rapports sexuels devenaient très violents » : un producteur de cinéma en garde à vue pour viol et violences conjugales / Natation. Le champion olympique Amaury Leveaux en garde à vue pour violences sur sa conjointe et leur bébé de 6 mois"
   },
   {
     "title": "« Reproduire les attentats du 11 septembre » : comment les passagers ont survécu par miracle au détournement d’un vol Dubaï-Tel Aviv",
@@ -368,7 +386,7 @@
       {
         "title": "« Reproduire les attentats du 11 septembre » : comment les passagers ont survécu par miracle au détournement d’un vol Dubaï-Tel Aviv",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-02T05:12:59.967Z",
+        "time": "2026-10-02T14:42:06.820Z",
         "link": "https://www.leparisien.fr/international/israel/reproduire-les-attentats-du-11-septembre-comment-les-passagers-ont-survecu-par-miracle-au-detournement-dun-vol-dubai-tel-aviv-30-09-2026-YJU3JLXJONA57AD3EORZT6VHKM.php",
         "score": 97,
         "summary": "comment les passagers ont survécu par miracle au détournement d’un vol Dubaï-Tel Aviv"
@@ -396,25 +414,6 @@
     "summary": "Aiton. Il crache au visage de trois surveillants du quartier disciplinaire : le détenu condamné à six mois ferme"
   },
   {
-    "title": "Un adjoint à une maire RN du Pas-de-Calais arbore un t-shirt suprémaciste blanc, l'opposition réclame sa démission",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.francetvinfo.fr/politique.rss"
-    ],
-    "items": [
-      {
-        "title": "Un adjoint à une maire RN du Pas-de-Calais arbore un t-shirt suprémaciste blanc, l'opposition réclame sa démission",
-        "source": "https://www.francetvinfo.fr/politique.rss",
-        "time": "2026-09-30T09:52:10.000Z",
-        "link": "https://www.franceinfo.fr/politique/front-national/un-adjoint-a-une-maire-rn-du-pas-de-calais-arbore-un-t-shirt-supremaciste-blanc-l-opposition-reclame-sa-demission_8216134.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Un adjoint à une maire RN du Pas-de-Calais arbore un t-shirt suprémaciste blanc,..."
-      }
-    ],
-    "summary": "Un adjoint à une maire RN du Pas-de-Calais arbore un t-shirt suprémaciste blanc, l'opposition réclame sa démission"
-  },
-  {
     "title": "Détournement d’un vol Dubaï-Tel Aviv : « En cas d’émission d’un code 7500, des avions de chasse doivent vous escorter »",
     "score": 97,
     "count": 1,
@@ -425,7 +424,7 @@
       {
         "title": "Détournement d’un vol Dubaï-Tel Aviv : « En cas d’émission d’un code 7500, des avions de chasse doivent vous escorter »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-02T05:12:59.967Z",
+        "time": "2026-10-02T14:42:06.819Z",
         "link": "https://www.leparisien.fr/international/israel/detournement-dun-vol-dubai-tel-aviv-en-cas-demission-dun-code-7500-des-avions-de-chasse-doivent-vous-escorter-30-09-2026-ES2FCTF4LRFVXNPCWNIRFAVLFU.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Détournement d’un vol Dubaï-Tel Aviv : « En cas d’émission d’un code 7500, des a..."
@@ -436,16 +435,17 @@
   {
     "title": "« La victime n’était qu’un obstacle » : un sans-abri condamné à 30 ans de prison pour le meurtre d’une septuagénaire à coups de couteau",
     "score": 97,
-    "count": 2,
+    "count": 4,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.sudouest.fr/faits-divers/rss.xml"
+      "https://www.sudouest.fr/faits-divers/rss.xml",
+      "https://www.franceinfo.fr/faits-divers.rss"
     ],
     "items": [
       {
         "title": "« La victime n’était qu’un obstacle » : un sans-abri condamné à 30 ans de prison pour le meurtre d’une septuagénaire à coups de couteau",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-02T05:12:59.967Z",
+        "time": "2026-10-02T14:42:06.819Z",
         "link": "https://www.leparisien.fr/faits-divers/la-victime-netait-quun-obstacle-un-sans-abri-condamne-a-30-ans-de-prison-pour-le-meurtre-dune-septuagenaire-a-coups-de-couteau-30-09-2026-BAKQM36EHZAKNGPZ2AGC5KBAWI.php",
         "score": 97,
         "summary": "un sans-abri condamné à 30 ans de prison pour le meurtre d’une septuagénaire à coups de couteau"
@@ -457,6 +457,22 @@
         "link": "https://www.sudouest.fr/justice/un-sdf-condamne-a-trente-ans-de-prison-pour-le-meurtre-d-une-septuagenaire-en-maison-de-retraite-30854693.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Un SDF condamné à trente ans de prison pour le meurtre d’une septuagénaire en ma..."
+      },
+      {
+        "title": "Condamné pour tentative de meurtre sur Federico Martín Aramburu, Romain Bouvier fait appel",
+        "source": "https://www.franceinfo.fr/faits-divers.rss",
+        "time": "2026-10-02T09:58:40.000Z",
+        "link": "https://www.franceinfo.fr/faits-divers/assassinat-du-rugbyman-federico-martin-aramburu/condamne-pour-tentative-de-meurtre-sur-federico-martin-aramburu-romain-bouvier-fait-appel_8219524.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Condamné pour tentative de meurtre sur Federico Martín Aramburu, Romain Bouvier ..."
+      },
+      {
+        "title": "Cour criminelle des Landes : un père de famille condamné à huit ans de prison pour avoir violé une prostituée",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-10-02T13:39:42.000Z",
+        "link": "https://www.sudouest.fr/landes/haut-mauco/cour-criminelle-des-landes-un-pere-de-famille-condamne-a-huit-ans-de-prison-pour-avoir-viole-une-prostituee-30886937.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Cour criminelle des Landes : un père de famille condamné à huit ans de prison po..."
       }
     ],
     "summary": "« La victime n’était qu’un obstacle » : un sans-abri condamné à 30 ans de prison pour le meurtre d’une septuagénaire à coups de couteau / Un SDF condamné à trente ans de prison pour le meurtre d’une septuagénaire en maison de retraite"
@@ -605,7 +621,7 @@
       {
         "title": "Scandale de paris dans le football turc : près de 450 dirigeants de clubs « déférés devant la commission de discipline »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-02T05:12:59.967Z",
+        "time": "2026-10-02T14:42:06.819Z",
         "link": "https://www.leparisien.fr/sports/football/scandale-de-paris-dans-le-football-turc-pres-de-450-dirigeants-de-clubs-deferes-devant-la-commission-de-discipline-01-10-2026-QWOBDJL535F3FOQFYGIB4U63FA.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Scandale de paris dans le football turc : près de 450 dirigeants de clubs « défé..."
@@ -861,23 +877,61 @@
     "summary": "\"Nous avons vu partir des collègues avec qui j'ai travaillé pendant la majeure partie de ma carrière\": la présidente de Disney défend des licenciements \"extrêmement douloureux\" mais nécessaires pour permettre au groupe de \"survivre\""
   },
   {
-    "title": "Piratage de Hugging Face : une ONG assigne OpenAI devant la justice pour infraction à la loi sur les cyberattaques",
-    "score": 93,
+    "title": "Il a mené des essais cliniques sauvages sur près de 400 patients : le professeur Jean-Bernard Fourtillan condamné à 4 ans de prison",
+    "score": 97,
     "count": 1,
     "sources": [
-      "https://www.lemonde.fr/economie/rss_full.xml"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
     "items": [
       {
-        "title": "Piratage de Hugging Face : une ONG assigne OpenAI devant la justice pour infraction à la loi sur les cyberattaques",
-        "source": "https://www.lemonde.fr/economie/rss_full.xml",
-        "time": "2026-09-30T08:43:17.000Z",
-        "link": "https://www.lemonde.fr/pixels/article/2026/09/30/piratage-de-hugging-face-une-ong-assigne-openai-devant-la-justice-pour-infraction-a-la-loi-sur-les-cyberattaques_6786030_4408996.html",
-        "score": 93,
-        "summary": "une ONG assigne OpenAI devant la justice pour infraction à la loi sur les cyberattaques"
+        "title": "Il a mené des essais cliniques sauvages sur près de 400 patients : le professeur Jean-Bernard Fourtillan condamné à 4 ans de prison",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-02T14:42:06.819Z",
+        "link": "https://www.leparisien.fr/faits-divers/il-a-mene-des-essais-cliniques-sauvages-sur-pres-de-400-patients-le-professeur-jean-bernard-fourtillan-condamne-a-4-ans-de-prison-02-10-2026-D4EYJTOIF5BKXAHS4LSR67TKO4.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Il a mené des essais cliniques sauvages sur près de 400 patients : le professeur..."
       }
     ],
-    "summary": "Piratage de Hugging Face : une ONG assigne OpenAI devant la justice pour infraction à la loi sur les cyberattaques"
+    "summary": "Il a mené des essais cliniques sauvages sur près de 400 patients : le professeur Jean-Bernard Fourtillan condamné à 4 ans de prison"
+  },
+  {
+    "title": "Des policiers en civil pris à partie à Rennes, deux jeunes en garde à vue",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.sudouest.fr/faits-divers/rss.xml"
+    ],
+    "items": [
+      {
+        "title": "Des policiers en civil pris à partie à Rennes, deux jeunes en garde à vue",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-10-02T14:25:12.000Z",
+        "link": "https://www.sudouest.fr/societe/des-policiers-en-civil-pris-a-partie-a-rennes-deux-jeunes-en-garde-a-vue-30886942.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Des policiers en civil pris à partie à Rennes, deux jeunes en garde à vue..."
+      }
+    ],
+    "summary": "Des policiers en civil pris à partie à Rennes, deux jeunes en garde à vue"
+  },
+  {
+    "title": " Le stock de nickel était annoncé valoir 864 millions d'euros: une incroyable affaire de possible escroquerie devant la justice ",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.challenges.fr/rss.xml"
+    ],
+    "items": [
+      {
+        "title": " Le stock de nickel était annoncé valoir 864 millions d'euros: une incroyable affaire de possible escroquerie devant la justice ",
+        "source": "https://www.challenges.fr/rss.xml",
+        "time": "2026-10-02T05:45:00.000Z",
+        "link": " https://www.challenges.fr/entreprise/le-stock-de-nickel-etait-annonce-valoir-864-millions-deuros-une-incroyable-affaire-de-possible-escroquerie-devant-la-justice_646119 ",
+        "score": 97,
+        "summary": "Point de situation critique concernant :  Le stock de nickel était annoncé valoir 864 millions d'euros: une incroyable af..."
+      }
+    ],
+    "summary": " Le stock de nickel était annoncé valoir 864 millions d'euros: une incroyable affaire de possible escroquerie devant la justice "
   },
   {
     "title": "« Je n’ai rien à faire sur cette terre » : la détresse d’Arthur, 7 ans, qui accuse le directeur de l’école de viols",
@@ -890,7 +944,7 @@
       {
         "title": "« Je n’ai rien à faire sur cette terre » : la détresse d’Arthur, 7 ans, qui accuse le directeur de l’école de viols",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-02T05:12:59.967Z",
+        "time": "2026-10-02T14:42:06.820Z",
         "link": "https://www.leparisien.fr/societe/je-nai-rien-a-faire-sur-cette-terre-la-detresse-darthur-7-ans-qui-accuse-le-directeur-de-lecole-de-viols-30-09-2026-ALPXU4B3KRAGTATSMDSSXMSCEA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Je n’ai rien à faire sur cette terre » : la détresse d’Arthur, 7 ans, qui accu..."
@@ -939,7 +993,7 @@
   {
     "title": "Assassinat de Johnnay à Champigny : la défense tente de torpiller l’enquête",
     "score": 90,
-    "count": 2,
+    "count": 1,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
@@ -951,17 +1005,9 @@
         "link": "https://www.leparisien.fr/faits-divers/assassinat-de-johnnay-a-champigny-la-defense-tente-de-torpiller-lenquete-29-09-2026-BFFK25LWVZDKVI2JGJJR6MOI6Y.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Assassinat de Johnnay à Champigny : la défense tente de torpiller l’enquête..."
-      },
-      {
-        "title": "Assassinat de Johnnay à Champigny : le dernier silence de Ron, la « balance » qui ne veut plus parler",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-02T05:12:59.967Z",
-        "link": "https://www.leparisien.fr/faits-divers/assassinat-de-johnnay-a-champigny-le-dernier-silence-de-ron-la-balance-qui-ne-veut-plus-parler-01-10-2026-ID3KQCLAPFGFLDKRFED3K4B374.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Assassinat de Johnnay à Champigny : le dernier silence de Ron, la « balance » qu..."
       }
     ],
-    "summary": "Assassinat de Johnnay à Champigny : la défense tente de torpiller l’enquête / Assassinat de Johnnay à Champigny : le dernier silence de Ron, la « balance » qui ne veut plus parler"
+    "summary": "Assassinat de Johnnay à Champigny : la défense tente de torpiller l’enquête"
   },
   {
     "title": "« Maintenant, on va devenir des citoyens responsables » : Rémy Daillet assume avoir encouragé l’enlèvement de la petite Mia",
@@ -974,7 +1020,7 @@
       {
         "title": "« Maintenant, on va devenir des citoyens responsables » : Rémy Daillet assume avoir encouragé l’enlèvement de la petite Mia",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-02T05:12:59.967Z",
+        "time": "2026-10-02T14:42:06.819Z",
         "link": "https://www.leparisien.fr/faits-divers/maintenant-on-va-devenir-des-citoyens-responsables-remy-daillet-assume-avoir-encourage-lenlevement-de-la-petite-mia-30-09-2026-GZZMRD7KMZA7BEUBQUWYZU37CM.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Maintenant, on va devenir des citoyens responsables » : Rémy Daillet assume av..."
@@ -993,7 +1039,7 @@
       {
         "title": "Tentative d’assassinat à la prison de Nanterre : le procès impossible d’un détenu schizophrène",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-02T05:12:59.967Z",
+        "time": "2026-10-02T14:42:06.819Z",
         "link": "https://www.leparisien.fr/hauts-de-seine-92/tentative-dassassinat-a-la-prison-de-nanterre-le-proces-impossible-dun-detenu-schizophrene-30-09-2026-UNOGRRTKY5HEFAGIVP5GSTPU3U.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Tentative d’assassinat à la prison de Nanterre : le procès impossible d’un déten..."
@@ -1012,7 +1058,7 @@
       {
         "title": "Qui est la femme qui a empêché  l’enlèvement d’une ado aux Herbiers  en Vendée ? ",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-02T05:12:59.967Z",
+        "time": "2026-10-02T14:42:06.819Z",
         "link": "https://www.leparisien.fr/vendee-85/qui-est-la-femme-qui-a-empeche-lenlevement-dune-ado-aux-herbiers-en-vendee-30-09-2026-GWLNFMPIHZBJBKKXDHAU2QLD6A.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Qui est la femme qui a empêché  l’enlèvement d’une ado aux Herbiers  en Vendée ?..."
@@ -1031,7 +1077,7 @@
       {
         "title": "« Perversion voyeuriste » : les pulsions refoulées de Patrick D., bientôt jugé pour le meurtre d’Alexandra à Paris",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-02T05:12:59.967Z",
+        "time": "2026-10-02T14:42:06.819Z",
         "link": "https://www.leparisien.fr/faits-divers/perversion-voyeuriste-les-pulsions-refoulees-de-patrick-d-bientot-juge-pour-le-meurtre-dalexandra-a-paris-01-10-2026-K5BH5FN5BBDTVAEXLFQF2MAJY4.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Perversion voyeuriste » : les pulsions refoulées de Patrick D., bientôt jugé p..."
@@ -1050,7 +1096,7 @@
       {
         "title": "Le rappeur Doums sera jugé le 21 octobre pour des faits de violence conjugale, son avocate dénonce l’absence « d’élément tangible »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-02T05:12:59.967Z",
+        "time": "2026-10-02T14:42:06.819Z",
         "link": "https://www.leparisien.fr/faits-divers/le-rappeur-doums-sera-juge-le-21-octobre-pour-des-faits-de-violence-conjugale-son-avocate-denonce-labsence-delement-tangible-01-10-2026-AYQUPHWMZVENVINBL5GYG2B55Q.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Le rappeur Doums sera jugé le 21 octobre pour des faits de violence conjugale, s..."
@@ -1069,7 +1115,7 @@
       {
         "title": "Dans le Jura, un homme va être jugé pour avoir violé et prostitué son fils",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-02T05:12:59.967Z",
+        "time": "2026-10-02T14:42:06.819Z",
         "link": "https://www.leparisien.fr/faits-divers/dans-le-jura-un-homme-va-etre-juge-pour-avoir-viole-et-prostitue-son-fils-01-10-2026-QXTXNNMAY5DXZJHR2Q7N6S7GYU.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Dans le Jura, un homme va être jugé pour avoir violé et prostitué son fils..."
@@ -1088,7 +1134,7 @@
       {
         "title": "Nord : un jeune homme tué par balles dans un café de Roubaix, le suspect en fuite",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-02T05:12:59.967Z",
+        "time": "2026-10-02T14:42:06.820Z",
         "link": "https://www.leparisien.fr/faits-divers/nord-un-jeune-homme-tue-par-balles-dans-un-cafe-de-roubaix-le-suspect-en-fuite-30-09-2026-G5PXH7O3TFFKLCELYSBGMXJCS4.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Nord : un jeune homme tué par balles dans un café de Roubaix, le suspect en fuit..."
@@ -1107,7 +1153,7 @@
       {
         "title": "Qui a tué Joey, 29 ans, près de la gare de Cesson ? Le procès d’une spirale de vengeance ",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-02T05:12:59.967Z",
+        "time": "2026-10-02T14:42:06.820Z",
         "link": "https://www.leparisien.fr/seine-et-marne-77/qui-a-tue-joey-29-ans-pres-de-la-gare-de-cesson-le-proces-dune-spirale-de-vengeance-30-09-2026-HEVRTKN445C57O4EZGAUNB4EBE.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Qui a tué Joey, 29 ans, près de la gare de Cesson ? Le procès d’une spirale de v..."
@@ -1126,7 +1172,7 @@
       {
         "title": "Le président d’un club de football bulgare tué d’une balle dans la tête en pleine nuit",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-02T05:12:59.967Z",
+        "time": "2026-10-02T14:42:06.820Z",
         "link": "https://www.leparisien.fr/sports/football/le-president-dun-club-de-football-bulgare-tue-dune-belle-dans-la-tete-en-pleine-nuit-30-09-2026-CTIOE745Y5DXZOBSVY7JAB6T3Y.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Le président d’un club de football bulgare tué d’une balle dans la tête en plein..."
@@ -1145,89 +1191,13 @@
       {
         "title": "« Des moyens de la tuer sans aller en prison » : un ancien candidat d’« American Idol » reconnu coupable du meurtre de sa femme",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-02T05:12:59.967Z",
+        "time": "2026-10-02T14:42:06.820Z",
         "link": "https://www.leparisien.fr/faits-divers/des-moyens-de-la-tuer-sans-aller-en-prison-un-ancien-candidat-d-american-idol-reconnu-coupable-du-meurtre-de-sa-femme-30-09-2026-K74RSDKOXNEPZK7H6BF4TZB3FI.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Des moyens de la tuer sans aller en prison » : un ancien candidat d’« American..."
       }
     ],
     "summary": "« Des moyens de la tuer sans aller en prison » : un ancien candidat d’« American Idol » reconnu coupable du meurtre de sa femme"
-  },
-  {
-    "title": "Octogénaires violemment attaqués à domicile : Lupin75 suspecté de commanditer des home-jacking depuis sa prison",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Octogénaires violemment attaqués à domicile : Lupin75 suspecté de commanditer des home-jacking depuis sa prison",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-02T05:12:59.967Z",
-        "link": "https://www.leparisien.fr/faits-divers/octogenaires-violemment-attaques-a-domicile-lupin75-suspecte-de-commanditer-des-home-jacking-depuis-sa-prison-01-10-2026-MYCANNHZE5FUHFKVIRADV5QMMI.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Octogénaires violemment attaqués à domicile : Lupin75 suspecté de commanditer de..."
-      }
-    ],
-    "summary": "Octogénaires violemment attaqués à domicile : Lupin75 suspecté de commanditer des home-jacking depuis sa prison"
-  },
-  {
-    "title": "Explosion du nombre de morts sur les routes : le Puy-de-Dôme durcit le ton",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Explosion du nombre de morts sur les routes : le Puy-de-Dôme durcit le ton",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-02T05:12:59.967Z",
-        "link": "https://www.leparisien.fr/puy-de-dome-63/explosion-du-nombre-de-morts-sur-les-routes-le-puy-de-dome-durcit-le-ton-01-10-2026-UBCQBAUYYVFOTLI7SUOTUE65AA.php",
-        "score": 90,
-        "summary": "le Puy-de-Dôme durcit le ton"
-      }
-    ],
-    "summary": "Explosion du nombre de morts sur les routes : le Puy-de-Dôme durcit le ton"
-  },
-  {
-    "title": "Le chirurgien esthétique Sydney Ohana, accusé de viols et d’agressions sexuelles, a été « supprimé » de Doctolib",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Le chirurgien esthétique Sydney Ohana, accusé de viols et d’agressions sexuelles, a été « supprimé » de Doctolib",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-02T05:12:59.967Z",
-        "link": "https://www.leparisien.fr/paris-75/le-chirurgien-esthetique-sydney-ohana-accuse-de-viols-et-dagressions-sexuelles-a-ete-supprime-de-doctolib-01-10-2026-L73MGHQ2BBCVJJMY5NKYJENKUA.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Le chirurgien esthétique Sydney Ohana, accusé de viols et d’agressions sexuelles..."
-      }
-    ],
-    "summary": "Le chirurgien esthétique Sydney Ohana, accusé de viols et d’agressions sexuelles, a été « supprimé » de Doctolib"
-  },
-  {
-    "title": "« Il s’agit d’une bagarre entre automobilistes, point ! » : soupçonné de violence sur un policier des Yvelines, il est relaxé",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "« Il s’agit d’une bagarre entre automobilistes, point ! » : soupçonné de violence sur un policier des Yvelines, il est relaxé",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-02T05:12:59.967Z",
-        "link": "https://www.leparisien.fr/yvelines-78/il-sagit-dune-bagarre-entre-automobilistes-point-soupconne-de-violence-sur-un-policier-des-yvelines-il-est-relaxe-01-10-2026-HFVXTHP4JRGGHAUE5WSP6OEW6U.php",
-        "score": 90,
-        "summary": "soupçonné de violence sur un policier des Yvelines, il est relaxé"
-      }
-    ],
-    "summary": "« Il s’agit d’une bagarre entre automobilistes, point ! » : soupçonné de violence sur un policier des Yvelines, il est relaxé"
   },
   {
     "title": "[CYBER] Le Patch mardi de septembre provoque des insectes",
@@ -1278,7 +1248,7 @@
       {
         "title": "[CYBER] NetExplorer changement de nom et devient Voltn",
         "source": "Le Monde Informatique",
-        "time": "2026-10-02T05:11:41.624Z",
+        "time": "2026-10-02T14:40:33.189Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-netexplorer-change-de-nom-et-devient-voltn-100801.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] NetExplorer changement de nom et devient Voltn..."
@@ -1297,7 +1267,7 @@
       {
         "title": "[CYBER] La lance de Secutec un outil pour contrer l' IA de l' Ombre",
         "source": "Le Monde Informatique",
-        "time": "2026-10-02T05:11:36.733Z",
+        "time": "2026-10-02T14:40:26.352Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-secutec-lance-un-outil-pour-controler-le-shadow-ai-100803.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] La lance de Secutec un outil pour contrer l' IA de l' Ombre..."
@@ -1316,7 +1286,7 @@
       {
         "title": "[CYBER] Appel à renforcer le contrôle de l'IA: la France non signataire",
         "source": "Le Monde Informatique",
-        "time": "2026-10-02T05:11:39.554Z",
+        "time": "2026-10-02T14:40:30.394Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-appel-a-renforcer-le-controle-de-l-ia-la-france-non-signataire-100804.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Appel à renforcer le contrôle de l'IA: la France non signataire..."
@@ -1335,7 +1305,7 @@
       {
         "title": "[CYBER] Un agent d'OpenAI est introduit dans l'assurance maladie en Australie",
         "source": "Le Monde Informatique",
-        "time": "2026-10-02T05:11:31.800Z",
+        "time": "2026-10-02T14:40:19.286Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-un-agent-d-openai-s-introduit-dans-medicare-en-australie-100810.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Un agent d'OpenAI est introduit dans l'assurance maladie en Australie..."
@@ -1354,7 +1324,7 @@
       {
         "title": "[CYBER] WordPress corrige une vulne rabilit critique",
         "source": "Le Monde Informatique",
-        "time": "2026-10-02T05:11:33.475Z",
+        "time": "2026-10-02T14:40:21.689Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-wordpress-corrige-une-vulnerabilite-critique-100813.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] WordPress corrige une vulne rabilit critique..."
@@ -1373,70 +1343,13 @@
       {
         "title": "[CYBER] Le son de Claude Sonnet 5.5",
         "source": "Le Monde Informatique",
-        "time": "2026-10-02T05:11:29.116Z",
+        "time": "2026-10-02T14:40:15.425Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-anthropic-devoile-claude-sonnet-55-100820.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le son de Claude Sonnet 5.5..."
       }
     ],
     "summary": "[CYBER] Le son de Claude Sonnet 5.5"
-  },
-  {
-    "title": "[CYBER] SFR: nouveau piratage pour l'opérateur?",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "Zataz"
-    ],
-    "items": [
-      {
-        "title": "[CYBER] SFR: nouveau piratage pour l'opérateur?",
-        "source": "Zataz",
-        "time": "2026-09-30T09:10:23.000Z",
-        "link": "https://www.zataz.com/sfr-nouveau-piratage-pour-loperateur/",
-        "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] SFR: nouveau piratage pour l'opérateur?..."
-      }
-    ],
-    "summary": "[CYBER] SFR: nouveau piratage pour l'opérateur?"
-  },
-  {
-    "title": "[CYBER] FFRD: 1,43 millions de fichiers proposés à la vente?",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "Zataz"
-    ],
-    "items": [
-      {
-        "title": "[CYBER] FFRD: 1,43 millions de fichiers proposés à la vente?",
-        "source": "Zataz",
-        "time": "2026-09-30T08:49:49.000Z",
-        "link": "https://www.zataz.com/ffrandonnee-143-million-de-fiches-proposees-a-la-vente/",
-        "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] FFRD: 1,43 millions de fichiers proposés à la vente?..."
-      }
-    ],
-    "summary": "[CYBER] FFRD: 1,43 millions de fichiers proposés à la vente?"
-  },
-  {
-    "title": "[CYBER] Mexique: une ferme de cryptomonnaies sous enquête",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "Zataz"
-    ],
-    "items": [
-      {
-        "title": "[CYBER] Mexique: une ferme de cryptomonnaies sous enquête",
-        "source": "Zataz",
-        "time": "2026-09-30T08:35:13.000Z",
-        "link": "https://www.zataz.com/mexique-une-ferme-de-cryptomonnaies-sous-enquete/",
-        "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] Mexique: une ferme de cryptomonnaies sous enquête..."
-      }
-    ],
-    "summary": "[CYBER] Mexique: une ferme de cryptomonnaies sous enquête"
   },
   {
     "title": "[CYBER] Carrefour avertit ses clients d'une fuite de don au prestataire de l'expédition",
@@ -1449,7 +1362,7 @@
       {
         "title": "[CYBER] Carrefour avertit ses clients d'une fuite de don au prestataire de l'expédition",
         "source": "Le Monde Informatique",
-        "time": "2026-10-02T05:11:25.343Z",
+        "time": "2026-10-02T14:40:10.017Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-carrefour-alerte-ses-clients-apres-une-fuite-de-donnees-chez-le-prestataire-shipup-100822.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Carrefour avertit ses clients d'une fuite de don au prestataire de l'exp..."
@@ -1468,7 +1381,7 @@
       {
         "title": "[CYBER] L'OpenAI renonce au lanceur GPT-6.1 Astra",
         "source": "Le Monde Informatique",
-        "time": "2026-10-02T05:11:27.852Z",
+        "time": "2026-10-02T14:40:13.624Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-renonce-a-lancer-son-modele-gpt-61-astra-100821.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] L'OpenAI renonce au lanceur GPT-6.1 Astra..."
@@ -1514,7 +1427,7 @@
       {
         "title": "[CYBER] Bercy resserre les garde-fous autour des technologies stratégiques",
         "source": "Le Monde Informatique",
-        "time": "2026-10-02T05:11:21.510Z",
+        "time": "2026-10-02T14:40:04.553Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-bercy-resserre-les-garde-fous-autour-des-technologies-strategiques-100819.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Bercy resserre les garde-fous autour des technologies stratégiques..."
@@ -1635,5 +1548,24 @@
       }
     ],
     "summary": "[CYBER] Réseaux sociaux: les historiques qui deviennent des preuves"
+  },
+  {
+    "title": "[CYBER] Les techniciens et Trump signent un accord sur la loi sur l'IA",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "Le Monde Informatique"
+    ],
+    "items": [
+      {
+        "title": "[CYBER] Les techniciens et Trump signent un accord sur la loi sur l'IA",
+        "source": "Le Monde Informatique",
+        "time": "2026-10-02T14:40:01.325Z",
+        "link": "https://www.lemondeinformatique.fr/actualites/lire-les-geants-de-la-tech-et-trump-signent-un-accord-sur-la-securite-de-l-ia-100826.html",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] Les techniciens et Trump signent un accord sur la loi sur l'IA..."
+      }
+    ],
+    "summary": "[CYBER] Les techniciens et Trump signent un accord sur la loi sur l'IA"
   }
 ]
