@@ -1,24 +1,5 @@
 [
   {
-    "title": "Scandale de paris dans le football turc : près de 450 dirigeants de clubs « déférés devant la commission de discipline »",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Scandale de paris dans le football turc : près de 450 dirigeants de clubs « déférés devant la commission de discipline »",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-04T05:27:17.041Z",
-        "link": "https://www.leparisien.fr/sports/football/scandale-de-paris-dans-le-football-turc-pres-de-450-dirigeants-de-clubs-deferes-devant-la-commission-de-discipline-01-10-2026-QWOBDJL535F3FOQFYGIB4U63FA.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Scandale de paris dans le football turc : près de 450 dirigeants de clubs « défé..."
-      }
-    ],
-    "summary": "Scandale de paris dans le football turc : près de 450 dirigeants de clubs « déférés devant la commission de discipline »"
-  },
-  {
     "title": "Rachida Dati jugée pour « corruption » : pourquoi Renault lui a versé 900 000 euros ?",
     "score": 97,
     "count": 1,
@@ -40,10 +21,9 @@
   {
     "title": "Mort de Federico Martin Aramburu : condamné à 19 ans de réclusion pour tentative de meurtre, Romain Bouvier fait appel",
     "score": 97,
-    "count": 9,
+    "count": 10,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.lemonde.fr/societe/rss_full.xml",
       "https://www.franceinfo.fr/faits-divers.rss",
       "https://www.sudouest.fr/faits-divers/rss.xml",
       "https://www.lemonde.fr/police/rss_full.xml"
@@ -66,17 +46,9 @@
         "summary": "Point de situation critique concernant : « Son seul regret, c’est de s’être fait attraper » : un homme condamné dans le V..."
       },
       {
-        "title": "Belfort : après l’agression d’un policier près d’un lycée bloqué, une enquête ouverte pour tentative de meurtre et deux personnes en garde à vue",
-        "source": "https://www.lemonde.fr/societe/rss_full.xml",
-        "time": "2026-10-04T08:16:15.000Z",
-        "link": "https://www.lemonde.fr/societe/article/2026/10/04/policier-agresse-a-belfort-pres-d-un-lycee-bloque-deux-personnes-ont-ete-placees-en-garde-a-vue-dans-l-enquete-pour-tentative-de-meurtre_6788146_3224.html",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Belfort : après l’agression d’un policier près d’un lycée bloqué, une enquête ou..."
-      },
-      {
         "title": "Lycéens en garde à vue, plainte pour tentative de meurtre… Ce que l’on sait de l’enquête sur l’agression du policier à Belfort",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-06T01:16:34.449Z",
+        "time": "2026-10-06T11:12:01.242Z",
         "link": "https://www.leparisien.fr/faits-divers/belfort-le-lyceen-interpelle-par-le-policier-agresse-en-marge-des-blocus-porte-plainte-pour-tentative-de-meurtre-04-10-2026-44BPP7E42FG55DNR527EN5U2JM.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Lycéens en garde à vue, plainte pour tentative de meurtre… Ce que l’on sait de l..."
@@ -84,7 +56,7 @@
       {
         "title": "Corse : un couple de Calenzana lourdement condamné pour des violences après la mort de leur bébé de quatre mois",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-06T01:16:34.449Z",
+        "time": "2026-10-06T11:12:01.241Z",
         "link": "https://www.leparisien.fr/faits-divers/corse-un-couple-de-calenzana-lourdement-condamne-pour-des-violences-apres-la-mort-de-leur-bebe-de-quatre-mois-05-10-2026-D64FOMXGWNAP5K3N6OUTELYZ3U.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Corse : un couple de Calenzana lourdement condamné pour des violences après la m..."
@@ -92,7 +64,7 @@
       {
         "title": "Mort de Federico Martin Aramburu : Loïk Le Priol, condamné à 26 ans de prison, fait appel",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-06T01:16:34.449Z",
+        "time": "2026-10-06T11:12:01.241Z",
         "link": "https://www.leparisien.fr/faits-divers/mort-de-federico-martin-aramburu-loik-le-priol-condamne-a-26-ans-de-prison-fait-appel-05-10-2026-XAHV3QDXTFDSTOZLNWKD3YKRTA.php",
         "score": 97,
         "summary": "Loïk Le Priol, condamné à 26 ans de prison, fait appel"
@@ -112,6 +84,22 @@
         "link": "https://www.sudouest.fr/justice/je-l-ai-fait-d-accord-j-ai-tire-mais-j-etais-chez-moi-pres-d-agen-l-octogenaire-condamne-pour-avoir-fait-feu-dans-le-dos-de-son-voisin-occupe-a-debroussailler-30930276.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Je l’ai fait, d’accord. J’ai tiré mais j’étais chez moi » : près d’Agen, l’oct..."
+      },
+      {
+        "title": "Saint-Thibault-des-Vignes : condamné en juin à 14 ans de réclusion pour la mort d’Iderlindo, Amadou K. a été libéré",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-06T11:12:01.241Z",
+        "link": "https://www.leparisien.fr/faits-divers/saint-thibault-des-vignes-condamne-en-juin-a-14-ans-de-reclusion-pour-la-mort-diderlindo-amadou-k-a-ete-libere-06-10-2026-WE4NX4W5ABEMDFAJTDL6LK7EHM.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Saint-Thibault-des-Vignes : condamné en juin à 14 ans de réclusion pour la mort ..."
+      },
+      {
+        "title": "« Je veux juste qu’elle disparaisse » : un ancien candidat d’« American Idol » condamné à la prison à vie pour le meurtre de sa femme",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-06T11:12:01.241Z",
+        "link": "https://www.leparisien.fr/faits-divers/je-veux-juste-quelle-disparaisse-un-ancien-candidat-d-american-idol-condamne-a-la-prison-a-vie-pour-le-meurtre-de-sa-femme-06-10-2026-HJJKK3SDZBBANLWUSSESJOP5KU.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : « Je veux juste qu’elle disparaisse » : un ancien candidat d’« American Idol » c..."
       },
       {
         "title": "Policier agressé à Belfort : deux mineurs poursuivis pour violences aggravées, l’un d’eux porte plainte pour tentative de meurtre",
@@ -173,7 +161,7 @@
       {
         "title": "Agression d’un enseignant à la Ciotat : un lycéen de 16 ans placé en garde à vue",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-06T01:16:34.449Z",
+        "time": "2026-10-06T11:12:01.242Z",
         "link": "https://www.leparisien.fr/faits-divers/agression-dun-enseignant-a-la-ciotat-un-lyceen-de-16-ans-place-en-garde-a-vue-04-10-2026-YZD3DUGBQZC4TF5HXWBHDTXQ6A.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Agression d’un enseignant à la Ciotat : un lycéen de 16 ans placé en garde à vue..."
@@ -184,39 +172,21 @@
   {
     "title": "Policier tabassé à Belfort en marge des blocus lycéens : deux personnes placées en garde à vue",
     "score": 97,
-    "count": 3,
+    "count": 1,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.sudouest.fr/faits-divers/rss.xml",
-      "https://www.20minutes.fr/feeds/rss-une.xml"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
     "items": [
       {
         "title": "Policier tabassé à Belfort en marge des blocus lycéens : deux personnes placées en garde à vue",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-06T01:16:34.449Z",
+        "time": "2026-10-06T11:12:01.242Z",
         "link": "https://www.leparisien.fr/faits-divers/policier-tabasse-a-belfort-en-marge-des-blocus-lyceens-deux-personnes-placees-en-garde-a-vue-04-10-2026-2OOJ737W7ZAAFPZT4OQLUOMMEE.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Policier tabassé à Belfort en marge des blocus lycéens : deux personnes placées ..."
-      },
-      {
-        "title": "Passage à tabac d’un policier à Belfort : deux nouvelles personnes en garde à vue",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-10-04T07:31:16.000Z",
-        "link": "https://www.sudouest.fr/faits-divers/passage-a-tabac-d-un-policier-a-belfort-deux-nouvelles-personnes-en-garde-a-vue-30909295.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Passage à tabac d’un policier à Belfort : deux nouvelles personnes en garde à vu..."
-      },
-      {
-        "title": "Blocus des lycées : Deux jeunes en garde à vue après le tabassage d’un policier à Belfort, l’un d’eux porte plainte",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-10-04T07:45:32.000Z",
-        "link": "https://www.20minutes.fr/societe/4251104-20261004-blocus-lycees-deux-personnes-garde-vue-apres-passage-tabac-policier-belfort?at_medium=display&at_campaign=149",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Blocus des lycées : Deux jeunes en garde à vue après le tabassage d’un policier ..."
       }
     ],
-    "summary": "Policier tabassé à Belfort en marge des blocus lycéens : deux personnes placées en garde à vue / Passage à tabac d’un policier à Belfort : deux nouvelles personnes en garde à vue"
+    "summary": "Policier tabassé à Belfort en marge des blocus lycéens : deux personnes placées en garde à vue"
   },
   {
     "title": "Mobilisation des lycéens : un enseignant aspergé d’essence et frappé à la Ciotat, un mineur en garde à vue",
@@ -269,7 +239,7 @@
       {
         "title": "Femme brûlée au visage à Marseille : le lycéen soupçonné d’avoir agressé une passante avec un spray inflammable placé en détention provisoire",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-06T01:16:34.449Z",
+        "time": "2026-10-06T11:12:01.242Z",
         "link": "https://www.leparisien.fr/faits-divers/femme-brulee-au-visage-a-marseille-le-lyceen-soupconne-davoir-agresse-une-passante-avec-un-spray-inflammable-place-en-detention-provisoire-04-10-2026-4SBE33VAJZF6TKP5F4UCLRYCEQ.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Femme brûlée au visage à Marseille : le lycéen soupçonné d’avoir agressé une pas..."
@@ -310,44 +280,6 @@
     "summary": "Marseille. Passante agressée avec un spray enflammé : le lycéen mis en examen et placé en détention provisoire / Femme brûlée avec un spray inflammable à Marseille : un mineur de 15 ans placé en détention provisoire"
   },
   {
-    "title": "\"Casseurs-payeurs\": \"Je veux que les services de l'État priorisent le recouvrement auprès de ceux condamnés à rembourser ce qu'ils ont cassé\", affirme Matthieu Valet, eurodéputé RN",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.bfmtv.com/rss/politique/"
-    ],
-    "items": [
-      {
-        "title": "\"Casseurs-payeurs\": \"Je veux que les services de l'État priorisent le recouvrement auprès de ceux condamnés à rembourser ce qu'ils ont cassé\", affirme Matthieu Valet, eurodéputé RN",
-        "source": "https://www.bfmtv.com/rss/politique/",
-        "time": "2026-10-04T09:30:24.000Z",
-        "link": "https://www.bfmtv.com/politique/video-casseurs-payeurs-je-veux-que-les-services-de-l-etat-priorisent-le-recouvrement-aupres-de-ceux-condamnes-a-rembourser-ce-qu-ils-ont-casse-affirme-matthieu-valet-eurodepute-rn_VN-202610040171.html",
-        "score": 97,
-        "summary": "Point de situation critique concernant : \"Casseurs-payeurs\": \"Je veux que les services de l'État priorisent le recouvreme..."
-      }
-    ],
-    "summary": "\"Casseurs-payeurs\": \"Je veux que les services de l'État priorisent le recouvrement auprès de ceux condamnés à rembourser ce qu'ils ont cassé\", affirme Matthieu Valet, eurodéputé RN"
-  },
-  {
-    "title": "Un employé démissionnaire d'OpenAI met en cause son insuffisante culture du risque et appelle à s’inspirer du nucléaire civil ou de l’aviation",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
-    ],
-    "items": [
-      {
-        "title": "Un employé démissionnaire d'OpenAI met en cause son insuffisante culture du risque et appelle à s’inspirer du nucléaire civil ou de l’aviation",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-10-04T06:19:17.000Z",
-        "link": "https://www.lefigaro.fr/secteur/high-tech/un-employe-demissionnaire-d-openai-met-en-cause-son-insuffisante-culture-du-risque-et-appelle-a-s-inspirer-du-nucleaire-civil-ou-de-l-aviation-20261004",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Un employé démissionnaire d'OpenAI met en cause son insuffisante culture du risq..."
-      }
-    ],
-    "summary": "Un employé démissionnaire d'OpenAI met en cause son insuffisante culture du risque et appelle à s’inspirer du nucléaire civil ou de l’aviation"
-  },
-  {
     "title": "Scandale des fourrières parisiennes : le parquet requiert le jugement de 15 personnes",
     "score": 97,
     "count": 1,
@@ -358,7 +290,7 @@
       {
         "title": "Scandale des fourrières parisiennes : le parquet requiert le jugement de 15 personnes",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-06T01:16:34.449Z",
+        "time": "2026-10-06T11:12:01.242Z",
         "link": "https://www.leparisien.fr/faits-divers/scandale-des-fourrieres-parisiennes-le-parquet-requiert-le-jugement-de-15-personnes-04-10-2026-DF7ZUPA2CBET3LWUMX6BXFJKHA.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Scandale des fourrières parisiennes : le parquet requiert le jugement de 15 pers..."
@@ -421,7 +353,7 @@
       {
         "title": "Vendée : un animateur du périscolaire condamné à deux ans de prison ferme pour agressions sexuelles",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-06T01:16:34.449Z",
+        "time": "2026-10-06T11:12:01.241Z",
         "link": "https://www.leparisien.fr/faits-divers/vendee-un-animateur-du-periscolaire-condamne-a-deux-ans-de-prison-ferme-pour-agressions-sexuelles-05-10-2026-5PD66DNTHRBIRNAPCLADJDPMEY.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Vendée : un animateur du périscolaire condamné à deux ans de prison ferme pour a..."
@@ -551,7 +483,7 @@
       {
         "title": "« En roue libre avec un sentiment de toute-puissance » : un policier condamné pour partage illégal d’informations",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-06T01:16:34.449Z",
+        "time": "2026-10-06T11:12:01.241Z",
         "link": "https://www.leparisien.fr/paris-75/en-roue-libre-avec-un-sentiment-de-toute-puissance-un-policier-condamne-pour-partage-illegal-dinformations-05-10-2026-LJOIUHIY3NDPFI2YQSGT7JI5HY.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « En roue libre avec un sentiment de toute-puissance » : un policier condamné po..."
@@ -578,7 +510,7 @@
       {
         "title": "Deux footballeurs du club de Nancy placés en détention provisoire pour « viol en réunion »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-06T01:16:34.449Z",
+        "time": "2026-10-06T11:12:01.242Z",
         "link": "https://www.leparisien.fr/sports/football/deux-footballeurs-du-club-de-nancy-places-en-detention-provisoire-pour-viol-en-reunion-05-10-2026-MOOY7XS7MFHANBFQOEFDV23FVQ.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Deux footballeurs du club de Nancy placés en détention provisoire pour « viol en..."
@@ -703,7 +635,7 @@
       {
         "title": "Lyon : l’ex-directeur du groupe scolaire catholique des Chartreux, accusé de viols, placé en garde à vue",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-06T01:16:34.449Z",
+        "time": "2026-10-06T11:12:01.241Z",
         "link": "https://www.leparisien.fr/faits-divers/lyon-lex-directeur-du-groupe-scolaire-catholique-des-chartreux-accuse-de-viols-place-en-garde-a-vue-05-10-2026-7O5F5DVVQVBH3GN5HVSL76CJFM.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Lyon : l’ex-directeur du groupe scolaire catholique des Chartreux, accusé de vio..."
@@ -745,6 +677,63 @@
       }
     ],
     "summary": "Jeffrey Archer, romancier britannique à succès aux ambitions politiques freinées par les scandales, est mort"
+  },
+  {
+    "title": "Bordeaux : le patron du Régent Café condamné à 2 000 euros d’amende pour injures racistes",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.sudouest.fr/faits-divers/rss.xml"
+    ],
+    "items": [
+      {
+        "title": "Bordeaux : le patron du Régent Café condamné à 2 000 euros d’amende pour injures racistes",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-10-06T09:07:54.000Z",
+        "link": "https://www.sudouest.fr/gironde/bordeaux/bordeaux-le-patron-du-regent-cafe-condamne-a-2-000-euros-d-amende-pour-injures-racistes-30938760.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Bordeaux : le patron du Régent Café condamné à 2 000 euros d’amende pour injures..."
+      }
+    ],
+    "summary": "Bordeaux : le patron du Régent Café condamné à 2 000 euros d’amende pour injures racistes"
+  },
+  {
+    "title": "En redressement judiciaire, le groupe du Furet du Nord met en vente les librairies Decitre",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.bfmtv.com/rss/economie/"
+    ],
+    "items": [
+      {
+        "title": "En redressement judiciaire, le groupe du Furet du Nord met en vente les librairies Decitre",
+        "source": "https://www.bfmtv.com/rss/economie/",
+        "time": "2026-10-06T10:10:51.000Z",
+        "link": "https://www.bfmtv.com/economie/entreprises/en-redressement-judiciaire-le-groupe-du-furet-du-nord-met-en-vente-les-librairies-decitre_AD-202610060462.html",
+        "score": 97,
+        "summary": "Point de situation critique concernant : En redressement judiciaire, le groupe du Furet du Nord met en vente les librairi..."
+      }
+    ],
+    "summary": "En redressement judiciaire, le groupe du Furet du Nord met en vente les librairies Decitre"
+  },
+  {
+    "title": "C’est quoi le problème avec le système censé lutter contre la fraude à la carte grise ?",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.20minutes.fr/feeds/rss-une.xml"
+    ],
+    "items": [
+      {
+        "title": "C’est quoi le problème avec le système censé lutter contre la fraude à la carte grise ?",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-10-06T03:02:37.000Z",
+        "link": "https://www.20minutes.fr/societe/4251586-20261006-quoi-probleme-systeme-cense-lutter-contre-fraude-carte-grise?at_medium=display&at_campaign=149",
+        "score": 97,
+        "summary": "Point de situation critique concernant : C’est quoi le problème avec le système censé lutter contre la fraude à la carte ..."
+      }
+    ],
+    "summary": "C’est quoi le problème avec le système censé lutter contre la fraude à la carte grise ?"
   },
   {
     "title": "« Une violence inouïe » : un policier en civil roué de coups dans un tramway de Lyon, une enquête ouverte",
@@ -985,7 +974,7 @@
       {
         "title": "Meurtre par balle dans un café de Roubaix : deux suspects de 17 et 18 ans mis en examen et écroués",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-06T01:16:34.449Z",
+        "time": "2026-10-06T11:12:01.242Z",
         "link": "https://www.leparisien.fr/faits-divers/meurtre-par-balle-dans-un-cafe-de-roubaix-deux-suspects-de-17-et-18-ans-mis-en-examen-et-ecroues-03-10-2026-ZKHZLGXZHBFUTGPIX6L4Q2N7J4.php",
         "score": 90,
         "summary": "deux suspects de 17 et 18 ans mis en examen et écroués"
@@ -1013,25 +1002,6 @@
     "summary": "« Ça va juste se terminer en féminicide » : le calvaire d’une mère de famille, traquée par son ex conjoint violent tout juste sorti de prison"
   },
   {
-    "title": "Octogénaires violemment attaqués à domicile : Lupin75 suspecté de commanditer des home-jacking depuis sa prison",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Octogénaires violemment attaqués à domicile : Lupin75 suspecté de commanditer des home-jacking depuis sa prison",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-04T05:27:17.041Z",
-        "link": "https://www.leparisien.fr/faits-divers/octogenaires-violemment-attaques-a-domicile-lupin75-suspecte-de-commanditer-des-home-jacking-depuis-sa-prison-01-10-2026-MYCANNHZE5FUHFKVIRADV5QMMI.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Octogénaires violemment attaqués à domicile : Lupin75 suspecté de commanditer de..."
-      }
-    ],
-    "summary": "Octogénaires violemment attaqués à domicile : Lupin75 suspecté de commanditer des home-jacking depuis sa prison"
-  },
-  {
     "title": "Fusillades, narcotrafic… Plongée dans la spirale de violence qui fait craindre à Trappes un scénario « à la marseillaise »",
     "score": 90,
     "count": 1,
@@ -1042,7 +1012,7 @@
       {
         "title": "Fusillades, narcotrafic… Plongée dans la spirale de violence qui fait craindre à Trappes un scénario « à la marseillaise »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-06T01:16:34.449Z",
+        "time": "2026-10-06T11:12:01.242Z",
         "link": "https://www.leparisien.fr/yvelines-78/fusillades-narcotrafic-plongee-dans-la-spirale-de-violence-qui-fait-craindre-a-trappes-un-scenario-a-la-marseillaise-04-10-2026-P6UOQM2W35DWJLXQ54BPPLOY3A.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Fusillades, narcotrafic… Plongée dans la spirale de violence qui fait craindre à..."
@@ -1062,7 +1032,7 @@
       {
         "title": "Lutte contre les violences sexuelles : ces mesures que vous pensiez gravées dans le marbre et qui ne sont pas (encore) dans la loi",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-06T01:16:34.449Z",
+        "time": "2026-10-06T11:12:01.242Z",
         "link": "https://www.leparisien.fr/societe/lutte-contre-les-violences-sexuelles-ces-mesures-que-vous-pensiez-gravees-dans-le-marbre-et-qui-ne-sont-pas-encore-dans-la-loi-04-10-2026-EZRZHVZ2ABBS7IWUQVSQF5PGNU.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Lutte contre les violences sexuelles : ces mesures que vous pensiez gravées dans..."
@@ -1089,7 +1059,7 @@
       {
         "title": "« Nous sommes tous sous le choc » : une mère de trois enfants retrouvée morte à Achères, son mari soupçonné de l’avoir tuée",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-06T01:16:34.449Z",
+        "time": "2026-10-06T11:12:01.242Z",
         "link": "https://www.leparisien.fr/yvelines-78/nous-sommes-tous-sous-le-choc-une-mere-de-trois-enfants-retrouvee-morte-a-acheres-son-mari-soupconne-de-lavoir-tuee-04-10-2026-X23DEBWG3NELXK6CIQP5X6UQSQ.php",
         "score": 90,
         "summary": "une mère de trois enfants retrouvée morte à Achères, son mari soupçonné de l’avoir tuée"
@@ -1108,7 +1078,7 @@
       {
         "title": "« Il a été manipulé » : vie et mort de « Ketur », petite main du narcotrafic, abattu à Bondy",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-06T01:16:34.449Z",
+        "time": "2026-10-06T11:12:01.242Z",
         "link": "https://www.leparisien.fr/faits-divers/il-a-ete-manipule-vie-et-mort-de-ketur-petite-main-du-narcotrafic-abattu-a-bondy-04-10-2026-BAU4AYLXFFHT7KLADK4TVFU4W4.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Il a été manipulé » : vie et mort de « Ketur », petite main du narcotrafic, ab..."
@@ -1127,7 +1097,7 @@
       {
         "title": "Projet d’assassinat à Neuilly-sur-Seine : les jeunes tueurs à gages étaient missionnés pour exécuter une vengeance",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-06T01:16:34.449Z",
+        "time": "2026-10-06T11:12:01.242Z",
         "link": "https://www.leparisien.fr/faits-divers/projet-dassassinat-a-neuilly-sur-seine-les-jeunes-tueurs-a-gages-etaient-missionnes-pour-executer-une-vengeance-04-10-2026-HQUOPV2BZ5AKVD2E5NGWWK2W3E.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Projet d’assassinat à Neuilly-sur-Seine : les jeunes tueurs à gages étaient miss..."
@@ -1146,7 +1116,7 @@
       {
         "title": "Nouveau drame sur les routes de l’Oise : un motard de 49 ans tué dans une collision avec une voiture sur la D3",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-06T01:16:34.449Z",
+        "time": "2026-10-06T11:12:01.242Z",
         "link": "https://www.leparisien.fr/oise-60/nouveau-drame-sur-les-routes-de-loise-un-motard-de-49-ans-tue-dans-une-collision-avec-une-voiture-sur-la-d3-04-10-2026-SI6KAJYANFE67GT2WEV3VYILCA.php",
         "score": 90,
         "summary": "un motard de 49 ans tué dans une collision avec une voiture sur la D3"
@@ -1165,7 +1135,7 @@
       {
         "title": "« Légitime défense » ou vengeance : accusée d’avoir tué son conjoint, Samia M. restera en prison jusqu’au procès",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-06T01:16:34.449Z",
+        "time": "2026-10-06T11:12:01.242Z",
         "link": "https://www.leparisien.fr/faits-divers/legitime-defense-ou-vengeance-accusee-davoir-tue-son-conjoint-samia-m-restera-en-prison-jusquau-proces-05-10-2026-WCPB5OXDJNGZNBYIG2T5TEX4SE.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Légitime défense » ou vengeance : accusée d’avoir tué son conjoint, Samia M. r..."
@@ -1184,13 +1154,51 @@
       {
         "title": "L’avocate d’Eden, le jeune blessé au visage à Saint-Ouen-l’Aumône annonce porter plainte pour « tentative d’homicide volontaire »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-06T01:16:34.449Z",
+        "time": "2026-10-06T11:12:01.241Z",
         "link": "https://www.leparisien.fr/val-d-oise-95/eden-aurait-pu-mourir-lavocate-du-jeune-blesse-au-visage-a-saint-ouen-laumone-annonce-porter-plainte-05-10-2026-NKQ6ODZQIZE73EEJUNU4QNA2WY.php",
         "score": 90,
         "summary": "Point de situation critique concernant : L’avocate d’Eden, le jeune blessé au visage à Saint-Ouen-l’Aumône annonce porter..."
       }
     ],
     "summary": "L’avocate d’Eden, le jeune blessé au visage à Saint-Ouen-l’Aumône annonce porter plainte pour « tentative d’homicide volontaire »"
+  },
+  {
+    "title": "Blocage des lycées : l’IGPN saisie pour des soupçons d’agression sexuelle d’un policier sur une jeune fille à Metz",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Blocage des lycées : l’IGPN saisie pour des soupçons d’agression sexuelle d’un policier sur une jeune fille à Metz",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-06T11:12:01.241Z",
+        "link": "https://www.leparisien.fr/faits-divers/blocage-des-lycees-ligpn-saisie-pour-des-soupcons-dagression-sexuelle-dun-policier-sur-une-jeune-fille-a-metz-06-10-2026-GW245OG2VFHMLMR2GTRQEYTZ5Q.php",
+        "score": 90,
+        "summary": "l’IGPN saisie pour des soupçons d’agression sexuelle d’un policier sur une jeune fille à Metz"
+      }
+    ],
+    "summary": "Blocage des lycées : l’IGPN saisie pour des soupçons d’agression sexuelle d’un policier sur une jeune fille à Metz"
+  },
+  {
+    "title": "« Aux téléspectateurs de se faire leur avis  » : « Après la colère » revient sur le meurtre de Thomas à Crépol",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "« Aux téléspectateurs de se faire leur avis  » : « Après la colère » revient sur le meurtre de Thomas à Crépol",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-06T11:12:01.241Z",
+        "link": "https://www.leparisien.fr/culture-loisirs/tv/aux-telespectateurs-de-se-faire-leur-avis-apres-la-colere-revient-sur-le-meurtre-de-thomas-a-crepol-06-10-2026-6XI6EISBDVG5DJQOLYEXBNTKYE.php",
+        "score": 90,
+        "summary": "« Après la colère » revient sur le meurtre de Thomas à Crépol"
+      }
+    ],
+    "summary": "« Aux téléspectateurs de se faire leur avis  » : « Après la colère » revient sur le meurtre de Thomas à Crépol"
   },
   {
     "title": "[CYBER] NetExplorer changement de nom et devient Voltn",
@@ -1222,7 +1230,7 @@
       {
         "title": "[CYBER] La lance de Secutec un outil pour contrer l' IA de l' Ombre",
         "source": "Le Monde Informatique",
-        "time": "2026-10-06T01:15:49.100Z",
+        "time": "2026-10-06T11:10:48.550Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-secutec-lance-un-outil-pour-controler-le-shadow-ai-100803.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] La lance de Secutec un outil pour contrer l' IA de l' Ombre..."
@@ -1260,7 +1268,7 @@
       {
         "title": "[CYBER] Un agent d'OpenAI est introduit dans l'assurance maladie en Australie",
         "source": "Le Monde Informatique",
-        "time": "2026-10-06T01:15:46.269Z",
+        "time": "2026-10-06T11:10:43.749Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-un-agent-d-openai-s-introduit-dans-medicare-en-australie-100810.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Un agent d'OpenAI est introduit dans l'assurance maladie en Australie..."
@@ -1279,7 +1287,7 @@
       {
         "title": "[CYBER] WordPress corrige une vulne rabilit critique",
         "source": "Le Monde Informatique",
-        "time": "2026-10-06T01:15:47.271Z",
+        "time": "2026-10-06T11:10:45.317Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-wordpress-corrige-une-vulnerabilite-critique-100813.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] WordPress corrige une vulne rabilit critique..."
@@ -1298,7 +1306,7 @@
       {
         "title": "[CYBER] Le son de Claude Sonnet 5.5",
         "source": "Le Monde Informatique",
-        "time": "2026-10-06T01:15:44.732Z",
+        "time": "2026-10-06T11:10:41.171Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-anthropic-devoile-claude-sonnet-55-100820.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le son de Claude Sonnet 5.5..."
@@ -1317,7 +1325,7 @@
       {
         "title": "[CYBER] Carrefour avertit ses clients d'une fuite de don au prestataire de l'expédition",
         "source": "Le Monde Informatique",
-        "time": "2026-10-06T01:15:42.608Z",
+        "time": "2026-10-06T11:10:37.276Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-carrefour-alerte-ses-clients-apres-une-fuite-de-donnees-chez-le-prestataire-shipup-100822.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Carrefour avertit ses clients d'une fuite de don au prestataire de l'exp..."
@@ -1336,7 +1344,7 @@
       {
         "title": "[CYBER] L'OpenAI renonce au lanceur GPT-6.1 Astra",
         "source": "Le Monde Informatique",
-        "time": "2026-10-06T01:15:44.018Z",
+        "time": "2026-10-06T11:10:39.878Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-renonce-a-lancer-son-modele-gpt-61-astra-100821.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] L'OpenAI renonce au lanceur GPT-6.1 Astra..."
@@ -1355,7 +1363,7 @@
       {
         "title": "[CYBER] Bercy resserre les garde-fous autour des technologies stratégiques",
         "source": "Le Monde Informatique",
-        "time": "2026-10-06T01:15:40.441Z",
+        "time": "2026-10-06T11:10:33.139Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-bercy-resserre-les-garde-fous-autour-des-technologies-strategiques-100819.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Bercy resserre les garde-fous autour des technologies stratégiques..."
@@ -1374,7 +1382,7 @@
       {
         "title": "[CYBER] Les techniciens et Trump signent un accord sur la loi sur l'IA",
         "source": "Le Monde Informatique",
-        "time": "2026-10-06T01:15:39.187Z",
+        "time": "2026-10-06T11:10:30.744Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-les-geants-de-la-tech-et-trump-signent-un-accord-sur-la-securite-de-l-ia-100826.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les techniciens et Trump signent un accord sur la loi sur l'IA..."
@@ -1412,7 +1420,7 @@
       {
         "title": "[CYBER] Le gendarme de la cybersecurité a sauvé le pirate.",
         "source": "Le Monde Informatique",
-        "time": "2026-10-06T01:15:36.307Z",
+        "time": "2026-10-06T11:10:25.869Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-anssi-le-gendarme-de-la-cybersecurite-francais-pirate-100833.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le gendarme de la cybersecurité a sauvé le pirate...."
@@ -1431,7 +1439,7 @@
       {
         "title": "[CYBER] Microsoft a mis en place une aide à l'IA pour les attaques",
         "source": "Le Monde Informatique",
-        "time": "2026-10-06T01:15:37.648Z",
+        "time": "2026-10-06T11:10:28.133Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-microsoft-pointe-la-montee-en-puissance-des-attaques-assistees-par-l-ia-100829.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Microsoft a mis en place une aide à l'IA pour les attaques..."
