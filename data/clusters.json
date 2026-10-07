@@ -40,9 +40,10 @@
   {
     "title": "Policier tabassé à Belfort en marge des blocus lycéens : deux personnes placées en garde à vue",
     "score": 97,
-    "count": 2,
+    "count": 3,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
     ],
     "items": [
       {
@@ -60,6 +61,14 @@
         "link": "https://www.leparisien.fr/faits-divers/belfort-le-lyceen-interpelle-par-le-policier-agresse-en-marge-des-blocus-porte-plainte-pour-tentative-de-meurtre-04-10-2026-44BPP7E42FG55DNR527EN5U2JM.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Lycéens en garde à vue, plainte pour tentative de meurtre… Ce que l’on sait de l..."
+      },
+      {
+        "title": "Agression d’un policier à Belfort : trois suspects supplémentaires placés en garde à vue",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-10-07T14:24:12.000Z",
+        "link": "https://www.lefigaro.fr/faits-divers/agression-d-un-policier-a-belfort-trois-suspects-supplementaires-places-en-garde-a-vue-20261007",
+        "score": 97,
+        "summary": "trois suspects supplémentaires placés en garde à vue"
       }
     ],
     "summary": "Policier tabassé à Belfort en marge des blocus lycéens : deux personnes placées en garde à vue / Lycéens en garde à vue, plainte pour tentative de meurtre… Ce que l’on sait de l’enquête sur l’agression du policier à Belfort"
@@ -83,7 +92,7 @@
       {
         "title": "Soupçonné de financer le Hamas depuis la France, le dirigeant d’association Faouzi B. a été placé en détention provisoire",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-07T05:31:53.728Z",
+        "time": "2026-10-07T15:27:42.656Z",
         "link": "https://www.leparisien.fr/faits-divers/soupconne-de-financer-le-hamas-depuis-la-france-le-dirigeant-dassociation-faouzi-b-a-ete-place-en-detention-provisoire-07-10-2026-K3ZUV5NBT5BU7FHSIGJOSFFBIE.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Soupçonné de financer le Hamas depuis la France, le dirigeant d’association Faou..."
@@ -113,46 +122,29 @@
   {
     "title": "« En roue libre avec un sentiment de toute-puissance » : un policier condamné pour partage illégal d’informations",
     "score": 97,
-    "count": 4,
+    "count": 2,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.ledauphine.com/Faits-divers-Justice/rss"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
     "items": [
       {
         "title": "« En roue libre avec un sentiment de toute-puissance » : un policier condamné pour partage illégal d’informations",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-07T05:31:53.728Z",
+        "time": "2026-10-07T15:27:42.656Z",
         "link": "https://www.leparisien.fr/paris-75/en-roue-libre-avec-un-sentiment-de-toute-puissance-un-policier-condamne-pour-partage-illegal-dinformations-05-10-2026-LJOIUHIY3NDPFI2YQSGT7JI5HY.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « En roue libre avec un sentiment de toute-puissance » : un policier condamné po..."
       },
       {
-        "title": "Paris. Il avait divulgué le numéro d'une infirmière à un trafiquant : un policier « en roue libre » condamné",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-10-05T14:26:00.000Z",
-        "link": "https://www.ledauphine.com/faits-divers-justice/2026/10/05/il-avait-divulgue-le-numero-d-une-infirmiere-a-un-trafiquant-un-policier-en-roue-libre-condamne",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Paris. Il avait divulgué le numéro d'une infirmière à un trafiquant : un policie..."
-      },
-      {
         "title": "« Emblématique d’un quotidien » : en Essonne, quatre mois de prison avec sursis requis contre un policier pour des violences lors d’un contrôle",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-07T05:31:53.728Z",
+        "time": "2026-10-07T15:27:42.656Z",
         "link": "https://www.leparisien.fr/essonne-91/emblematique-dun-quotidien-en-essonne-quatre-mois-de-prison-avec-sursis-requis-contre-un-policier-pour-des-violences-lors-dun-controle-06-10-2026-M5NYC2PXRRENBP3PZ4SHOCDRZI.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Emblématique d’un quotidien » : en Essonne, quatre mois de prison avec sursis ..."
-      },
-      {
-        "title": "Émeutes à Saint-Pierre-des-Corps : le policier impliqué déjà visé par une plainte pour « violences avec arme »",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-07T05:31:53.728Z",
-        "link": "https://www.leparisien.fr/faits-divers/emeutes-a-saint-pierre-des-corps-le-policier-implique-deja-vise-par-une-plainte-pour-violences-avec-arme-05-10-2026-W7NVOVOEHNHEFL4LBAOULSP77U.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Émeutes à Saint-Pierre-des-Corps : le policier impliqué déjà visé par une plaint..."
       }
     ],
-    "summary": "« En roue libre avec un sentiment de toute-puissance » : un policier condamné pour partage illégal d’informations / Paris. Il avait divulgué le numéro d'une infirmière à un trafiquant : un policier « en roue libre » condamné"
+    "summary": "« En roue libre avec un sentiment de toute-puissance » : un policier condamné pour partage illégal d’informations / « Emblématique d’un quotidien » : en Essonne, quatre mois de prison avec sursis requis contre un policier pour des violences lors d’un contrôle"
   },
   {
     "title": "Corse : un couple de Calenzana lourdement condamné pour des violences après la mort de leur bébé de quatre mois",
@@ -167,7 +159,7 @@
       {
         "title": "Corse : un couple de Calenzana lourdement condamné pour des violences après la mort de leur bébé de quatre mois",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-07T05:31:53.728Z",
+        "time": "2026-10-07T15:27:42.656Z",
         "link": "https://www.leparisien.fr/faits-divers/corse-un-couple-de-calenzana-lourdement-condamne-pour-des-violences-apres-la-mort-de-leur-bebe-de-quatre-mois-05-10-2026-D64FOMXGWNAP5K3N6OUTELYZ3U.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Corse : un couple de Calenzana lourdement condamné pour des violences après la m..."
@@ -183,7 +175,7 @@
       {
         "title": "Saint-Thibault-des-Vignes : condamné en juin à 14 ans de réclusion pour la mort d’Iderlindo, Amadou K. a été libéré",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-07T05:31:53.728Z",
+        "time": "2026-10-07T15:27:42.656Z",
         "link": "https://www.leparisien.fr/faits-divers/saint-thibault-des-vignes-condamne-en-juin-a-14-ans-de-reclusion-pour-la-mort-diderlindo-amadou-k-a-ete-libere-06-10-2026-WE4NX4W5ABEMDFAJTDL6LK7EHM.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Saint-Thibault-des-Vignes : condamné en juin à 14 ans de réclusion pour la mort ..."
@@ -230,10 +222,9 @@
   {
     "title": "Deux footballeurs du club de Nancy placés en détention provisoire pour « viol en réunion »",
     "score": 97,
-    "count": 2,
+    "count": 1,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.franceinfo.fr/faits-divers.rss"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
     "items": [
       {
@@ -243,17 +234,9 @@
         "link": "https://www.leparisien.fr/sports/football/deux-footballeurs-du-club-de-nancy-places-en-detention-provisoire-pour-viol-en-reunion-05-10-2026-MOOY7XS7MFHANBFQOEFDV23FVQ.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Deux footballeurs du club de Nancy placés en détention provisoire pour « viol en..."
-      },
-      {
-        "title": "Deux footballeurs de l'AS Nancy Lorraine mis en examen et placés en détention provisoire pour \"viol en réunion\"",
-        "source": "https://www.franceinfo.fr/faits-divers.rss",
-        "time": "2026-10-05T12:35:17.000Z",
-        "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/deux-footballeurs-de-l-as-nancy-lorraine-mis-en-examen-et-places-en-detention-provisoire-pour-viol-en-reunion_8222986.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Deux footballeurs de l'AS Nancy Lorraine mis en examen et placés en détention pr..."
       }
     ],
-    "summary": "Deux footballeurs du club de Nancy placés en détention provisoire pour « viol en réunion » / Deux footballeurs de l'AS Nancy Lorraine mis en examen et placés en détention provisoire pour \"viol en réunion\""
+    "summary": "Deux footballeurs du club de Nancy placés en détention provisoire pour « viol en réunion »"
   },
   {
     "title": "A Lyon, Jean-Bernard Plessy, l’ancien directeur des Chartreux, en garde à vue dans une enquête pour viol aggravé",
@@ -321,97 +304,6 @@
     "summary": "Paris : une baby-sitter condamnée pour avoir abandonné un enfant autiste / Paris. Un enfant autiste enfermé seul pendant des heures, sa baby-sitter condamnée"
   },
   {
-    "title": "Marseille : un ex-policier condamné pour avoir partagé des informations confidentielles",
-    "score": 97,
-    "count": 2,
-    "sources": [
-      "https://www.sudouest.fr/faits-divers/rss.xml"
-    ],
-    "items": [
-      {
-        "title": "Marseille : un ex-policier condamné pour avoir partagé des informations confidentielles",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-10-05T14:04:35.000Z",
-        "link": "https://www.sudouest.fr/ile-de-france/paris/marseille-un-ex-policier-condamne-pour-avoir-partage-des-informations-confidentielles-30928989.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Marseille : un ex-policier condamné pour avoir partagé des informations confiden..."
-      },
-      {
-        "title": "« Je l’ai fait, d’accord. J’ai tiré mais j’étais chez moi » : près d’Agen, l’octogénaire condamné pour avoir fait feu dans le dos de son voisin occupé à débroussailler",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-10-05T18:00:00.000Z",
-        "link": "https://www.sudouest.fr/justice/je-l-ai-fait-d-accord-j-ai-tire-mais-j-etais-chez-moi-pres-d-agen-l-octogenaire-condamne-pour-avoir-fait-feu-dans-le-dos-de-son-voisin-occupe-a-debroussailler-30930276.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : « Je l’ai fait, d’accord. J’ai tiré mais j’étais chez moi » : près d’Agen, l’oct..."
-      }
-    ],
-    "summary": "Marseille : un ex-policier condamné pour avoir partagé des informations confidentielles / « Je l’ai fait, d’accord. J’ai tiré mais j’étais chez moi » : près d’Agen, l’octogénaire condamné pour avoir fait feu dans le dos de son voisin occupé à débroussailler"
-  },
-  {
-    "title": "Vendée : un ancien animateur périscolaire condamné à deux ans de prison ferme pour agressions sexuelles sur mineurs",
-    "score": 97,
-    "count": 4,
-    "sources": [
-      "https://www.sudouest.fr/faits-divers/rss.xml",
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.ledauphine.com/Faits-divers-Justice/rss"
-    ],
-    "items": [
-      {
-        "title": "Vendée : un ancien animateur périscolaire condamné à deux ans de prison ferme pour agressions sexuelles sur mineurs",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-10-05T13:47:54.000Z",
-        "link": "https://www.sudouest.fr/justice/prison/vendee-un-ancien-animateur-periscolaire-condamne-a-deux-ans-de-prison-ferme-pour-agressions-sexuelles-sur-mineurs-30928521.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Vendée : un ancien animateur périscolaire condamné à deux ans de prison ferme po..."
-      },
-      {
-        "title": "Vendée : un animateur du périscolaire condamné à deux ans de prison ferme pour agressions sexuelles",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-07T05:31:53.728Z",
-        "link": "https://www.leparisien.fr/faits-divers/vendee-un-animateur-du-periscolaire-condamne-a-deux-ans-de-prison-ferme-pour-agressions-sexuelles-05-10-2026-5PD66DNTHRBIRNAPCLADJDPMEY.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Vendée : un animateur du périscolaire condamné à deux ans de prison ferme pour a..."
-      },
-      {
-        "title": "« Je veux juste qu’elle disparaisse » : un ancien candidat d’« American Idol » condamné à la prison à vie pour le meurtre de sa femme",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-07T05:31:53.728Z",
-        "link": "https://www.leparisien.fr/faits-divers/je-veux-juste-quelle-disparaisse-un-ancien-candidat-d-american-idol-condamne-a-la-prison-a-vie-pour-le-meurtre-de-sa-femme-06-10-2026-HJJKK3SDZBBANLWUSSESJOP5KU.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : « Je veux juste qu’elle disparaisse » : un ancien candidat d’« American Idol » c..."
-      },
-      {
-        "title": "Isère. Agressions sexuelles au sein de l’Esat de Beaurepaire : un ancien bénéficiaire condamné",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-10-06T19:42:00.000Z",
-        "link": "https://www.ledauphine.com/faits-divers-justice/2026/10/06/isere-beaurepaire-agressions-sexuelles-au-sein-d-un-esat-un-ancien-beneficiaire-condamne",
-        "score": 97,
-        "summary": "un ancien bénéficiaire condamné"
-      }
-    ],
-    "summary": "Vendée : un ancien animateur périscolaire condamné à deux ans de prison ferme pour agressions sexuelles sur mineurs / Vendée : un animateur du périscolaire condamné à deux ans de prison ferme pour agressions sexuelles"
-  },
-  {
-    "title": "« Je réfute le terme d’escroquerie. Et je n’ai jamais utilisé l’argent à des fins personnelles », se défend la « Madoff béarnaise », 81 ans, au premier jour de son procès à Pau ",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.sudouest.fr/faits-divers/rss.xml"
-    ],
-    "items": [
-      {
-        "title": "« Je réfute le terme d’escroquerie. Et je n’ai jamais utilisé l’argent à des fins personnelles », se défend la « Madoff béarnaise », 81 ans, au premier jour de son procès à Pau ",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-10-05T12:13:40.000Z",
-        "link": "https://www.sudouest.fr/pyrenees-atlantiques/pau/je-refute-le-terme-d-escroquerie-et-je-n-ai-jamais-utilise-l-argent-a-des-fins-personnelles-se-defend-la-madoff-bearnaise-81-ans-au-premier-jour-de-son-proces-a-pau-30924772.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : « Je réfute le terme d’escroquerie. Et je n’ai jamais utilisé l’argent à des fin..."
-      }
-    ],
-    "summary": "« Je réfute le terme d’escroquerie. Et je n’ai jamais utilisé l’argent à des fins personnelles », se défend la « Madoff béarnaise », 81 ans, au premier jour de son procès à Pau "
-  },
-  {
     "title": "Aix-en-Provence : un lycéen de 17 ans en garde à vue après avoir grièvement blessé une passante à l’œil en marge des manifestations",
     "score": 97,
     "count": 2,
@@ -440,25 +332,6 @@
     "summary": "Aix-en-Provence : un lycéen de 17 ans en garde à vue après avoir grièvement blessé une passante à l’œil en marge des manifestations / Gap. Un garçon de 15 ans en garde à vue après avoir mis le feu à une poubelle"
   },
   {
-    "title": "La distribution musicale condamnée à enrichir sa gamme des services aux artistes et aux labels",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.lemonde.fr/economie/rss_full.xml"
-    ],
-    "items": [
-      {
-        "title": "La distribution musicale condamnée à enrichir sa gamme des services aux artistes et aux labels",
-        "source": "https://www.lemonde.fr/economie/rss_full.xml",
-        "time": "2026-10-05T13:00:08.000Z",
-        "link": "https://www.lemonde.fr/economie/article/2026/10/05/la-distribution-musicale-condamnee-a-enrichir-sa-gamme-des-services-aux-artistes-et-aux-labels_6788531_3234.html",
-        "score": 97,
-        "summary": "Point de situation critique concernant : La distribution musicale condamnée à enrichir sa gamme des services aux artistes..."
-      }
-    ],
-    "summary": "La distribution musicale condamnée à enrichir sa gamme des services aux artistes et aux labels"
-  },
-  {
     "title": "Lyon : l’ex-directeur du groupe scolaire catholique des Chartreux, accusé de viols, placé en garde à vue",
     "score": 97,
     "count": 2,
@@ -470,7 +343,7 @@
       {
         "title": "Lyon : l’ex-directeur du groupe scolaire catholique des Chartreux, accusé de viols, placé en garde à vue",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-07T05:31:53.728Z",
+        "time": "2026-10-07T15:27:42.656Z",
         "link": "https://www.leparisien.fr/faits-divers/lyon-lex-directeur-du-groupe-scolaire-catholique-des-chartreux-accuse-de-viols-place-en-garde-a-vue-05-10-2026-7O5F5DVVQVBH3GN5HVSL76CJFM.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Lyon : l’ex-directeur du groupe scolaire catholique des Chartreux, accusé de vio..."
@@ -485,6 +358,42 @@
       }
     ],
     "summary": "Lyon : l’ex-directeur du groupe scolaire catholique des Chartreux, accusé de viols, placé en garde à vue / Lyon : l’ex-directeur d’un établissement catholique accusé de viols en garde à vue"
+  },
+  {
+    "title": "Vendée : un animateur du périscolaire condamné à deux ans de prison ferme pour agressions sexuelles",
+    "score": 97,
+    "count": 3,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "https://www.ledauphine.com/Faits-divers-Justice/rss"
+    ],
+    "items": [
+      {
+        "title": "Vendée : un animateur du périscolaire condamné à deux ans de prison ferme pour agressions sexuelles",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-07T15:27:42.656Z",
+        "link": "https://www.leparisien.fr/faits-divers/vendee-un-animateur-du-periscolaire-condamne-a-deux-ans-de-prison-ferme-pour-agressions-sexuelles-05-10-2026-5PD66DNTHRBIRNAPCLADJDPMEY.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Vendée : un animateur du périscolaire condamné à deux ans de prison ferme pour a..."
+      },
+      {
+        "title": "« Je veux juste qu’elle disparaisse » : un ancien candidat d’« American Idol » condamné à la prison à vie pour le meurtre de sa femme",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-07T15:27:42.656Z",
+        "link": "https://www.leparisien.fr/faits-divers/je-veux-juste-quelle-disparaisse-un-ancien-candidat-d-american-idol-condamne-a-la-prison-a-vie-pour-le-meurtre-de-sa-femme-06-10-2026-HJJKK3SDZBBANLWUSSESJOP5KU.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : « Je veux juste qu’elle disparaisse » : un ancien candidat d’« American Idol » c..."
+      },
+      {
+        "title": "Isère. Agressions sexuelles au sein de l’Esat de Beaurepaire : un ancien bénéficiaire condamné",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-10-06T19:42:00.000Z",
+        "link": "https://www.ledauphine.com/faits-divers-justice/2026/10/06/isere-beaurepaire-agressions-sexuelles-au-sein-d-un-esat-un-ancien-beneficiaire-condamne",
+        "score": 97,
+        "summary": "un ancien bénéficiaire condamné"
+      }
+    ],
+    "summary": "Vendée : un animateur du périscolaire condamné à deux ans de prison ferme pour agressions sexuelles / « Je veux juste qu’elle disparaisse » : un ancien candidat d’« American Idol » condamné à la prison à vie pour le meurtre de sa femme"
   },
   {
     "title": "Jeffrey Archer, romancier britannique à succès aux ambitions politiques freinées par les scandales, est mort",
@@ -504,6 +413,34 @@
       }
     ],
     "summary": "Jeffrey Archer, romancier britannique à succès aux ambitions politiques freinées par les scandales, est mort"
+  },
+  {
+    "title": "« Je l’ai fait, d’accord. J’ai tiré mais j’étais chez moi » : près d’Agen, l’octogénaire condamné pour avoir fait feu dans le dos de son voisin occupé à débroussailler",
+    "score": 97,
+    "count": 2,
+    "sources": [
+      "https://www.sudouest.fr/faits-divers/rss.xml",
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "« Je l’ai fait, d’accord. J’ai tiré mais j’étais chez moi » : près d’Agen, l’octogénaire condamné pour avoir fait feu dans le dos de son voisin occupé à débroussailler",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-10-05T18:00:00.000Z",
+        "link": "https://www.sudouest.fr/justice/je-l-ai-fait-d-accord-j-ai-tire-mais-j-etais-chez-moi-pres-d-agen-l-octogenaire-condamne-pour-avoir-fait-feu-dans-le-dos-de-son-voisin-occupe-a-debroussailler-30930276.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : « Je l’ai fait, d’accord. J’ai tiré mais j’étais chez moi » : près d’Agen, l’oct..."
+      },
+      {
+        "title": "Fusillades, narcotrafic… Plongée dans la spirale de violence qui fait craindre à Trappes un scénario « à la marseillaise »",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-06T11:12:01.242Z",
+        "link": "https://www.leparisien.fr/yvelines-78/fusillades-narcotrafic-plongee-dans-la-spirale-de-violence-qui-fait-craindre-a-trappes-un-scenario-a-la-marseillaise-04-10-2026-P6UOQM2W35DWJLXQ54BPPLOY3A.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Fusillades, narcotrafic… Plongée dans la spirale de violence qui fait craindre à..."
+      }
+    ],
+    "summary": "« Je l’ai fait, d’accord. J’ai tiré mais j’étais chez moi » : près d’Agen, l’octogénaire condamné pour avoir fait feu dans le dos de son voisin occupé à débroussailler / Fusillades, narcotrafic… Plongée dans la spirale de violence qui fait craindre à Trappes un scénario « à la marseillaise »"
   },
   {
     "title": "Bordeaux : le patron du Régent Café condamné à 2 000 euros d’amende pour injures racistes",
@@ -573,7 +510,7 @@
       {
         "title": "Professeur aspergé d’essence à La Ciotat : deux autres mineurs placés en garde à vue",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-07T05:31:53.728Z",
+        "time": "2026-10-07T15:27:42.656Z",
         "link": "https://www.leparisien.fr/faits-divers/professeur-asperge-dessence-a-la-ciotat-deux-autres-mineurs-places-en-garde-a-vue-06-10-2026-BVVN3VRXWBH63AWPTSCWQHA3TA.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Professeur aspergé d’essence à La Ciotat : deux autres mineurs placés en garde à..."
@@ -592,7 +529,7 @@
       {
         "title": "Un père poignardé en allant récupérer ses deux enfants dans le Doubs, le nouveau conjoint de son ex-compagne placé en garde à vue",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-07T05:31:53.728Z",
+        "time": "2026-10-07T15:27:42.656Z",
         "link": "https://www.leparisien.fr/faits-divers/un-pere-poignarde-en-allant-recuperer-ses-deux-enfants-dans-le-doubs-le-nouveau-conjoint-de-son-ex-compagne-place-en-garde-a-vue-06-10-2026-7QZ6TY2DOVEXXJIQZI3353VY2Q.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Un père poignardé en allant récupérer ses deux enfants dans le Doubs, le nouveau..."
@@ -611,7 +548,7 @@
       {
         "title": "Plainte, enquête interne et hashtag « I am Jane Doe » : le récit du scandale du viol collectif à l’université Cornell",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-07T05:31:53.728Z",
+        "time": "2026-10-07T15:27:42.656Z",
         "link": "https://www.leparisien.fr/faits-divers/plainte-enquete-interne-et-hashtag-i-am-jane-doe-le-recit-du-scandale-du-viol-collectif-a-luniversite-cornell-06-10-2026-ETDIZJRXFNCZLFTODEWADDKE2Y.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Plainte, enquête interne et hashtag « I am Jane Doe » : le récit du scandale du ..."
@@ -619,7 +556,7 @@
       {
         "title": "Donald Trump « plaint » les sept hommes accusés de viol collectif à l’université de Cornell après la nomination d’une procureure",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-07T05:31:53.728Z",
+        "time": "2026-10-07T15:27:42.656Z",
         "link": "https://www.leparisien.fr/international/etats-unis/donald-trump-plaint-les-sept-hommes-accuses-de-viol-collectif-a-luniversite-de-cornell-apres-la-nomination-dune-procureure-05-10-2026-PFNI5CHOHZEJRAF55KLLJWMPXA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Donald Trump « plaint » les sept hommes accusés de viol collectif à l’université..."
@@ -668,7 +605,7 @@
   {
     "title": "Mobilisation lycéenne: \"L'ultraviolence doit être condamnée sans condition\", réclame Sébastien Lecornu, Premier ministre",
     "score": 97,
-    "count": 1,
+    "count": 2,
     "sources": [
       "https://www.bfmtv.com/rss/politique/"
     ],
@@ -680,9 +617,17 @@
         "link": "https://www.bfmtv.com/politique/video-mobilisation-lyceenne-l-ultraviolence-doit-etre-condamnee-sans-condition-reclame-sebastien-lecornu-premier-ministre_VN-202610060614.html",
         "score": 97,
         "summary": "Point de situation critique concernant : Mobilisation lycéenne: \"L'ultraviolence doit être condamnée sans condition\", réc..."
+      },
+      {
+        "title": "Mobilisation lycéenne: Thomas Portes, député LFI, attend la démission de Sébastien Lecornu, qu'il juge \"illégitime\"",
+        "source": "https://www.bfmtv.com/rss/politique/",
+        "time": "2026-10-07T11:38:52.000Z",
+        "link": "https://www.bfmtv.com/politique/la-france-insoumise/video-mobilisation-lyceenne-thomas-portes-depute-lfi-attend-la-demission-de-sebastien-lecornu-qu-il-juge-illegitime_VN-202610070502.html",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Mobilisation lycéenne: Thomas Portes, député LFI, attend la démission de Sébasti..."
       }
     ],
-    "summary": "Mobilisation lycéenne: \"L'ultraviolence doit être condamnée sans condition\", réclame Sébastien Lecornu, Premier ministre"
+    "summary": "Mobilisation lycéenne: \"L'ultraviolence doit être condamnée sans condition\", réclame Sébastien Lecornu, Premier ministre / Mobilisation lycéenne: Thomas Portes, député LFI, attend la démission de Sébastien Lecornu, qu'il juge \"illégitime\""
   },
   {
     "title": "\"Il se déshonore\": Mathilde Panot appelle à la démission de Laurent Nuñez qui \"permet le pire\" face aux mobilisations des lycéens",
@@ -723,7 +668,7 @@
       {
         "title": "« Mort dans l’indifférence » : deux ans et demi après, l’assassinat de Ben Assen à Grigny demeure impuni",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-07T05:31:53.728Z",
+        "time": "2026-10-07T15:27:42.656Z",
         "link": "https://www.leparisien.fr/faits-divers/mort-dans-lindifference-deux-ans-et-demi-apres-lassassinat-de-ben-assen-a-grigny-demeure-impuni-05-10-2026-KXHJW6335VAPVDLLXPZCOGOUMI.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Mort dans l’indifférence » : deux ans et demi après, l’assassinat de Ben Assen..."
@@ -808,6 +753,82 @@
     "summary": "Charente-Maritime : face à la multiplication des escroqueries, les gendarmes de Saujon sensibilisent et donnent des clés pour se prémunir"
   },
   {
+    "title": "Son père l’entend se disputer avec son compagnon au téléphone : Océane, 23 ans, retrouvée morte le lendemain à Liège, son conjoint inculpé",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Son père l’entend se disputer avec son compagnon au téléphone : Océane, 23 ans, retrouvée morte le lendemain à Liège, son conjoint inculpé",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-07T15:27:42.655Z",
+        "link": "https://www.leparisien.fr/faits-divers/son-pere-lentend-se-disputer-avec-son-compagnon-au-telephone-oceane-23-ans-retrouvee-morte-le-lendemain-a-liege-son-conjoint-inculpe-07-10-2026-67L5HTNJG5GTFLFVMGQLYEYD2U.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Son père l’entend se disputer avec son compagnon au téléphone : Océane, 23 ans, ..."
+      }
+    ],
+    "summary": "Son père l’entend se disputer avec son compagnon au téléphone : Océane, 23 ans, retrouvée morte le lendemain à Liège, son conjoint inculpé"
+  },
+  {
+    "title": "Suspecté de fraude et d’abus de confiance, le patron des prochains Mondiaux de ski à Crans-Montana démissionne",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Suspecté de fraude et d’abus de confiance, le patron des prochains Mondiaux de ski à Crans-Montana démissionne",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-07T15:27:42.656Z",
+        "link": "https://www.leparisien.fr/sports/ski/suspecte-de-fraude-et-dabus-de-confiance-le-patron-des-prochains-mondiaux-de-ski-a-crans-montana-demissionne-07-10-2026-436RLHHOLJDTLPMJUIHKT2APKU.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Suspecté de fraude et d’abus de confiance, le patron des prochains Mondiaux de s..."
+      }
+    ],
+    "summary": "Suspecté de fraude et d’abus de confiance, le patron des prochains Mondiaux de ski à Crans-Montana démissionne"
+  },
+  {
+    "title": " « Des décisions difficiles » à venir : à peine l’acquisition de Warner finalisée, Skydance évoque de possibles licenciements à Hollywood ",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.challenges.fr/rss.xml"
+    ],
+    "items": [
+      {
+        "title": " « Des décisions difficiles » à venir : à peine l’acquisition de Warner finalisée, Skydance évoque de possibles licenciements à Hollywood ",
+        "source": "https://www.challenges.fr/rss.xml",
+        "time": "2026-10-07T07:37:00.000Z",
+        "link": " https://www.challenges.fr/entreprise/medias/des-decisions-difficiles-a-venir-a-peine-lacquisition-de-warner-finalisee-skydance-evoque-de-possibles-licenciements-a-hollywood_646209 ",
+        "score": 97,
+        "summary": "Point de situation critique concernant :  « Des décisions difficiles » à venir : à peine l’acquisition de Warner finalisé..."
+      }
+    ],
+    "summary": " « Des décisions difficiles » à venir : à peine l’acquisition de Warner finalisée, Skydance évoque de possibles licenciements à Hollywood "
+  },
+  {
+    "title": "Mélenchon VS le gouverneur de la Banque de France : Pétain, Dreyfus… Qui a été condamné pour « trahison » en France ?",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.20minutes.fr/feeds/rss-une.xml"
+    ],
+    "items": [
+      {
+        "title": "Mélenchon VS le gouverneur de la Banque de France : Pétain, Dreyfus… Qui a été condamné pour « trahison » en France ?",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-10-07T12:23:04.000Z",
+        "link": "https://www.20minutes.fr/politique/4252117-20261007-melenchon-vs-gouverneur-banque-france-petain-dreyfus-condamne-trahison-france?at_medium=display&at_campaign=149",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Mélenchon VS le gouverneur de la Banque de France : Pétain, Dreyfus… Qui a été c..."
+      }
+    ],
+    "summary": "Mélenchon VS le gouverneur de la Banque de France : Pétain, Dreyfus… Qui a été condamné pour « trahison » en France ?"
+  },
+  {
     "title": "C’est quoi Brixhub, ce « lookup » aux 11 milliards de données personnelles piratées ?",
     "score": 93,
     "count": 2,
@@ -834,6 +855,25 @@
       }
     ],
     "summary": "C’est quoi Brixhub, ce « lookup » aux 11 milliards de données personnelles piratées ? / Internet. Ce qu’il faut savoir sur Brixhub, le moteur de recherche des données personnelles piratées"
+  },
+  {
+    "title": " Le numéro de portable de Gabriel Attal fuite sur Brixhub après le piratage de ses comptes Fitness Park et Colis Privé ",
+    "score": 93,
+    "count": 1,
+    "sources": [
+      "https://www.challenges.fr/rss.xml"
+    ],
+    "items": [
+      {
+        "title": " Le numéro de portable de Gabriel Attal fuite sur Brixhub après le piratage de ses comptes Fitness Park et Colis Privé ",
+        "source": "https://www.challenges.fr/rss.xml",
+        "time": "2026-10-07T11:02:00.000Z",
+        "link": " https://www.challenges.fr/politique/le-numero-de-portable-de-gabriel-attal-fuite-sur-brixhub-apres-le-piratage-de-ses-comptes-fitness-park-et-colis-prive_646215 ",
+        "score": 93,
+        "summary": "Point de situation critique concernant :  Le numéro de portable de Gabriel Attal fuite sur Brixhub après le piratage de s..."
+      }
+    ],
+    "summary": " Le numéro de portable de Gabriel Attal fuite sur Brixhub après le piratage de ses comptes Fitness Park et Colis Privé "
   },
   {
     "title": "Treize ans après une violente rixe en Essonne, neuf hommes jugés en leur absence",
@@ -929,25 +969,6 @@
       }
     ],
     "summary": "Meurtre par balle dans un café de Roubaix : deux suspects de 17 et 18 ans mis en examen et écroués"
-  },
-  {
-    "title": "Fusillades, narcotrafic… Plongée dans la spirale de violence qui fait craindre à Trappes un scénario « à la marseillaise »",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Fusillades, narcotrafic… Plongée dans la spirale de violence qui fait craindre à Trappes un scénario « à la marseillaise »",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-06T11:12:01.242Z",
-        "link": "https://www.leparisien.fr/yvelines-78/fusillades-narcotrafic-plongee-dans-la-spirale-de-violence-qui-fait-craindre-a-trappes-un-scenario-a-la-marseillaise-04-10-2026-P6UOQM2W35DWJLXQ54BPPLOY3A.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Fusillades, narcotrafic… Plongée dans la spirale de violence qui fait craindre à..."
-      }
-    ],
-    "summary": "Fusillades, narcotrafic… Plongée dans la spirale de violence qui fait craindre à Trappes un scénario « à la marseillaise »"
   },
   {
     "title": "Lutte contre les violences sexuelles : ces mesures que vous pensiez gravées dans le marbre et qui ne sont pas (encore) dans la loi",
@@ -1083,7 +1104,7 @@
       {
         "title": "L’avocate d’Eden, le jeune blessé au visage à Saint-Ouen-l’Aumône annonce porter plainte pour « tentative d’homicide volontaire »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-07T05:31:53.728Z",
+        "time": "2026-10-07T15:27:42.656Z",
         "link": "https://www.leparisien.fr/val-d-oise-95/eden-aurait-pu-mourir-lavocate-du-jeune-blesse-au-visage-a-saint-ouen-laumone-annonce-porter-plainte-05-10-2026-NKQ6ODZQIZE73EEJUNU4QNA2WY.php",
         "score": 90,
         "summary": "Point de situation critique concernant : L’avocate d’Eden, le jeune blessé au visage à Saint-Ouen-l’Aumône annonce porter..."
@@ -1102,7 +1123,7 @@
       {
         "title": "Blocage des lycées : IGPN saisie, version de la victime… Ce que l’on sait des soupçons d’agression sexuelle d’un policier sur une jeune fille à Metz",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-07T05:31:53.728Z",
+        "time": "2026-10-07T15:27:42.656Z",
         "link": "https://www.leparisien.fr/faits-divers/blocage-des-lycees-ligpn-saisie-pour-des-soupcons-dagression-sexuelle-dun-policier-sur-une-jeune-fille-a-metz-06-10-2026-GW245OG2VFHMLMR2GTRQEYTZ5Q.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Blocage des lycées : IGPN saisie, version de la victime… Ce que l’on sait des so..."
@@ -1121,7 +1142,7 @@
       {
         "title": "« Aux téléspectateurs de se faire leur avis  » : « Après la colère » revient sur le meurtre de Thomas à Crépol",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-07T05:31:53.728Z",
+        "time": "2026-10-07T15:27:42.656Z",
         "link": "https://www.leparisien.fr/culture-loisirs/tv/aux-telespectateurs-de-se-faire-leur-avis-apres-la-colere-revient-sur-le-meurtre-de-thomas-a-crepol-06-10-2026-6XI6EISBDVG5DJQOLYEXBNTKYE.php",
         "score": 90,
         "summary": "« Après la colère » revient sur le meurtre de Thomas à Crépol"
@@ -1140,7 +1161,7 @@
       {
         "title": "Trafic de drogues entre la prison de Meaux et la Californie : 21 suspects renvoyés en correctionnelle",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-07T05:31:53.728Z",
+        "time": "2026-10-07T15:27:42.656Z",
         "link": "https://www.leparisien.fr/seine-et-marne-77/trafic-de-drogues-entre-la-prison-de-meaux-et-la-californie-21-suspects-renvoyes-en-correctionnelle-06-10-2026-SDZ7RFBDB5B5ZN5LZAKO53XRFQ.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Trafic de drogues entre la prison de Meaux et la Californie : 21 suspects renvoy..."
@@ -1159,7 +1180,7 @@
       {
         "title": "Viol sans contact physique : dix ans de réclusion pour des actes sexuels imposés à des mineures devant leur caméra",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-07T05:31:53.728Z",
+        "time": "2026-10-07T15:27:42.656Z",
         "link": "https://www.leparisien.fr/seine-et-marne-77/viol-sans-contact-physique-dix-ans-de-reclusion-pour-des-actes-sexuels-imposes-a-des-mineures-devant-leur-camera-06-10-2026-CENMVPGVLNF5DP54UIFVKRAVUU.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Viol sans contact physique : dix ans de réclusion pour des actes sexuels imposés..."
@@ -1178,7 +1199,7 @@
       {
         "title": "Explosion de la rue de Trévise : les parties civiles finalement autorisées à suivre le procès via une webradio",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-07T05:31:53.728Z",
+        "time": "2026-10-07T15:27:42.656Z",
         "link": "https://www.leparisien.fr/faits-divers/explosion-de-la-rue-de-trevise-les-parties-civiles-finalement-autorisees-a-suivre-le-proces-via-une-webradio-06-10-2026-PBMBGAVSMZB6FPUA7BS4AYGL34.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Explosion de la rue de Trévise : les parties civiles finalement autorisées à sui..."
@@ -1197,7 +1218,7 @@
       {
         "title": "« On va arriver nulle part » : la défense catastrophique de « Crapule », jugé pour l’assassinat de Johnnay à Champigny",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-07T05:31:53.728Z",
+        "time": "2026-10-07T15:27:42.656Z",
         "link": "https://www.leparisien.fr/faits-divers/on-va-arriver-nulle-part-la-defense-catastrophique-de-crapule-juge-pour-lassassinat-de-johnnay-a-champigny-06-10-2026-OLBPYHO47RCFTK5ND2ZRFSRRBM.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « On va arriver nulle part » : la défense catastrophique de « Crapule », jugé po..."
@@ -1216,7 +1237,7 @@
       {
         "title": "« D’abord, on les a écoutés » : comment des médiateurs de Corbeil tentent d’éviter les violences lors des blocus lycéens",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-07T05:31:53.728Z",
+        "time": "2026-10-07T15:27:42.656Z",
         "link": "https://www.leparisien.fr/essonne-91/dabord-on-les-a-ecoutes-comment-des-mediateurs-de-corbeil-tentent-deviter-les-violences-lors-des-blocus-lyceens-06-10-2026-Q6L6PK544VDZ5MSI6G3DQJMUOU.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « D’abord, on les a écoutés » : comment des médiateurs de Corbeil tentent d’évit..."
@@ -1235,7 +1256,7 @@
       {
         "title": "Dix ans plus tard, retour au tribunal pour le « gourou du Médoc » : Philippe Clément jugé pour « viols » et « exercice illégal de la médecine »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-07T05:31:53.728Z",
+        "time": "2026-10-07T15:27:42.656Z",
         "link": "https://www.leparisien.fr/faits-divers/dix-ans-plus-tard-retour-au-tribunal-pour-le-gourou-du-medoc-philippe-clement-juge-pour-viols-et-exercice-illegal-de-la-medecine-05-10-2026-HQ7CD2ERCJF3JIKLOBSELFAGQY.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Dix ans plus tard, retour au tribunal pour le « gourou du Médoc » : Philippe Clé..."
@@ -1273,7 +1294,7 @@
       {
         "title": "[CYBER] Un agent d'OpenAI est introduit dans l'assurance maladie en Australie",
         "source": "Le Monde Informatique",
-        "time": "2026-10-07T05:30:14.549Z",
+        "time": "2026-10-07T15:26:42.381Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-un-agent-d-openai-s-introduit-dans-medicare-en-australie-100810.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Un agent d'OpenAI est introduit dans l'assurance maladie en Australie..."
@@ -1311,7 +1332,7 @@
       {
         "title": "[CYBER] Le son de Claude Sonnet 5.5",
         "source": "Le Monde Informatique",
-        "time": "2026-10-07T05:30:10.863Z",
+        "time": "2026-10-07T15:26:39.861Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-anthropic-devoile-claude-sonnet-55-100820.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le son de Claude Sonnet 5.5..."
@@ -1330,7 +1351,7 @@
       {
         "title": "[CYBER] Carrefour avertit ses clients d'une fuite de don au prestataire de l'expédition",
         "source": "Le Monde Informatique",
-        "time": "2026-10-07T05:30:05.694Z",
+        "time": "2026-10-07T15:26:36.287Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-carrefour-alerte-ses-clients-apres-une-fuite-de-donnees-chez-le-prestataire-shipup-100822.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Carrefour avertit ses clients d'une fuite de don au prestataire de l'exp..."
@@ -1349,7 +1370,7 @@
       {
         "title": "[CYBER] L'OpenAI renonce au lanceur GPT-6.1 Astra",
         "source": "Le Monde Informatique",
-        "time": "2026-10-07T05:30:09.138Z",
+        "time": "2026-10-07T15:26:38.684Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-renonce-a-lancer-son-modele-gpt-61-astra-100821.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] L'OpenAI renonce au lanceur GPT-6.1 Astra..."
@@ -1368,7 +1389,7 @@
       {
         "title": "[CYBER] Bercy resserre les garde-fous autour des technologies stratégiques",
         "source": "Le Monde Informatique",
-        "time": "2026-10-07T05:30:00.423Z",
+        "time": "2026-10-07T15:26:32.764Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-bercy-resserre-les-garde-fous-autour-des-technologies-strategiques-100819.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Bercy resserre les garde-fous autour des technologies stratégiques..."
@@ -1387,7 +1408,7 @@
       {
         "title": "[CYBER] Les techniciens et Trump signent un accord sur la loi sur l'IA",
         "source": "Le Monde Informatique",
-        "time": "2026-10-07T05:29:57.357Z",
+        "time": "2026-10-07T15:26:30.611Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-les-geants-de-la-tech-et-trump-signent-un-accord-sur-la-securite-de-l-ia-100826.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les techniciens et Trump signent un accord sur la loi sur l'IA..."
@@ -1425,7 +1446,7 @@
       {
         "title": "[CYBER] Le gendarme de la cybersecurité a sauvé le pirate.",
         "source": "Le Monde Informatique",
-        "time": "2026-10-07T05:29:50.412Z",
+        "time": "2026-10-07T15:26:25.856Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-anssi-le-gendarme-de-la-cybersecurite-francais-pirate-100833.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le gendarme de la cybersecurité a sauvé le pirate...."
@@ -1444,7 +1465,7 @@
       {
         "title": "[CYBER] Microsoft a mis en place une aide à l'IA pour les attaques",
         "source": "Le Monde Informatique",
-        "time": "2026-10-07T05:29:53.673Z",
+        "time": "2026-10-07T15:26:28.137Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-microsoft-pointe-la-montee-en-puissance-des-attaques-assistees-par-l-ia-100829.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Microsoft a mis en place une aide à l'IA pour les attaques..."
@@ -1470,5 +1491,176 @@
       }
     ],
     "summary": "[CYBER] CJIS Online: une fuite de 469 169 fiches revendiquées"
+  },
+  {
+    "title": "[CYBER] Le Dark Web: un vendeur de cocaïne arrêté",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "Zataz"
+    ],
+    "items": [
+      {
+        "title": "[CYBER] Le Dark Web: un vendeur de cocaïne arrêté",
+        "source": "Zataz",
+        "time": "2026-10-07T15:03:33.000Z",
+        "link": "https://www.zataz.com/dark-web-un-vendeur-de-cocaine-arrete/",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] Le Dark Web: un vendeur de cocaïne arrêté..."
+      }
+    ],
+    "summary": "[CYBER] Le Dark Web: un vendeur de cocaïne arrêté"
+  },
+  {
+    "title": "[CYBER] Adecco: une base de 2022 proposée à la vente",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "Zataz"
+    ],
+    "items": [
+      {
+        "title": "[CYBER] Adecco: une base de 2022 proposée à la vente",
+        "source": "Zataz",
+        "time": "2026-10-07T14:25:27.000Z",
+        "link": "https://www.zataz.com/adecco-une-base-de-2022-proposee-a-la-vente/",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] Adecco: une base de 2022 proposée à la vente..."
+      }
+    ],
+    "summary": "[CYBER] Adecco: une base de 2022 proposée à la vente"
+  },
+  {
+    "title": "[CYBER] CGT: une base diffuse, des chiffres gonflés par les doublons",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "Zataz"
+    ],
+    "items": [
+      {
+        "title": "[CYBER] CGT: une base diffuse, des chiffres gonflés par les doublons",
+        "source": "Zataz",
+        "time": "2026-10-07T13:38:18.000Z",
+        "link": "https://www.zataz.com/cgt-une-base-diffusee-des-chiffres-gonfles-par-les-doublons/",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] CGT: une base diffuse, des chiffres gonflés par les doublons..."
+      }
+    ],
+    "summary": "[CYBER] CGT: une base diffuse, des chiffres gonflés par les doublons"
+  },
+  {
+    "title": "[CYBER] Deux adresses détournées par un pirate",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "Zataz"
+    ],
+    "items": [
+      {
+        "title": "[CYBER] Deux adresses détournées par un pirate",
+        "source": "Zataz",
+        "time": "2026-10-07T13:05:10.000Z",
+        "link": "https://www.zataz.com/dread-deux-adresses-detournees-par-un-pirate/",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] Deux adresses détournées par un pirate..."
+      }
+    ],
+    "summary": "[CYBER] Deux adresses détournées par un pirate"
+  },
+  {
+    "title": "[CYBER] Qilin: le Japon renvoie un suspect à l'Allemagne",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "Zataz"
+    ],
+    "items": [
+      {
+        "title": "[CYBER] Qilin: le Japon renvoie un suspect à l'Allemagne",
+        "source": "Zataz",
+        "time": "2026-10-07T12:15:38.000Z",
+        "link": "https://www.zataz.com/qilin-le-japon-remet-un-suspect-a-lallemagne/",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] Qilin: le Japon renvoie un suspect à l'Allemagne..."
+      }
+    ],
+    "summary": "[CYBER] Qilin: le Japon renvoie un suspect à l'Allemagne"
+  },
+  {
+    "title": "[CYBER] FLOCKER relance son programme de rançongiciel",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "Zataz"
+    ],
+    "items": [
+      {
+        "title": "[CYBER] FLOCKER relance son programme de rançongiciel",
+        "source": "Zataz",
+        "time": "2026-10-07T11:16:42.000Z",
+        "link": "https://www.zataz.com/flocker-relance-son-programme-de-rancongiciel/",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] FLOCKER relance son programme de rançongiciel..."
+      }
+    ],
+    "summary": "[CYBER] FLOCKER relance son programme de rançongiciel"
+  },
+  {
+    "title": "[CYBER] Convention de Budapest: 25 ans face à la cybercriminalité",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "Zataz"
+    ],
+    "items": [
+      {
+        "title": "[CYBER] Convention de Budapest: 25 ans face à la cybercriminalité",
+        "source": "Zataz",
+        "time": "2026-10-07T10:10:19.000Z",
+        "link": "https://www.zataz.com/convention-de-budapest-25-ans-face-au-cybercrime/",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] Convention de Budapest: 25 ans face à la cybercriminalité..."
+      }
+    ],
+    "summary": "[CYBER] Convention de Budapest: 25 ans face à la cybercriminalité"
+  },
+  {
+    "title": "[CYBER] Les entreprises qui passent la frontière en 2026",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "Le Monde Informatique"
+    ],
+    "items": [
+      {
+        "title": "[CYBER] Les entreprises qui passent la frontière en 2026",
+        "source": "Le Monde Informatique",
+        "time": "2026-10-07T15:26:19.793Z",
+        "link": "https://www.lemondeinformatique.fr/actualites/lire-cybersecurite-en-2026-les-entreprises-passent-de-la-defense-a-la-resilience-100839.html",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] Les entreprises qui passent la frontière en 2026..."
+      }
+    ],
+    "summary": "[CYBER] Les entreprises qui passent la frontière en 2026"
+  },
+  {
+    "title": "[CYBER] Mistral d'équipement de grande taille 4, un mod le plus de 1 000 milliards de paramètres",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "Le Monde Informatique"
+    ],
+    "items": [
+      {
+        "title": "[CYBER] Mistral d'équipement de grande taille 4, un mod le plus de 1 000 milliards de paramètres",
+        "source": "Le Monde Informatique",
+        "time": "2026-10-07T15:26:23.374Z",
+        "link": "https://www.lemondeinformatique.fr/actualites/lire-mistral-devoile-large-4-un-modele-a-plus-de-1-000-milliards-de-parametres-100838.html",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] Mistral d'équipement de grande taille 4, un mod le plus de 1 000 milliar..."
+      }
+    ],
+    "summary": "[CYBER] Mistral d'équipement de grande taille 4, un mod le plus de 1 000 milliards de paramètres"
   }
 ]
