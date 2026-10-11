@@ -1,24 +1,5 @@
 [
   {
-    "title": "Soupçonné de financer le Hamas depuis la France, le dirigeant d’association Faouzi B. a été placé en détention provisoire",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Soupçonné de financer le Hamas depuis la France, le dirigeant d’association Faouzi B. a été placé en détention provisoire",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-09T15:14:04.768Z",
-        "link": "https://www.leparisien.fr/faits-divers/soupconne-de-financer-le-hamas-depuis-la-france-le-dirigeant-dassociation-faouzi-b-a-ete-place-en-detention-provisoire-07-10-2026-K3ZUV5NBT5BU7FHSIGJOSFFBIE.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Soupçonné de financer le Hamas depuis la France, le dirigeant d’association Faou..."
-      }
-    ],
-    "summary": "Soupçonné de financer le Hamas depuis la France, le dirigeant d’association Faouzi B. a été placé en détention provisoire"
-  },
-  {
     "title": "Son père l’entend se disputer avec son compagnon au téléphone : Océane, 23 ans, retrouvée morte le lendemain à Liège, son conjoint inculpé",
     "score": 97,
     "count": 1,
@@ -36,25 +17,6 @@
       }
     ],
     "summary": "Son père l’entend se disputer avec son compagnon au téléphone : Océane, 23 ans, retrouvée morte le lendemain à Liège, son conjoint inculpé"
-  },
-  {
-    "title": "Suspecté de fraude et d’abus de confiance, le patron des prochains Mondiaux de ski à Crans-Montana démissionne",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Suspecté de fraude et d’abus de confiance, le patron des prochains Mondiaux de ski à Crans-Montana démissionne",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-09T15:14:04.768Z",
-        "link": "https://www.leparisien.fr/sports/ski/suspecte-de-fraude-et-dabus-de-confiance-le-patron-des-prochains-mondiaux-de-ski-a-crans-montana-demissionne-07-10-2026-436RLHHOLJDTLPMJUIHKT2APKU.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Suspecté de fraude et d’abus de confiance, le patron des prochains Mondiaux de s..."
-      }
-    ],
-    "summary": "Suspecté de fraude et d’abus de confiance, le patron des prochains Mondiaux de ski à Crans-Montana démissionne"
   },
   {
     "title": "Chanson faisant référence à Merah et Abdeslam : le rappeur BORO700 va être jugé, trois mineurs en garde à vue pour apologie du terrorisme",
@@ -78,12 +40,9 @@
   {
     "title": "Yvelines : un coach de taekwondo condamné à 5 ans de prison en appel pour le viol de deux mineures",
     "score": 97,
-    "count": 7,
+    "count": 4,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.lemonde.fr/societe/rss_full.xml",
-      "https://www.sudouest.fr/faits-divers/rss.xml",
-      "https://www.cnews.fr/rss/categorie/faits%20divers",
       "https://www.20minutes.fr/feeds/rss-une.xml"
     ],
     "items": [
@@ -104,30 +63,6 @@
         "summary": "Point de situation critique concernant : Affaire des vols de pièces d’or à Reims : le Franco-Russe Pierre Malinowski cond..."
       },
       {
-        "title": "Rohan Rane, un étudiant nihiliste violent, condamné à vingt ans de réclusion criminelle pour avoir imposé des tortures sexuelles à des mineures sur Internet",
-        "source": "https://www.lemonde.fr/societe/rss_full.xml",
-        "time": "2026-10-09T18:31:55.000Z",
-        "link": "https://www.lemonde.fr/societe/article/2026/10/09/rohan-rane-un-etudiant-nihiliste-violent-condamne-a-20-ans-de-reclusion-criminelle-pour-avoir-impose-des-tortures-sexuelles-a-des-mineures-sur-internet_6790630_3224.html",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Rohan Rane, un étudiant nihiliste violent, condamné à vingt ans de réclusion cri..."
-      },
-      {
-        "title": "Un Indien condamné à vingt ans de réclusion pour des tortures imposées en ligne à des mineures",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-10-09T18:50:07.000Z",
-        "link": "https://www.sudouest.fr/faits-divers/un-indien-condamne-a-vingt-ans-de-reclusion-pour-des-tortures-imposees-en-ligne-a-des-mineures-31001365.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Un Indien condamné à vingt ans de réclusion pour des tortures imposées en ligne ..."
-      },
-      {
-        "title": "Côtes-d'Armor : 16 ans après, il est condamné à 25 ans de prison pour le meurtre de son épouse",
-        "source": "https://www.cnews.fr/rss/categorie/faits%20divers",
-        "time": "2026-10-09T19:53:14.000Z",
-        "link": "https://www.cnews.fr/faits-divers/2026-10-09/cotes-darmor-16-ans-apres-il-est-condamne-25-ans-de-prison-pour-le-meurtre",
-        "score": 97,
-        "summary": "16 ans après, il est condamné à 25 ans de prison pour le meurtre de son épouse"
-      },
-      {
         "title": "Un Indien condamné à vingt ans de réclusion pour des sévices sexuels imposés en ligne à des mineures",
         "source": "https://www.20minutes.fr/feeds/rss-une.xml",
         "time": "2026-10-09T22:07:55.000Z",
@@ -138,7 +73,7 @@
       {
         "title": "« Un lourd contentieux » : Francis Lalanne condamné à six mois de prison avec sursis pour abandon de famille fait appel",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-11T14:51:44.255Z",
+        "time": "2026-10-11T20:10:01.919Z",
         "link": "https://www.leparisien.fr/elections/presidentielle/un-lourd-contentieux-francis-lalanne-condamne-a-six-mois-de-prison-avec-sursis-pour-abandon-de-famille-fait-appel-10-10-2026-FRCF6CUQAJGF7LNQIRWDJVKVNI.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Un lourd contentieux » : Francis Lalanne condamné à six mois de prison avec su..."
@@ -157,70 +92,13 @@
       {
         "title": "Meurtre de Joey, 29 ans, près de la gare de Cesson : ses meurtriers condamnés jusqu’à 25 ans par la cour d’assises spéciale",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-11T14:51:44.256Z",
+        "time": "2026-10-11T20:10:01.920Z",
         "link": "https://www.leparisien.fr/seine-et-marne-77/mort-de-joey-a-cesson-ses-meurtriers-condamnes-a-25-ans-de-reclusion-criminelle-08-10-2026-J74XAWOZUFCAFARRX5SJPZVTIU.php",
         "score": 97,
         "summary": "ses meurtriers condamnés jusqu’à 25 ans par la cour d’assises spéciale"
       }
     ],
     "summary": "Meurtre de Joey, 29 ans, près de la gare de Cesson : ses meurtriers condamnés jusqu’à 25 ans par la cour d’assises spéciale"
-  },
-  {
-    "title": "A Istres, le nouveau maire LR, Robin Prétot, va « serrer un peu la vis », après l’ère François Bernardini, condamné par la justice",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.lemonde.fr/politique/rss_full.xml"
-    ],
-    "items": [
-      {
-        "title": "A Istres, le nouveau maire LR, Robin Prétot, va « serrer un peu la vis », après l’ère François Bernardini, condamné par la justice",
-        "source": "https://www.lemonde.fr/politique/rss_full.xml",
-        "time": "2026-10-09T15:00:05.000Z",
-        "link": "https://www.lemonde.fr/politique/article/2026/10/09/a-istres-le-nouveau-maire-lr-robin-pretot-va-serrer-un-peu-la-vis-apres-l-ere-francois-bernardini-condamne-par-la-justice_6790593_823448.html",
-        "score": 97,
-        "summary": "Point de situation critique concernant : A Istres, le nouveau maire LR, Robin Prétot, va « serrer un peu la vis », après ..."
-      }
-    ],
-    "summary": "A Istres, le nouveau maire LR, Robin Prétot, va « serrer un peu la vis », après l’ère François Bernardini, condamné par la justice"
-  },
-  {
-    "title": "Accident mortel à Bordeaux : le conducteur de la balayeuse de voirie placé en garde à vue",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.sudouest.fr/faits-divers/rss.xml"
-    ],
-    "items": [
-      {
-        "title": "Accident mortel à Bordeaux : le conducteur de la balayeuse de voirie placé en garde à vue",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-10-09T17:51:59.000Z",
-        "link": "https://www.sudouest.fr/gironde/bordeaux/accident-mortel-a-bordeaux-le-conducteur-de-la-balayeuse-de-voirie-place-en-garde-a-vue-30995277.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Accident mortel à Bordeaux : le conducteur de la balayeuse de voirie placé en ga..."
-      }
-    ],
-    "summary": "Accident mortel à Bordeaux : le conducteur de la balayeuse de voirie placé en garde à vue"
-  },
-  {
-    "title": "Black-out en Guadeloupe : huit agents d’EDF condamnés, dont deux à de la prison ferme",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.cnews.fr/rss/categorie/faits%20divers"
-    ],
-    "items": [
-      {
-        "title": "Black-out en Guadeloupe : huit agents d’EDF condamnés, dont deux à de la prison ferme",
-        "source": "https://www.cnews.fr/rss/categorie/faits%20divers",
-        "time": "2026-10-09T15:32:20.000Z",
-        "link": "https://www.cnews.fr/faits-divers/2026-10-09/black-out-en-guadeloupe-huit-agents-dedf-condamnes-dont-deux-de-la-prison",
-        "score": 97,
-        "summary": "huit agents d’EDF condamnés, dont deux à de la prison ferme"
-      }
-    ],
-    "summary": "Black-out en Guadeloupe : huit agents d’EDF condamnés, dont deux à de la prison ferme"
   },
   {
     "title": "Mobilisation lycéenne : ce que nous dit le recours massif à la garde à vue",
@@ -252,7 +130,7 @@
       {
         "title": "Un homme mortellement poignardé à la sortie d’une boîte de nuit à Chilly-Mazarin, trois personnes en garde à vue",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-11T14:51:44.255Z",
+        "time": "2026-10-11T20:10:01.919Z",
         "link": "https://www.leparisien.fr/essonne-91/un-homme-mortellement-poignarde-a-la-sortie-dune-boite-de-nuit-a-chilly-mazarin-trois-personnes-en-garde-a-vue-10-10-2026-OQWKPVDTZNCCZMU5QVNRF4KVLY.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Un homme mortellement poignardé à la sortie d’une boîte de nuit à Chilly-Mazarin..."
@@ -271,7 +149,7 @@
       {
         "title": "Scandale du periscolaire à Paris : une nouvelle plainte va être déposée contre la mairie",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-11T14:51:44.255Z",
+        "time": "2026-10-11T20:10:01.919Z",
         "link": "https://www.leparisien.fr/faits-divers/scandale-du-periscolaire-a-paris-une-nouvelle-plainte-va-etre-deposee-contre-la-mairie-10-10-2026-B3R5T52FP5AQ7HYPY7LXVNQHBU.php",
         "score": 97,
         "summary": "une nouvelle plainte va être déposée contre la mairie"
@@ -299,7 +177,7 @@
       {
         "title": "« Une absence douloureuse » : vingt ans de réclusion aux assises pour avoir tué son voisin qui lui reprochait ses nuisances",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-11T14:51:44.255Z",
+        "time": "2026-10-11T20:10:01.919Z",
         "link": "https://www.leparisien.fr/val-d-oise-95/une-absence-douloureuse-vingt-ans-de-reclusion-aux-assises-pour-avoir-tue-son-voisin-qui-lui-reprochait-ses-nuisances-10-10-2026-N5NNV6H3AZFNFBOFMXQJLYBCCM.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Une absence douloureuse » : vingt ans de réclusion aux assises pour avoir tué ..."
@@ -308,66 +186,34 @@
     "summary": "Corse : le caïd de la drogue Yassine Akhazzane condamné à vingt-deux ans de réclusion pour avoir ordonné l’incendie d’un hôtel / « Une absence douloureuse » : vingt ans de réclusion aux assises pour avoir tué son voisin qui lui reprochait ses nuisances"
   },
   {
-    "title": "La plateforme de vote pour la primaire de la gauche \"victime d'une cyberattaque\", le scrutin prolongé jusqu'à dimanche à 18 heures, annonce la commission d'organisation",
-    "score": 93,
-    "count": 11,
+    "title": "Vols, escroqueries : ils traquent eux-mêmes les malfaiteurs",
+    "score": 97,
+    "count": 1,
     "sources": [
-      "https://www.francetvinfo.fr/politique.rss",
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "https://www.lemonde.fr/politique/rss_full.xml",
-      "https://www.bfmtv.com/rss/politique/",
-      "https://www.20minutes.fr/feeds/rss-une.xml",
-      "Le Monde Informatique"
+      "https://www.franceinfo.fr/faits-divers.rss"
     ],
     "items": [
       {
-        "title": "La plateforme de vote pour la primaire de la gauche \"victime d'une cyberattaque\", le scrutin prolongé jusqu'à dimanche à 18 heures, annonce la commission d'organisation",
-        "source": "https://www.francetvinfo.fr/politique.rss",
-        "time": "2026-10-09T17:44:10.000Z",
-        "link": "https://www.franceinfo.fr/elections/presidentielle/la-plateforme-de-vote-pour-la-primaire-socialiste-victime-d-une-cyberattaque-depuis-son-ouverture-annonce-la-commission-d-organisation_8229811.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 93,
-        "summary": "Point de situation critique concernant : La plateforme de vote pour la primaire de la gauche \"victime d'une cyberattaque\"..."
-      },
-      {
-        "title": "Primaire de la gauche : le vote prolongé jusqu’à dimanche 18 heures après une cyberattaque",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-10-09T17:49:02.000Z",
-        "link": "https://www.lefigaro.fr/elections/presidentielles/primaires-gauche/primaire-de-la-gauche-la-plateforme-de-vote-subit-une-cyberattaque-a-son-ouverture-20261009",
-        "score": 93,
-        "summary": "le vote prolongé jusqu’à dimanche 18 heures après une cyberattaque"
-      },
-      {
-        "title": "Primaire à gauche : le vote est prolongé jusqu’à dimanche 18 heures, en raison de la cyberattaque qui a visé la plateforme",
-        "source": "https://www.lemonde.fr/politique/rss_full.xml",
-        "time": "2026-10-09T17:49:57.000Z",
-        "link": "https://www.lemonde.fr/politique/article/2026/10/09/primaire-a-gauche-le-vote-prolonge-jusqu-a-dimanche-18-heures-en-raison-de-la-cyberattaque-qui-a-vise-la-plateforme_6790554_823449.html",
-        "score": 93,
-        "summary": "Point de situation critique concernant : Primaire à gauche : le vote est prolongé jusqu’à dimanche 18 heures, en raison d..."
-      },
-      {
-        "title": "Une plainte déposée après la cyberattaque visant la plateforme de vote de la primaire de la gauche",
-        "source": "https://www.francetvinfo.fr/politique.rss",
-        "time": "2026-10-09T17:17:02.000Z",
-        "link": "https://www.franceinfo.fr/politique/ps/primaire-a-gauche/une-plainte-deposee-apres-la-cyberattaque-visant-la-plateforme-de-vote-de-la-primaire-de-la-gauche_8230606.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 93,
-        "summary": "Point de situation critique concernant : Une plainte déposée après la cyberattaque visant la plateforme de vote de la pri..."
-      },
-      {
-        "title": "Le vote de la primaire sociale-démocrate prolongé jusqu'à dimanche 18h après une cyberattaque",
-        "source": "https://www.bfmtv.com/rss/politique/",
-        "time": "2026-10-09T17:44:05.000Z",
-        "link": "https://www.bfmtv.com/politique/parti-socialiste/le-vote-de-la-primaire-sociale-democrate-prolonge-jusqu-a-dimanche-18h-apres-une-cyberattaque_AD-202610090797.html",
-        "score": 93,
-        "summary": "Point de situation critique concernant : Le vote de la primaire sociale-démocrate prolongé jusqu'à dimanche 18h après une..."
-      },
-      {
-        "title": "Primaire de la gauche : Perturbé par une cyberattaque, le vote prolongé jusqu’à dimanche soir",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-10-09T19:04:37.000Z",
-        "link": "https://www.20minutes.fr/politique/4252996-20261009-primaire-gauche-perturbe-cyberattaque-vote-prolonge-jusqu-dimanche-soir?at_medium=display&at_campaign=149",
-        "score": 93,
-        "summary": "Point de situation critique concernant : Primaire de la gauche : Perturbé par une cyberattaque, le vote prolongé jusqu’à ..."
-      },
+        "title": "Vols, escroqueries : ils traquent eux-mêmes les malfaiteurs",
+        "source": "https://www.franceinfo.fr/faits-divers.rss",
+        "time": "2026-10-11T18:55:25.000Z",
+        "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/vols-escroqueries-ils-traquent-eux-memes-les-malfaiteurs_8232994.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 97,
+        "summary": "ils traquent eux-mêmes les malfaiteurs"
+      }
+    ],
+    "summary": "Vols, escroqueries : ils traquent eux-mêmes les malfaiteurs"
+  },
+  {
+    "title": "Primaire de la gauche : la plateforme piratée, le vote prolongé",
+    "score": 93,
+    "count": 3,
+    "sources": [
+      "https://www.francetvinfo.fr/politique.rss",
+      "https://www.bfmtv.com/rss/politique/",
+      "Le Monde Informatique"
+    ],
+    "items": [
       {
         "title": "Primaire de la gauche : la plateforme piratée, le vote prolongé",
         "source": "https://www.francetvinfo.fr/politique.rss",
@@ -385,31 +231,15 @@
         "summary": "Point de situation critique concernant : Le vote de la primaire à gauche prolongé jusqu'à dimanche 18h après une cyberatt..."
       },
       {
-        "title": "Primaire à gauche : dans les sections locales, les militants mobilisés pour rassurer les votants après la cyberattaque",
-        "source": "https://www.lemonde.fr/politique/rss_full.xml",
-        "time": "2026-10-10T22:15:33.000Z",
-        "link": "https://www.lemonde.fr/politique/article/2026/10/11/primaire-a-gauche-dans-les-sections-locales-les-militants-mobilises-pour-offrir-un-cadre-rassurant_6791094_823448.html",
-        "score": 93,
-        "summary": "Point de situation critique concernant : Primaire à gauche : dans les sections locales, les militants mobilisés pour rass..."
-      },
-      {
-        "title": "Cyberattaque contre la primaire du PS : \"On sait qu'il y a une volonté d'ingérence pour nous pousser vers les extrêmes, notamment l'extrême droite\", estime Agnès Pannier-Runacher",
-        "source": "https://www.francetvinfo.fr/politique.rss",
-        "time": "2026-10-11T10:45:38.000Z",
-        "link": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/cyberattaque-contre-la-primaire-du-ps-on-sait-qu-il-y-a-une-volonte-d-ingerence-pour-nous-pousser-vers-les-extremes-notamment-l-extreme-droite-estime-agnes-pannier-runacher_8232571.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 93,
-        "summary": "\"On sait qu'il y a une volonté d'ingérence pour nous pousser vers les extrêmes, notamment l'extrême droite\", estime Agnès Pannier-Runacher"
-      },
-      {
         "title": "[CYBER] La plateforme de vote en ligne pour la primaire de gauche, victime d'une cyberattaque",
         "source": "Le Monde Informatique",
-        "time": "2026-10-11T14:51:00.604Z",
+        "time": "2026-10-11T20:08:29.773Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-la-plateforme-de-vote-en-ligne-pour-la-primaire-de-gauche-victime-d-une-cyberattaque-100845.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] La plateforme de vote en ligne pour la primaire de gauche, victime d'une..."
       }
     ],
-    "summary": "La plateforme de vote pour la primaire de la gauche \"victime d'une cyberattaque\", le scrutin prolongé jusqu'à dimanche à 18 heures, annonce la commission d'organisation / Primaire de la gauche : le vote prolongé jusqu’à dimanche 18 heures après une cyberattaque"
+    "summary": "Primaire de la gauche : la plateforme piratée, le vote prolongé / Le vote de la primaire à gauche prolongé jusqu'à dimanche 18h après une cyberattaque"
   },
   {
     "title": "Un site de la Caisse d’allocations familiales piraté : 1,2 million de fichiers de bénéficiaires volés",
@@ -422,7 +252,7 @@
       {
         "title": "Un site de la Caisse d’allocations familiales piraté : 1,2 million de fichiers de bénéficiaires volés",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-11T14:51:44.255Z",
+        "time": "2026-10-11T20:10:01.919Z",
         "link": "https://www.leparisien.fr/high-tech/le-site-de-la-caisse-dallocations-familiales-pirate-12-million-de-fichiers-de-beneficiaires-voles-10-10-2026-GCGID3FSPJG4HPBGZFUIU434TM.php",
         "score": 93,
         "summary": "Point de situation critique concernant : Un site de la Caisse d’allocations familiales piraté : 1,2 million de fichiers d..."
@@ -433,9 +263,10 @@
   {
     "title": "Cyberattaque contre le site de la primaire sociale-démocrate: le parquet de Paris ouvre une enquête",
     "score": 93,
-    "count": 1,
+    "count": 2,
     "sources": [
-      "https://www.bfmtv.com/rss/politique/"
+      "https://www.bfmtv.com/rss/politique/",
+      "https://www.francetvinfo.fr/politique.rss"
     ],
     "items": [
       {
@@ -445,28 +276,36 @@
         "link": "https://www.bfmtv.com/politique/elections/presidentielle/cyberattaque-contre-le-site-de-la-primaire-sociale-democrate-le-parquet-de-paris-ouvre-une-enquete_AN-202610100317.html",
         "score": 93,
         "summary": "Point de situation critique concernant : Cyberattaque contre le site de la primaire sociale-démocrate: le parquet de Pari..."
+      },
+      {
+        "title": "Cyberattaque contre la primaire du PS : \"On sait qu'il y a une volonté d'ingérence pour nous pousser vers les extrêmes, notamment l'extrême droite\", estime Agnès Pannier-Runacher",
+        "source": "https://www.francetvinfo.fr/politique.rss",
+        "time": "2026-10-11T10:45:38.000Z",
+        "link": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/cyberattaque-contre-la-primaire-du-ps-on-sait-qu-il-y-a-une-volonte-d-ingerence-pour-nous-pousser-vers-les-extremes-notamment-l-extreme-droite-estime-agnes-pannier-runacher_8232571.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 93,
+        "summary": "\"On sait qu'il y a une volonté d'ingérence pour nous pousser vers les extrêmes, notamment l'extrême droite\", estime Agnès Pannier-Runacher"
       }
     ],
-    "summary": "Cyberattaque contre le site de la primaire sociale-démocrate: le parquet de Paris ouvre une enquête"
+    "summary": "Cyberattaque contre le site de la primaire sociale-démocrate: le parquet de Paris ouvre une enquête / Cyberattaque contre la primaire du PS : \"On sait qu'il y a une volonté d'ingérence pour nous pousser vers les extrêmes, notamment l'extrême droite\", estime Agnès Pannier-Runacher"
   },
   {
-    "title": "Explosion de la rue de Trévise : les parties civiles finalement autorisées à suivre le procès via une webradio",
-    "score": 90,
+    "title": "Primaire à gauche : dans les sections locales, les militants mobilisés pour rassurer les votants après la cyberattaque",
+    "score": 93,
     "count": 1,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+      "https://www.lemonde.fr/politique/rss_full.xml"
     ],
     "items": [
       {
-        "title": "Explosion de la rue de Trévise : les parties civiles finalement autorisées à suivre le procès via une webradio",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-09T15:14:04.768Z",
-        "link": "https://www.leparisien.fr/faits-divers/explosion-de-la-rue-de-trevise-les-parties-civiles-finalement-autorisees-a-suivre-le-proces-via-une-webradio-06-10-2026-PBMBGAVSMZB6FPUA7BS4AYGL34.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Explosion de la rue de Trévise : les parties civiles finalement autorisées à sui..."
+        "title": "Primaire à gauche : dans les sections locales, les militants mobilisés pour rassurer les votants après la cyberattaque",
+        "source": "https://www.lemonde.fr/politique/rss_full.xml",
+        "time": "2026-10-10T22:15:33.000Z",
+        "link": "https://www.lemonde.fr/politique/article/2026/10/11/primaire-a-gauche-dans-les-sections-locales-les-militants-mobilises-pour-offrir-un-cadre-rassurant_6791094_823448.html",
+        "score": 93,
+        "summary": "Point de situation critique concernant : Primaire à gauche : dans les sections locales, les militants mobilisés pour rass..."
       }
     ],
-    "summary": "Explosion de la rue de Trévise : les parties civiles finalement autorisées à suivre le procès via une webradio"
+    "summary": "Primaire à gauche : dans les sections locales, les militants mobilisés pour rassurer les votants après la cyberattaque"
   },
   {
     "title": "Lycées bloqués, manifestations, violences… Comment la mobilisation s’est étendue",
@@ -536,7 +375,7 @@
       {
         "title": "Violences sexuelles : que prévoit la loi « intégrale » débattue à l’Assemblée ?",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-11T14:51:44.256Z",
+        "time": "2026-10-11T20:10:01.919Z",
         "link": "https://www.leparisien.fr/podcasts/code-source/violences-sexuelles-que-prevoit-la-loi-integrale-debattue-a-lassemblee-08-10-2026-QF7C4QEOJZHH5IDHQGIGGI6NCA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Violences sexuelles : que prévoit la loi « intégrale » débattue à l’Assemblée ?..."
@@ -555,7 +394,7 @@
       {
         "title": "« Justice a été rendue » : des peines allant de 10 à 22 ans de réclusion pour le meurtre de Johnnay à Champigny",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-11T14:51:44.256Z",
+        "time": "2026-10-11T20:10:01.919Z",
         "link": "https://www.leparisien.fr/faits-divers/justice-a-ete-rendue-des-peines-allant-de-10-a-22-ans-de-reclusion-pour-le-meurtre-de-johnnay-a-champigny-08-10-2026-P7MPAPS7SZHFHDUOJU4TO6YIBY.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Justice a été rendue » : des peines allant de 10 à 22 ans de réclusion pour le..."
@@ -574,7 +413,7 @@
       {
         "title": "Nice : une femme tuée de coups de couteau à la gorge, son conjoint interpellé",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-11T14:51:44.256Z",
+        "time": "2026-10-11T20:10:01.920Z",
         "link": "https://www.leparisien.fr/faits-divers/nice-une-femme-tuee-de-coups-de-couteau-a-la-gorge-son-conjoint-interpelle-08-10-2026-4ZR7OYXM6RBH5PFDT25J3VBNL4.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Nice : une femme tuée de coups de couteau à la gorge, son conjoint interpellé..."
@@ -593,7 +432,7 @@
       {
         "title": "Un étudiant en médecine légale s’inspire de la série « Dexter », tapisse la chambre de bâches en plastique et tue sauvagement une prostituée",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-11T14:51:44.256Z",
+        "time": "2026-10-11T20:10:01.920Z",
         "link": "https://www.leparisien.fr/faits-divers/un-etudiant-en-medecine-legale-sinspire-de-la-serie-dexter-tapisse-la-chambre-de-baches-en-plastique-et-tue-sauvagement-une-prostituee-08-10-2026-NE36TIT3TJEK7NKU5VMRFTAVCA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Un étudiant en médecine légale s’inspire de la série « Dexter », tapisse la cham..."
@@ -612,7 +451,7 @@
       {
         "title": "« Faut arrêter de tout mettre sur la fratrie » : les vérités de Yaya D., soupçonné d’avoir régné sur le trafic de drogue à Grigny",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-11T14:51:44.256Z",
+        "time": "2026-10-11T20:10:01.920Z",
         "link": "https://www.leparisien.fr/faits-divers/faut-arreter-de-tout-mettre-sur-la-fratrie-les-verites-de-yaya-d-soupconne-davoir-regne-sur-le-trafic-de-drogue-a-grigny-08-10-2026-Y56MLWN2ZJFP5E6KBQVEXX2HHE.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Faut arrêter de tout mettre sur la fratrie » : les vérités de Yaya D., soupçon..."
@@ -631,7 +470,7 @@
       {
         "title": "Prostituées exploitées, clients rackettés... Un réseau de proxénétisme « violent » démantelé dans le Nord, une mineure de 13 ans parmi les victimes",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-11T14:51:44.256Z",
+        "time": "2026-10-11T20:10:01.920Z",
         "link": "https://www.leparisien.fr/faits-divers/prostituees-exploitees-clients-rackettes-un-reseau-de-proxenetisme-violent-demantele-dans-le-nord-une-mineure-de-13-ans-parmi-les-victimes-08-10-2026-XKRLVLCEE5HLVLNMLK3QOGLPBU.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Prostituées exploitées, clients rackettés... Un réseau de proxénétisme « violent..."
@@ -650,7 +489,7 @@
       {
         "title": "Meurtre d’Eyoub à Aulnay-sous-Bois : le parcours chaotique de Mathurin, « voyou dans l’âme », l’un des accusés aux assises",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-11T14:51:44.256Z",
+        "time": "2026-10-11T20:10:01.919Z",
         "link": "https://www.leparisien.fr/seine-saint-denis-93/meurtre-deyoub-a-aulnay-sous-bois-le-parcours-chaotique-de-mathurin-voyou-dans-lame-lun-des-accuses-aux-assises-08-10-2026-O2CBNKO73FEWPBF2XV66COHO34.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Meurtre d’Eyoub à Aulnay-sous-Bois : le parcours chaotique de Mathurin, « voyou ..."
@@ -669,7 +508,7 @@
       {
         "title": "« Aucun coup intentionnel » : l’ex-coach de kayak jugé pour des violences sur des policiers après une médaille d’or aux JO",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-11T14:51:44.256Z",
+        "time": "2026-10-11T20:10:01.919Z",
         "link": "https://www.leparisien.fr/faits-divers/aucun-coup-intentionnel-lex-coach-de-kayak-juge-pour-des-violences-sur-des-policiers-apres-une-medaille-dor-aux-jo-08-10-2026-YZ5ZDOTWVJGQFOZKPFYLP2BEFY.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Aucun coup intentionnel » : l’ex-coach de kayak jugé pour des violences sur de..."
@@ -688,7 +527,7 @@
       {
         "title": "Nice : douze enfants d’un centre de loisirs concernés par l’enquête sur l’animateur soupçonné de viols et d’agressions sexuelles",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-11T14:51:44.256Z",
+        "time": "2026-10-11T20:10:01.919Z",
         "link": "https://www.leparisien.fr/faits-divers/nice-douze-enfants-dun-centre-de-loisirs-concernes-par-lenquete-sur-lanimateur-soupconne-de-viols-et-dagressions-sexuelles-08-10-2026-GQOMWDG5IZBWPKXWXYSJWRR66M.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Nice : douze enfants d’un centre de loisirs concernés par l’enquête sur l’animat..."
@@ -707,7 +546,7 @@
       {
         "title": "« La justice est devenue une loterie » : le spectaculaire alourdissement des peines en appel dans les attentats de Trèbes",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-11T14:51:44.256Z",
+        "time": "2026-10-11T20:10:01.919Z",
         "link": "https://www.leparisien.fr/faits-divers/la-justice-est-devenue-une-loterie-le-spectaculaire-alourdissement-des-peines-en-appel-dans-les-attentats-de-trebes-08-10-2026-WPOR3VLNIZAODPT6BLWOU3TRMQ.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « La justice est devenue une loterie » : le spectaculaire alourdissement des pei..."
@@ -726,7 +565,7 @@
       {
         "title": "Lyon : un jeune homme tué à coups de poignard après une rixe, le suspect en fuite",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-11T14:51:44.256Z",
+        "time": "2026-10-11T20:10:01.919Z",
         "link": "https://www.leparisien.fr/faits-divers/lyon-un-jeune-homme-tue-a-coups-de-poignard-apres-une-rixe-le-suspect-en-fuite-08-10-2026-OUU5TDMNZBAXDDTPD7OQ34NMTM.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Lyon : un jeune homme tué à coups de poignard après une rixe, le suspect en fuit..."
@@ -745,7 +584,7 @@
       {
         "title": "Tuée et démembrée par son ex-belle-famille : au procès, les détails glaçants du meurtre de l’influenceuse hongkongaise Abby Choi",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-11T14:51:44.256Z",
+        "time": "2026-10-11T20:10:01.919Z",
         "link": "https://www.leparisien.fr/faits-divers/tuee-et-demembree-par-son-ex-belle-famille-au-proces-les-details-glacants-du-meurtre-de-linfluenceuse-hongkongaise-abby-choi-08-10-2026-47SKAPEAKJHSNNR3ZO7RZM2EJE.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Tuée et démembrée par son ex-belle-famille : au procès, les détails glaçants du ..."
@@ -756,21 +595,30 @@
   {
     "title": "Paris : un dealer présumé retrouvé mort étranglé dans le XIXe arrondissement, un suspect mis en examen",
     "score": 90,
-    "count": 1,
+    "count": 2,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "https://www.sudouest.fr/faits-divers/rss.xml"
     ],
     "items": [
       {
         "title": "Paris : un dealer présumé retrouvé mort étranglé dans le XIXe arrondissement, un suspect mis en examen",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-11T14:51:44.255Z",
+        "time": "2026-10-11T20:10:01.919Z",
         "link": "https://www.leparisien.fr/faits-divers/paris-un-dealer-presume-retrouve-mort-etrangle-dans-le-xixe-arrondissement-un-suspect-mis-en-examen-09-10-2026-3GNWWUYIOBEIZL5SV4CJASZTUA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Paris : un dealer présumé retrouvé mort étranglé dans le XIXe arrondissement, un..."
+      },
+      {
+        "title": "Gironde : un suspect mis en examen pour meurtre après la mort par balle d’un adolescent à Saint-Louis-de-Montferrand",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-10-11T18:14:09.000Z",
+        "link": "https://www.sudouest.fr/gironde/saint-louis-de-montferrand/gironde-un-suspect-mis-en-examen-pour-meurtre-apres-la-mort-par-balle-d-un-adolescent-a-saint-louis-de-montferrand-31026471.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Gironde : un suspect mis en examen pour meurtre après la mort par balle d’un ado..."
       }
     ],
-    "summary": "Paris : un dealer présumé retrouvé mort étranglé dans le XIXe arrondissement, un suspect mis en examen"
+    "summary": "Paris : un dealer présumé retrouvé mort étranglé dans le XIXe arrondissement, un suspect mis en examen / Gironde : un suspect mis en examen pour meurtre après la mort par balle d’un adolescent à Saint-Louis-de-Montferrand"
   },
   {
     "title": "Un faux client tchatcheur, un chauffeur et trois cagoulés… La bande dépouillait les prostituées à Asnières et Courbevoie",
@@ -783,7 +631,7 @@
       {
         "title": "Un faux client tchatcheur, un chauffeur et trois cagoulés… La bande dépouillait les prostituées à Asnières et Courbevoie",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-11T14:51:44.255Z",
+        "time": "2026-10-11T20:10:01.919Z",
         "link": "https://www.leparisien.fr/hauts-de-seine-92/un-faux-client-tchatcheur-un-chauffeur-et-trois-cagoules-la-bande-depouillait-les-prostituees-a-asnieres-et-courbevoie-09-10-2026-DZ4M7S7EUBEGDE2OB6KBE6C3RY.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Un faux client tchatcheur, un chauffeur et trois cagoulés… La bande dépouillait ..."
@@ -802,7 +650,7 @@
       {
         "title": "Tué de quatre balles dans la tête : qui en veut au chirurgien plastique de Marbella exécuté dans sa clinique ?",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-11T14:51:44.256Z",
+        "time": "2026-10-11T20:10:01.919Z",
         "link": "https://www.leparisien.fr/faits-divers/tue-de-quatre-balles-dans-la-tete-qui-en-veut-au-chirurgien-plastique-de-marbella-execute-dans-sa-clinique-09-10-2026-4F3V5IX2UNFOPNVA7DRSES7M2E.php",
         "score": 90,
         "summary": "qui en veut au chirurgien plastique de Marbella exécuté dans sa clinique ?"
@@ -821,7 +669,7 @@
       {
         "title": "« Tentatives d’homicides volontaires » : ce que l’on sait de l’incendie d’un poste de police à Bordeaux en marge de la mobilisation lycéenne",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-11T14:51:44.255Z",
+        "time": "2026-10-11T20:10:01.919Z",
         "link": "https://www.leparisien.fr/gironde-33/tentatives-dhomicides-volontaires-ce-que-lon-sait-de-lincendie-dun-poste-de-police-a-bordeaux-en-marge-de-la-mobilisation-lyceenne-10-10-2026-U5G33Y7VDFFDXLAOBTLVKBUTTI.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Tentatives d’homicides volontaires » : ce que l’on sait de l’incendie d’un pos..."
@@ -840,7 +688,7 @@
       {
         "title": "Femme retrouvée dans un congélateur à Grigny : accusé du meurtre d’Armale, Yacine A. plaide le tir « par accident »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-11T14:51:44.256Z",
+        "time": "2026-10-11T20:10:01.919Z",
         "link": "https://www.leparisien.fr/faits-divers/femme-retrouvee-dans-un-congelateur-a-grigny-accuse-du-meurtre-darmale-yacine-a-plaide-le-tir-par-accident-09-10-2026-EP75RCVSZZEVDE2TKVUBFINW64.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Femme retrouvée dans un congélateur à Grigny : accusé du meurtre d’Armale, Yacin..."
@@ -859,7 +707,7 @@
       {
         "title": "Paris : le prédateur du bois de Boulogne suspecté d’avoir violé douze femmes transgenres sous la menace d’une arme",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-11T14:51:44.256Z",
+        "time": "2026-10-11T20:10:01.919Z",
         "link": "https://www.leparisien.fr/faits-divers/paris-le-predateur-du-bois-de-boulogne-suspecte-davoir-viole-douze-femmes-transgenres-sous-la-menace-dune-arme-09-10-2026-4A2TXOCVDVD5NG2TD5TRT2N2R4.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Paris : le prédateur du bois de Boulogne suspecté d’avoir violé douze femmes tra..."
@@ -878,7 +726,7 @@
       {
         "title": "Yvelines : une femme retrouvée morte après l’incendie de son appartement aux Mureaux",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-11T14:51:44.256Z",
+        "time": "2026-10-11T20:10:01.919Z",
         "link": "https://www.leparisien.fr/yvelines-78/yvelines-une-femme-retrouvee-morte-apres-lincendie-de-son-appartement-aux-mureaux-09-10-2026-BVU7PP32VVHIVF6TUOTIMJ6N7I.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Yvelines : une femme retrouvée morte après l’incendie de son appartement aux Mur..."
@@ -897,7 +745,7 @@
       {
         "title": "Deux ans après le meurtre de trois surfeurs étrangers au Mexique, retrouvés au fond d’un puits, leurs trois bourreaux devant la justice",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-11T14:51:44.256Z",
+        "time": "2026-10-11T20:10:01.919Z",
         "link": "https://www.leparisien.fr/faits-divers/deux-ans-apres-le-meurtre-de-trois-surfeurs-etrangers-au-mexique-retrouves-au-fond-dun-puits-leurs-trois-bourreaux-devant-la-justice-09-10-2026-PZEHWWKQRZCTFNUNYP7C4DCVSU.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Deux ans après le meurtre de trois surfeurs étrangers au Mexique, retrouvés au f..."
@@ -916,7 +764,7 @@
       {
         "title": "Dix morts, dont un mineur en visite, lors d’une violente rixe par armes à feu dans une prison au Mexique",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-11T14:51:44.256Z",
+        "time": "2026-10-11T20:10:01.919Z",
         "link": "https://www.leparisien.fr/faits-divers/dix-morts-dont-un-mineur-en-visite-lors-dune-violente-rixe-par-armes-a-feu-dans-une-prison-au-mexique-09-10-2026-YICX4IGJQNDUNPJEVSHWW2FWNQ.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Dix morts, dont un mineur en visite, lors d’une violente rixe par armes à feu da..."
@@ -973,7 +821,7 @@
       {
         "title": "Côte-d’Or : 12 arrestations pour deux assassinats en lien avec le narcotrafic",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-11T14:51:44.255Z",
+        "time": "2026-10-11T20:10:01.919Z",
         "link": "https://www.leparisien.fr/cote-d-or-21/cote-dor-12-arrestations-pour-deux-assassinats-en-lien-avec-le-narcotrafic-10-10-2026-XV4IDQPA4RHHVGSM5YEFVMI6CE.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Côte-d’Or : 12 arrestations pour deux assassinats en lien avec le narcotrafic..."
@@ -992,7 +840,7 @@
       {
         "title": "Meurtre d’un octogénaire britannique dans le Gers : deux hommes mis en examen et placés en détention",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-11T14:51:44.255Z",
+        "time": "2026-10-11T20:10:01.919Z",
         "link": "https://www.leparisien.fr/faits-divers/meurtre-dun-octogenaire-britannique-dans-le-gers-deux-hommes-mis-en-examen-et-places-en-detention-10-10-2026-GOR3DMSYQ5CMBOME5WB6L6ZALA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Meurtre d’un octogénaire britannique dans le Gers : deux hommes mis en examen et..."
@@ -1011,7 +859,7 @@
       {
         "title": "Attentat déjoué contre la Bank of America à Paris : comment le FBI relie l’Iran à des ados de Montreuil",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-11T14:51:44.255Z",
+        "time": "2026-10-11T20:10:01.919Z",
         "link": "https://www.leparisien.fr/faits-divers/attentat-dejoue-contre-la-bank-of-america-a-paris-comment-le-fbi-relie-liran-a-des-ados-de-montreuil-11-10-2026-X3U5URGJOZBYNDSYP2L74OMQSI.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Attentat déjoué contre la Bank of America à Paris : comment le FBI relie l’Iran ..."
@@ -1022,21 +870,30 @@
   {
     "title": "« Il a mis sa main entre mes jambes » : une femme accuse un policier d’agression sexuelle pendant la mobilisation lycéenne à Paris",
     "score": 90,
-    "count": 1,
+    "count": 2,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "https://www.sudouest.fr/faits-divers/rss.xml"
     ],
     "items": [
       {
         "title": "« Il a mis sa main entre mes jambes » : une femme accuse un policier d’agression sexuelle pendant la mobilisation lycéenne à Paris",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-11T14:51:44.255Z",
+        "time": "2026-10-11T20:10:01.919Z",
         "link": "https://www.leparisien.fr/faits-divers/il-a-mis-sa-main-entre-mes-jambes-une-femme-accuse-un-policier-dagression-sexuelle-pendant-la-mobilisation-lyceenne-a-paris-11-10-2026-7LXZHKPAYVGQPLIOHY5Z4ZE2XU.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Il a mis sa main entre mes jambes » : une femme accuse un policier d’agression..."
+      },
+      {
+        "title": "Mouvement lycéen : il « a mis sa main entre mes jambes et a frotté fort dessus », une femme accuse un policier d’agression sexuelle",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-10-11T08:22:07.000Z",
+        "link": "https://www.sudouest.fr/politique/education/mouvement-lyceen-il-a-mis-sa-main-entre-mes-jambes-et-a-frotte-fort-dessus-une-femme-accuse-un-policier-d-agression-sexuelle-31018412.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Mouvement lycéen : il « a mis sa main entre mes jambes et a frotté fort dessus »..."
       }
     ],
-    "summary": "« Il a mis sa main entre mes jambes » : une femme accuse un policier d’agression sexuelle pendant la mobilisation lycéenne à Paris"
+    "summary": "« Il a mis sa main entre mes jambes » : une femme accuse un policier d’agression sexuelle pendant la mobilisation lycéenne à Paris / Mouvement lycéen : il « a mis sa main entre mes jambes et a frotté fort dessus », une femme accuse un policier d’agression sexuelle"
   },
   {
     "title": "Le lycéen amputé d’une main à Lens « dément avoir ramassé la grenade » et « nie toute participation à des violences », affirme son avocate",
@@ -1096,6 +953,71 @@
     "summary": "Mouvement des lycéens et réponse policière, loi \"intégrale\" contre les violences sexistes et sexuelles... Le \"8h30 franceinfo\" de Clémentine Autain"
   },
   {
+    "title": "Mobilisation des lycéens : le vrai ou faux junior vérifie deux vidéos de violences en marge des blocages",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://www.franceinfo.fr/faits-divers.rss"
+    ],
+    "items": [
+      {
+        "title": "Mobilisation des lycéens : le vrai ou faux junior vérifie deux vidéos de violences en marge des blocages",
+        "source": "https://www.franceinfo.fr/faits-divers.rss",
+        "time": "2026-10-10T16:00:03.000Z",
+        "link": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux-junior/mobilisation-des-lyceens-le-vrai-ou-faux-junior-verifie-deux-videos-de-violences-en-marge-des-blocages_8210414.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Mobilisation des lycéens : le vrai ou faux junior vérifie deux vidéos de violenc..."
+      }
+    ],
+    "summary": "Mobilisation des lycéens : le vrai ou faux junior vérifie deux vidéos de violences en marge des blocages"
+  },
+  {
+    "title": "VIDEO. \"Affaires sensibles\". Chute en montagne, mauvaise rencontre ou disparition volontaire? Qu'est-il arrivé à Julie Michel, introuvable depuis juillet 2013 ?",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://www.franceinfo.fr/faits-divers.rss"
+    ],
+    "items": [
+      {
+        "title": "VIDEO. \"Affaires sensibles\". Chute en montagne, mauvaise rencontre ou disparition volontaire? Qu'est-il arrivé à Julie Michel, introuvable depuis juillet 2013 ?",
+        "source": "https://www.franceinfo.fr/faits-divers.rss",
+        "time": "2026-10-10T10:12:06.000Z",
+        "link": "https://www.franceinfo.fr/replay-magazine/france-2/affaires-sensibles/video-affaires-sensibles-chute-en-montagne-mauvaise-rencontre-ou-disparition-volontaire-qu-est-il-arrive-a-julie-michel-introuvable-depuis-juillet-2013_8229643.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 90,
+        "summary": "Point de situation critique concernant : VIDEO. \"Affaires sensibles\". Chute en montagne, mauvaise rencontre ou disparitio..."
+      }
+    ],
+    "summary": "VIDEO. \"Affaires sensibles\". Chute en montagne, mauvaise rencontre ou disparition volontaire? Qu'est-il arrivé à Julie Michel, introuvable depuis juillet 2013 ?"
+  },
+  {
+    "title": "Décès de Clément, 16 ans, tué dans un accident de la route dans les Landes : le procès du chauffard alcoolisé se tient ce lundi 12 octobre, au tribunal de Dax",
+    "score": 90,
+    "count": 2,
+    "sources": [
+      "https://www.sudouest.fr/faits-divers/rss.xml"
+    ],
+    "items": [
+      {
+        "title": "Décès de Clément, 16 ans, tué dans un accident de la route dans les Landes : le procès du chauffard alcoolisé se tient ce lundi 12 octobre, au tribunal de Dax",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-10-11T17:00:00.000Z",
+        "link": "https://www.sudouest.fr/landes/angresse/deces-de-clement-16-ans-tue-dans-un-accident-de-la-route-dans-les-landes-le-proces-du-chauffard-alcoolise-se-tient-ce-lundi-12-octobre-au-tribunal-de-dax-30997480.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Décès de Clément, 16 ans, tué dans un accident de la route dans les Landes : le ..."
+      },
+      {
+        "title": "Un « dossier Cluedo » : un maçon rejugé en appel dès lundi à Paris pour un assassinat au mobile mystérieux commis dans le Loiret en 2019",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-10-11T09:32:15.000Z",
+        "link": "https://www.sudouest.fr/justice/un-dossier-cluedo-un-macon-rejuge-en-appel-des-lundi-a-paris-pour-un-assassinat-au-mobile-mysterieux-commis-dans-le-loiret-en-2019-31019191.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Un « dossier Cluedo » : un maçon rejugé en appel dès lundi à Paris pour un assas..."
+      }
+    ],
+    "summary": "Décès de Clément, 16 ans, tué dans un accident de la route dans les Landes : le procès du chauffard alcoolisé se tient ce lundi 12 octobre, au tribunal de Dax / Un « dossier Cluedo » : un maçon rejugé en appel dès lundi à Paris pour un assassinat au mobile mystérieux commis dans le Loiret en 2019"
+  },
+  {
     "title": "[CYBER] Bercy resserre les garde-fous autour des technologies stratégiques",
     "score": 90,
     "count": 1,
@@ -1106,7 +1028,7 @@
       {
         "title": "[CYBER] Bercy resserre les garde-fous autour des technologies stratégiques",
         "source": "Le Monde Informatique",
-        "time": "2026-10-11T14:51:20.325Z",
+        "time": "2026-10-11T20:08:52.805Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-bercy-resserre-les-garde-fous-autour-des-technologies-strategiques-100819.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Bercy resserre les garde-fous autour des technologies stratégiques..."
@@ -1125,7 +1047,7 @@
       {
         "title": "[CYBER] Les techniciens et Trump signent un accord sur la loi sur l'IA",
         "source": "Le Monde Informatique",
-        "time": "2026-10-11T14:51:18.338Z",
+        "time": "2026-10-11T20:08:50.349Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-les-geants-de-la-tech-et-trump-signent-un-accord-sur-la-securite-de-l-ia-100826.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les techniciens et Trump signent un accord sur la loi sur l'IA..."
@@ -1144,7 +1066,7 @@
       {
         "title": "[CYBER] Le gendarme de la cybersecurité a sauvé le pirate.",
         "source": "Le Monde Informatique",
-        "time": "2026-10-11T14:51:13.878Z",
+        "time": "2026-10-11T20:08:45.189Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-anssi-le-gendarme-de-la-cybersecurite-francais-pirate-100833.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le gendarme de la cybersecurité a sauvé le pirate...."
@@ -1163,7 +1085,7 @@
       {
         "title": "[CYBER] Microsoft a mis en place une aide à l'IA pour les attaques",
         "source": "Le Monde Informatique",
-        "time": "2026-10-11T14:51:16.028Z",
+        "time": "2026-10-11T20:08:47.657Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-microsoft-pointe-la-montee-en-puissance-des-attaques-assistees-par-l-ia-100829.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Microsoft a mis en place une aide à l'IA pour les attaques..."
@@ -1182,7 +1104,7 @@
       {
         "title": "[CYBER] Les entreprises qui passent la frontière en 2026",
         "source": "Le Monde Informatique",
-        "time": "2026-10-11T14:51:08.240Z",
+        "time": "2026-10-11T20:08:38.694Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-cybersecurite-en-2026-les-entreprises-passent-de-la-defense-a-la-resilience-100839.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les entreprises qui passent la frontière en 2026..."
@@ -1201,7 +1123,7 @@
       {
         "title": "[CYBER] Mistral d'équipement de grande taille 4, un mod le plus de 1 000 milliards de paramètres",
         "source": "Le Monde Informatique",
-        "time": "2026-10-11T14:51:11.568Z",
+        "time": "2026-10-11T20:08:42.527Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-mistral-devoile-large-4-un-modele-a-plus-de-1-000-milliards-de-parametres-100838.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Mistral d'équipement de grande taille 4, un mod le plus de 1 000 milliar..."
@@ -1220,7 +1142,7 @@
       {
         "title": "[CYBER] La confiance dans la richesse: les entreprises qui respectent la loi et la conformité",
         "source": "Le Monde Informatique",
-        "time": "2026-10-11T14:51:06.671Z",
+        "time": "2026-10-11T20:08:36.824Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-confiance-numerique-les-entreprises-francaises-privilegient-la-securite-et-la-conformite-100840.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] La confiance dans la richesse: les entreprises qui respectent la loi et ..."
@@ -1239,7 +1161,7 @@
       {
         "title": "[CYBER] D tecteur d'IA: ouvre Google SynthID Detector au grand public",
         "source": "Le Monde Informatique",
-        "time": "2026-10-11T14:51:03.006Z",
+        "time": "2026-10-11T20:08:32.531Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-detecteur-d-ia-google-ouvre-synthid-detector-au-grand-public-100842.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] D tecteur d'IA: ouvre Google SynthID Detector au grand public..."
@@ -1258,7 +1180,7 @@
       {
         "title": "[CYBER] Le muscle orange offre SecNumCloud",
         "source": "Le Monde Informatique",
-        "time": "2026-10-11T14:51:04.197Z",
+        "time": "2026-10-11T20:08:33.929Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-orange-muscle-son-offre-secnumcloud-100841.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le muscle orange offre SecNumCloud..."
