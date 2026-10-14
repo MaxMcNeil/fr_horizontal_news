@@ -1,24 +1,5 @@
 [
   {
-    "title": "Meurtre de Joey, 29 ans, près de la gare de Cesson : ses meurtriers condamnés jusqu’à 25 ans par la cour d’assises spéciale",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Meurtre de Joey, 29 ans, près de la gare de Cesson : ses meurtriers condamnés jusqu’à 25 ans par la cour d’assises spéciale",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-12T05:32:32.817Z",
-        "link": "https://www.leparisien.fr/seine-et-marne-77/mort-de-joey-a-cesson-ses-meurtriers-condamnes-a-25-ans-de-reclusion-criminelle-08-10-2026-J74XAWOZUFCAFARRX5SJPZVTIU.php",
-        "score": 97,
-        "summary": "ses meurtriers condamnés jusqu’à 25 ans par la cour d’assises spéciale"
-      }
-    ],
-    "summary": "Meurtre de Joey, 29 ans, près de la gare de Cesson : ses meurtriers condamnés jusqu’à 25 ans par la cour d’assises spéciale"
-  },
-  {
     "title": "Un homme mortellement poignardé à la sortie d’une boîte de nuit à Chilly-Mazarin, trois personnes en garde à vue",
     "score": 97,
     "count": 3,
@@ -38,7 +19,7 @@
       {
         "title": "Un homme tué à l’arme blanche lors d’une rixe à Toulouse, huit personnes en garde à vue",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-14T04:30:15.204Z",
+        "time": "2026-10-14T13:36:27.946Z",
         "link": "https://www.leparisien.fr/faits-divers/un-homme-tue-a-larme-blanche-lors-dune-rixe-a-toulouse-huit-personnes-en-garde-a-vue-12-10-2026-UYX4D6JD5FGQXDIVAAYZOU26SE.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Un homme tué à l’arme blanche lors d’une rixe à Toulouse, huit personnes en gard..."
@@ -57,7 +38,7 @@
   {
     "title": "« Un lourd contentieux » : Francis Lalanne condamné à six mois de prison avec sursis pour abandon de famille fait appel",
     "score": 97,
-    "count": 8,
+    "count": 7,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
       "https://www.sudouest.fr/faits-divers/rss.xml"
@@ -74,7 +55,7 @@
       {
         "title": "L’ex-coach de l’équipe olympique irlandaise de natation condamné à 15 ans de prison pour agressions sexuelles sur mineures",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-14T04:30:15.204Z",
+        "time": "2026-10-14T13:36:27.946Z",
         "link": "https://www.leparisien.fr/sports/natation/lex-coach-de-lequipe-olympique-irlandaise-de-natation-condamne-a-15-ans-de-prison-pour-agressions-sexuelles-sur-mineures-12-10-2026-F3DJMITABZABBN6USSHMLTIDMM.php",
         "score": 97,
         "summary": "Point de situation critique concernant : L’ex-coach de l’équipe olympique irlandaise de natation condamné à 15 ans de pri..."
@@ -86,14 +67,6 @@
         "link": "https://www.sudouest.fr/gironde/le-bouscat/pres-de-bordeaux-un-ecclesiastique-condamne-a-sept-ans-de-prison-ferme-pour-agressions-sexuelles-sur-mineurs-31033416.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Près de Bordeaux, un ecclésiastique condamné à sept ans de prison ferme pour agr..."
-      },
-      {
-        "title": "Agen : L’employé d’un caviste condamné pour le vol d’au moins 4 000 bouteilles de vin et de champagne depuis plusieurs années, avec un préjudice estimé à plus de 200 000 euros",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-10-12T10:39:03.000Z",
-        "link": "https://www.sudouest.fr/vin/agen-l-employe-d-un-caviste-condamne-pour-le-vol-d-au-moins-4-000-bouteilles-de-vin-et-de-champagne-depuis-plusieurs-annees-avec-un-prejudice-estime-a-plus-de-200-000-euros-31031396.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Agen : L’employé d’un caviste condamné pour le vol d’au moins 4 000 bouteilles d..."
       },
       {
         "title": "Landes. « Cette marée blanche envahit la France » : condamné à trois ans de prison pour avoir transporté plus de 22 kilos de cocaïne dans sa voiture",
@@ -114,7 +87,7 @@
       {
         "title": "Jura : un homme condamné à 19 ans de prison pour avoir violé et prostitué son fils",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-14T04:30:15.204Z",
+        "time": "2026-10-14T13:36:27.946Z",
         "link": "https://www.leparisien.fr/jura-39/jura-un-homme-condamne-a-19-ans-de-prison-pour-avoir-viole-et-prostitue-son-fils-13-10-2026-WKL5SP3OINBVHPNRMRDQPYZGLI.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Jura : un homme condamné à 19 ans de prison pour avoir violé et prostitué son fi..."
@@ -149,7 +122,7 @@
       {
         "title": "« Il y a une complicité passive » : après le scandale du périscolaire à Paris, ces parents portent plainte contre la mairie",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-14T04:30:15.204Z",
+        "time": "2026-10-14T13:36:27.946Z",
         "link": "https://www.leparisien.fr/paris-75/il-y-a-une-complicite-passive-apres-le-scandale-du-periscolaire-a-paris-ces-parents-portent-plainte-contre-la-mairie-12-10-2026-IWW2SJAZTBH6XGFA5VT3MGOZKA.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Il y a une complicité passive » : après le scandale du périscolaire à Paris, c..."
@@ -169,7 +142,7 @@
       {
         "title": "Mayenne : un gendarme placé en garde à vue après un tir mortel sur un forcené",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-14T04:30:15.204Z",
+        "time": "2026-10-14T13:36:27.946Z",
         "link": "https://www.leparisien.fr/faits-divers/mayenne-un-gendarme-place-en-garde-a-vue-apres-un-tir-mortel-sur-un-forcene-12-10-2026-DSVLU3CM5NHXLKR2JRX2ZIGF44.php",
         "score": 97,
         "summary": "un gendarme placé en garde à vue après un tir mortel sur un forcené"
@@ -177,7 +150,7 @@
       {
         "title": "Tir mortel sur un forcené en Mayenne : la garde à vue du gendarme levée",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-14T04:30:15.204Z",
+        "time": "2026-10-14T13:36:27.946Z",
         "link": "https://www.leparisien.fr/mayenne-53/tir-mortel-sur-un-forcene-en-mayenne-la-garde-a-vue-du-gendarme-levee-13-10-2026-LUMLAXFPY5ANJAPVHS4WSY3NZY.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Tir mortel sur un forcené en Mayenne : la garde à vue du gendarme levée..."
@@ -223,10 +196,9 @@
   {
     "title": "Aubagne : le principal d’un collège et une enseignante blessés par balles, les parents du tireur en garde à vue",
     "score": 97,
-    "count": 3,
+    "count": 2,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.cnews.fr/rss/categorie/faits%20divers",
       "https://www.lefigaro.fr/rss/figaro_actualites.xml"
     ],
     "items": [
@@ -239,14 +211,6 @@
         "summary": "le principal d’un collège et une enseignante blessés par balles, les parents du tireur en garde à vue"
       },
       {
-        "title": "Aubagne : principal et professeure blessés, élève interpellé, parents placés en garde à vue... Ce que l'on sait de l'attaque au fusil de chasse dans un collège de la ville",
-        "source": "https://www.cnews.fr/rss/categorie/faits%20divers",
-        "time": "2026-10-12T09:48:47.000Z",
-        "link": "https://www.cnews.fr/faits-divers/2026-10-12/aubagne-principal-blesse-professeure-touchee-eleve-interpelle-ce-que-lon",
-        "score": 97,
-        "summary": "principal et professeure blessés, élève interpellé, parents placés en garde à vue... Ce que l'on sait de l'attaque au fusil de chasse dans un collège de la ville"
-      },
-      {
         "title": "Principal et professeur blessés par balle à Aubagne : les deux parents du suspect placés en garde à vue",
         "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
         "time": "2026-10-12T21:33:14.000Z",
@@ -255,7 +219,7 @@
         "summary": "les deux parents du suspect placés en garde à vue"
       }
     ],
-    "summary": "Aubagne : le principal d’un collège et une enseignante blessés par balles, les parents du tireur en garde à vue / Aubagne : principal et professeure blessés, élève interpellé, parents placés en garde à vue... Ce que l'on sait de l'attaque au fusil de chasse dans un collège de la ville"
+    "summary": "Aubagne : le principal d’un collège et une enseignante blessés par balles, les parents du tireur en garde à vue / Principal et professeur blessés par balle à Aubagne : les deux parents du suspect placés en garde à vue"
   },
   {
     "title": "Mimi Marchand définitivement condamnée pour avoir fait chanter l'animatrice Karine Le Marchand",
@@ -315,61 +279,6 @@
     "summary": "Journalistes français otages de l’État islamique en 2013 : le Syrien Kaïs Al Abdallah condamné à vingt ans de réclusion criminelle"
   },
   {
-    "title": "Mort de Clément, 16 ans, tué dans les Landes. Le chauffard alcoolisé condamné à quatre ans de prison, la douleur de ses parents et de ses soeurs : revivez le procès qui s’est déroulé à Dax ",
-    "score": 97,
-    "count": 3,
-    "sources": [
-      "https://www.sudouest.fr/faits-divers/rss.xml",
-      "https://www.franceinfo.fr/faits-divers.rss"
-    ],
-    "items": [
-      {
-        "title": "Mort de Clément, 16 ans, tué dans les Landes. Le chauffard alcoolisé condamné à quatre ans de prison, la douleur de ses parents et de ses soeurs : revivez le procès qui s’est déroulé à Dax ",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-10-12T11:30:05.000Z",
-        "link": "https://www.sudouest.fr/justice/direct-deces-de-clement-16-ans-tue-dans-les-landes-suivez-le-proces-du-chauffard-a-dax-31033491.php",
-        "score": 97,
-        "summary": "revivez le procès qui s’est déroulé à Dax"
-      },
-      {
-        "title": "Clément, 16 ans, tué dans les Landes. « On a pu sentir leur peine, leur détresse, leur chagrin, et c’était irradiant, palpable » : le chauffard condamné à quatre ans de prison",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-10-12T18:03:03.000Z",
-        "link": "https://www.sudouest.fr/landes/dax/clement-16-ans-tue-dans-les-landes-on-a-pu-sentir-leur-peine-leur-detresse-leur-chagrin-et-c-etait-irradiant-palpable-le-chauffard-condamne-a-quatre-ans-de-prison-31039885.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Clément, 16 ans, tué dans les Landes. « On a pu sentir leur peine, leur détresse..."
-      },
-      {
-        "title": "Bretagne : après 53 cambriolages dans des campings, un homme condamné à cinq ans de prison",
-        "source": "https://www.franceinfo.fr/faits-divers.rss",
-        "time": "2026-10-13T21:09:51.000Z",
-        "link": "https://www.franceinfo.fr/faits-divers/bretagne-apres-53-cambriolages-dans-des-campings-un-homme-condamne-a-cinq-ans-de-prison_8236105.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Bretagne : après 53 cambriolages dans des campings, un homme condamné à cinq ans..."
-      }
-    ],
-    "summary": "Mort de Clément, 16 ans, tué dans les Landes. Le chauffard alcoolisé condamné à quatre ans de prison, la douleur de ses parents et de ses soeurs : revivez le procès qui s’est déroulé à Dax  / Clément, 16 ans, tué dans les Landes. « On a pu sentir leur peine, leur détresse, leur chagrin, et c’était irradiant, palpable » : le chauffard condamné à quatre ans de prison"
-  },
-  {
-    "title": "« Une escroquerie généralisée » : Forest automobile, un constructeur artisanal, a vendu une voiture jamais homologuée",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.sudouest.fr/faits-divers/rss.xml"
-    ],
-    "items": [
-      {
-        "title": "« Une escroquerie généralisée » : Forest automobile, un constructeur artisanal, a vendu une voiture jamais homologuée",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-10-12T09:31:57.000Z",
-        "link": "https://www.sudouest.fr/economie/auto-moto/une-escroquerie-generalisee-forest-automobile-un-constructeur-artisanal-a-vendu-un-vehicule-jamais-homologue-31031846.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : « Une escroquerie généralisée » : Forest automobile, un constructeur artisanal, ..."
-      }
-    ],
-    "summary": "« Une escroquerie généralisée » : Forest automobile, un constructeur artisanal, a vendu une voiture jamais homologuée"
-  },
-  {
     "title": "Affaire Libor-Euribor : tous les tradeurs autrefois condamnés, dont deux Français, sont blanchis",
     "score": 97,
     "count": 1,
@@ -408,7 +317,7 @@
       {
         "title": "Marseille : trois hommes condamnés à des peines de 12 à 20 ans de prison pour le rapt d’un jeune guetteur",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-14T04:30:15.204Z",
+        "time": "2026-10-14T13:36:27.946Z",
         "link": "https://www.leparisien.fr/faits-divers/marseille-trois-hommes-condamnes-a-des-peines-de-12-a-20-ans-de-prison-pour-le-rapt-dun-jeune-guetteur-13-10-2026-JZSVMCDDAFGW5MYD2E4CDTD57M.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Marseille : trois hommes condamnés à des peines de 12 à 20 ans de prison pour le..."
@@ -434,6 +343,43 @@
       }
     ],
     "summary": "Il faisait recopier des lignes à sa compagne : un septuagénaire condamné pour violences conjugales par le tribunal de Pau"
+  },
+  {
+    "title": "Clément, 16 ans, tué dans les Landes. « On a pu sentir leur peine, leur détresse, leur chagrin, et c’était irradiant, palpable » : le chauffard condamné à quatre ans de prison",
+    "score": 97,
+    "count": 3,
+    "sources": [
+      "https://www.sudouest.fr/faits-divers/rss.xml",
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "https://www.franceinfo.fr/faits-divers.rss"
+    ],
+    "items": [
+      {
+        "title": "Clément, 16 ans, tué dans les Landes. « On a pu sentir leur peine, leur détresse, leur chagrin, et c’était irradiant, palpable » : le chauffard condamné à quatre ans de prison",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-10-12T18:03:03.000Z",
+        "link": "https://www.sudouest.fr/landes/dax/clement-16-ans-tue-dans-les-landes-on-a-pu-sentir-leur-peine-leur-detresse-leur-chagrin-et-c-etait-irradiant-palpable-le-chauffard-condamne-a-quatre-ans-de-prison-31039885.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Clément, 16 ans, tué dans les Landes. « On a pu sentir leur peine, leur détresse..."
+      },
+      {
+        "title": "Ils piquent des chariots du centre commercial Val-d’Europe pour bloquer leur lycée et finissent en garde à vue",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-14T13:36:27.946Z",
+        "link": "https://www.leparisien.fr/seine-et-marne-77/blocus-des-lycees-5-jeunes-en-garde-a-vue-pour-avoir-emprunte-des-chariots-du-centre-commercial-val-deurope-13-10-2026-OMMHF3G5SRFGBNCNKKZHVFWGHY.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Ils piquent des chariots du centre commercial Val-d’Europe pour bloquer leur lyc..."
+      },
+      {
+        "title": "Bretagne : après 53 cambriolages dans des campings, un homme condamné à cinq ans de prison",
+        "source": "https://www.franceinfo.fr/faits-divers.rss",
+        "time": "2026-10-13T21:09:51.000Z",
+        "link": "https://www.franceinfo.fr/faits-divers/bretagne-apres-53-cambriolages-dans-des-campings-un-homme-condamne-a-cinq-ans-de-prison_8236105.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Bretagne : après 53 cambriolages dans des campings, un homme condamné à cinq ans..."
+      }
+    ],
+    "summary": "Clément, 16 ans, tué dans les Landes. « On a pu sentir leur peine, leur détresse, leur chagrin, et c’était irradiant, palpable » : le chauffard condamné à quatre ans de prison / Ils piquent des chariots du centre commercial Val-d’Europe pour bloquer leur lycée et finissent en garde à vue"
   },
   {
     "title": "Etats-Unis : Des perquisitions au domicile d’une élue démocrate d’origine somalienne, souffre-douleur de Trump",
@@ -466,7 +412,7 @@
       {
         "title": "Vingt ans après l’assassinat sauvage d’une ouvrière viticole près de Bordeaux, un suspect en garde à vue",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-14T04:30:15.204Z",
+        "time": "2026-10-14T13:36:27.946Z",
         "link": "https://www.leparisien.fr/faits-divers/vingt-ans-apres-lassassinat-sauvage-dune-ouvriere-viticole-pres-de-bordeaux-un-suspect-en-garde-a-vue-13-10-2026-ASJEK36J3BFXDFBXXRC3QOSFHM.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Vingt ans après l’assassinat sauvage d’une ouvrière viticole près de Bordeaux, u..."
@@ -505,7 +451,7 @@
       {
         "title": "Eure : l’acteur Francis Renaud placé en garde à vue pour « viol, violences et harcèlement »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-14T04:30:15.204Z",
+        "time": "2026-10-14T13:36:27.946Z",
         "link": "https://www.leparisien.fr/eure-27/eure-lacteur-francis-renaud-place-en-garde-a-vue-pour-viol-violences-et-harcelement-13-10-2026-FZSRGAV6OREHLDZYVDN6Y5J33M.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Eure : l’acteur Francis Renaud placé en garde à vue pour « viol, violences et ha..."
@@ -595,32 +541,13 @@
       {
         "title": "Affaire Cottineau : le père et une amie du pédocriminel et ex-assistant familial condamnés à Nantes",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-14T04:30:15.204Z",
+        "time": "2026-10-14T13:36:27.946Z",
         "link": "https://www.leparisien.fr/faits-divers/affaire-cottineau-le-pere-et-une-amie-du-pedocriminel-et-ex-assistant-familial-condamnes-a-nantes-13-10-2026-H6RIGGIHHJAORIVNOJFQU5Z4EY.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Affaire Cottineau : le père et une amie du pédocriminel et ex-assistant familial..."
       }
     ],
     "summary": "Affaire Pierre-Alain Cottineau : le père et une amie du pédocriminel condamnés pour avoir entravé l’enquête / Affaire Cottineau : le père et une amie du pédocriminel et ex-assistant familial condamnés à Nantes"
-  },
-  {
-    "title": "Blocus des lycées : 5 jeunes en garde à vue pour avoir « emprunté » des chariots du centre commercial Val-d’Europe",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Blocus des lycées : 5 jeunes en garde à vue pour avoir « emprunté » des chariots du centre commercial Val-d’Europe",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-14T04:30:15.204Z",
-        "link": "https://www.leparisien.fr/seine-et-marne-77/blocus-des-lycees-5-jeunes-en-garde-a-vue-pour-avoir-emprunte-des-chariots-du-centre-commercial-val-deurope-13-10-2026-OMMHF3G5SRFGBNCNKKZHVFWGHY.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Blocus des lycées : 5 jeunes en garde à vue pour avoir « emprunté » des chariots..."
-      }
-    ],
-    "summary": "Blocus des lycées : 5 jeunes en garde à vue pour avoir « emprunté » des chariots du centre commercial Val-d’Europe"
   },
   {
     "title": "« Il nie avoir dissimulé sa fortune » : Roman Abramovitch dément toute fraude fiscale, après une enquête de la BBC",
@@ -633,7 +560,7 @@
       {
         "title": "« Il nie avoir dissimulé sa fortune » : Roman Abramovitch dément toute fraude fiscale, après une enquête de la BBC",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-14T04:30:15.204Z",
+        "time": "2026-10-14T13:36:27.946Z",
         "link": "https://www.leparisien.fr/sports/football/il-nie-avoir-dissimule-sa-fortune-roman-abramovitch-dement-toute-fraude-fiscale-apres-une-enquete-de-la-bbc-13-10-2026-YQR4Y2VXORFJ7L7PGY65XKT2NA.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Il nie avoir dissimulé sa fortune » : Roman Abramovitch dément toute fraude fi..."
@@ -646,13 +573,13 @@
     "score": 97,
     "count": 2,
     "sources": [
-      "https://www.lemonde.fr/societe/rss_full.xml",
+      "https://www.lemonde.fr/justice/rss_full.xml",
       "https://www.challenges.fr/rss.xml"
     ],
     "items": [
       {
         "title": "Nucléaire : plusieurs entreprises perquisitionnées pour des soupçons d’entente et de corruption « au détriment d’EDF », annonce le Parquet national financier",
-        "source": "https://www.lemonde.fr/societe/rss_full.xml",
+        "source": "https://www.lemonde.fr/justice/rss_full.xml",
         "time": "2026-10-13T15:11:54.000Z",
         "link": "https://www.lemonde.fr/societe/article/2026/10/13/nucleaire-plusieurs-entreprises-perquisitionnees-pour-des-soupcons-d-entente-et-de-corruption-au-detriment-d-edf-annonce-le-parquet-national-financier_6793137_3224.html",
         "score": 97,
@@ -737,7 +664,7 @@
       {
         "title": "Micro chez OpenAI : un ingénieur saoudien arrêté et inculpé pour « interception de communications »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-14T04:30:15.204Z",
+        "time": "2026-10-14T13:36:27.946Z",
         "link": "https://www.leparisien.fr/faits-divers/micro-chez-openai-un-ingenieur-saoudien-arrete-et-inculpe-pour-interception-de-communications-14-10-2026-FEDHR6X63NEPHPZPSLCCJHVFN4.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Micro chez OpenAI : un ingénieur saoudien arrêté et inculpé pour « interception ..."
@@ -758,18 +685,18 @@
       {
         "title": "Meurtre de Tupac Shakur : un ex-membre de gang condamné à 40 ans de prison minimum",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-14T04:30:15.204Z",
+        "time": "2026-10-14T13:36:27.946Z",
         "link": "https://www.leparisien.fr/international/etats-unis/meurtre-de-tupac-shakur-un-ex-membre-de-gang-condamne-a-40-ans-de-prison-minimum-13-10-2026-CR6Y45LYVZG5PKXK34GFHP56KY.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Meurtre de Tupac Shakur : un ex-membre de gang condamné à 40 ans de prison minim..."
       },
       {
-        "title": "Meurtre de Tupac Shakur : Duane « Keffe D » Davis condamné à quarante ans de prison minimum",
+        "title": "Meurtre de Tupac Shakur : Duane « Keffe D » Davis condamné à quarante ans de prison minimum",
         "source": "https://www.lemonde.fr/societe/rss_full.xml",
         "time": "2026-10-13T23:14:33.000Z",
         "link": "https://www.lemonde.fr/international/article/2026/10/14/meurtre-de-tupac-shakur-duane-keffe-d-davis-condamne-a-quarante-ans-de-prison-minimum_6793214_3210.html",
         "score": 97,
-        "summary": "Point de situation critique concernant : Meurtre de Tupac Shakur : Duane « Keffe D » Davis condamné à quarante ans de pri..."
+        "summary": "Point de situation critique concernant : Meurtre de Tupac Shakur : Duane « Keffe D » Davis condamné à quarante ans de pri..."
       },
       {
         "title": "Meurtre de Tupac Shakur : un ex-membre de gang condamné à 40 ans de prison minimum",
@@ -782,13 +709,51 @@
       {
         "title": "Chef d’un gang de Los Angeles, fils d’un Marine, descendant d’esclave : qui est Duane Davis, condamné pour le meurtre de Tupac ?",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-14T04:30:15.204Z",
+        "time": "2026-10-14T13:36:27.945Z",
         "link": "https://www.leparisien.fr/international/etats-unis/chef-dun-gang-de-los-angeles-fils-dun-marine-descendant-desclave-qui-est-duane-davis-condamne-pour-le-meurtre-de-tupac-14-10-2026-XDO4UIUSPZA4DFO2IY6Q6NCJCU.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Chef d’un gang de Los Angeles, fils d’un Marine, descendant d’esclave : qui est ..."
       }
     ],
-    "summary": "Meurtre de Tupac Shakur : un ex-membre de gang condamné à 40 ans de prison minimum / Meurtre de Tupac Shakur : Duane « Keffe D » Davis condamné à quarante ans de prison minimum"
+    "summary": "Meurtre de Tupac Shakur : un ex-membre de gang condamné à 40 ans de prison minimum / Meurtre de Tupac Shakur : Duane « Keffe D » Davis condamné à quarante ans de prison minimum"
+  },
+  {
+    "title": "Agressions sexuelles sur cinq élèves près d’Angoulême : l’enseignant avait déjà été placé en garde à vue en juillet",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.sudouest.fr/faits-divers/rss.xml"
+    ],
+    "items": [
+      {
+        "title": "Agressions sexuelles sur cinq élèves près d’Angoulême : l’enseignant avait déjà été placé en garde à vue en juillet",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-10-14T08:26:09.000Z",
+        "link": "https://www.sudouest.fr/faits-divers/un-instituteur-de-maternelle-interpelle-en-classe-pour-agressions-sexuelles-sur-cinq-eleves-a-angouleme-31065739.php",
+        "score": 97,
+        "summary": "l’enseignant avait déjà été placé en garde à vue en juillet"
+      }
+    ],
+    "summary": "Agressions sexuelles sur cinq élèves près d’Angoulême : l’enseignant avait déjà été placé en garde à vue en juillet"
+  },
+  {
+    "title": " Elle a survécu à 5 placements en redressement judiciaire : la verrerie Duralex reprise par l’entrepreneur Cédric Meston… mais pas sans casse ",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.challenges.fr/rss.xml"
+    ],
+    "items": [
+      {
+        "title": " Elle a survécu à 5 placements en redressement judiciaire : la verrerie Duralex reprise par l’entrepreneur Cédric Meston… mais pas sans casse ",
+        "source": "https://www.challenges.fr/rss.xml",
+        "time": "2026-10-14T12:11:00.000Z",
+        "link": " https://www.challenges.fr/entreprise/industrie/elle-a-survecu-a-5-placements-en-redressement-judiciaire-la-verrerie-duralex-reprise-par-lentrepreneur-cedric-meston-mais-pas-sans-casse_646364 ",
+        "score": 97,
+        "summary": "Point de situation critique concernant :  Elle a survécu à 5 placements en redressement judiciaire : la verrerie Duralex ..."
+      }
+    ],
+    "summary": " Elle a survécu à 5 placements en redressement judiciaire : la verrerie Duralex reprise par l’entrepreneur Cédric Meston… mais pas sans casse "
   },
   {
     "title": "Un site de la Caisse d’allocations familiales piraté : 1,2 million de fichiers de bénéficiaires volés",
@@ -812,14 +777,13 @@
   {
     "title": "TÉMOIGNAGE. \"On a tout jeté\" : une gérante d'un magasin raconte son désarroi après la cyberattaque qui a touché ses installations frigorifiques",
     "score": 93,
-    "count": 8,
+    "count": 6,
     "sources": [
       "https://www.franceinfo.fr/faits-divers.rss",
-      "https://www.mediapart.fr/articles/feed",
       "https://www.lemonde.fr/economie/rss_full.xml",
       "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "https://www.20minutes.fr/feeds/rss-une.xml",
       "https://www.bfmtv.com/rss/economie/",
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
       "Le Monde Informatique"
     ],
     "items": [
@@ -832,28 +796,12 @@
         "summary": "Point de situation critique concernant : TÉMOIGNAGE. \"On a tout jeté\" : une gérante d'un magasin raconte son désarroi apr..."
       },
       {
-        "title": "Des supermarchés victimes d’une cyberattaque visant leurs installations frigorifiques",
-        "source": "https://www.mediapart.fr/articles/feed",
-        "time": "2026-10-12T13:22:10.000Z",
-        "link": "https://www.mediapart.fr/journal/france/121026/des-supermarches-victimes-d-une-cyberattaque-visant-leurs-installations-frigorifiques",
-        "score": 93,
-        "summary": "Point de situation critique concernant : Des supermarchés victimes d’une cyberattaque visant leurs installations frigorif..."
-      },
-      {
         "title": "Dans les supermarchés français, une journée noire après une cyberattaque massive visant des systèmes frigorifiques",
         "source": "https://www.lemonde.fr/economie/rss_full.xml",
         "time": "2026-10-12T17:29:45.000Z",
         "link": "https://www.lemonde.fr/economie/article/2026/10/12/journee-noire-dans-les-supermarches-francais-apres-une-cyberattaque-massive_6792763_3234.html",
         "score": 93,
         "summary": "Point de situation critique concernant : Dans les supermarchés français, une journée noire après une cyberattaque massive..."
-      },
-      {
-        "title": "Plusieurs centaines de supermarchés Intermarché et Coopérative U victimes d’une cyberattaque visant leurs installations frigorifiques",
-        "source": "https://www.lemonde.fr/economie/rss_full.xml",
-        "time": "2026-10-12T11:03:04.000Z",
-        "link": "https://www.lemonde.fr/economie/article/2026/10/12/plusieurs-centaines-de-supermarches-intermarche-et-cooperative-u-victimes-d-une-cyberattaque-visant-leurs-installations-frigorifiques_6792621_3234.html",
-        "score": 93,
-        "summary": "Point de situation critique concernant : Plusieurs centaines de supermarchés Intermarché et Coopérative U victimes d’une ..."
       },
       {
         "title": "Coopérative U, Intermarché, E.Leclerc, Carrefour… Une cyberattaque a touché les infrastructures frigorifiques de centaines de supermarchés",
@@ -864,14 +812,6 @@
         "summary": "Point de situation critique concernant : Coopérative U, Intermarché, E.Leclerc, Carrefour… Une cyberattaque a touché les ..."
       },
       {
-        "title": "Intermarché, U, Leclerc… Les installations frigorifiques de supermarchés touchées par une cyberattaque, de gros dégâts",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-10-12T10:34:35.000Z",
-        "link": "https://www.20minutes.fr/societe/4253570-20261012-intermarche-u-leclerc-installations-frigorifiques-supermarches-touchees-cyberattaque-gros-degats?at_medium=display&at_campaign=149",
-        "score": 93,
-        "summary": "Point de situation critique concernant : Intermarché, U, Leclerc… Les installations frigorifiques de supermarchés touchée..."
-      },
-      {
         "title": "300 de ses magasins en ont été victimes: le président du groupe Les Mousquetaires raconte \"l'enfer\" de la cyberattaque qui a touché ses systèmes frigorifiques",
         "source": "https://www.bfmtv.com/rss/economie/",
         "time": "2026-10-12T18:10:00.000Z",
@@ -880,20 +820,28 @@
         "summary": "Point de situation critique concernant : 300 de ses magasins en ont été victimes: le président du groupe Les Mousquetaire..."
       },
       {
+        "title": "Cyberattaque des installations frigorifiques de supermarchés : des systèmes américains également touchés",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-14T13:36:27.946Z",
+        "link": "https://www.leparisien.fr/faits-divers/cyberattaque-des-installations-frigorifiques-de-supermarches-des-systemes-americains-egalement-touches-13-10-2026-SSNGOBCYKVGBVNTJL7FDLPK4BI.php",
+        "score": 93,
+        "summary": "Point de situation critique concernant : Cyberattaque des installations frigorifiques de supermarchés : des systèmes amér..."
+      },
+      {
         "title": "[CYBER] Une cyberattaque perturbe les installations frigorifiques de centaines de supermarchés",
         "source": "Le Monde Informatique",
-        "time": "2026-10-14T04:29:13.545Z",
+        "time": "2026-10-14T13:33:58.087Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-une-cyberattaque-perturbe-les-installations-frigorifiques-de-centaines-de-supermarches-100850.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Une cyberattaque perturbe les installations frigorifiques de centaines d..."
       }
     ],
-    "summary": "TÉMOIGNAGE. \"On a tout jeté\" : une gérante d'un magasin raconte son désarroi après la cyberattaque qui a touché ses installations frigorifiques / Des supermarchés victimes d’une cyberattaque visant leurs installations frigorifiques"
+    "summary": "TÉMOIGNAGE. \"On a tout jeté\" : une gérante d'un magasin raconte son désarroi après la cyberattaque qui a touché ses installations frigorifiques / Dans les supermarchés français, une journée noire après une cyberattaque massive visant des systèmes frigorifiques"
   },
   {
     "title": "Cyberattaque dans des supermarchés : plusieurs magasins visés en Dordogne",
     "score": 93,
-    "count": 4,
+    "count": 3,
     "sources": [
       "https://www.sudouest.fr/faits-divers/rss.xml"
     ],
@@ -905,14 +853,6 @@
         "link": "https://www.sudouest.fr/dordogne/cyberattaque-dans-des-supermarches-plusieurs-magasins-vises-en-dordogne-31039218.php",
         "score": 93,
         "summary": "Point de situation critique concernant : Cyberattaque dans des supermarchés : plusieurs magasins visés en Dordogne..."
-      },
-      {
-        "title": "Cyberattaque inédite dans les supermarchés : des centaines de magasins concernés, des frigos à 50 degrés, d’importantes pertes… ce que l’on sait",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-10-12T12:58:31.000Z",
-        "link": "https://www.sudouest.fr/economie/cybersecurite/cyberattaque-inedite-dans-les-supermarches-des-centaines-de-magasins-concernes-des-frigos-a-50-degres-d-importantes-pertes-ce-que-l-on-sait-31035365.php",
-        "score": 93,
-        "summary": "Point de situation critique concernant : Cyberattaque inédite dans les supermarchés : des centaines de magasins concernés..."
       },
       {
         "title": "Cyberattaque dans les supermarchés : « Les glaces avaient complètement fondu, il y avait du jus partout, tous les produits surgelés étaient touchés », témoigne le responsable du secteur frais à l’Intermarché de Parempuyre",
@@ -931,7 +871,7 @@
         "summary": "Point de situation critique concernant : Qui est derrière la cyberattaque dans les supermarchés ? « Un lycéen un peu doué..."
       }
     ],
-    "summary": "Cyberattaque dans des supermarchés : plusieurs magasins visés en Dordogne / Cyberattaque inédite dans les supermarchés : des centaines de magasins concernés, des frigos à 50 degrés, d’importantes pertes… ce que l’on sait"
+    "summary": "Cyberattaque dans des supermarchés : plusieurs magasins visés en Dordogne / Cyberattaque dans les supermarchés : « Les glaces avaient complètement fondu, il y avait du jus partout, tous les produits surgelés étaient touchés », témoigne le responsable du secteur frais à l’Intermarché de Parempuyre"
   },
   {
     "title": "Cyberattaque sur les supermarchés",
@@ -991,7 +931,7 @@
       {
         "title": "[CYBER] La plateforme de vote en ligne pour la primaire de gauche, victime d'une cyberattaque",
         "source": "Le Monde Informatique",
-        "time": "2026-10-14T04:29:15.649Z",
+        "time": "2026-10-14T13:34:03.778Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-la-plateforme-de-vote-en-ligne-pour-la-primaire-de-gauche-victime-d-une-cyberattaque-100845.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] La plateforme de vote en ligne pour la primaire de gauche, victime d'une..."
@@ -1062,6 +1002,101 @@
     "summary": "Faille logicielle, frigos à 35 °C, des millions d’euros perdus : les dessous de la cyberattaque inédite qui a frappé les supermarchés français"
   },
   {
+    "title": "Cyberattaque contre les réfrigérateurs : « C’est à la portée d’un individu isolé »",
+    "score": 93,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Cyberattaque contre les réfrigérateurs : « C’est à la portée d’un individu isolé »",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-14T13:36:27.946Z",
+        "link": "https://www.leparisien.fr/economie/cyberattaque-contre-les-refrigerateurs-cest-a-la-portee-dun-individu-isole-13-10-2026-2Y6GVFVRCVGGNMGFIIJYVG237U.php",
+        "score": 93,
+        "summary": "Point de situation critique concernant : Cyberattaque contre les réfrigérateurs : « C’est à la portée d’un individu isolé..."
+      }
+    ],
+    "summary": "Cyberattaque contre les réfrigérateurs : « C’est à la portée d’un individu isolé »"
+  },
+  {
+    "title": "Cour criminelle de l’Essonne : elle dénonce un viol sur un parking, son agresseur présumé a tout enregistré",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Cour criminelle de l’Essonne : elle dénonce un viol sur un parking, son agresseur présumé a tout enregistré",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-14T13:36:27.945Z",
+        "link": "https://www.leparisien.fr/essonne-91/cour-criminelle-de-lessonne-elle-denonce-un-viol-sur-un-parking-son-agresseur-presume-a-tout-enregistre-14-10-2026-3TFAWT5PRBCKNH2CIEUMBQYYRA.php",
+        "score": 90,
+        "summary": "elle dénonce un viol sur un parking, son agresseur présumé a tout enregistré"
+      }
+    ],
+    "summary": "Cour criminelle de l’Essonne : elle dénonce un viol sur un parking, son agresseur présumé a tout enregistré"
+  },
+  {
+    "title": "Charente : un enseignant soupçonné d’agressions sexuelles et d’un viol sur des enfants de maternelle",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Charente : un enseignant soupçonné d’agressions sexuelles et d’un viol sur des enfants de maternelle",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-14T13:36:27.945Z",
+        "link": "https://www.leparisien.fr/faits-divers/charente-un-enseignant-soupconne-dagressions-sexuelles-et-dun-viol-sur-des-enfants-de-maternelle-14-10-2026-YNALX4I7D5B4FPEHA6FTQJUE7Q.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Charente : un enseignant soupçonné d’agressions sexuelles et d’un viol sur des e..."
+      }
+    ],
+    "summary": "Charente : un enseignant soupçonné d’agressions sexuelles et d’un viol sur des enfants de maternelle"
+  },
+  {
+    "title": "Fusillade dans un collège à Aubagne : l’adolescent de 14 ans reconnaît les faits mais conteste « avoir voulu tuer »",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Fusillade dans un collège à Aubagne : l’adolescent de 14 ans reconnaît les faits mais conteste « avoir voulu tuer »",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-14T13:36:27.945Z",
+        "link": "https://www.leparisien.fr/faits-divers/fusillade-dans-un-college-a-aubagne-ladolescent-de-14-ans-reconnait-les-faits-mais-conteste-avoir-voulu-tuer-14-10-2026-UO6DQTMJF5GUZK5LVBRC3D4AQM.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Fusillade dans un collège à Aubagne : l’adolescent de 14 ans reconnaît les faits..."
+      }
+    ],
+    "summary": "Fusillade dans un collège à Aubagne : l’adolescent de 14 ans reconnaît les faits mais conteste « avoir voulu tuer »"
+  },
+  {
+    "title": "Sevran : la sénatrice Corinne Narassiguin prise dans une fusillade alors qu’elle était dans un véhicule de la Bac",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Sevran : la sénatrice Corinne Narassiguin prise dans une fusillade alors qu’elle était dans un véhicule de la Bac",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-14T13:36:27.945Z",
+        "link": "https://www.leparisien.fr/seine-saint-denis-93/sevran-la-senatrice-corinne-narassiguin-prise-dans-une-fusillade-alors-quelle-etait-dans-un-vehicule-de-la-bac-14-10-2026-OBLZTGDIRRDMDJGZLKPRRO5P4A.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Sevran : la sénatrice Corinne Narassiguin prise dans une fusillade alors qu’elle..."
+      }
+    ],
+    "summary": "Sevran : la sénatrice Corinne Narassiguin prise dans une fusillade alors qu’elle était dans un véhicule de la Bac"
+  },
+  {
     "title": "[CYBER] Bercy resserre les garde-fous autour des technologies stratégiques",
     "score": 90,
     "count": 1,
@@ -1110,7 +1145,7 @@
       {
         "title": "[CYBER] Le gendarme de la cybersecurité a sauvé le pirate.",
         "source": "Le Monde Informatique",
-        "time": "2026-10-14T04:29:25.240Z",
+        "time": "2026-10-14T13:34:28.281Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-anssi-le-gendarme-de-la-cybersecurite-francais-pirate-100833.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le gendarme de la cybersecurité a sauvé le pirate...."
@@ -1129,7 +1164,7 @@
       {
         "title": "[CYBER] Microsoft a mis en place une aide à l'IA pour les attaques",
         "source": "Le Monde Informatique",
-        "time": "2026-10-14T04:29:26.738Z",
+        "time": "2026-10-14T13:34:31.656Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-microsoft-pointe-la-montee-en-puissance-des-attaques-assistees-par-l-ia-100829.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Microsoft a mis en place une aide à l'IA pour les attaques..."
@@ -1148,7 +1183,7 @@
       {
         "title": "[CYBER] Les entreprises qui passent la frontière en 2026",
         "source": "Le Monde Informatique",
-        "time": "2026-10-14T04:29:21.378Z",
+        "time": "2026-10-14T13:34:18.837Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-cybersecurite-en-2026-les-entreprises-passent-de-la-defense-a-la-resilience-100839.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les entreprises qui passent la frontière en 2026..."
@@ -1167,7 +1202,7 @@
       {
         "title": "[CYBER] Mistral d'équipement de grande taille 4, un mod le plus de 1 000 milliards de paramètres",
         "source": "Le Monde Informatique",
-        "time": "2026-10-14T04:29:23.649Z",
+        "time": "2026-10-14T13:34:24.466Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-mistral-devoile-large-4-un-modele-a-plus-de-1-000-milliards-de-parametres-100838.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Mistral d'équipement de grande taille 4, un mod le plus de 1 000 milliar..."
@@ -1186,7 +1221,7 @@
       {
         "title": "[CYBER] La confiance dans la richesse: les entreprises qui respectent la loi et la conformité",
         "source": "Le Monde Informatique",
-        "time": "2026-10-14T04:29:20.188Z",
+        "time": "2026-10-14T13:34:15.738Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-confiance-numerique-les-entreprises-francaises-privilegient-la-securite-et-la-conformite-100840.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] La confiance dans la richesse: les entreprises qui respectent la loi et ..."
@@ -1205,7 +1240,7 @@
       {
         "title": "[CYBER] D tecteur d'IA: ouvre Google SynthID Detector au grand public",
         "source": "Le Monde Informatique",
-        "time": "2026-10-14T04:29:17.317Z",
+        "time": "2026-10-14T13:34:08.543Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-detecteur-d-ia-google-ouvre-synthid-detector-au-grand-public-100842.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] D tecteur d'IA: ouvre Google SynthID Detector au grand public..."
@@ -1224,70 +1259,13 @@
       {
         "title": "[CYBER] Le muscle orange offre SecNumCloud",
         "source": "Le Monde Informatique",
-        "time": "2026-10-14T04:29:18.162Z",
+        "time": "2026-10-14T13:34:10.941Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-orange-muscle-son-offre-secnumcloud-100841.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le muscle orange offre SecNumCloud..."
       }
     ],
     "summary": "[CYBER] Le muscle orange offre SecNumCloud"
-  },
-  {
-    "title": "[CYBER] Une cyberattaque qui a fait froid les supermarchés",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "Zataz"
-    ],
-    "items": [
-      {
-        "title": "[CYBER] Une cyberattaque qui a fait froid les supermarchés",
-        "source": "Zataz",
-        "time": "2026-10-12T11:29:45.000Z",
-        "link": "https://www.zataz.com/une-cyberattaque-deregle-le-froid-des-supermarches/",
-        "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] Une cyberattaque qui a fait froid les supermarchés..."
-      }
-    ],
-    "summary": "[CYBER] Une cyberattaque qui a fait froid les supermarchés"
-  },
-  {
-    "title": "[CYBER] Les centres de données russes: la guerre hybride frappe le cloud",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "Zataz"
-    ],
-    "items": [
-      {
-        "title": "[CYBER] Les centres de données russes: la guerre hybride frappe le cloud",
-        "source": "Zataz",
-        "time": "2026-10-12T10:02:19.000Z",
-        "link": "https://www.zataz.com/data-centers-russes-la-guerre-hybride-frappe-le-cloud/",
-        "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] Les centres de données russes: la guerre hybride frappe le cloud..."
-      }
-    ],
-    "summary": "[CYBER] Les centres de données russes: la guerre hybride frappe le cloud"
-  },
-  {
-    "title": "[CYBER] Vacaf: 1,39 millions de lignes revendiquées à la vente",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "Zataz"
-    ],
-    "items": [
-      {
-        "title": "[CYBER] Vacaf: 1,39 millions de lignes revendiquées à la vente",
-        "source": "Zataz",
-        "time": "2026-10-12T09:32:42.000Z",
-        "link": "https://www.zataz.com/vacaf-139-million-de-lignes-revendiquees-a-la-vente/",
-        "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] Vacaf: 1,39 millions de lignes revendiquées à la vente..."
-      }
-    ],
-    "summary": "[CYBER] Vacaf: 1,39 millions de lignes revendiquées à la vente"
   },
   {
     "title": "[CYBER] La CNF signale une fuite de don sur la plateforme Vacaf",
@@ -1300,7 +1278,7 @@
       {
         "title": "[CYBER] La CNF signale une fuite de don sur la plateforme Vacaf",
         "source": "Le Monde Informatique",
-        "time": "2026-10-14T04:29:11.806Z",
+        "time": "2026-10-14T13:33:53.931Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-la-cnaf-signale-une-fuite-de-donnees-sur-sa-plateforme-vacaf-100851.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] La CNF signale une fuite de don sur la plateforme Vacaf..."
