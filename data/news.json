@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-15T13:19:00.047Z",
-  "count": 87,
+  "updated": "2026-10-15T19:52:13.810Z",
+  "count": 85,
   "items": [
     {
       "title": "« Il y a une complicité passive » : après le scandale du périscolaire à Paris, ces parents portent plainte contre la mairie",
@@ -61,7 +61,7 @@
     {
       "title": "Marseille : trois hommes condamnés à des peines de 12 à 20 ans de prison pour le rapt d’un jeune guetteur",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-10-15T13:18:58.005Z",
+      "time": "2026-10-15T19:52:11.216Z",
       "link": "https://www.leparisien.fr/faits-divers/marseille-trois-hommes-condamnes-a-des-peines-de-12-a-20-ans-de-prison-pour-le-rapt-dun-jeune-guetteur-13-10-2026-JZSVMCDDAFGW5MYD2E4CDTD57M.php",
       "score": 97,
       "summary": "Point de situation critique concernant : Marseille : trois hommes condamnés à des peines de 12 à 20 ans de prison pour le..."
@@ -69,7 +69,7 @@
     {
       "title": "Affaire Cottineau : le père et une amie du pédocriminel et ex-assistant familial condamnés à Nantes",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-10-15T13:18:58.005Z",
+      "time": "2026-10-15T19:52:11.216Z",
       "link": "https://www.leparisien.fr/faits-divers/affaire-cottineau-le-pere-et-une-amie-du-pedocriminel-et-ex-assistant-familial-condamnes-a-nantes-13-10-2026-H6RIGGIHHJAORIVNOJFQU5Z4EY.php",
       "score": 97,
       "summary": "Point de situation critique concernant : Affaire Cottineau : le père et une amie du pédocriminel et ex-assistant familial..."
@@ -77,7 +77,7 @@
     {
       "title": "Tir mortel sur un forcené en Mayenne : la garde à vue du gendarme levée",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-10-15T13:18:58.005Z",
+      "time": "2026-10-15T19:52:11.216Z",
       "link": "https://www.leparisien.fr/mayenne-53/tir-mortel-sur-un-forcene-en-mayenne-la-garde-a-vue-du-gendarme-levee-13-10-2026-LUMLAXFPY5ANJAPVHS4WSY3NZY.php",
       "score": 97,
       "summary": "Point de situation critique concernant : Tir mortel sur un forcené en Mayenne : la garde à vue du gendarme levée..."
@@ -115,105 +115,9 @@
       "summary": "Point de situation critique concernant : « Il nie avoir dissimulé sa fortune » : Roman Abramovitch dément toute fraude fi..."
     },
     {
-      "title": "L’acteur Francis Renaud en garde à vue pour viols, harcèlement et violences",
-      "source": "https://www.lemonde.fr/justice/rss_full.xml",
-      "time": "2026-10-13T17:36:54.000Z",
-      "link": "https://www.lemonde.fr/societe/article/2026/10/13/l-acteur-francis-renaud-en-garde-a-vue-pour-viols-harcelement-et-violences_6793165_3224.html",
-      "score": 97,
-      "summary": "Point de situation critique concernant : L’acteur Francis Renaud en garde à vue pour viols, harcèlement et violences..."
-    },
-    {
-      "title": "Nucléaire : plusieurs entreprises perquisitionnées pour des soupçons d’entente et de corruption « au détriment d’EDF », annonce le Parquet national financier",
-      "source": "https://www.lemonde.fr/justice/rss_full.xml",
-      "time": "2026-10-13T15:11:54.000Z",
-      "link": "https://www.lemonde.fr/societe/article/2026/10/13/nucleaire-plusieurs-entreprises-perquisitionnees-pour-des-soupcons-d-entente-et-de-corruption-au-detriment-d-edf-annonce-le-parquet-national-financier_6793137_3224.html",
-      "score": 97,
-      "summary": "Point de situation critique concernant : Nucléaire : plusieurs entreprises perquisitionnées pour des soupçons d’entente e..."
-    },
-    {
-      "title": "Mayenne : levée de la garde à vue du gendarme auteur du tir mortel sur un homme armé d’un couteau",
-      "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-      "time": "2026-10-13T17:31:29.000Z",
-      "link": "https://www.sudouest.fr/faits-divers/mayenne-levee-de-la-garde-a-vue-du-gendarme-auteur-du-tir-mortel-sur-un-homme-arme-d-un-couteau-31056611.php",
-      "score": 97,
-      "summary": "Point de situation critique concernant : Mayenne : levée de la garde à vue du gendarme auteur du tir mortel sur un homme ..."
-    },
-    {
-      "title": "Amiante : SNCF Réseau condamné pour avoir insuffisamment protégé 39 salariés",
-      "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-      "time": "2026-10-13T15:52:53.000Z",
-      "link": "https://www.sudouest.fr/economie/transports/sncf/amiante-sncf-reseau-condamne-pour-avoir-insuffisamment-protege-39-salaries-31054460.php",
-      "score": 97,
-      "summary": "Point de situation critique concernant : Amiante : SNCF Réseau condamné pour avoir insuffisamment protégé 39 salariés..."
-    },
-    {
-      "title": "Jura : un homme condamné à 19 ans de prison pour le viol et la prostitution de son fils",
-      "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-      "time": "2026-10-13T15:52:42.000Z",
-      "link": "https://www.sudouest.fr/faits-divers/jura-un-homme-condamne-a-19-ans-de-prison-pour-le-viol-et-la-prostitution-de-son-fils-31054701.php",
-      "score": 97,
-      "summary": "Point de situation critique concernant : Jura : un homme condamné à 19 ans de prison pour le viol et la prostitution de s..."
-    },
-    {
-      "title": "Pas-de-Calais : un homme de 50 ans mutilé au couteau au niveau de la langue, d’un orteil et du sexe, cinq personnes dont une mineure en garde à vue",
-      "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-      "time": "2026-10-13T15:35:05.000Z",
-      "link": "https://www.sudouest.fr/faits-divers/pas-de-calais-un-homme-de-50-ans-mutile-au-couteau-au-niveau-de-la-langue-d-un-orteil-et-du-sexe-cinq-personnes-dont-une-mineure-en-garde-a-vue-31053013.php",
-      "score": 97,
-      "summary": "Point de situation critique concernant : Pas-de-Calais : un homme de 50 ans mutilé au couteau au niveau de la langue, d’u..."
-    },
-    {
-      "title": "Le corps d’un Girondin mort depuis quatorze ans oublié à la morgue : nouveau scandale au CHU de Toulouse",
-      "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-      "time": "2026-10-13T14:21:12.000Z",
-      "link": "https://www.sudouest.fr/occitanie/toulouse/le-corps-d-un-girondin-mort-depuis-quatorze-ans-oublie-a-la-morgue-nouveau-scandale-au-chu-de-toulouse-31050974.php",
-      "score": 97,
-      "summary": "Point de situation critique concernant : Le corps d’un Girondin mort depuis quatorze ans oublié à la morgue : nouveau sca..."
-    },
-    {
-      "title": "L’acteur Francis Renaud placé en garde à vue pour viol, violences et harcèlement",
-      "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-      "time": "2026-10-13T13:38:32.000Z",
-      "link": "https://www.sudouest.fr/justice/l-acteur-francis-renaud-place-en-garde-a-vue-pour-viol-violences-et-harcelement-31051471.php",
-      "score": 97,
-      "summary": "Point de situation critique concernant : L’acteur Francis Renaud placé en garde à vue pour viol, violences et harcèlement..."
-    },
-    {
-      "title": " Elles sont soupçonnées d’entente anticoncurrentielle au détriment d’EDF : « plusieurs entreprises » du secteur de la maintenance nucléaire perquisitionnées ",
-      "source": "https://www.challenges.fr/rss.xml",
-      "time": "2026-10-13T16:48:00.000Z",
-      "link": " https://www.challenges.fr/entreprise/energie/elles-sont-soupconnees-dentente-anticoncurrentielle-au-detriment-dedf-plusieurs-entreprises-du-secteur-de-la-maintenance-nucleaire-perquisitionnees_646347 ",
-      "score": 97,
-      "summary": "Point de situation critique concernant :  Elles sont soupçonnées d’entente anticoncurrentielle au détriment d’EDF : « plu..."
-    },
-    {
-      "title": "Trois avions de chasse ont escorté le Boeing: un défaut technique sur un vol entre la Grèce et l'Allemagne a déclenché une alerte pour détournement dans plusieurs pays européens",
-      "source": "https://www.bfmtv.com/rss/economie/",
-      "time": "2026-10-13T16:30:45.000Z",
-      "link": "https://www.bfmtv.com/economie/entreprises/transports/trois-avions-de-chasse-ont-escorte-le-boeing-un-defaut-technique-sur-un-vol-entre-la-grece-et-l-allemagne-a-declenche-une-alerte-pour-detournement-dans-plusieurs-pays-europeens_AD-202610130755.html",
-      "score": 97,
-      "summary": "Point de situation critique concernant : Trois avions de chasse ont escorté le Boeing: un défaut technique sur un vol ent..."
-    },
-    {
-      "title": "L’acteur Francis Renaud en garde à vue pour « viols, harcèlement et violences » après une plainte de son ex-compagne",
-      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-10-13T18:04:11.000Z",
-      "link": "https://www.20minutes.fr/faits_divers/4254075-20261013-acteur-francis-renaud-garde-vue-viols-harcelement-violences-apres-plainte-ex-compagne?at_medium=display&at_campaign=149",
-      "score": 97,
-      "summary": "Point de situation critique concernant : L’acteur Francis Renaud en garde à vue pour « viols, harcèlement et violences » ..."
-    },
-    {
-      "title": "Gironde : Un suspect en garde à vue vingt ans après l’assassinat d’une ouvrière agricole",
-      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-10-13T13:40:35.000Z",
-      "link": "https://www.20minutes.fr/societe/4253995-20261013-gironde-suspect-garde-vue-vingt-ans-apres-assassinat-ouvriere-agricole?at_medium=display&at_campaign=149",
-      "score": 97,
-      "summary": "Point de situation critique concernant : Gironde : Un suspect en garde à vue vingt ans après l’assassinat d’une ouvrière ..."
-    },
-    {
       "title": "Micro chez OpenAI : un ingénieur saoudien arrêté et inculpé pour « interception de communications »",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-10-15T13:18:58.005Z",
+      "time": "2026-10-15T19:52:11.216Z",
       "link": "https://www.leparisien.fr/faits-divers/micro-chez-openai-un-ingenieur-saoudien-arrete-et-inculpe-pour-interception-de-communications-14-10-2026-FEDHR6X63NEPHPZPSLCCJHVFN4.php",
       "score": 97,
       "summary": "Point de situation critique concernant : Micro chez OpenAI : un ingénieur saoudien arrêté et inculpé pour « interception ..."
@@ -221,7 +125,7 @@
     {
       "title": "Meurtre de Tupac Shakur : un ex-membre de gang condamné à 40 ans de prison minimum",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-10-15T13:18:58.005Z",
+      "time": "2026-10-15T19:52:11.216Z",
       "link": "https://www.leparisien.fr/international/etats-unis/meurtre-de-tupac-shakur-un-ex-membre-de-gang-condamne-a-40-ans-de-prison-minimum-13-10-2026-CR6Y45LYVZG5PKXK34GFHP56KY.php",
       "score": 97,
       "summary": "Point de situation critique concernant : Meurtre de Tupac Shakur : un ex-membre de gang condamné à 40 ans de prison minim..."
@@ -243,17 +147,9 @@
       "summary": "Point de situation critique concernant : Bretagne : après 53 cambriolages dans des campings, un homme condamné à cinq ans..."
     },
     {
-      "title": "Meurtre de Tupac Shakur : un ex-membre de gang condamné à 40 ans de prison minimum",
-      "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-      "time": "2026-10-13T19:31:27.000Z",
-      "link": "https://www.sudouest.fr/justice/meurtre-de-tupac-shakur-un-ex-membre-de-gang-condamne-a-40-ans-de-prison-minimum-31059198.php",
-      "score": 97,
-      "summary": "Point de situation critique concernant : Meurtre de Tupac Shakur : un ex-membre de gang condamné à 40 ans de prison minim..."
-    },
-    {
       "title": "Chef d’un gang de Los Angeles, fils d’un Marine, descendant d’esclave : qui est Duane Davis, condamné pour le meurtre de Tupac ?",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-10-15T13:18:58.005Z",
+      "time": "2026-10-15T19:52:11.216Z",
       "link": "https://www.leparisien.fr/international/etats-unis/chef-dun-gang-de-los-angeles-fils-dun-marine-descendant-desclave-qui-est-duane-davis-condamne-pour-le-meurtre-de-tupac-14-10-2026-XDO4UIUSPZA4DFO2IY6Q6NCJCU.php",
       "score": 97,
       "summary": "Point de situation critique concernant : Chef d’un gang de Los Angeles, fils d’un Marine, descendant d’esclave : qui est ..."
@@ -277,18 +173,18 @@
     {
       "title": "Assassinat sauvage d’une ouvrière viticole en 2006 près de Bordeaux : la garde à vue du suspect levée",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-10-15T13:18:58.004Z",
+      "time": "2026-10-15T19:52:11.216Z",
       "link": "https://www.leparisien.fr/faits-divers/assassinat-sauvage-dune-ouvriere-viticole-en-2006-pres-de-bordeaux-la-garde-a-vue-du-suspect-levee-14-10-2026-XHU35MVWTFEMHKUQL4Q3Q27OS4.php",
       "score": 97,
       "summary": "Point de situation critique concernant : Assassinat sauvage d’une ouvrière viticole en 2006 près de Bordeaux : la garde à..."
     },
     {
-      "title": "Abdallah, 22 ans, mortellement poignardé devant une discothèque en Essonne : un homme placé en détention provisoire",
+      "title": "Abdallah, 22 ans, mortellement poignardé en sortant d’une discothèque en Essonne : un homme placé en détention provisoire",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-10-15T13:18:58.004Z",
+      "time": "2026-10-15T19:52:11.216Z",
       "link": "https://www.leparisien.fr/essonne-91/abdallah-22-ans-mortellement-poignarde-devant-une-discotheque-en-essonne-un-homme-place-en-detention-provisoire-14-10-2026-WHPZ4MGOAVG73KBTNOXQU6Z5OQ.php",
       "score": 97,
-      "summary": "Point de situation critique concernant : Abdallah, 22 ans, mortellement poignardé devant une discothèque en Essonne : un ..."
+      "summary": "Point de situation critique concernant : Abdallah, 22 ans, mortellement poignardé en sortant d’une discothèque en Essonne..."
     },
     {
       "title": "Une aide-soignante mise en examen et placée en détention provisoire pour avoir empoisonné et volé des bijoux de résidentes d'Ehpad à Menton",
@@ -389,7 +285,7 @@
     {
       "title": "Enlèvement d’un enfant, préparation d’un coup d’État… Rémy Daillet, à la tête d’un groupuscule d’ultradroite, condamné à six ans de prison",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-10-15T13:18:58.004Z",
+      "time": "2026-10-15T19:52:11.215Z",
       "link": "https://www.leparisien.fr/faits-divers/enlevement-dun-enfant-preparation-dun-coup-detat-remy-daillet-a-la-tete-dun-groupuscule-dultradroite-condamne-a-six-ans-de-prison-15-10-2026-TYIIWAOW2JB2HPUYMWYGI6VX3Y.php",
       "score": 97,
       "summary": "Point de situation critique concernant : Enlèvement d’un enfant, préparation d’un coup d’État… Rémy Daillet, à la tête d’..."
@@ -397,7 +293,7 @@
     {
       "title": "Scandale du périscolaire à Paris : une « crise systémique » et des années de défaillances dénoncées dans le rapport Evren",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-10-15T13:18:58.004Z",
+      "time": "2026-10-15T19:52:11.215Z",
       "link": "https://www.leparisien.fr/paris-75/scandale-du-periscolaire-a-paris-une-crise-systemique-et-des-annees-de-defaillances-denoncees-dans-le-rapport-evren-15-10-2026-7DV7VEAI25BMVAT32F4RCAX3BE.php",
       "score": 97,
       "summary": "Point de situation critique concernant : Scandale du périscolaire à Paris : une « crise systémique » et des années de déf..."
@@ -405,7 +301,7 @@
     {
       "title": "Trafic de drogue, blanchiment et héritage : à Paris, les drôles d’embrouilles de la famille K.",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-10-15T13:18:58.004Z",
+      "time": "2026-10-15T19:52:11.215Z",
       "link": "https://www.leparisien.fr/faits-divers/trafic-de-drogue-blanchiment-et-heritage-a-paris-les-droles-dembrouilles-de-la-famille-k-15-10-2026-SYV4F55LXJFHJOMWYLI2VVPKSA.php",
       "score": 97,
       "summary": "Point de situation critique concernant : Trafic de drogue, blanchiment et héritage : à Paris, les drôles d’embrouilles de..."
@@ -413,7 +309,7 @@
     {
       "title": "Fusillade d’Aubagne : un second mineur placé en garde à vue, après les tirs d’un élève sur un proviseur de collège et une professeure",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-10-15T13:18:58.004Z",
+      "time": "2026-10-15T19:52:11.216Z",
       "link": "https://www.leparisien.fr/faits-divers/fusillade-daubagne-un-second-mineur-place-en-garde-a-vue-apres-les-tirs-dun-eleve-sur-un-proviseur-de-college-et-une-professeure-15-10-2026-EM4VZ6SRIBDFLCT2KMAMF5Z4XA.php",
       "score": 97,
       "summary": "Point de situation critique concernant : Fusillade d’Aubagne : un second mineur placé en garde à vue, après les tirs d’un..."
@@ -421,7 +317,7 @@
     {
       "title": "Pourquoi Rémy Daillet, chef d’un groupuscule complotiste d’ultradroite, a été condamné à six ans de prison",
       "source": "https://www.lemonde.fr/societe/rss_full.xml",
-      "time": "2026-10-15T12:54:50.000Z",
+      "time": "2026-10-15T12:54:49.000Z",
       "link": "https://www.lemonde.fr/societe/article/2026/10/15/pourquoi-remy-daillet-chef-d-un-groupuscule-complotiste-d-ultradroite-a-ete-condamne-a-six-ans-de-prison_6794446_3224.html",
       "score": 97,
       "summary": "Point de situation critique concernant : Pourquoi Rémy Daillet, chef d’un groupuscule complotiste d’ultradroite, a été co..."
@@ -483,9 +379,81 @@
       "summary": "Point de situation critique concernant : Fusillade dans un collège d’Aubagne : Un deuxième ado placé en garde à vue..."
     },
     {
+      "title": "« J’espère que ces semeurs de haine seront condamnés » : la crêpière de Gomené injuriée passe à l’offensive",
+      "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "time": "2026-10-15T19:52:11.215Z",
+      "link": "https://www.leparisien.fr/faits-divers/jespere-que-ces-semeurs-de-haine-seront-condamnes-la-crepiere-de-gomene-injuriee-passe-a-loffensive-15-10-2026-TCGFPGSNOREM3BDYTGBMR4SADU.php",
+      "score": 97,
+      "summary": "Point de situation critique concernant : « J’espère que ces semeurs de haine seront condamnés » : la crêpière de Gomené i..."
+    },
+    {
+      "title": "Francis Renaud : l’acteur placé en détention provisoire pour viols après une plainte de son ex-compagne",
+      "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "time": "2026-10-15T19:52:11.215Z",
+      "link": "https://www.leparisien.fr/culture-loisirs/cinema/francis-renaud-lacteur-place-en-detention-provisoire-pour-viols-apres-une-plainte-de-son-ex-compagne-15-10-2026-GAN3HUCE3FEH5CBFYPLZJPAJ2Y.php",
+      "score": 97,
+      "summary": "Point de situation critique concernant : Francis Renaud : l’acteur placé en détention provisoire pour viols après une pla..."
+    },
+    {
+      "title": "L’acteur Francis Renaud mis en examen et placé en détention provisoire pour viols, harcèlement et violences",
+      "source": "https://www.lemonde.fr/societe/rss_full.xml",
+      "time": "2026-10-15T16:33:42.000Z",
+      "link": "https://www.lemonde.fr/societe/article/2026/10/15/l-acteur-francis-renaud-mis-en-examen-et-place-en-detention-provisoire-pour-viols-harcelement-et-violences_6794618_3224.html",
+      "score": 97,
+      "summary": "Point de situation critique concernant : L’acteur Francis Renaud mis en examen et placé en détention provisoire pour viol..."
+    },
+    {
+      "title": "Le président de la Coordination rurale condamné à une amende pour avoir appelé à « faire la peau aux écolos »",
+      "source": "https://www.lemonde.fr/economie/rss_full.xml",
+      "time": "2026-10-15T15:27:23.000Z",
+      "link": "https://www.lemonde.fr/planete/article/2026/10/15/le-president-de-la-coordination-rurale-condamne-a-une-amende-pour-avoir-appele-a-faire-la-peau-aux-ecolos_6794569_3244.html",
+      "score": 97,
+      "summary": "Point de situation critique concernant : Le président de la Coordination rurale condamné à une amende pour avoir appelé à..."
+    },
+    {
+      "title": "L’acteur Francis Renaud mis en examen et placé en détention provisoire pour viols",
+      "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+      "time": "2026-10-15T15:48:05.000Z",
+      "link": "https://www.sudouest.fr/faits-divers/l-acteur-francis-renaud-mis-en-examen-et-place-en-detention-provisoire-pour-viols-31087811.php",
+      "score": 97,
+      "summary": "Point de situation critique concernant : L’acteur Francis Renaud mis en examen et placé en détention provisoire pour viol..."
+    },
+    {
+      "title": "« Les écolos, nous devons leur faire la peau » : le patron de la Coordination rurale coupable de provocation publique à commettre un crime ou un délit, condamné à une peine d’amende supérieure aux réquisitions",
+      "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+      "time": "2026-10-15T14:13:27.000Z",
+      "link": "https://www.sudouest.fr/economie/agriculture/coordination-rurale/les-ecolos-nous-devons-leur-faire-la-peau-le-patron-de-la-coordination-rurale-coupable-de-provocation-publique-condamne-a-une-peine-d-amende-superieure-aux-requisitions-31082985.php",
+      "score": 97,
+      "summary": "Point de situation critique concernant : « Les écolos, nous devons leur faire la peau » : le patron de la Coordination ru..."
+    },
+    {
+      "title": "Marine Le Pen exige la démission de Richard Ferrand, le Conseil constitutionnel fait corps avec son président",
+      "source": "https://www.lemonde.fr/politique/rss_full.xml",
+      "time": "2026-10-15T16:59:44.000Z",
+      "link": "https://www.lemonde.fr/politique/article/2026/10/15/marine-le-pen-exige-la-demission-de-richard-ferrand-le-conseil-constitutionnel-fait-corps-avec-son-president_6794623_823448.html",
+      "score": 97,
+      "summary": "Point de situation critique concernant : Marine Le Pen exige la démission de Richard Ferrand, le Conseil constitutionnel ..."
+    },
+    {
+      "title": "Etats-Unis : Trump renonce à diffuser en direct l’exécution d’un condamné à mort",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-10-15T14:41:28.000Z",
+      "link": "https://www.20minutes.fr/monde/4254682-20261015-etats-unis-trump-renonce-diffuser-direct-execution-condamne-mort?at_medium=display&at_campaign=149",
+      "score": 97,
+      "summary": "Point de situation critique concernant : Etats-Unis : Trump renonce à diffuser en direct l’exécution d’un condamné à mort..."
+    },
+    {
+      "title": "L’acteur Francis Renaud placé en détention provisoire pour viols",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-10-15T16:01:38.000Z",
+      "link": "https://www.20minutes.fr/justice/4254721-20261015-acteur-francis-renaud-place-detention-provisoire-viols?at_medium=display&at_campaign=149",
+      "score": 97,
+      "summary": "Point de situation critique concernant : L’acteur Francis Renaud placé en détention provisoire pour viols..."
+    },
+    {
       "title": "Cyberattaque des installations frigorifiques de supermarchés : des systèmes américains également touchés",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-10-15T13:18:58.005Z",
+      "time": "2026-10-15T19:52:11.216Z",
       "link": "https://www.leparisien.fr/faits-divers/cyberattaque-des-installations-frigorifiques-de-supermarches-des-systemes-americains-egalement-touches-13-10-2026-SSNGOBCYKVGBVNTJL7FDLPK4BI.php",
       "score": 93,
       "summary": "Point de situation critique concernant : Cyberattaque des installations frigorifiques de supermarchés : des systèmes amér..."
@@ -499,9 +467,17 @@
       "summary": "Point de situation critique concernant : Cyberattaque contre les réfrigérateurs : « C’est à la portée d’un individu isolé..."
     },
     {
+      "title": "Franc-maçonnerie : le Grand Orient de France victime d’une fuite de données, des documents nominatifs exposés",
+      "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "time": "2026-10-15T19:52:11.215Z",
+      "link": "https://www.leparisien.fr/high-tech/franc-maconnerie-le-grand-orient-de-france-victime-dune-fuite-de-donnees-des-documents-nominatifs-exposes-15-10-2026-YNBCOPN2O5GZRNH524FLHDLVMU.php",
+      "score": 93,
+      "summary": "Point de situation critique concernant : Franc-maçonnerie : le Grand Orient de France victime d’une fuite de données, des..."
+    },
+    {
       "title": "Cour criminelle de l’Essonne : elle dénonce un viol sur un parking, son agresseur présumé a tout enregistré",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-10-15T13:18:58.004Z",
+      "time": "2026-10-15T19:52:11.216Z",
       "link": "https://www.leparisien.fr/essonne-91/cour-criminelle-de-lessonne-elle-denonce-un-viol-sur-un-parking-son-agresseur-presume-a-tout-enregistre-14-10-2026-3TFAWT5PRBCKNH2CIEUMBQYYRA.php",
       "score": 90,
       "summary": "elle dénonce un viol sur un parking, son agresseur présumé a tout enregistré"
@@ -509,7 +485,7 @@
     {
       "title": "Charente : un enseignant soupçonné d’agressions sexuelles et d’un viol sur des enfants de maternelle",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-10-15T13:18:58.004Z",
+      "time": "2026-10-15T19:52:11.216Z",
       "link": "https://www.leparisien.fr/faits-divers/charente-un-enseignant-soupconne-dagressions-sexuelles-et-dun-viol-sur-des-enfants-de-maternelle-14-10-2026-YNALX4I7D5B4FPEHA6FTQJUE7Q.php",
       "score": 90,
       "summary": "Point de situation critique concernant : Charente : un enseignant soupçonné d’agressions sexuelles et d’un viol sur des e..."
@@ -517,7 +493,7 @@
     {
       "title": "Fusillade dans un collège à Aubagne : l’adolescent de 14 ans mis en examen et écroué",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-10-15T13:18:58.004Z",
+      "time": "2026-10-15T19:52:11.216Z",
       "link": "https://www.leparisien.fr/faits-divers/fusillade-dans-un-college-a-aubagne-ladolescent-de-14-ans-reconnait-les-faits-mais-conteste-avoir-voulu-tuer-14-10-2026-UO6DQTMJF5GUZK5LVBRC3D4AQM.php",
       "score": 90,
       "summary": "Point de situation critique concernant : Fusillade dans un collège à Aubagne : l’adolescent de 14 ans mis en examen et éc..."
@@ -525,7 +501,7 @@
     {
       "title": "Sevran : la sénatrice Corinne Narassiguin prise dans une fusillade alors qu’elle était dans un véhicule de la Bac",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-10-15T13:18:58.004Z",
+      "time": "2026-10-15T19:52:11.216Z",
       "link": "https://www.leparisien.fr/seine-saint-denis-93/sevran-la-senatrice-corinne-narassiguin-prise-dans-une-fusillade-alors-quelle-etait-dans-un-vehicule-de-la-bac-14-10-2026-OBLZTGDIRRDMDJGZLKPRRO5P4A.php",
       "score": 90,
       "summary": "Point de situation critique concernant : Sevran : la sénatrice Corinne Narassiguin prise dans une fusillade alors qu’elle..."
@@ -533,7 +509,7 @@
     {
       "title": "Guyane : un garçon de 7 ans retrouvé mort après avoir été oublié dans un car scolaire, une enquête ouverte",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-10-15T13:18:58.004Z",
+      "time": "2026-10-15T19:52:11.216Z",
       "link": "https://www.leparisien.fr/faits-divers/guyane-un-garcon-de-7-ans-retrouve-mort-apres-avoir-ete-oublie-dans-un-car-scolaire-une-enquete-ouverte-14-10-2026-XCZZBFTCSRARLDPIZGCF5UQWUA.php",
       "score": 90,
       "summary": "Point de situation critique concernant : Guyane : un garçon de 7 ans retrouvé mort après avoir été oublié dans un car sco..."
@@ -541,7 +517,7 @@
     {
       "title": "Charente : un instituteur mis en examen pour des agressions sexuelles sur quatre enfants",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-10-15T13:18:58.004Z",
+      "time": "2026-10-15T19:52:11.216Z",
       "link": "https://www.leparisien.fr/faits-divers/charente-un-instituteur-mise-en-examen-pour-des-agressions-sexuelles-sur-quatre-enfants-14-10-2026-ZI3F25XXVJFC5MCVWRK6BTOQLI.php",
       "score": 90,
       "summary": "Point de situation critique concernant : Charente : un instituteur mis en examen pour des agressions sexuelles sur quatre..."
@@ -549,7 +525,7 @@
     {
       "title": "« C’était un plaisir coupable, j’ai honte », l’ancien animateur, soupçonné d’agressions sexuelles à Angers, libéré sous contrôle judiciaire",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-10-15T13:18:58.004Z",
+      "time": "2026-10-15T19:52:11.216Z",
       "link": "https://www.leparisien.fr/faits-divers/cetait-un-plaisir-coupable-jai-honte-lancien-animateur-soupconne-dagressions-sexuelles-a-angers-libere-sous-controle-judiciaire-14-10-2026-IHSDRCDWYBB6TAB4L2ZCAHKMUE.php",
       "score": 90,
       "summary": "Point de situation critique concernant : « C’était un plaisir coupable, j’ai honte », l’ancien animateur, soupçonné d’agr..."
@@ -557,7 +533,7 @@
     {
       "title": "Corinne Narassiguin, sénatrice, prise dans une fusillade à Sevran : « Je n’ai pas eu le temps d’avoir peur »",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-10-15T13:18:58.004Z",
+      "time": "2026-10-15T19:52:11.216Z",
       "link": "https://www.leparisien.fr/seine-saint-denis-93/corinne-narassiguin-senatrice-prise-dans-une-fusillade-a-sevran-je-nai-pas-eu-le-temps-davoir-peur-14-10-2026-2FFT4HL7FVDC7M2E477QXTNVK4.php",
       "score": 90,
       "summary": "Point de situation critique concernant : Corinne Narassiguin, sénatrice, prise dans une fusillade à Sevran : « Je n’ai pa..."
@@ -565,7 +541,7 @@
     {
       "title": "Procès de l’assassinat de Brahim Kessaci : aux origines sanglantes de la DZ Mafia",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-10-15T13:18:58.004Z",
+      "time": "2026-10-15T19:52:11.216Z",
       "link": "https://www.leparisien.fr/faits-divers/proces-de-lassassinat-de-brahim-kessaci-aux-origines-sanglantes-de-la-dz-mafia-14-10-2026-CYL322BPC5FSPEICAJQMVUKPF4.php",
       "score": 90,
       "summary": "aux origines sanglantes de la DZ Mafia"
@@ -573,7 +549,7 @@
     {
       "title": "Procès du meurtre d’Iris Coëtmen : « Le 27 mai, on est tous un peu morts aussi »",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-10-15T13:18:58.004Z",
+      "time": "2026-10-15T19:52:11.216Z",
       "link": "https://www.leparisien.fr/faits-divers/proces-du-meurtre-diris-coetmen-le-27-mai-on-est-tous-un-peu-morts-aussi-14-10-2026-JP5BP4PGMFH47ASKTBFRW6LUX4.php",
       "score": 90,
       "summary": "Point de situation critique concernant : Procès du meurtre d’Iris Coëtmen : « Le 27 mai, on est tous un peu morts aussi »..."
@@ -581,7 +557,7 @@
     {
       "title": "Un adolescent tué d’une balle dans la tête près de Bordeaux : la tête du suspect mise à prix à 50 000 euros par les proches",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-10-15T13:18:58.004Z",
+      "time": "2026-10-15T19:52:11.216Z",
       "link": "https://www.leparisien.fr/faits-divers/un-adolescent-tue-dune-balle-dans-la-tete-pres-de-bordeaux-la-tete-du-suspect-mise-a-prix-a-50-000-euros-par-les-proches-14-10-2026-V2Q3WXKMAFHZ5MZ45MBTTNKJIM.php",
       "score": 90,
       "summary": "Point de situation critique concernant : Un adolescent tué d’une balle dans la tête près de Bordeaux : la tête du suspect..."
@@ -589,7 +565,7 @@
     {
       "title": "Soupçons de viols sur des adolescentes : l’animateur Sébastien Cauet interrogé par des juges d’instruction",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-10-15T13:18:58.004Z",
+      "time": "2026-10-15T19:52:11.216Z",
       "link": "https://www.leparisien.fr/faits-divers/soupcons-de-viols-sur-des-adolescentes-lanimateur-sebastien-cauet-interroge-par-des-juges-dinstruction-14-10-2026-MNRQRDJ55FEYJFQNMYGY4DJZNU.php",
       "score": 90,
       "summary": "Point de situation critique concernant : Soupçons de viols sur des adolescentes : l’animateur Sébastien Cauet interrogé p..."
@@ -597,7 +573,7 @@
     {
       "title": "« Des mouvements de va-et-vient contre son derrière » : un robot humanoïde accusé d’agression sexuelle à Cologne",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-10-15T13:18:58.004Z",
+      "time": "2026-10-15T19:52:11.216Z",
       "link": "https://www.leparisien.fr/faits-divers/des-mouvements-de-va-et-vient-contre-son-derriere-un-robot-humanoide-accuse-dagression-sexuelle-a-cologne-14-10-2026-MQNUFMW56VCWPNVIAXE55XBQHI.php",
       "score": 90,
       "summary": "Point de situation critique concernant : « Des mouvements de va-et-vient contre son derrière » : un robot humanoïde accus..."
@@ -605,7 +581,7 @@
     {
       "title": "Saint-Denis : des membres du personnel du lycée Paul-Éluard dénoncent une intervention « violente » de la police dans l’établissement",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-10-15T13:18:58.004Z",
+      "time": "2026-10-15T19:52:11.215Z",
       "link": "https://www.leparisien.fr/seine-saint-denis-93/saint-denis-des-membres-du-personnel-du-lycee-paul-eluard-denoncent-une-intervention-violente-de-la-police-dans-letablissement-15-10-2026-4KDWQ2BBEBBTROHOADJY3CKUFU.php",
       "score": 90,
       "summary": "Point de situation critique concernant : Saint-Denis : des membres du personnel du lycée Paul-Éluard dénoncent une interv..."
@@ -613,7 +589,7 @@
     {
       "title": "Espagne : le parquet ouvre la voie à d’éventuelles poursuites contre Julio Iglesias, accusé d’agressions sexuelles",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-10-15T13:18:58.004Z",
+      "time": "2026-10-15T19:52:11.215Z",
       "link": "https://www.leparisien.fr/faits-divers/espagne-le-parquet-ouvre-la-voie-a-deventuelles-poursuites-contre-julio-iglesias-accuse-dagressions-sexuelles-15-10-2026-LWB2QZYXKJCMPPJC2ZFZYIGDDE.php",
       "score": 90,
       "summary": "Point de situation critique concernant : Espagne : le parquet ouvre la voie à d’éventuelles poursuites contre Julio Igles..."
@@ -621,7 +597,7 @@
     {
       "title": "[CYBER] Le gendarme de la cybersecurité a sauvé le pirate.",
       "source": "Le Monde Informatique",
-      "time": "2026-10-15T13:17:37.362Z",
+      "time": "2026-10-15T19:50:27.007Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-anssi-le-gendarme-de-la-cybersecurite-francais-pirate-100833.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Le gendarme de la cybersecurité a sauvé le pirate...."
@@ -637,7 +613,7 @@
     {
       "title": "[CYBER] Les entreprises qui passent la frontière en 2026",
       "source": "Le Monde Informatique",
-      "time": "2026-10-15T13:17:30.799Z",
+      "time": "2026-10-15T19:50:17.689Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-cybersecurite-en-2026-les-entreprises-passent-de-la-defense-a-la-resilience-100839.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Les entreprises qui passent la frontière en 2026..."
@@ -645,7 +621,7 @@
     {
       "title": "[CYBER] Mistral d'équipement de grande taille 4, un mod le plus de 1 000 milliards de paramètres",
       "source": "Le Monde Informatique",
-      "time": "2026-10-15T13:17:34.664Z",
+      "time": "2026-10-15T19:50:23.175Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-mistral-devoile-large-4-un-modele-a-plus-de-1-000-milliards-de-parametres-100838.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Mistral d'équipement de grande taille 4, un mod le plus de 1 000 milliar..."
@@ -653,7 +629,7 @@
     {
       "title": "[CYBER] La confiance dans la richesse: les entreprises qui respectent la loi et la conformité",
       "source": "Le Monde Informatique",
-      "time": "2026-10-15T13:17:28.972Z",
+      "time": "2026-10-15T19:50:15.056Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-confiance-numerique-les-entreprises-francaises-privilegient-la-securite-et-la-conformite-100840.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] La confiance dans la richesse: les entreprises qui respectent la loi et ..."
@@ -661,7 +637,7 @@
     {
       "title": "[CYBER] La plateforme de vote en ligne pour la primaire de gauche, victime d'une cyberattaque",
       "source": "Le Monde Informatique",
-      "time": "2026-10-15T13:17:21.922Z",
+      "time": "2026-10-15T19:50:04.856Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-la-plateforme-de-vote-en-ligne-pour-la-primaire-de-gauche-victime-d-une-cyberattaque-100845.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] La plateforme de vote en ligne pour la primaire de gauche, victime d'une..."
@@ -669,7 +645,7 @@
     {
       "title": "[CYBER] D tecteur d'IA: ouvre Google SynthID Detector au grand public",
       "source": "Le Monde Informatique",
-      "time": "2026-10-15T13:17:24.688Z",
+      "time": "2026-10-15T19:50:08.940Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-detecteur-d-ia-google-ouvre-synthid-detector-au-grand-public-100842.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] D tecteur d'IA: ouvre Google SynthID Detector au grand public..."
@@ -677,7 +653,7 @@
     {
       "title": "[CYBER] Le muscle orange offre SecNumCloud",
       "source": "Le Monde Informatique",
-      "time": "2026-10-15T13:17:26.120Z",
+      "time": "2026-10-15T19:50:10.968Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-orange-muscle-son-offre-secnumcloud-100841.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Le muscle orange offre SecNumCloud..."
@@ -685,7 +661,7 @@
     {
       "title": "[CYBER] Une cyberattaque perturbe les installations frigorifiques de centaines de supermarchés",
       "source": "Le Monde Informatique",
-      "time": "2026-10-15T13:17:18.288Z",
+      "time": "2026-10-15T19:49:59.764Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-une-cyberattaque-perturbe-les-installations-frigorifiques-de-centaines-de-supermarches-100850.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Une cyberattaque perturbe les installations frigorifiques de centaines d..."
@@ -693,10 +669,18 @@
     {
       "title": "[CYBER] La CNF signale une fuite de don sur la plateforme Vacaf",
       "source": "Le Monde Informatique",
-      "time": "2026-10-15T13:17:15.211Z",
+      "time": "2026-10-15T19:49:55.460Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-la-cnaf-signale-une-fuite-de-donnees-sur-sa-plateforme-vacaf-100851.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] La CNF signale une fuite de don sur la plateforme Vacaf..."
+    },
+    {
+      "title": "[CYBER] Microsoft corrige un record de 1 411 défaillances de la cour",
+      "source": "Le Monde Informatique",
+      "time": "2026-10-15T19:49:51.618Z",
+      "link": "https://www.lemondeinformatique.fr/actualites/lire-microsoft-corrige-un-nombre-record-de-1-411-failles-de-securite-100853.html",
+      "score": 90,
+      "summary": "Point de situation critique concernant : [CYBER] Microsoft corrige un record de 1 411 défaillances de la cour..."
     }
   ]
 }
