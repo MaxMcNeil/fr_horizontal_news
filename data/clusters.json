@@ -21,9 +21,10 @@
   {
     "title": "Mayenne : un gendarme placé en garde à vue après un tir mortel sur un forcené",
     "score": 97,
-    "count": 3,
+    "count": 4,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "https://www.sudouest.fr/faits-divers/rss.xml"
     ],
     "items": [
       {
@@ -45,10 +46,18 @@
       {
         "title": "Fusillade d’Aubagne : un second mineur placé en garde à vue, après les tirs d’un élève sur un proviseur de collège et une professeure",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-16T04:10:16.422Z",
+        "time": "2026-10-16T13:11:00.360Z",
         "link": "https://www.leparisien.fr/faits-divers/fusillade-daubagne-un-second-mineur-place-en-garde-a-vue-apres-les-tirs-dun-eleve-sur-un-proviseur-de-college-et-une-professeure-15-10-2026-EM4VZ6SRIBDFLCT2KMAMF5Z4XA.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Fusillade d’Aubagne : un second mineur placé en garde à vue, après les tirs d’un..."
+      },
+      {
+        "title": "Dax : un homme placé en garde à vue après avoir été menaçant avec une machette",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-10-16T04:37:00.000Z",
+        "link": "https://www.sudouest.fr/faits-divers/faits-divers-dans-les-landes/dax-un-homme-place-en-garde-a-vue-apres-avoir-ete-menacant-avec-une-machette-31087845.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Dax : un homme placé en garde à vue après avoir été menaçant avec une machette..."
       }
     ],
     "summary": "Mayenne : un gendarme placé en garde à vue après un tir mortel sur un forcené / Tir mortel sur un forcené en Mayenne : la garde à vue du gendarme levée"
@@ -98,7 +107,7 @@
       {
         "title": "Charente : un instituteur mis en examen pour des agressions sexuelles sur quatre enfants",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-16T04:10:16.422Z",
+        "time": "2026-10-16T13:11:00.360Z",
         "link": "https://www.leparisien.fr/faits-divers/charente-un-instituteur-mise-en-examen-pour-des-agressions-sexuelles-sur-quatre-enfants-14-10-2026-ZI3F25XXVJFC5MCVWRK6BTOQLI.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Charente : un instituteur mis en examen pour des agressions sexuelles sur quatre..."
@@ -126,62 +135,6 @@
     "summary": "Un homme tué à l’arme blanche lors d’une rixe à Toulouse, huit personnes en garde à vue"
   },
   {
-    "title": "« J’ai entendu qu’il me disait d’appuyer » : un salarié avait eu trois doigts amputés, son entreprise et une collègue condamnées à des amendes",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "« J’ai entendu qu’il me disait d’appuyer » : un salarié avait eu trois doigts amputés, son entreprise et une collègue condamnées à des amendes",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-14T04:30:15.204Z",
-        "link": "https://www.leparisien.fr/oise-60/jai-entendu-quil-me-disait-dappuyer-un-salarie-avait-eu-trois-doigts-amputes-son-entreprise-et-une-collegue-condamnees-a-des-amendes-12-10-2026-7SQBOWDBTZDLXET2TNNREHTE5I.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : « J’ai entendu qu’il me disait d’appuyer » : un salarié avait eu trois doigts am..."
-      }
-    ],
-    "summary": "« J’ai entendu qu’il me disait d’appuyer » : un salarié avait eu trois doigts amputés, son entreprise et une collègue condamnées à des amendes"
-  },
-  {
-    "title": "Aubagne : le principal d’un collège et une enseignante blessés par balles, les parents du tireur en garde à vue",
-    "score": 97,
-    "count": 3,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.franceinfo.fr/faits-divers.rss",
-      "https://www.lemonde.fr/justice/rss_full.xml"
-    ],
-    "items": [
-      {
-        "title": "Aubagne : le principal d’un collège et une enseignante blessés par balles, les parents du tireur en garde à vue",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-14T04:30:15.204Z",
-        "link": "https://www.leparisien.fr/faits-divers/direct-aubagne-le-principal-dun-college-et-une-enseignante-blesses-par-balles-plusieurs-ministres-attendus-sur-place-12-10-2026-FSNZ42ZOUBBWZMB6SUX676IHRY.php",
-        "score": 97,
-        "summary": "le principal d’un collège et une enseignante blessés par balles, les parents du tireur en garde à vue"
-      },
-      {
-        "title": "L'adolescent de 14 ans qui a blessé par balles un principal et une enseignante à Aubagne mis en examen et placé en détention provisoire",
-        "source": "https://www.franceinfo.fr/faits-divers.rss",
-        "time": "2026-10-14T21:14:46.000Z",
-        "link": "https://www.franceinfo.fr/societe/justice/l-adolescent-de-14-ans-qui-a-blesse-par-balles-un-principal-et-une-enseignante-a-aubagne-place-en-detention-provisoire_8237785.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 97,
-        "summary": "Point de situation critique concernant : L'adolescent de 14 ans qui a blessé par balles un principal et une enseignante à..."
-      },
-      {
-        "title": "Tirs dans un collège à Aubagne : un adolescent de 13 ans soupçonné d’avoir été en lien avec le tireur a été placé en garde à vue",
-        "source": "https://www.lemonde.fr/justice/rss_full.xml",
-        "time": "2026-10-15T10:00:53.000Z",
-        "link": "https://www.lemonde.fr/societe/article/2026/10/15/aubagne-un-adolescent-de-13-ans-soupconne-d-avoir-ete-en-lien-avec-le-tireur-a-ete-place-en-garde-a-vue_6794430_3224.html",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Tirs dans un collège à Aubagne : un adolescent de 13 ans soupçonné d’avoir été e..."
-      }
-    ],
-    "summary": "Aubagne : le principal d’un collège et une enseignante blessés par balles, les parents du tireur en garde à vue / L'adolescent de 14 ans qui a blessé par balles un principal et une enseignante à Aubagne mis en examen et placé en détention provisoire"
-  },
-  {
     "title": "Vingt ans après l’assassinat sauvage d’une ouvrière viticole près de Bordeaux, un suspect en garde à vue",
     "score": 97,
     "count": 2,
@@ -200,7 +153,7 @@
       {
         "title": "Assassinat sauvage d’une ouvrière viticole en 2006 près de Bordeaux : la garde à vue du suspect levée",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-16T04:10:16.422Z",
+        "time": "2026-10-16T13:11:00.360Z",
         "link": "https://www.leparisien.fr/faits-divers/assassinat-sauvage-dune-ouvriere-viticole-en-2006-pres-de-bordeaux-la-garde-a-vue-du-suspect-levee-14-10-2026-XHU35MVWTFEMHKUQL4Q3Q27OS4.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Assassinat sauvage d’une ouvrière viticole en 2006 près de Bordeaux : la garde à..."
@@ -287,7 +240,7 @@
       {
         "title": "Francis Renaud : l’acteur placé en détention provisoire pour viols après une plainte de son ex-compagne",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-16T04:10:16.421Z",
+        "time": "2026-10-16T13:11:00.359Z",
         "link": "https://www.leparisien.fr/culture-loisirs/cinema/francis-renaud-lacteur-place-en-detention-provisoire-pour-viols-apres-une-plainte-de-son-ex-compagne-15-10-2026-GAN3HUCE3FEH5CBFYPLZJPAJ2Y.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Francis Renaud : l’acteur placé en détention provisoire pour viols après une pla..."
@@ -338,7 +291,7 @@
       {
         "title": "Guyane : un garçon de 7 ans retrouvé mort après avoir été oublié dans un car scolaire, une enquête ouverte",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-16T04:10:16.422Z",
+        "time": "2026-10-16T13:11:00.360Z",
         "link": "https://www.leparisien.fr/faits-divers/guyane-un-garcon-de-7-ans-retrouve-mort-apres-avoir-ete-oublie-dans-un-car-scolaire-une-enquete-ouverte-14-10-2026-XCZZBFTCSRARLDPIZGCF5UQWUA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Guyane : un garçon de 7 ans retrouvé mort après avoir été oublié dans un car sco..."
@@ -393,58 +346,21 @@
     "summary": "Meurtre de Tupac Shakur : un ex-membre de gang condamné à 40 ans de prison minimum / Chef d’un gang de Los Angeles, fils d’un Marine, descendant d’esclave : qui est Duane Davis, condamné pour le meurtre de Tupac ?"
   },
   {
-    "title": "Agressions sexuelles sur cinq élèves près d’Angoulême : l’enseignant avait déjà été placé en garde à vue en juillet",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.sudouest.fr/faits-divers/rss.xml"
-    ],
-    "items": [
-      {
-        "title": "Agressions sexuelles sur cinq élèves près d’Angoulême : l’enseignant avait déjà été placé en garde à vue en juillet",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-10-14T08:26:09.000Z",
-        "link": "https://www.sudouest.fr/faits-divers/un-instituteur-de-maternelle-interpelle-en-classe-pour-agressions-sexuelles-sur-cinq-eleves-a-angouleme-31065739.php",
-        "score": 97,
-        "summary": "l’enseignant avait déjà été placé en garde à vue en juillet"
-      }
-    ],
-    "summary": "Agressions sexuelles sur cinq élèves près d’Angoulême : l’enseignant avait déjà été placé en garde à vue en juillet"
-  },
-  {
-    "title": " Elle a survécu à 5 placements en redressement judiciaire : la verrerie Duralex reprise par l’entrepreneur Cédric Meston… mais pas sans casse ",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.challenges.fr/rss.xml"
-    ],
-    "items": [
-      {
-        "title": " Elle a survécu à 5 placements en redressement judiciaire : la verrerie Duralex reprise par l’entrepreneur Cédric Meston… mais pas sans casse ",
-        "source": "https://www.challenges.fr/rss.xml",
-        "time": "2026-10-14T12:11:00.000Z",
-        "link": " https://www.challenges.fr/entreprise/industrie/elle-a-survecu-a-5-placements-en-redressement-judiciaire-la-verrerie-duralex-reprise-par-lentrepreneur-cedric-meston-mais-pas-sans-casse_646364 ",
-        "score": 97,
-        "summary": "Point de situation critique concernant :  Elle a survécu à 5 placements en redressement judiciaire : la verrerie Duralex ..."
-      }
-    ],
-    "summary": " Elle a survécu à 5 placements en redressement judiciaire : la verrerie Duralex reprise par l’entrepreneur Cédric Meston… mais pas sans casse "
-  },
-  {
     "title": "Abdallah, 22 ans, mortellement poignardé en sortant d’une discothèque en Essonne : un homme placé en détention provisoire",
     "score": 97,
-    "count": 4,
+    "count": 5,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
       "https://www.sudouest.fr/faits-divers/rss.xml",
       "https://www.lemonde.fr/societe/rss_full.xml",
+      "https://www.franceinfo.fr/faits-divers.rss",
       "https://www.lefigaro.fr/rss/figaro_actualites.xml"
     ],
     "items": [
       {
         "title": "Abdallah, 22 ans, mortellement poignardé en sortant d’une discothèque en Essonne : un homme placé en détention provisoire",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-16T04:10:16.422Z",
+        "time": "2026-10-16T13:11:00.360Z",
         "link": "https://www.leparisien.fr/essonne-91/abdallah-22-ans-mortellement-poignarde-devant-une-discotheque-en-essonne-un-homme-place-en-detention-provisoire-14-10-2026-WHPZ4MGOAVG73KBTNOXQU6Z5OQ.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Abdallah, 22 ans, mortellement poignardé en sortant d’une discothèque en Essonne..."
@@ -466,6 +382,14 @@
         "summary": "Point de situation critique concernant : Attaque dans un collège d’Aubagne : l’adolescent de 14 ans placé en détention pr..."
       },
       {
+        "title": "L'adolescent de 14 ans qui a blessé par balles un principal et une enseignante à Aubagne mis en examen et placé en détention provisoire",
+        "source": "https://www.franceinfo.fr/faits-divers.rss",
+        "time": "2026-10-14T21:14:46.000Z",
+        "link": "https://www.franceinfo.fr/societe/justice/l-adolescent-de-14-ans-qui-a-blesse-par-balles-un-principal-et-une-enseignante-a-aubagne-place-en-detention-provisoire_8237785.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 97,
+        "summary": "Point de situation critique concernant : L'adolescent de 14 ans qui a blessé par balles un principal et une enseignante à..."
+      },
+      {
         "title": "Fusillade dans un collège à Aubagne : le tireur de 14 ans mis en examen et placé en détention provisoire",
         "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
         "time": "2026-10-14T21:20:29.000Z",
@@ -479,9 +403,10 @@
   {
     "title": "Une aide-soignante mise en examen et placée en détention provisoire pour avoir empoisonné et volé des bijoux de résidentes d'Ehpad à Menton",
     "score": 97,
-    "count": 1,
+    "count": 2,
     "sources": [
-      "https://www.franceinfo.fr/faits-divers.rss"
+      "https://www.franceinfo.fr/faits-divers.rss",
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
     "items": [
       {
@@ -491,9 +416,17 @@
         "link": "https://www.franceinfo.fr/societe/justice/une-aide-soignante-mise-en-examen-pour-avoir-empoissonne-et-vole-des-bijoux-de-residentes-d-ehpad-a-menton_8237602.html#xtor=RSS-3-%5Bgeneral%5D",
         "score": 97,
         "summary": "Point de situation critique concernant : Une aide-soignante mise en examen et placée en détention provisoire pour avoir e..."
+      },
+      {
+        "title": "« Elles m’ont pris pour Mbappé » : l’arnaqueur des soirées parisiennes VIP échappe à la détention provisoire… pour le moment",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-16T13:11:00.359Z",
+        "link": "https://www.leparisien.fr/faits-divers/elles-mont-pris-pour-mbappe-larnaqueur-des-soirees-parisiennes-vip-echappe-a-la-detention-provisoire-pour-le-moment-16-10-2026-QCBN65WFP5FWFNESZRX22C3E4A.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : « Elles m’ont pris pour Mbappé » : l’arnaqueur des soirées parisiennes VIP échap..."
       }
     ],
-    "summary": "Une aide-soignante mise en examen et placée en détention provisoire pour avoir empoisonné et volé des bijoux de résidentes d'Ehpad à Menton"
+    "summary": "Une aide-soignante mise en examen et placée en détention provisoire pour avoir empoisonné et volé des bijoux de résidentes d'Ehpad à Menton / « Elles m’ont pris pour Mbappé » : l’arnaqueur des soirées parisiennes VIP échappe à la détention provisoire… pour le moment"
   },
   {
     "title": "Gironde : il pillait une zone évacuée durant le mégafeu, un cambrioleur condamné à deux ans de prison ferme",
@@ -535,10 +468,11 @@
   {
     "title": "Un Marmandais condamné pour proxénétisme aggravé il y a deux mois, revient à la barre pour tentative d’extorsion",
     "score": 97,
-    "count": 2,
+    "count": 4,
     "sources": [
       "https://www.sudouest.fr/faits-divers/rss.xml",
-      "https://www.lemonde.fr/economie/rss_full.xml"
+      "https://www.lemonde.fr/justice/rss_full.xml",
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
     "items": [
       {
@@ -551,11 +485,27 @@
       },
       {
         "title": "Le président de la Coordination rurale condamné à une amende pour avoir appelé à « faire la peau aux écolos »",
-        "source": "https://www.lemonde.fr/economie/rss_full.xml",
+        "source": "https://www.lemonde.fr/justice/rss_full.xml",
         "time": "2026-10-15T15:27:23.000Z",
         "link": "https://www.lemonde.fr/planete/article/2026/10/15/le-president-de-la-coordination-rurale-condamne-a-une-amende-pour-avoir-appele-a-faire-la-peau-aux-ecolos_6794569_3244.html",
         "score": 97,
         "summary": "Point de situation critique concernant : Le président de la Coordination rurale condamné à une amende pour avoir appelé à..."
+      },
+      {
+        "title": "« Pas digne d’exercer » : un policier marseillais condamné pour avoir averti un ami d’un contrôle imminent de l’URSSAF",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-16T13:11:00.359Z",
+        "link": "https://www.leparisien.fr/faits-divers/pas-digne-dexercer-un-policier-marseillais-condamne-pour-avoir-averti-un-ami-dun-controle-imminent-de-lurssaf-16-10-2026-STPIXH4QPFHALBI6TWIJ47BG4Y.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : « Pas digne d’exercer » : un policier marseillais condamné pour avoir averti un ..."
+      },
+      {
+        "title": "Un policier en arrêt maladie se fait embaucher par un détective : les deux hommes poursuivis pour corruption et travail dissimulé à Toulouse",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-16T13:11:00.359Z",
+        "link": "https://www.leparisien.fr/faits-divers/un-policier-en-arret-maladie-se-fait-embaucher-par-un-detective-les-deux-hommes-poursuivis-pour-corruption-et-travail-dissimule-a-toulouse-16-10-2026-D3VXY35MOVEERDNXQ2XW6HBMNU.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Un policier en arrêt maladie se fait embaucher par un détective : les deux homme..."
       }
     ],
     "summary": "Un Marmandais condamné pour proxénétisme aggravé il y a deux mois, revient à la barre pour tentative d’extorsion / Le président de la Coordination rurale condamné à une amende pour avoir appelé à « faire la peau aux écolos »"
@@ -661,20 +611,21 @@
     "count": 3,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "https://www.lemonde.fr/justice/rss_full.xml",
       "https://www.lemonde.fr/societe/rss_full.xml"
     ],
     "items": [
       {
         "title": "Enlèvement d’un enfant, préparation d’un coup d’État… Rémy Daillet, à la tête d’un groupuscule d’ultradroite, condamné à six ans de prison",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-16T04:10:16.421Z",
+        "time": "2026-10-16T13:11:00.360Z",
         "link": "https://www.leparisien.fr/faits-divers/enlevement-dun-enfant-preparation-dun-coup-detat-remy-daillet-a-la-tete-dun-groupuscule-dultradroite-condamne-a-six-ans-de-prison-15-10-2026-TYIIWAOW2JB2HPUYMWYGI6VX3Y.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Enlèvement d’un enfant, préparation d’un coup d’État… Rémy Daillet, à la tête d’..."
       },
       {
         "title": "Pourquoi Rémy Daillet, chef d’un groupuscule complotiste d’ultradroite, a été condamné à six ans de prison",
-        "source": "https://www.lemonde.fr/societe/rss_full.xml",
+        "source": "https://www.lemonde.fr/justice/rss_full.xml",
         "time": "2026-10-15T12:54:49.000Z",
         "link": "https://www.lemonde.fr/societe/article/2026/10/15/pourquoi-remy-daillet-chef-d-un-groupuscule-complotiste-d-ultradroite-a-ete-condamne-a-six-ans-de-prison_6794446_3224.html",
         "score": 97,
@@ -702,7 +653,7 @@
       {
         "title": "Scandale du périscolaire à Paris : une « crise systémique » et des années de défaillances dénoncées dans le rapport Evren",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-16T04:10:16.421Z",
+        "time": "2026-10-16T13:11:00.360Z",
         "link": "https://www.leparisien.fr/paris-75/scandale-du-periscolaire-a-paris-une-crise-systemique-et-des-annees-de-defaillances-denoncees-dans-le-rapport-evren-15-10-2026-7DV7VEAI25BMVAT32F4RCAX3BE.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Scandale du périscolaire à Paris : une « crise systémique » et des années de déf..."
@@ -721,7 +672,7 @@
       {
         "title": "Trafic de drogue, blanchiment et héritage : à Paris, les drôles d’embrouilles de la famille K.",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-16T04:10:16.421Z",
+        "time": "2026-10-16T13:11:00.360Z",
         "link": "https://www.leparisien.fr/faits-divers/trafic-de-drogue-blanchiment-et-heritage-a-paris-les-droles-dembrouilles-de-la-famille-k-15-10-2026-SYV4F55LXJFHJOMWYLI2VVPKSA.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Trafic de drogue, blanchiment et héritage : à Paris, les drôles d’embrouilles de..."
@@ -730,14 +681,25 @@
     "summary": "Trafic de drogue, blanchiment et héritage : à Paris, les drôles d’embrouilles de la famille K."
   },
   {
-    "title": "Fusillade à Aubagne : un autre mineur placé en garde à vue, il était en lien avec le collégien-tireur via TikTok",
+    "title": "Tirs dans un collège à Aubagne : un adolescent de 13 ans soupçonné d’avoir été en lien avec le tireur a été placé en garde à vue",
     "score": 97,
-    "count": 2,
+    "count": 5,
     "sources": [
+      "https://www.lemonde.fr/justice/rss_full.xml",
       "https://www.sudouest.fr/faits-divers/rss.xml",
-      "https://www.20minutes.fr/feeds/rss-une.xml"
+      "https://www.20minutes.fr/feeds/rss-une.xml",
+      "https://www.cnews.fr/rss/categorie/faits%20divers",
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
     "items": [
+      {
+        "title": "Tirs dans un collège à Aubagne : un adolescent de 13 ans soupçonné d’avoir été en lien avec le tireur a été placé en garde à vue",
+        "source": "https://www.lemonde.fr/justice/rss_full.xml",
+        "time": "2026-10-15T10:00:53.000Z",
+        "link": "https://www.lemonde.fr/societe/article/2026/10/15/aubagne-un-adolescent-de-13-ans-soupconne-d-avoir-ete-en-lien-avec-le-tireur-a-ete-place-en-garde-a-vue_6794430_3224.html",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Tirs dans un collège à Aubagne : un adolescent de 13 ans soupçonné d’avoir été e..."
+      },
       {
         "title": "Fusillade à Aubagne : un autre mineur placé en garde à vue, il était en lien avec le collégien-tireur via TikTok",
         "source": "https://www.sudouest.fr/faits-divers/rss.xml",
@@ -753,9 +715,25 @@
         "link": "https://www.20minutes.fr/societe/4254496-20261015-fusillade-college-aubagne-autre-ado-place-garde-vue?at_medium=display&at_campaign=149",
         "score": 97,
         "summary": "Point de situation critique concernant : Fusillade dans un collège d’Aubagne : Un deuxième ado placé en garde à vue..."
+      },
+      {
+        "title": "Fusillade à Aubagne : ce que l'on sait du mineur de 13 ans soupçonné d’avoir été en lien avec le tireur et placé en garde à vue",
+        "source": "https://www.cnews.fr/rss/categorie/faits%20divers",
+        "time": "2026-10-16T07:09:13.000Z",
+        "link": "https://www.cnews.fr/faits-divers/2026-10-16/fusillade-aubagne-ce-que-lon-sait-du-mineur-de-13-ans-soupconne-davoir-ete",
+        "score": 97,
+        "summary": "ce que l'on sait du mineur de 13 ans soupçonné d’avoir été en lien avec le tireur et placé en garde à vue"
+      },
+      {
+        "title": "Fusillade dans un collège à Aubagne : l’adolescent de 14 ans mis en examen et écroué",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-16T13:11:00.360Z",
+        "link": "https://www.leparisien.fr/faits-divers/fusillade-dans-un-college-a-aubagne-ladolescent-de-14-ans-reconnait-les-faits-mais-conteste-avoir-voulu-tuer-14-10-2026-UO6DQTMJF5GUZK5LVBRC3D4AQM.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Fusillade dans un collège à Aubagne : l’adolescent de 14 ans mis en examen et éc..."
       }
     ],
-    "summary": "Fusillade à Aubagne : un autre mineur placé en garde à vue, il était en lien avec le collégien-tireur via TikTok / Fusillade dans un collège d’Aubagne : Un deuxième ado placé en garde à vue"
+    "summary": "Tirs dans un collège à Aubagne : un adolescent de 13 ans soupçonné d’avoir été en lien avec le tireur a été placé en garde à vue / Fusillade à Aubagne : un autre mineur placé en garde à vue, il était en lien avec le collégien-tireur via TikTok"
   },
   {
     "title": "« J’espère que ces semeurs de haine seront condamnés » : la crêpière de Gomené injuriée passe à l’offensive",
@@ -768,7 +746,7 @@
       {
         "title": "« J’espère que ces semeurs de haine seront condamnés » : la crêpière de Gomené injuriée passe à l’offensive",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-16T04:10:16.421Z",
+        "time": "2026-10-16T13:11:00.359Z",
         "link": "https://www.leparisien.fr/faits-divers/jespere-que-ces-semeurs-de-haine-seront-condamnes-la-crepiere-de-gomene-injuriee-passe-a-loffensive-15-10-2026-TCGFPGSNOREM3BDYTGBMR4SADU.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « J’espère que ces semeurs de haine seront condamnés » : la crêpière de Gomené i..."
@@ -798,9 +776,10 @@
   {
     "title": "Marine Le Pen exige la démission de Richard Ferrand, le Conseil constitutionnel fait corps avec son président",
     "score": 97,
-    "count": 1,
+    "count": 2,
     "sources": [
-      "https://www.lemonde.fr/politique/rss_full.xml"
+      "https://www.lemonde.fr/politique/rss_full.xml",
+      "https://www.francetvinfo.fr/politique.rss"
     ],
     "items": [
       {
@@ -810,9 +789,17 @@
         "link": "https://www.lemonde.fr/politique/article/2026/10/15/marine-le-pen-exige-la-demission-de-richard-ferrand-le-conseil-constitutionnel-fait-corps-avec-son-president_6794623_823448.html",
         "score": 97,
         "summary": "Point de situation critique concernant : Marine Le Pen exige la démission de Richard Ferrand, le Conseil constitutionnel ..."
+      },
+      {
+        "title": "Les parlementaires RN et UDR saisissent le Conseil constitutionnel pour réclamer \"la démission d'office\" de son président Richard Ferrand",
+        "source": "https://www.francetvinfo.fr/politique.rss",
+        "time": "2026-10-16T12:02:57.000Z",
+        "link": "https://www.franceinfo.fr/politique/les-parlementaires-rn-et-udr-saisissent-le-conseil-constitutionnel-pour-reclamer-la-demission-d-office-de-son-president-richard-ferrand_8240230.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Les parlementaires RN et UDR saisissent le Conseil constitutionnel pour réclamer..."
       }
     ],
-    "summary": "Marine Le Pen exige la démission de Richard Ferrand, le Conseil constitutionnel fait corps avec son président"
+    "summary": "Marine Le Pen exige la démission de Richard Ferrand, le Conseil constitutionnel fait corps avec son président / Les parlementaires RN et UDR saisissent le Conseil constitutionnel pour réclamer \"la démission d'office\" de son président Richard Ferrand"
   },
   {
     "title": "Etats-Unis : Trump renonce à diffuser en direct l’exécution d’un condamné à mort",
@@ -853,6 +840,25 @@
     "summary": "Ardèche. Maltraitance sur des animaux : un homme condamné à six mois de prison avec sursis"
   },
   {
+    "title": "Féminicide de Sandra Pla en 2021 à Bordeaux : Mickaël Falou condamné à la perpétuité",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.sudouest.fr/faits-divers/rss.xml"
+    ],
+    "items": [
+      {
+        "title": "Féminicide de Sandra Pla en 2021 à Bordeaux : Mickaël Falou condamné à la perpétuité",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-10-16T04:50:20.000Z",
+        "link": "https://www.sudouest.fr/justice/feminicide-de-sandra-pla-en-2021-a-bordeaux-mickael-falou-condamne-a-la-perpetuite-31093120.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Féminicide de Sandra Pla en 2021 à Bordeaux : Mickaël Falou condamné à la perpét..."
+      }
+    ],
+    "summary": "Féminicide de Sandra Pla en 2021 à Bordeaux : Mickaël Falou condamné à la perpétuité"
+  },
+  {
     "title": "Cyberattaque des installations frigorifiques de supermarchés : des systèmes américains également touchés",
     "score": 93,
     "count": 2,
@@ -872,7 +878,7 @@
       {
         "title": "[CYBER] Une cyberattaque perturbe les installations frigorifiques de centaines de supermarchés",
         "source": "Le Monde Informatique",
-        "time": "2026-10-16T04:08:06.432Z",
+        "time": "2026-10-16T13:09:38.203Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-une-cyberattaque-perturbe-les-installations-frigorifiques-de-centaines-de-supermarches-100850.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Une cyberattaque perturbe les installations frigorifiques de centaines d..."
@@ -910,7 +916,7 @@
       {
         "title": "Franc-maçonnerie : le Grand Orient de France victime d’une fuite de données, des documents nominatifs exposés",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-16T04:10:16.421Z",
+        "time": "2026-10-16T13:11:00.359Z",
         "link": "https://www.leparisien.fr/high-tech/franc-maconnerie-le-grand-orient-de-france-victime-dune-fuite-de-donnees-des-documents-nominatifs-exposes-15-10-2026-YNBCOPN2O5GZRNH524FLHDLVMU.php",
         "score": 93,
         "summary": "Point de situation critique concernant : Franc-maçonnerie : le Grand Orient de France victime d’une fuite de données, des..."
@@ -938,6 +944,42 @@
     "summary": "Ardèche. Le magasin Super U d’Annonay a été victime de la cyberattaque inédite"
   },
   {
+    "title": "Le site du parti Les Républicains a été piraté pour afficher un appel à manifester le 17 octobre, l'entourage de Bruno Retailleau annonce porter plainte",
+    "score": 93,
+    "count": 3,
+    "sources": [
+      "https://www.francetvinfo.fr/politique.rss",
+      "https://www.bfmtv.com/rss/politique/"
+    ],
+    "items": [
+      {
+        "title": "Le site du parti Les Républicains a été piraté pour afficher un appel à manifester le 17 octobre, l'entourage de Bruno Retailleau annonce porter plainte",
+        "source": "https://www.francetvinfo.fr/politique.rss",
+        "time": "2026-10-16T12:34:37.000Z",
+        "link": "https://www.franceinfo.fr/politique/les-republicains/le-site-des-republicains-a-ete-pirate-le-parti-politique-annonce-porter-plainte_8240143.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 93,
+        "summary": "Point de situation critique concernant : Le site du parti Les Républicains a été piraté pour afficher un appel à manifest..."
+      },
+      {
+        "title": "17 octobre: le site des Républicains piraté par des soutiens à la mobilisation",
+        "source": "https://www.bfmtv.com/rss/politique/",
+        "time": "2026-10-16T12:22:12.000Z",
+        "link": "https://www.bfmtv.com/politique/les-republicains/video-17-octobre-le-site-des-republicains-pirate-par-des-soutiens-a-la-mobilisation_VN-202610160492.html",
+        "score": 93,
+        "summary": "Point de situation critique concernant : 17 octobre: le site des Républicains piraté par des soutiens à la mobilisation..."
+      },
+      {
+        "title": "Le site des Républicains victime d'un piratage, un appel à rejoindre les manifestations du 17 octobre affiché",
+        "source": "https://www.bfmtv.com/rss/politique/",
+        "time": "2026-10-16T11:53:56.000Z",
+        "link": "https://www.bfmtv.com/politique/les-republicains/le-site-des-republicains-victime-d-un-piratage-un-appel-a-rejoindre-les-manifestations-du-17-octobre-lance_AN-202610160477.html",
+        "score": 93,
+        "summary": "Point de situation critique concernant : Le site des Républicains victime d'un piratage, un appel à rejoindre les manifes..."
+      }
+    ],
+    "summary": "Le site du parti Les Républicains a été piraté pour afficher un appel à manifester le 17 octobre, l'entourage de Bruno Retailleau annonce porter plainte / 17 octobre: le site des Républicains piraté par des soutiens à la mobilisation"
+  },
+  {
     "title": "Cour criminelle de l’Essonne : elle dénonce un viol sur un parking, son agresseur présumé a tout enregistré",
     "score": 90,
     "count": 1,
@@ -948,7 +990,7 @@
       {
         "title": "Cour criminelle de l’Essonne : elle dénonce un viol sur un parking, son agresseur présumé a tout enregistré",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-16T04:10:16.422Z",
+        "time": "2026-10-16T13:11:00.360Z",
         "link": "https://www.leparisien.fr/essonne-91/cour-criminelle-de-lessonne-elle-denonce-un-viol-sur-un-parking-son-agresseur-presume-a-tout-enregistre-14-10-2026-3TFAWT5PRBCKNH2CIEUMBQYYRA.php",
         "score": 90,
         "summary": "elle dénonce un viol sur un parking, son agresseur présumé a tout enregistré"
@@ -967,7 +1009,7 @@
       {
         "title": "Charente : un enseignant soupçonné d’agressions sexuelles et d’un viol sur des enfants de maternelle",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-16T04:10:16.422Z",
+        "time": "2026-10-16T13:11:00.360Z",
         "link": "https://www.leparisien.fr/faits-divers/charente-un-enseignant-soupconne-dagressions-sexuelles-et-dun-viol-sur-des-enfants-de-maternelle-14-10-2026-YNALX4I7D5B4FPEHA6FTQJUE7Q.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Charente : un enseignant soupçonné d’agressions sexuelles et d’un viol sur des e..."
@@ -975,32 +1017,13 @@
       {
         "title": "« C’était un plaisir coupable, j’ai honte », l’ancien animateur, soupçonné d’agressions sexuelles à Angers, libéré sous contrôle judiciaire",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-16T04:10:16.422Z",
+        "time": "2026-10-16T13:11:00.360Z",
         "link": "https://www.leparisien.fr/faits-divers/cetait-un-plaisir-coupable-jai-honte-lancien-animateur-soupconne-dagressions-sexuelles-a-angers-libere-sous-controle-judiciaire-14-10-2026-IHSDRCDWYBB6TAB4L2ZCAHKMUE.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « C’était un plaisir coupable, j’ai honte », l’ancien animateur, soupçonné d’agr..."
       }
     ],
     "summary": "Charente : un enseignant soupçonné d’agressions sexuelles et d’un viol sur des enfants de maternelle / « C’était un plaisir coupable, j’ai honte », l’ancien animateur, soupçonné d’agressions sexuelles à Angers, libéré sous contrôle judiciaire"
-  },
-  {
-    "title": "Fusillade dans un collège à Aubagne : l’adolescent de 14 ans mis en examen et écroué",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Fusillade dans un collège à Aubagne : l’adolescent de 14 ans mis en examen et écroué",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-16T04:10:16.422Z",
-        "link": "https://www.leparisien.fr/faits-divers/fusillade-dans-un-college-a-aubagne-ladolescent-de-14-ans-reconnait-les-faits-mais-conteste-avoir-voulu-tuer-14-10-2026-UO6DQTMJF5GUZK5LVBRC3D4AQM.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Fusillade dans un collège à Aubagne : l’adolescent de 14 ans mis en examen et éc..."
-      }
-    ],
-    "summary": "Fusillade dans un collège à Aubagne : l’adolescent de 14 ans mis en examen et écroué"
   },
   {
     "title": "Sevran : la sénatrice Corinne Narassiguin prise dans une fusillade alors qu’elle était dans un véhicule de la Bac",
@@ -1013,7 +1036,7 @@
       {
         "title": "Sevran : la sénatrice Corinne Narassiguin prise dans une fusillade alors qu’elle était dans un véhicule de la Bac",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-16T04:10:16.422Z",
+        "time": "2026-10-16T13:11:00.360Z",
         "link": "https://www.leparisien.fr/seine-saint-denis-93/sevran-la-senatrice-corinne-narassiguin-prise-dans-une-fusillade-alors-quelle-etait-dans-un-vehicule-de-la-bac-14-10-2026-OBLZTGDIRRDMDJGZLKPRRO5P4A.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Sevran : la sénatrice Corinne Narassiguin prise dans une fusillade alors qu’elle..."
@@ -1021,127 +1044,13 @@
       {
         "title": "Corinne Narassiguin, sénatrice, prise dans une fusillade à Sevran : « Je n’ai pas eu le temps d’avoir peur »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-16T04:10:16.422Z",
+        "time": "2026-10-16T13:11:00.360Z",
         "link": "https://www.leparisien.fr/seine-saint-denis-93/corinne-narassiguin-senatrice-prise-dans-une-fusillade-a-sevran-je-nai-pas-eu-le-temps-davoir-peur-14-10-2026-2FFT4HL7FVDC7M2E477QXTNVK4.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Corinne Narassiguin, sénatrice, prise dans une fusillade à Sevran : « Je n’ai pa..."
       }
     ],
     "summary": "Sevran : la sénatrice Corinne Narassiguin prise dans une fusillade alors qu’elle était dans un véhicule de la Bac / Corinne Narassiguin, sénatrice, prise dans une fusillade à Sevran : « Je n’ai pas eu le temps d’avoir peur »"
-  },
-  {
-    "title": "Procès de l’assassinat de Brahim Kessaci : aux origines sanglantes de la DZ Mafia",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Procès de l’assassinat de Brahim Kessaci : aux origines sanglantes de la DZ Mafia",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-16T04:10:16.422Z",
-        "link": "https://www.leparisien.fr/faits-divers/proces-de-lassassinat-de-brahim-kessaci-aux-origines-sanglantes-de-la-dz-mafia-14-10-2026-CYL322BPC5FSPEICAJQMVUKPF4.php",
-        "score": 90,
-        "summary": "aux origines sanglantes de la DZ Mafia"
-      }
-    ],
-    "summary": "Procès de l’assassinat de Brahim Kessaci : aux origines sanglantes de la DZ Mafia"
-  },
-  {
-    "title": "Procès du meurtre d’Iris Coëtmen : « Le 27 mai, on est tous un peu morts aussi »",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Procès du meurtre d’Iris Coëtmen : « Le 27 mai, on est tous un peu morts aussi »",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-16T04:10:16.422Z",
-        "link": "https://www.leparisien.fr/faits-divers/proces-du-meurtre-diris-coetmen-le-27-mai-on-est-tous-un-peu-morts-aussi-14-10-2026-JP5BP4PGMFH47ASKTBFRW6LUX4.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Procès du meurtre d’Iris Coëtmen : « Le 27 mai, on est tous un peu morts aussi »..."
-      }
-    ],
-    "summary": "Procès du meurtre d’Iris Coëtmen : « Le 27 mai, on est tous un peu morts aussi »"
-  },
-  {
-    "title": "Un adolescent tué d’une balle dans la tête près de Bordeaux : la tête du suspect mise à prix à 50 000 euros par les proches",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Un adolescent tué d’une balle dans la tête près de Bordeaux : la tête du suspect mise à prix à 50 000 euros par les proches",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-16T04:10:16.422Z",
-        "link": "https://www.leparisien.fr/faits-divers/un-adolescent-tue-dune-balle-dans-la-tete-pres-de-bordeaux-la-tete-du-suspect-mise-a-prix-a-50-000-euros-par-les-proches-14-10-2026-V2Q3WXKMAFHZ5MZ45MBTTNKJIM.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Un adolescent tué d’une balle dans la tête près de Bordeaux : la tête du suspect..."
-      }
-    ],
-    "summary": "Un adolescent tué d’une balle dans la tête près de Bordeaux : la tête du suspect mise à prix à 50 000 euros par les proches"
-  },
-  {
-    "title": "Soupçons de viols sur des adolescentes : l’animateur Sébastien Cauet interrogé par des juges d’instruction",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Soupçons de viols sur des adolescentes : l’animateur Sébastien Cauet interrogé par des juges d’instruction",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-16T04:10:16.422Z",
-        "link": "https://www.leparisien.fr/faits-divers/soupcons-de-viols-sur-des-adolescentes-lanimateur-sebastien-cauet-interroge-par-des-juges-dinstruction-14-10-2026-MNRQRDJ55FEYJFQNMYGY4DJZNU.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Soupçons de viols sur des adolescentes : l’animateur Sébastien Cauet interrogé p..."
-      }
-    ],
-    "summary": "Soupçons de viols sur des adolescentes : l’animateur Sébastien Cauet interrogé par des juges d’instruction"
-  },
-  {
-    "title": "« Des mouvements de va-et-vient contre son derrière » : un robot humanoïde accusé d’agression sexuelle à Cologne",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "« Des mouvements de va-et-vient contre son derrière » : un robot humanoïde accusé d’agression sexuelle à Cologne",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-16T04:10:16.422Z",
-        "link": "https://www.leparisien.fr/faits-divers/des-mouvements-de-va-et-vient-contre-son-derriere-un-robot-humanoide-accuse-dagression-sexuelle-a-cologne-14-10-2026-MQNUFMW56VCWPNVIAXE55XBQHI.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : « Des mouvements de va-et-vient contre son derrière » : un robot humanoïde accus..."
-      }
-    ],
-    "summary": "« Des mouvements de va-et-vient contre son derrière » : un robot humanoïde accusé d’agression sexuelle à Cologne"
-  },
-  {
-    "title": "Saint-Denis : des membres du personnel du lycée Paul-Éluard dénoncent une intervention « violente » de la police dans l’établissement",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Saint-Denis : des membres du personnel du lycée Paul-Éluard dénoncent une intervention « violente » de la police dans l’établissement",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-16T04:10:16.421Z",
-        "link": "https://www.leparisien.fr/seine-saint-denis-93/saint-denis-des-membres-du-personnel-du-lycee-paul-eluard-denoncent-une-intervention-violente-de-la-police-dans-letablissement-15-10-2026-4KDWQ2BBEBBTROHOADJY3CKUFU.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Saint-Denis : des membres du personnel du lycée Paul-Éluard dénoncent une interv..."
-      }
-    ],
-    "summary": "Saint-Denis : des membres du personnel du lycée Paul-Éluard dénoncent une intervention « violente » de la police dans l’établissement"
   },
   {
     "title": "[CYBER] Le gendarme de la cybersecurité a sauvé le pirate.",
@@ -1154,7 +1063,7 @@
       {
         "title": "[CYBER] Le gendarme de la cybersecurité a sauvé le pirate.",
         "source": "Le Monde Informatique",
-        "time": "2026-10-16T04:08:32.890Z",
+        "time": "2026-10-16T13:09:54.077Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-anssi-le-gendarme-de-la-cybersecurite-francais-pirate-100833.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le gendarme de la cybersecurité a sauvé le pirate...."
@@ -1192,7 +1101,7 @@
       {
         "title": "[CYBER] Les entreprises qui passent la frontière en 2026",
         "source": "Le Monde Informatique",
-        "time": "2026-10-16T04:08:23.820Z",
+        "time": "2026-10-16T13:09:48.619Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-cybersecurite-en-2026-les-entreprises-passent-de-la-defense-a-la-resilience-100839.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les entreprises qui passent la frontière en 2026..."
@@ -1211,7 +1120,7 @@
       {
         "title": "[CYBER] Mistral d'équipement de grande taille 4, un mod le plus de 1 000 milliards de paramètres",
         "source": "Le Monde Informatique",
-        "time": "2026-10-16T04:08:29.143Z",
+        "time": "2026-10-16T13:09:51.857Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-mistral-devoile-large-4-un-modele-a-plus-de-1-000-milliards-de-parametres-100838.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Mistral d'équipement de grande taille 4, un mod le plus de 1 000 milliar..."
@@ -1230,7 +1139,7 @@
       {
         "title": "[CYBER] La confiance dans la richesse: les entreprises qui respectent la loi et la conformité",
         "source": "Le Monde Informatique",
-        "time": "2026-10-16T04:08:21.270Z",
+        "time": "2026-10-16T13:09:47.092Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-confiance-numerique-les-entreprises-francaises-privilegient-la-securite-et-la-conformite-100840.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] La confiance dans la richesse: les entreprises qui respectent la loi et ..."
@@ -1249,7 +1158,7 @@
       {
         "title": "[CYBER] La plateforme de vote en ligne pour la primaire de gauche, victime d'une cyberattaque",
         "source": "Le Monde Informatique",
-        "time": "2026-10-16T04:08:11.402Z",
+        "time": "2026-10-16T13:09:41.189Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-la-plateforme-de-vote-en-ligne-pour-la-primaire-de-gauche-victime-d-une-cyberattaque-100845.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] La plateforme de vote en ligne pour la primaire de gauche, victime d'une..."
@@ -1268,7 +1177,7 @@
       {
         "title": "[CYBER] D tecteur d'IA: ouvre Google SynthID Detector au grand public",
         "source": "Le Monde Informatique",
-        "time": "2026-10-16T04:08:15.341Z",
+        "time": "2026-10-16T13:09:43.529Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-detecteur-d-ia-google-ouvre-synthid-detector-au-grand-public-100842.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] D tecteur d'IA: ouvre Google SynthID Detector au grand public..."
@@ -1287,7 +1196,7 @@
       {
         "title": "[CYBER] Le muscle orange offre SecNumCloud",
         "source": "Le Monde Informatique",
-        "time": "2026-10-16T04:08:17.292Z",
+        "time": "2026-10-16T13:09:44.752Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-orange-muscle-son-offre-secnumcloud-100841.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le muscle orange offre SecNumCloud..."
@@ -1306,7 +1215,7 @@
       {
         "title": "[CYBER] La CNF signale une fuite de don sur la plateforme Vacaf",
         "source": "Le Monde Informatique",
-        "time": "2026-10-16T04:08:02.284Z",
+        "time": "2026-10-16T13:09:35.677Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-la-cnaf-signale-une-fuite-de-donnees-sur-sa-plateforme-vacaf-100851.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] La CNF signale une fuite de don sur la plateforme Vacaf..."
@@ -1325,7 +1234,7 @@
       {
         "title": "[CYBER] Microsoft corrige un record de 1 411 défaillances de la cour",
         "source": "Le Monde Informatique",
-        "time": "2026-10-16T04:07:58.581Z",
+        "time": "2026-10-16T13:09:33.448Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-microsoft-corrige-un-nombre-record-de-1-411-failles-de-securite-100853.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Microsoft corrige un record de 1 411 défaillances de la cour..."
