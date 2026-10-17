@@ -1,56 +1,11 @@
 [
   {
-    "title": "« Il y a une complicité passive » : après le scandale du périscolaire à Paris, ces parents portent plainte contre la mairie",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "« Il y a une complicité passive » : après le scandale du périscolaire à Paris, ces parents portent plainte contre la mairie",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-15T04:13:11.542Z",
-        "link": "https://www.leparisien.fr/paris-75/il-y-a-une-complicite-passive-apres-le-scandale-du-periscolaire-a-paris-ces-parents-portent-plainte-contre-la-mairie-12-10-2026-IWW2SJAZTBH6XGFA5VT3MGOZKA.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : « Il y a une complicité passive » : après le scandale du périscolaire à Paris, c..."
-      }
-    ],
-    "summary": "« Il y a une complicité passive » : après le scandale du périscolaire à Paris, ces parents portent plainte contre la mairie"
-  },
-  {
-    "title": "Vingt ans après l’assassinat sauvage d’une ouvrière viticole près de Bordeaux, un suspect en garde à vue",
-    "score": 97,
-    "count": 2,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Vingt ans après l’assassinat sauvage d’une ouvrière viticole près de Bordeaux, un suspect en garde à vue",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-15T04:13:11.542Z",
-        "link": "https://www.leparisien.fr/faits-divers/vingt-ans-apres-lassassinat-sauvage-dune-ouvriere-viticole-pres-de-bordeaux-un-suspect-en-garde-a-vue-13-10-2026-ASJEK36J3BFXDFBXXRC3QOSFHM.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Vingt ans après l’assassinat sauvage d’une ouvrière viticole près de Bordeaux, u..."
-      },
-      {
-        "title": "Assassinat sauvage d’une ouvrière viticole en 2006 près de Bordeaux : la garde à vue du suspect levée",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-17T03:59:59.822Z",
-        "link": "https://www.leparisien.fr/faits-divers/assassinat-sauvage-dune-ouvriere-viticole-en-2006-pres-de-bordeaux-la-garde-a-vue-du-suspect-levee-14-10-2026-XHU35MVWTFEMHKUQL4Q3Q27OS4.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Assassinat sauvage d’une ouvrière viticole en 2006 près de Bordeaux : la garde à..."
-      }
-    ],
-    "summary": "Vingt ans après l’assassinat sauvage d’une ouvrière viticole près de Bordeaux, un suspect en garde à vue / Assassinat sauvage d’une ouvrière viticole en 2006 près de Bordeaux : la garde à vue du suspect levée"
-  },
-  {
     "title": "Marseille : trois hommes condamnés à des peines de 12 à 20 ans de prison pour le rapt d’un jeune guetteur",
     "score": 97,
-    "count": 2,
+    "count": 3,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "https://www.ledauphine.com/Faits-divers-Justice/rss"
     ],
     "items": [
       {
@@ -64,10 +19,18 @@
       {
         "title": "Paris : le compagnon d’une institutrice condamné à trois ans de prison avec sursis pour des attouchements sur deux enfants",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-17T03:59:59.821Z",
+        "time": "2026-10-17T08:31:29.227Z",
         "link": "https://www.leparisien.fr/paris-75/paris-75020/paris-le-compagnon-dune-institutrice-condamne-a-trois-ans-de-prison-avec-sursis-pour-des-attouchements-sur-deux-enfants-16-10-2026-M4QK4THCFFAUNMLWVBC44EQ2TI.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Paris : le compagnon d’une institutrice condamné à trois ans de prison avec surs..."
+      },
+      {
+        "title": "Jaujac. Trois hommes condamnés à de la prison ferme pour trafic",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-10-17T07:18:09.000Z",
+        "link": "https://www.ledauphine.com/faits-divers-justice/2026/10/17/trois-hommes-condamnes-a-de-la-prison-ferme-pour-trafic",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Jaujac. Trois hommes condamnés à de la prison ferme pour trafic..."
       }
     ],
     "summary": "Marseille : trois hommes condamnés à des peines de 12 à 20 ans de prison pour le rapt d’un jeune guetteur / Paris : le compagnon d’une institutrice condamné à trois ans de prison avec sursis pour des attouchements sur deux enfants"
@@ -113,7 +76,7 @@
   {
     "title": "Jura : un homme condamné à 19 ans de prison pour avoir violé et prostitué son fils",
     "score": 97,
-    "count": 6,
+    "count": 7,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
       "https://www.sudouest.fr/faits-divers/rss.xml",
@@ -164,10 +127,18 @@
       {
         "title": "« Pas digne d’exercer » : un policier marseillais condamné pour avoir averti un ami d’un contrôle imminent de l’URSSAF",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-17T03:59:59.821Z",
+        "time": "2026-10-17T08:31:29.227Z",
         "link": "https://www.leparisien.fr/faits-divers/pas-digne-dexercer-un-policier-marseillais-condamne-pour-avoir-averti-un-ami-dun-controle-imminent-de-lurssaf-16-10-2026-STPIXH4QPFHALBI6TWIJ47BG4Y.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Pas digne d’exercer » : un policier marseillais condamné pour avoir averti un ..."
+      },
+      {
+        "title": "« Il contrôle tout, fait régner la terreur » : 24 ans de réclusion pour un homme déjà condamné pour viol",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-17T08:31:29.227Z",
+        "link": "https://www.leparisien.fr/essonne-91/il-controle-tout-fait-regner-la-terreur-24-ans-de-reclusion-pour-un-homme-deja-condamne-pour-viol-17-10-2026-E345XW2QSFAHRH2OSVZ6ANMHNI.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : « Il contrôle tout, fait régner la terreur » : 24 ans de réclusion pour un homme..."
       }
     ],
     "summary": "Jura : un homme condamné à 19 ans de prison pour avoir violé et prostitué son fils / Chef d’un gang de Los Angeles, fils d’un Marine, descendant d’esclave : qui est Duane Davis, condamné pour le meurtre de Tupac ?"
@@ -222,7 +193,7 @@
       {
         "title": "Francis Renaud : l’acteur placé en détention provisoire pour viols après une plainte de son ex-compagne",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-17T03:59:59.822Z",
+        "time": "2026-10-17T08:31:29.227Z",
         "link": "https://www.leparisien.fr/culture-loisirs/cinema/francis-renaud-lacteur-place-en-detention-provisoire-pour-viols-apres-une-plainte-de-son-ex-compagne-15-10-2026-GAN3HUCE3FEH5CBFYPLZJPAJ2Y.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Francis Renaud : l’acteur placé en détention provisoire pour viols après une pla..."
@@ -319,13 +290,32 @@
       {
         "title": "Procès du meurtre d’Iris près de Lorient : Christophe Raule condamné à la prison à perpétuité",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-17T03:59:59.821Z",
+        "time": "2026-10-17T08:31:29.227Z",
         "link": "https://www.leparisien.fr/faits-divers/proces-du-meurtre-diris-pres-de-lorient-christophe-raule-condamne-a-la-prison-de-perpetuite-16-10-2026-MVP372MQUNDZ3K6O5QJZ73OMS4.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Procès du meurtre d’Iris près de Lorient : Christophe Raule condamné à la prison..."
       }
     ],
     "summary": "Meurtre de Tupac Shakur : un ex-membre de gang condamné à 40 ans de prison minimum / Procès du meurtre d’Iris près de Lorient : Christophe Raule condamné à la prison à perpétuité"
+  },
+  {
+    "title": "Assassinat sauvage d’une ouvrière viticole en 2006 près de Bordeaux : la garde à vue du suspect levée",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Assassinat sauvage d’une ouvrière viticole en 2006 près de Bordeaux : la garde à vue du suspect levée",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-17T03:59:59.822Z",
+        "link": "https://www.leparisien.fr/faits-divers/assassinat-sauvage-dune-ouvriere-viticole-en-2006-pres-de-bordeaux-la-garde-a-vue-du-suspect-levee-14-10-2026-XHU35MVWTFEMHKUQL4Q3Q27OS4.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Assassinat sauvage d’une ouvrière viticole en 2006 près de Bordeaux : la garde à..."
+      }
+    ],
+    "summary": "Assassinat sauvage d’une ouvrière viticole en 2006 près de Bordeaux : la garde à vue du suspect levée"
   },
   {
     "title": "Abdallah, 22 ans, mortellement poignardé en sortant d’une discothèque en Essonne : un homme placé en détention provisoire",
@@ -361,7 +351,7 @@
       {
         "title": "Enlèvement d’un enfant, préparation d’un coup d’État… Rémy Daillet, à la tête d’un groupuscule d’ultradroite, condamné à six ans de prison",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-17T03:59:59.822Z",
+        "time": "2026-10-17T08:31:29.228Z",
         "link": "https://www.leparisien.fr/faits-divers/enlevement-dun-enfant-preparation-dun-coup-detat-remy-daillet-a-la-tete-dun-groupuscule-dultradroite-condamne-a-six-ans-de-prison-15-10-2026-TYIIWAOW2JB2HPUYMWYGI6VX3Y.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Enlèvement d’un enfant, préparation d’un coup d’État… Rémy Daillet, à la tête d’..."
@@ -412,7 +402,7 @@
       {
         "title": "Scandale du périscolaire à Paris : une « crise systémique » et des années de défaillances dénoncées dans le rapport Evren",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-17T03:59:59.822Z",
+        "time": "2026-10-17T08:31:29.228Z",
         "link": "https://www.leparisien.fr/paris-75/scandale-du-periscolaire-a-paris-une-crise-systemique-et-des-annees-de-defaillances-denoncees-dans-le-rapport-evren-15-10-2026-7DV7VEAI25BMVAT32F4RCAX3BE.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Scandale du périscolaire à Paris : une « crise systémique » et des années de déf..."
@@ -420,7 +410,7 @@
       {
         "title": "Violences sexuelles dans le périscolaire à Paris : l’interminable attente de deux familles de l’école maternelle Rochechouart",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-17T03:59:59.821Z",
+        "time": "2026-10-17T08:31:29.227Z",
         "link": "https://www.leparisien.fr/faits-divers/violences-sexuelles-dans-le-periscolaire-a-paris-linterminable-attente-de-deux-familles-de-lecole-maternelle-rochechouart-16-10-2026-V5ONJN4FCZHHRLL3HL234VGSWY.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Violences sexuelles dans le périscolaire à Paris : l’interminable attente de deu..."
@@ -439,7 +429,7 @@
       {
         "title": "Trafic de drogue, blanchiment et héritage : à Paris, les drôles d’embrouilles de la famille K.",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-17T03:59:59.822Z",
+        "time": "2026-10-17T08:31:29.228Z",
         "link": "https://www.leparisien.fr/faits-divers/trafic-de-drogue-blanchiment-et-heritage-a-paris-les-droles-dembrouilles-de-la-famille-k-15-10-2026-SYV4F55LXJFHJOMWYLI2VVPKSA.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Trafic de drogue, blanchiment et héritage : à Paris, les drôles d’embrouilles de..."
@@ -462,7 +452,7 @@
       {
         "title": "Fusillade d’Aubagne : un second mineur placé en garde à vue, après les tirs d’un élève sur un proviseur de collège et une professeure",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-17T03:59:59.822Z",
+        "time": "2026-10-17T08:31:29.228Z",
         "link": "https://www.leparisien.fr/faits-divers/fusillade-daubagne-un-second-mineur-place-en-garde-a-vue-apres-les-tirs-dun-eleve-sur-un-proviseur-de-college-et-une-professeure-15-10-2026-EM4VZ6SRIBDFLCT2KMAMF5Z4XA.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Fusillade d’Aubagne : un second mineur placé en garde à vue, après les tirs d’un..."
@@ -510,7 +500,7 @@
       {
         "title": "Fusillade d’Aubagne : un deuxième adolescent mis en examen pour complicité et placé sous contrôle judiciaire",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-17T03:59:59.821Z",
+        "time": "2026-10-17T08:31:29.227Z",
         "link": "https://www.leparisien.fr/faits-divers/fusillade-daubagne-un-deuxieme-adolescent-presente-a-la-justice-16-10-2026-GG7P4BLH6NARBHKHOG4CLQHKRY.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Fusillade d’Aubagne : un deuxième adolescent mis en examen pour complicité et pl..."
@@ -529,7 +519,7 @@
       {
         "title": "« J’espère que ces semeurs de haine seront condamnés » : la crêpière de Gomené injuriée passe à l’offensive",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-17T03:59:59.822Z",
+        "time": "2026-10-17T08:31:29.227Z",
         "link": "https://www.leparisien.fr/faits-divers/jespere-que-ces-semeurs-de-haine-seront-condamnes-la-crepiere-de-gomene-injuriee-passe-a-loffensive-15-10-2026-TCGFPGSNOREM3BDYTGBMR4SADU.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « J’espère que ces semeurs de haine seront condamnés » : la crêpière de Gomené i..."
@@ -651,7 +641,7 @@
       {
         "title": "Un policier en arrêt maladie se fait embaucher par un détective : les deux hommes poursuivis pour corruption et travail dissimulé à Toulouse",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-17T03:59:59.821Z",
+        "time": "2026-10-17T08:31:29.227Z",
         "link": "https://www.leparisien.fr/faits-divers/un-policier-en-arret-maladie-se-fait-embaucher-par-un-detective-les-deux-hommes-poursuivis-pour-corruption-et-travail-dissimule-a-toulouse-16-10-2026-D3VXY35MOVEERDNXQ2XW6HBMNU.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Un policier en arrêt maladie se fait embaucher par un détective : les deux homme..."
@@ -670,7 +660,7 @@
       {
         "title": "L’arnaqueur des soirées parisiennes VIP échappe à la détention provisoire… pour le moment",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-17T03:59:59.821Z",
+        "time": "2026-10-17T08:31:29.227Z",
         "link": "https://www.leparisien.fr/faits-divers/elles-mont-pris-pour-mbappe-larnaqueur-des-soirees-parisiennes-vip-echappe-a-la-detention-provisoire-pour-le-moment-16-10-2026-QCBN65WFP5FWFNESZRX22C3E4A.php",
         "score": 97,
         "summary": "Point de situation critique concernant : L’arnaqueur des soirées parisiennes VIP échappe à la détention provisoire… pour ..."
@@ -708,7 +698,7 @@
       {
         "title": "Cour d’assises du Val-d’Oise : Géraldine, l’infirmière accusée d’avoir empoisonné son bébé, a été condamnée à 6 ans de prison",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-17T03:59:59.821Z",
+        "time": "2026-10-17T08:31:29.227Z",
         "link": "https://www.leparisien.fr/val-d-oise-95/cour-dassises-du-val-doise-geraldine-linfirmiere-accusee-davoir-empoisonne-son-bebe-a-ete-condamnee-a-6-ans-de-prison-16-10-2026-NRYUY7HPM5CANLS474TS4MYWXY.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Cour d’assises du Val-d’Oise : Géraldine, l’infirmière accusée d’avoir empoisonn..."
@@ -727,7 +717,7 @@
       {
         "title": "Loire-Atlantique : une jeune fille de 14 ans en garde à vue après un incendie dans un lycée de Saint-Nazaire",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-17T03:59:59.821Z",
+        "time": "2026-10-17T08:31:29.227Z",
         "link": "https://www.leparisien.fr/faits-divers/loire-atlantique-une-jeune-fille-de-14-ans-en-garde-a-vue-apres-un-incendie-dans-un-lycee-de-saint-nazaire-16-10-2026-CME5YE2IVVDIRO4HVQDS5QBY6U.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Loire-Atlantique : une jeune fille de 14 ans en garde à vue après un incendie da..."
@@ -812,6 +802,25 @@
     "summary": "Une femme de 32 ans soupçonnée d’être une tueuse à gages mise en examen et placée en détention provisoire, une première en France"
   },
   {
+    "title": "Les meurtriers de deux surfeurs australiens et d’un américain condamnés chacun à 158 ans de prison au Mexique",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Les meurtriers de deux surfeurs australiens et d’un américain condamnés chacun à 158 ans de prison au Mexique",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-17T08:31:29.227Z",
+        "link": "https://www.leparisien.fr/faits-divers/les-meurtriers-de-deux-surfeurs-australiens-et-dun-americain-condamnes-chacun-a-158-ans-de-prison-au-mexique-17-10-2026-VTSHDMCSKFG5DCGBA5LQDJPUUM.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Les meurtriers de deux surfeurs australiens et d’un américain condamnés chacun à..."
+      }
+    ],
+    "summary": "Les meurtriers de deux surfeurs australiens et d’un américain condamnés chacun à 158 ans de prison au Mexique"
+  },
+  {
     "title": "Cyberattaque des installations frigorifiques de supermarchés : des systèmes américains également touchés",
     "score": 93,
     "count": 2,
@@ -831,7 +840,7 @@
       {
         "title": "[CYBER] Une cyberattaque perturbe les installations frigorifiques de centaines de supermarchés",
         "source": "Le Monde Informatique",
-        "time": "2026-10-17T03:58:36.178Z",
+        "time": "2026-10-17T08:29:56.025Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-une-cyberattaque-perturbe-les-installations-frigorifiques-de-centaines-de-supermarches-100850.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Une cyberattaque perturbe les installations frigorifiques de centaines d..."
@@ -869,32 +878,13 @@
       {
         "title": "Franc-maçonnerie : le Grand Orient de France victime d’une fuite de données, des documents nominatifs exposés",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-17T03:59:59.822Z",
+        "time": "2026-10-17T08:31:29.227Z",
         "link": "https://www.leparisien.fr/high-tech/franc-maconnerie-le-grand-orient-de-france-victime-dune-fuite-de-donnees-des-documents-nominatifs-exposes-15-10-2026-YNBCOPN2O5GZRNH524FLHDLVMU.php",
         "score": 93,
         "summary": "Point de situation critique concernant : Franc-maçonnerie : le Grand Orient de France victime d’une fuite de données, des..."
       }
     ],
     "summary": "Franc-maçonnerie : le Grand Orient de France victime d’une fuite de données, des documents nominatifs exposés"
-  },
-  {
-    "title": "Ardèche. Le magasin Super U d’Annonay a été victime de la cyberattaque inédite",
-    "score": 93,
-    "count": 1,
-    "sources": [
-      "https://www.ledauphine.com/Faits-divers-Justice/rss"
-    ],
-    "items": [
-      {
-        "title": "Ardèche. Le magasin Super U d’Annonay a été victime de la cyberattaque inédite",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-10-15T07:28:00.000Z",
-        "link": "https://www.ledauphine.com/faits-divers-justice/2026/10/15/le-magasin-super-u-d-annonay-a-ete-victime-de-la-cyberattaque-inedite",
-        "score": 93,
-        "summary": "Point de situation critique concernant : Ardèche. Le magasin Super U d’Annonay a été victime de la cyberattaque inédite..."
-      }
-    ],
-    "summary": "Ardèche. Le magasin Super U d’Annonay a été victime de la cyberattaque inédite"
   },
   {
     "title": "Le site du parti Les Républicains a été piraté pour afficher un appel à manifester le 17 octobre, l'entourage de Bruno Retailleau annonce porter plainte",
@@ -940,6 +930,34 @@
       }
     ],
     "summary": "Le site du parti Les Républicains a été piraté pour afficher un appel à manifester le 17 octobre, l'entourage de Bruno Retailleau annonce porter plainte / 17 octobre: le site des Républicains piraté par des soutiens à la mobilisation"
+  },
+  {
+    "title": "La cyberattaque des frigos de supermarché, un signal d’alarme pour tous les industriels et un rappel à la loi européenne pour la France",
+    "score": 93,
+    "count": 2,
+    "sources": [
+      "https://www.lemonde.fr/economie/rss_full.xml",
+      "Le Monde Informatique"
+    ],
+    "items": [
+      {
+        "title": "La cyberattaque des frigos de supermarché, un signal d’alarme pour tous les industriels et un rappel à la loi européenne pour la France",
+        "source": "https://www.lemonde.fr/economie/rss_full.xml",
+        "time": "2026-10-17T04:00:00.000Z",
+        "link": "https://www.lemonde.fr/economie/article/2026/10/17/la-cyberattaque-des-frigos-de-supermarche-un-signal-d-alarme-pour-tous-les-industriels-et-un-rappel-a-la-loi-europeenne-pour-la-france_6795846_3234.html",
+        "score": 93,
+        "summary": "Point de situation critique concernant : La cyberattaque des frigos de supermarché, un signal d’alarme pour tous les indu..."
+      },
+      {
+        "title": "[CYBER] La plateforme de vote en ligne pour la primaire de gauche, victime d'une cyberattaque",
+        "source": "Le Monde Informatique",
+        "time": "2026-10-17T08:29:59.484Z",
+        "link": "https://www.lemondeinformatique.fr/actualites/lire-la-plateforme-de-vote-en-ligne-pour-la-primaire-de-gauche-victime-d-une-cyberattaque-100845.html",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] La plateforme de vote en ligne pour la primaire de gauche, victime d'une..."
+      }
+    ],
+    "summary": "La cyberattaque des frigos de supermarché, un signal d’alarme pour tous les industriels et un rappel à la loi européenne pour la France / [CYBER] La plateforme de vote en ligne pour la primaire de gauche, victime d'une cyberattaque"
   },
   {
     "title": "Cour criminelle de l’Essonne : elle dénonce un viol sur un parking, son agresseur présumé a tout enregistré",
@@ -1044,7 +1062,7 @@
       {
         "title": "Assassinat d’un patron de bar à chicha d’Ivry : son ex-associé victime d’une tentative de meurtre en Angleterre",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-17T03:59:59.821Z",
+        "time": "2026-10-17T08:31:29.227Z",
         "link": "https://www.leparisien.fr/faits-divers/assassinat-dun-patron-de-bar-a-chicha-divry-son-ex-associe-victime-dune-tentative-de-meurtre-en-angleterre-16-10-2026-CVQ5NZMHZVA3NFBN4M75FTTVV4.php",
         "score": 90,
         "summary": "son ex-associé victime d’une tentative de meurtre en Angleterre"
@@ -1063,7 +1081,7 @@
       {
         "title": "Meurtre de Kelyan à Champigny : l’auteur regrette, le quartier se mobilise « pour que ça s’arrête »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-17T03:59:59.821Z",
+        "time": "2026-10-17T08:31:29.227Z",
         "link": "https://www.leparisien.fr/val-de-marne-94/meurtre-de-kelyan-a-champigny-lauteur-regrette-le-quartier-se-mobilise-pour-que-ca-sarrete-16-10-2026-RTAIMDP5UJHABF4GN5YOKOYGNA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Meurtre de Kelyan à Champigny : l’auteur regrette, le quartier se mobilise « pou..."
@@ -1082,7 +1100,7 @@
       {
         "title": "Narcotrafic à Marseille : avec cinq narchomicides depuis janvier, la ville voit les règlements de compte baisser à un niveau « jamais vu »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-17T03:59:59.821Z",
+        "time": "2026-10-17T08:31:29.227Z",
         "link": "https://www.leparisien.fr/societe/narcotrafic-a-marseille-avec-cinq-narchomicides-depuis-janvier-la-ville-voit-les-reglements-de-compte-baisser-a-un-niveau-jamais-vu-16-10-2026-QULMJXPT2NGLBCYRSNYGJY2ZPA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Narcotrafic à Marseille : avec cinq narchomicides depuis janvier, la ville voit ..."
@@ -1101,32 +1119,13 @@
       {
         "title": "Visage tuméfié et corps dissimulé sous du linge : un quadragénaire soupçonné du meurtre de sa mère de 76 ans dans la Loire",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-17T03:59:59.821Z",
+        "time": "2026-10-17T08:31:29.227Z",
         "link": "https://www.leparisien.fr/faits-divers/visage-tumefie-et-corps-dissimule-sous-du-linge-un-quadragenaire-soupconne-du-meurtre-de-sa-mere-de-76-ans-dans-la-loire-16-10-2026-NXT7UDOBK5APBPZ74YV56DYY3Y.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Visage tuméfié et corps dissimulé sous du linge : un quadragénaire soupçonné du ..."
       }
     ],
     "summary": "Visage tuméfié et corps dissimulé sous du linge : un quadragénaire soupçonné du meurtre de sa mère de 76 ans dans la Loire"
-  },
-  {
-    "title": "Coupe d’Europe de rugby : un joueur des Lions retrouvé mort avant le match contre La Rochelle, une enquête ouverte",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Coupe d’Europe de rugby : un joueur des Lions retrouvé mort avant le match contre La Rochelle, une enquête ouverte",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-17T03:59:59.821Z",
-        "link": "https://www.leparisien.fr/sports/rugby/coupe-deurope-de-rugby-un-joueur-des-lions-retrouve-mort-avant-le-match-contre-la-rochelle-une-enquete-ouverte-16-10-2026-KIUHW7X4YVETFJPYXVLMTBP3AI.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Coupe d’Europe de rugby : un joueur des Lions retrouvé mort avant le match contr..."
-      }
-    ],
-    "summary": "Coupe d’Europe de rugby : un joueur des Lions retrouvé mort avant le match contre La Rochelle, une enquête ouverte"
   },
   {
     "title": "[CYBER] Le gendarme de la cybersecurité a sauvé le pirate.",
@@ -1139,7 +1138,7 @@
       {
         "title": "[CYBER] Le gendarme de la cybersecurité a sauvé le pirate.",
         "source": "Le Monde Informatique",
-        "time": "2026-10-17T03:58:52.627Z",
+        "time": "2026-10-17T08:30:14.498Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-anssi-le-gendarme-de-la-cybersecurite-francais-pirate-100833.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le gendarme de la cybersecurité a sauvé le pirate...."
@@ -1177,7 +1176,7 @@
       {
         "title": "[CYBER] Les entreprises qui passent la frontière en 2026",
         "source": "Le Monde Informatique",
-        "time": "2026-10-17T03:58:46.958Z",
+        "time": "2026-10-17T08:30:08.198Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-cybersecurite-en-2026-les-entreprises-passent-de-la-defense-a-la-resilience-100839.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les entreprises qui passent la frontière en 2026..."
@@ -1196,7 +1195,7 @@
       {
         "title": "[CYBER] Mistral d'équipement de grande taille 4, un mod le plus de 1 000 milliards de paramètres",
         "source": "Le Monde Informatique",
-        "time": "2026-10-17T03:58:50.275Z",
+        "time": "2026-10-17T08:30:11.894Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-mistral-devoile-large-4-un-modele-a-plus-de-1-000-milliards-de-parametres-100838.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Mistral d'équipement de grande taille 4, un mod le plus de 1 000 milliar..."
@@ -1215,32 +1214,13 @@
       {
         "title": "[CYBER] La confiance dans la richesse: les entreprises qui respectent la loi et la conformité",
         "source": "Le Monde Informatique",
-        "time": "2026-10-17T03:58:45.370Z",
+        "time": "2026-10-17T08:30:06.404Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-confiance-numerique-les-entreprises-francaises-privilegient-la-securite-et-la-conformite-100840.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] La confiance dans la richesse: les entreprises qui respectent la loi et ..."
       }
     ],
     "summary": "[CYBER] La confiance dans la richesse: les entreprises qui respectent la loi et la conformité"
-  },
-  {
-    "title": "[CYBER] La plateforme de vote en ligne pour la primaire de gauche, victime d'une cyberattaque",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "Le Monde Informatique"
-    ],
-    "items": [
-      {
-        "title": "[CYBER] La plateforme de vote en ligne pour la primaire de gauche, victime d'une cyberattaque",
-        "source": "Le Monde Informatique",
-        "time": "2026-10-17T03:58:39.254Z",
-        "link": "https://www.lemondeinformatique.fr/actualites/lire-la-plateforme-de-vote-en-ligne-pour-la-primaire-de-gauche-victime-d-une-cyberattaque-100845.html",
-        "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] La plateforme de vote en ligne pour la primaire de gauche, victime d'une..."
-      }
-    ],
-    "summary": "[CYBER] La plateforme de vote en ligne pour la primaire de gauche, victime d'une cyberattaque"
   },
   {
     "title": "[CYBER] D tecteur d'IA: ouvre Google SynthID Detector au grand public",
@@ -1253,7 +1233,7 @@
       {
         "title": "[CYBER] D tecteur d'IA: ouvre Google SynthID Detector au grand public",
         "source": "Le Monde Informatique",
-        "time": "2026-10-17T03:58:41.658Z",
+        "time": "2026-10-17T08:30:02.237Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-detecteur-d-ia-google-ouvre-synthid-detector-au-grand-public-100842.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] D tecteur d'IA: ouvre Google SynthID Detector au grand public..."
@@ -1272,7 +1252,7 @@
       {
         "title": "[CYBER] Le muscle orange offre SecNumCloud",
         "source": "Le Monde Informatique",
-        "time": "2026-10-17T03:58:42.870Z",
+        "time": "2026-10-17T08:30:03.693Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-orange-muscle-son-offre-secnumcloud-100841.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le muscle orange offre SecNumCloud..."
@@ -1291,7 +1271,7 @@
       {
         "title": "[CYBER] La CNF signale une fuite de don sur la plateforme Vacaf",
         "source": "Le Monde Informatique",
-        "time": "2026-10-17T03:58:33.566Z",
+        "time": "2026-10-17T08:29:53.072Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-la-cnaf-signale-une-fuite-de-donnees-sur-sa-plateforme-vacaf-100851.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] La CNF signale une fuite de don sur la plateforme Vacaf..."
@@ -1310,7 +1290,7 @@
       {
         "title": "[CYBER] Microsoft corrige un record de 1 411 défaillances de la cour",
         "source": "Le Monde Informatique",
-        "time": "2026-10-17T03:58:31.253Z",
+        "time": "2026-10-17T08:29:50.513Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-microsoft-corrige-un-nombre-record-de-1-411-failles-de-securite-100853.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Microsoft corrige un record de 1 411 défaillances de la cour..."
