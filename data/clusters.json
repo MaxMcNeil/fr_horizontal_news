@@ -2,9 +2,10 @@
   {
     "title": "« Pas digne d’exercer » : un policier marseillais condamné pour avoir averti un ami d’un contrôle imminent de l’URSSAF",
     "score": 97,
-    "count": 2,
+    "count": 4,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "https://www.cnews.fr/rss/categorie/faits%20divers"
     ],
     "items": [
       {
@@ -22,6 +23,22 @@
         "link": "https://www.leparisien.fr/essonne-91/il-controle-tout-fait-regner-la-terreur-24-ans-de-reclusion-pour-un-homme-deja-condamne-pour-viol-17-10-2026-E345XW2QSFAHRH2OSVZ6ANMHNI.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Il contrôle tout, fait régner la terreur » : 24 ans de réclusion pour un homme..."
+      },
+      {
+        "title": "Pyrénées-Atlantiques : un ex-policier condamné pour avoir drogué puis agressé sexuellement son épouse à Pau",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-20T19:59:07.809Z",
+        "link": "https://www.leparisien.fr/faits-divers/pyrenees-atlantiques-un-ex-policier-condamne-pour-avoir-drogue-puis-agresse-sexuellement-son-epouse-a-pau-20-10-2026-PVS646DBYVFLNHLHNALBK33ERQ.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Pyrénées-Atlantiques : un ex-policier condamné pour avoir drogué puis agressé se..."
+      },
+      {
+        "title": "Violences urbaines : un jeune condamné à du sursis à Toulouse pour avoir jeté un cocktail molotov sur des policiers, le parquet fait appel",
+        "source": "https://www.cnews.fr/rss/categorie/faits%20divers",
+        "time": "2026-10-20T15:10:00.000Z",
+        "link": "https://www.cnews.fr/faits-divers/2026-10-20/violences-urbaines-un-jeune-condamne-du-sursis-toulouse-pour-avoir-jete-un",
+        "score": 97,
+        "summary": "un jeune condamné à du sursis à Toulouse pour avoir jeté un cocktail molotov sur des policiers, le parquet fait appel"
       }
     ],
     "summary": "« Pas digne d’exercer » : un policier marseillais condamné pour avoir averti un ami d’un contrôle imminent de l’URSSAF / « Il contrôle tout, fait régner la terreur » : 24 ans de réclusion pour un homme déjà condamné pour viol"
@@ -48,9 +65,10 @@
   {
     "title": "L’arnaqueur des soirées parisiennes VIP échappe à la détention provisoire… pour le moment",
     "score": 97,
-    "count": 1,
+    "count": 2,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "https://www.mediapart.fr/articles/feed"
     ],
     "items": [
       {
@@ -60,9 +78,17 @@
         "link": "https://www.leparisien.fr/faits-divers/elles-mont-pris-pour-mbappe-larnaqueur-des-soirees-parisiennes-vip-echappe-a-la-detention-provisoire-pour-le-moment-16-10-2026-QCBN65WFP5FWFNESZRX22C3E4A.php",
         "score": 97,
         "summary": "Point de situation critique concernant : L’arnaqueur des soirées parisiennes VIP échappe à la détention provisoire… pour ..."
+      },
+      {
+        "title": "Ritchy Thibault, 22 ans, est en détention provisoire pour avoir appelé à «brûler l’Élysée»",
+        "source": "https://www.mediapart.fr/articles/feed",
+        "time": "2026-10-20T16:12:37.000Z",
+        "link": "https://www.mediapart.fr/journal/france/201026/ritchy-thibault-22-ans-est-en-detention-provisoire-pour-avoir-appele-bruler-l-elysee",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Ritchy Thibault, 22 ans, est en détention provisoire pour avoir appelé à «brûler..."
       }
     ],
-    "summary": "L’arnaqueur des soirées parisiennes VIP échappe à la détention provisoire… pour le moment"
+    "summary": "L’arnaqueur des soirées parisiennes VIP échappe à la détention provisoire… pour le moment / Ritchy Thibault, 22 ans, est en détention provisoire pour avoir appelé à «brûler l’Élysée»"
   },
   {
     "title": "Cour d’assises du Val-d’Oise : Géraldine, l’infirmière accusée d’avoir empoisonné son bébé, a été condamnée à 6 ans de prison",
@@ -133,9 +159,11 @@
   {
     "title": "Paris : le compagnon d’une institutrice condamné à trois ans de prison avec sursis pour des attouchements sur deux enfants",
     "score": 97,
-    "count": 2,
+    "count": 5,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "https://www.sudouest.fr/faits-divers/rss.xml",
+      "https://www.ledauphine.com/Faits-divers-Justice/rss"
     ],
     "items": [
       {
@@ -149,10 +177,34 @@
       {
         "title": "Bocar M., le douanier corrompu de l’aéroport de Roissy, condamné à 8 ans de prison pour trafic de cocaïne",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-20T13:30:32.462Z",
+        "time": "2026-10-20T19:59:07.809Z",
         "link": "https://www.leparisien.fr/faits-divers/bocar-m-le-douanier-corrompu-de-laeroport-de-roissy-condamne-a-8-ans-de-prison-pour-trafic-de-cocaine-20-10-2026-TNQQNGBKPBGMXGCYYZTGMAWUUY.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Bocar M., le douanier corrompu de l’aéroport de Roissy, condamné à 8 ans de pris..."
+      },
+      {
+        "title": "États-Unis : un homme condamné à 30 ans de prison pour la mort de 53 migrants retrouvés dans un camion",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-10-20T17:21:55.000Z",
+        "link": "https://www.sudouest.fr/justice/prison/etats-unis-un-homme-condamne-a-30-ans-de-prison-pour-la-mort-de-53-migrants-retrouves-dans-un-camion-31162034.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : États-Unis : un homme condamné à 30 ans de prison pour la mort de 53 migrants re..."
+      },
+      {
+        "title": "Landes : l’ancien directeur de la Régie des transports des Landes condamné à une amende de 15 000 euros, dont 5 000 euros avec sursis",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-10-20T14:44:49.000Z",
+        "link": "https://www.sudouest.fr/landes/mont-de-marsan/landes-l-ancien-directeur-de-la-regie-des-transports-des-landes-condamne-a-une-amende-de-15-000-euros-dont-5-000-euros-avec-sursis-31158889.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Landes : l’ancien directeur de la Régie des transports des Landes condamné à une..."
+      },
+      {
+        "title": "Drôme-Ardèche. Pillages de magasins à Valence : deux Ardéchois condamnés à quatre et trois mois de prison ferme",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-10-20T18:23:00.000Z",
+        "link": "https://www.ledauphine.com/faits-divers-justice/2026/10/20/pillages-de-magasins-a-valence-deux-ardechois-condamnes-a-quatre-et-trois-mois-de-prison-ferme",
+        "score": 97,
+        "summary": "deux Ardéchois condamnés à quatre et trois mois de prison ferme"
       }
     ],
     "summary": "Paris : le compagnon d’une institutrice condamné à trois ans de prison avec sursis pour des attouchements sur deux enfants / Bocar M., le douanier corrompu de l’aéroport de Roissy, condamné à 8 ans de prison pour trafic de cocaïne"
@@ -196,143 +248,6 @@
     "summary": "Mobilisation du 17 octobre : l’influenceur Rayan PSN en garde à vue"
   },
   {
-    "title": "\"Laurent Nuñez était complètement dépassé\" : les appels à la démission du ministre de l'Intérieur se multiplient au lendemain des violences du 17 octobre",
-    "score": 97,
-    "count": 4,
-    "sources": [
-      "https://www.francetvinfo.fr/politique.rss",
-      "https://www.bfmtv.com/rss/politique/",
-      "https://www.ledauphine.com/Faits-divers-Justice/rss"
-    ],
-    "items": [
-      {
-        "title": "\"Laurent Nuñez était complètement dépassé\" : les appels à la démission du ministre de l'Intérieur se multiplient au lendemain des violences du 17 octobre",
-        "source": "https://www.francetvinfo.fr/politique.rss",
-        "time": "2026-10-18T13:54:34.000Z",
-        "link": "https://www.franceinfo.fr/economie/greve/laurent-nunez-etait-completement-depasse-les-appels-a-demission-du-ministre-de-l-interieur-se-multiplient-apres-les-violences-du-17-octobre_8242828.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 97,
-        "summary": "Point de situation critique concernant : \"Laurent Nuñez était complètement dépassé\" : les appels à la démission du minist..."
-      },
-      {
-        "title": "Démission refusée de Laurent Nuñez: \"Quand c'est difficile, on réaffirme la confiance dans les gens qui ont le courage de prendre des décisions\", soutient Sébastien Lecornu",
-        "source": "https://www.bfmtv.com/rss/politique/",
-        "time": "2026-10-19T11:13:01.000Z",
-        "link": "https://www.bfmtv.com/politique/gouvernement/video-demission-refusee-de-laurent-nunez-quand-c-est-difficile-on-reaffirme-la-confiance-dans-les-gens-qui-ont-le-courage-de-prendre-des-decisions-soutient-sebastien-lecornu_VN-202610190467.html",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Démission refusée de Laurent Nuñez: \"Quand c'est difficile, on réaffirme la conf..."
-      },
-      {
-        "title": "Social. Violences du 17 octobre : démission de Nuñez refusée, couvre-feux localisés et 2 513 gardes à vue, l'essentiel de ce lundi",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-10-19T21:02:00.000Z",
-        "link": "https://www.ledauphine.com/social/2026/10/19/violences-du-17-octobre-cellule-de-crise-a-matignon-et-rassemblements-devant-les-mairies-l-executif-sous-pression",
-        "score": 97,
-        "summary": "démission de Nuñez refusée, couvre-feux localisés et 2 513 gardes à vue, l'essentiel de ce lundi"
-      },
-      {
-        "title": "17 octobre: Emmanuel Macron \"doit accepter\" la démission de Laurent Nuñez, estime l'écologiste Cyrielle Chatelain qui dénonce un \"échec cuisant du gouvernement\"",
-        "source": "https://www.bfmtv.com/rss/politique/",
-        "time": "2026-10-20T07:46:09.000Z",
-        "link": "https://www.bfmtv.com/politique/la-france-insoumise/video-17-octobre-laurent-nunez-delegitime-dans-ses-fonctions-estime-l-ecologiste-cyrielle-chatelain-qui-denonce-un-echec-cuisant-du-gouvernement_VN-202610200326.html",
-        "score": 97,
-        "summary": "Point de situation critique concernant : 17 octobre: Emmanuel Macron \"doit accepter\" la démission de Laurent Nuñez, estim..."
-      }
-    ],
-    "summary": "\"Laurent Nuñez était complètement dépassé\" : les appels à la démission du ministre de l'Intérieur se multiplient au lendemain des violences du 17 octobre / Démission refusée de Laurent Nuñez: \"Quand c'est difficile, on réaffirme la confiance dans les gens qui ont le courage de prendre des décisions\", soutient Sébastien Lecornu"
-  },
-  {
-    "title": "Violences du 17 octobre. Trois personnes, dont un mineur, en garde à vue pour des outrages et des violences envers les policiers à Agen",
-    "score": 97,
-    "count": 10,
-    "sources": [
-      "https://www.sudouest.fr/faits-divers/rss.xml",
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Violences du 17 octobre. Trois personnes, dont un mineur, en garde à vue pour des outrages et des violences envers les policiers à Agen",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-10-18T17:00:00.000Z",
-        "link": "https://www.sudouest.fr/faits-divers/violences-du-17-octobre-trois-personnes-dont-un-mineur-en-garde-a-vue-pour-des-outrages-et-des-violences-envers-les-policiers-a-agen-31133852.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Violences du 17 octobre. Trois personnes, dont un mineur, en garde à vue pour de..."
-      },
-      {
-        "title": "Biarritz : un mineur placé en garde à vue pour avoir tiré un mortier en direction du proviseur du lycée André-Malraux",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-10-19T16:34:57.000Z",
-        "link": "https://www.sudouest.fr/faits-divers/biarritz-un-mineur-place-en-garde-a-vue-pour-avoir-tire-un-mortier-en-direction-du-proviseur-du-lycee-andre-malraux-31147409.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Biarritz : un mineur placé en garde à vue pour avoir tiré un mortier en directio..."
-      },
-      {
-        "title": "« Le tiers-monde en France » : le vice-président américain J.D. Vance accuse l’immigration dans les violences du 17 octobre",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-20T04:27:40.316Z",
-        "link": "https://www.leparisien.fr/faits-divers/le-tiers-monde-en-france-le-vice-president-americain-jd-vance-accuse-limmigration-dans-les-violences-du-17-octobre-18-10-2026-HFBUS3O4F5AY3O6GAG6GPBEQQQ.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : « Le tiers-monde en France » : le vice-président américain J.D. Vance accuse l’i..."
-      },
-      {
-        "title": "Outils de détection « défaillants », rôle de TikTok… Pourquoi les autorités n’ont pas anticipé l’ampleur des violences du 17 octobre",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-20T04:27:40.316Z",
-        "link": "https://www.leparisien.fr/faits-divers/ampleur-des-violences-du-17-octobre-tiktok-a-joue-un-role-daccelerateur-inedit-selon-les-renseignements-18-10-2026-OIRNUV5ELFAKZBROKHSTJ5TUF4.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Outils de détection « défaillants », rôle de TikTok… Pourquoi les autorités n’on..."
-      },
-      {
-        "title": "Violences du 17 octobre à Bordeaux : les autorités appellent les témoins de violences à transmettre leurs vidéos à la police",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-20T04:27:40.316Z",
-        "link": "https://www.leparisien.fr/faits-divers/violences-du-17-octobre-a-bordeaux-les-autorites-appellent-les-temoins-de-violences-a-transmettre-leurs-videos-a-la-police-18-10-2026-NJX7G3CE5JFELJBNFQ6N6VESKQ.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Violences du 17 octobre à Bordeaux : les autorités appellent les témoins de viol..."
-      },
-      {
-        "title": "En Guadeloupe, le préfet instaure un couvre-feu pour les mineurs, après des violences en marge du mouvement contre la vie chère",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-20T13:30:32.463Z",
-        "link": "https://www.leparisien.fr/guadeloupe-971/en-guadeloupe-le-prefet-instaure-un-couvre-feu-pour-les-mineurs-apres-des-violences-en-marge-du-mouvement-contre-la-vie-chere-19-10-2026-VO2BIVDYJJFVVD5IOADC5YOCGQ.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : En Guadeloupe, le préfet instaure un couvre-feu pour les mineurs, après des viol..."
-      },
-      {
-        "title": "Violences du 17 octobre à Limoges : la police, le parquet et le propriétaire d’un magasin démentent les accusations de pillage visant des agents",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-20T13:30:32.463Z",
-        "link": "https://www.leparisien.fr/faits-divers/violences-du-17-octobre-a-limoges-la-police-le-parquet-et-le-proprietaire-dun-magasin-dementent-les-accusations-de-pillage-visant-des-agents-19-10-2026-P745YIU6DRCDPDCMIQHJBRQLCE.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Violences du 17 octobre à Limoges : la police, le parquet et le propriétaire d’u..."
-      },
-      {
-        "title": "Violences urbaines : Sébastien Lecornu annonce le lancement d’un « fonds de soutien spécifique » pour les « 3 000 commerces » touchés",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-20T13:30:32.463Z",
-        "link": "https://www.leparisien.fr/faits-divers/violences-urbaines-sebastien-lecornu-annonce-le-lancement-dun-fonds-de-soutien-specifique-pour-les-3-000-commerces-touches-19-10-2026-BG2ZT4VFNREP5DXZWKHYZ62KLI.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Violences urbaines : Sébastien Lecornu annonce le lancement d’un « fonds de sout..."
-      },
-      {
-        "title": "Violences du 17 octobre à Paris : « Je comprends les commerçants qui veulent se défendre seuls », prévient le maire de Paris Centre",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-20T13:30:32.463Z",
-        "link": "https://www.leparisien.fr/paris-75/violences-du-17-octobre-a-paris-je-comprends-les-commercants-qui-veulent-se-defendre-seuls-previent-le-maire-de-paris-centre-19-10-2026-H5JIMFCF4JAMFGRIYKYFYW2ENQ.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Violences du 17 octobre à Paris : « Je comprends les commerçants qui veulent se ..."
-      },
-      {
-        "title": "Violences du 17 octobre à Lyon : un centre de rétention administrative touché par un incendie, 10 personnes intoxiquées",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-20T13:30:32.462Z",
-        "link": "https://www.leparisien.fr/faits-divers/violences-du-17-octobre-a-lyon-un-centre-de-retention-administrative-touche-par-un-incendie-10-personnes-intoxiquees-19-10-2026-3X27JYKC3RHKRE4CELFVNRUZSU.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Violences du 17 octobre à Lyon : un centre de rétention administrative touché pa..."
-      }
-    ],
-    "summary": "Violences du 17 octobre. Trois personnes, dont un mineur, en garde à vue pour des outrages et des violences envers les policiers à Agen / Biarritz : un mineur placé en garde à vue pour avoir tiré un mortier en direction du proviseur du lycée André-Malraux"
-  },
-  {
     "title": "En Albanie, le premier ministre exclut toute démission au sixième jour de violentes manifestations",
     "score": 97,
     "count": 1,
@@ -362,7 +277,7 @@
       {
         "title": "Val-d’Oise : un homme découvert égorgé dans son appartement d’Argenteuil, ses colocataires en garde à vue",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-20T13:30:32.463Z",
+        "time": "2026-10-20T19:59:07.810Z",
         "link": "https://www.leparisien.fr/faits-divers/val-doise-un-homme-decouvert-egorge-dans-son-appartement-dargenteuil-ses-colocataires-en-garde-a-vue-19-10-2026-UEK2YTWOIVAADDCRKPWZ7DGEKI.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Val-d’Oise : un homme découvert égorgé dans son appartement d’Argenteuil, ses co..."
@@ -428,6 +343,42 @@
     "summary": "Paris. Sorbonne Nouvelle : critiqué pour avoir fait appel à la police, le président annonce sa démission"
   },
   {
+    "title": "Démission refusée de Laurent Nuñez: \"Quand c'est difficile, on réaffirme la confiance dans les gens qui ont le courage de prendre des décisions\", soutient Sébastien Lecornu",
+    "score": 97,
+    "count": 3,
+    "sources": [
+      "https://www.bfmtv.com/rss/politique/",
+      "https://www.ledauphine.com/Faits-divers-Justice/rss"
+    ],
+    "items": [
+      {
+        "title": "Démission refusée de Laurent Nuñez: \"Quand c'est difficile, on réaffirme la confiance dans les gens qui ont le courage de prendre des décisions\", soutient Sébastien Lecornu",
+        "source": "https://www.bfmtv.com/rss/politique/",
+        "time": "2026-10-19T11:13:01.000Z",
+        "link": "https://www.bfmtv.com/politique/gouvernement/video-demission-refusee-de-laurent-nunez-quand-c-est-difficile-on-reaffirme-la-confiance-dans-les-gens-qui-ont-le-courage-de-prendre-des-decisions-soutient-sebastien-lecornu_VN-202610190467.html",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Démission refusée de Laurent Nuñez: \"Quand c'est difficile, on réaffirme la conf..."
+      },
+      {
+        "title": "Social. Violences du 17 octobre : démission de Nuñez refusée, couvre-feux localisés et 2 513 gardes à vue, l'essentiel de ce lundi",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-10-19T21:02:00.000Z",
+        "link": "https://www.ledauphine.com/social/2026/10/19/violences-du-17-octobre-cellule-de-crise-a-matignon-et-rassemblements-devant-les-mairies-l-executif-sous-pression",
+        "score": 97,
+        "summary": "démission de Nuñez refusée, couvre-feux localisés et 2 513 gardes à vue, l'essentiel de ce lundi"
+      },
+      {
+        "title": "17 octobre: Emmanuel Macron \"doit accepter\" la démission de Laurent Nuñez, estime l'écologiste Cyrielle Chatelain qui dénonce un \"échec cuisant du gouvernement\"",
+        "source": "https://www.bfmtv.com/rss/politique/",
+        "time": "2026-10-20T07:46:09.000Z",
+        "link": "https://www.bfmtv.com/politique/la-france-insoumise/video-17-octobre-laurent-nunez-delegitime-dans-ses-fonctions-estime-l-ecologiste-cyrielle-chatelain-qui-denonce-un-echec-cuisant-du-gouvernement_VN-202610200326.html",
+        "score": 97,
+        "summary": "Point de situation critique concernant : 17 octobre: Emmanuel Macron \"doit accepter\" la démission de Laurent Nuñez, estim..."
+      }
+    ],
+    "summary": "Démission refusée de Laurent Nuñez: \"Quand c'est difficile, on réaffirme la confiance dans les gens qui ont le courage de prendre des décisions\", soutient Sébastien Lecornu / Social. Violences du 17 octobre : démission de Nuñez refusée, couvre-feux localisés et 2 513 gardes à vue, l'essentiel de ce lundi"
+  },
+  {
     "title": "Pau : le handballeur qui lançait des projectiles sur la police le 17 octobre condamné à 6 mois ferme sous bracelet électronique",
     "score": 97,
     "count": 1,
@@ -447,6 +398,25 @@
     "summary": "Pau : le handballeur qui lançait des projectiles sur la police le 17 octobre condamné à 6 mois ferme sous bracelet électronique"
   },
   {
+    "title": "Biarritz : un mineur placé en garde à vue pour avoir tiré un mortier en direction du proviseur du lycée André-Malraux",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.sudouest.fr/faits-divers/rss.xml"
+    ],
+    "items": [
+      {
+        "title": "Biarritz : un mineur placé en garde à vue pour avoir tiré un mortier en direction du proviseur du lycée André-Malraux",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-10-19T16:34:57.000Z",
+        "link": "https://www.sudouest.fr/faits-divers/biarritz-un-mineur-place-en-garde-a-vue-pour-avoir-tire-un-mortier-en-direction-du-proviseur-du-lycee-andre-malraux-31147409.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Biarritz : un mineur placé en garde à vue pour avoir tiré un mortier en directio..."
+      }
+    ],
+    "summary": "Biarritz : un mineur placé en garde à vue pour avoir tiré un mortier en direction du proviseur du lycée André-Malraux"
+  },
+  {
     "title": "Attaque à la voiture-bélier sur une députée australienne : la victime a perdu une jambe, un homme de 43 ans inculpé ",
     "score": 97,
     "count": 1,
@@ -457,7 +427,7 @@
       {
         "title": "Attaque à la voiture-bélier sur une députée australienne : la victime a perdu une jambe, un homme de 43 ans inculpé ",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-20T13:30:32.462Z",
+        "time": "2026-10-20T19:59:07.809Z",
         "link": "https://www.leparisien.fr/faits-divers/attaque-a-la-voiture-belier-sur-une-deputee-australienne-la-victime-a-perdu-une-jambe-un-homme-de-43-ans-inculpe-20-10-2026-UQIQPBNQYFB5HES3CUPIWL7JDU.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Attaque à la voiture-bélier sur une députée australienne : la victime a perdu un..."
@@ -476,7 +446,7 @@
       {
         "title": "« C’était super bête » : condamnés par le tribunal de Meaux pour avoir ramené des affaires de marques issues des pillages",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-20T13:30:32.462Z",
+        "time": "2026-10-20T19:59:07.809Z",
         "link": "https://www.leparisien.fr/seine-et-marne-77/cetait-super-bete-condamnes-par-le-tribunal-de-meaux-pour-avoir-ramene-des-affaires-de-marques-issues-des-pillages-20-10-2026-LFUUCJ2D6BHARJMS62ZLQ3SELI.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « C’était super bête » : condamnés par le tribunal de Meaux pour avoir ramené de..."
@@ -495,7 +465,7 @@
       {
         "title": "Pillages en Île-de-France : ils voulaient s’attaquer au centre commercial Vélizy 2, cinq mineurs placés en garde à vue",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-20T13:30:32.462Z",
+        "time": "2026-10-20T19:59:07.809Z",
         "link": "https://www.leparisien.fr/yvelines-78/pillages-ils-voulaient-sattaquer-au-centre-commercial-velizy-2-20-10-2026-OGA5MS4MG5AN3BTXQDU7BM35WQ.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Pillages en Île-de-France : ils voulaient s’attaquer au centre commercial Vélizy..."
@@ -514,7 +484,7 @@
       {
         "title": "Soupçons de poupées sexuelles « mineures » en Seine-et-Marne : le gérant du site condamné à des amendes",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-20T13:30:32.462Z",
+        "time": "2026-10-20T19:59:07.809Z",
         "link": "https://www.leparisien.fr/seine-et-marne-77/soupcons-de-poupees-sexuelles-mineures-en-seine-et-marne-le-gerant-du-site-condamne-a-des-amendes-20-10-2026-SJ6D2ICQUFGAHC2WR7NXTNIS4Y.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Soupçons de poupées sexuelles « mineures » en Seine-et-Marne : le gérant du site..."
@@ -587,6 +557,129 @@
       }
     ],
     "summary": "Violences du 17 octobre : A Lille, les premiers pilleurs durement condamnés « pour l’exemple », dénoncent leurs avocats / Violences du 17 octobre : comment les enquêteurs vont identifier les pilleurs"
+  },
+  {
+    "title": "Fiché S, d'ultragauche, déjà condamné… Quel est le profil du suspect de l'incendie de la mairie de Limoges, interpellé ce mardi matin ?",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.franceinfo.fr/faits-divers.rss"
+    ],
+    "items": [
+      {
+        "title": "Fiché S, d'ultragauche, déjà condamné… Quel est le profil du suspect de l'incendie de la mairie de Limoges, interpellé ce mardi matin ?",
+        "source": "https://www.franceinfo.fr/faits-divers.rss",
+        "time": "2026-10-20T15:41:35.000Z",
+        "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/fiche-s-d-ultragauche-deja-condamne-quel-est-le-profil-du-suspect-de-l-incendie-de-la-mairie-de-limoges-interpelle-ce-mardi-matin_8245885.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Fiché S, d'ultragauche, déjà condamné… Quel est le profil du suspect de l'incend..."
+      }
+    ],
+    "summary": "Fiché S, d'ultragauche, déjà condamné… Quel est le profil du suspect de l'incendie de la mairie de Limoges, interpellé ce mardi matin ?"
+  },
+  {
+    "title": "Escroqueries au Pays basque. Faux conseiller bancaire, musique d’attente et livreur VTC : l’arnaqueur tombe pour son réseau et écope d’un an de prison ferme",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.sudouest.fr/faits-divers/rss.xml"
+    ],
+    "items": [
+      {
+        "title": "Escroqueries au Pays basque. Faux conseiller bancaire, musique d’attente et livreur VTC : l’arnaqueur tombe pour son réseau et écope d’un an de prison ferme",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-10-20T16:30:00.000Z",
+        "link": "https://www.sudouest.fr/pyrenees-atlantiques/pays-basque/escroqueries-au-pays-basque-faux-conseiller-bancaire-musique-d-attente-et-livreur-vtc-l-arnaqueur-tombe-pour-son-reseau-et-ecope-d-un-an-de-prison-ferme-31154527.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Escroqueries au Pays basque. Faux conseiller bancaire, musique d’attente et livr..."
+      }
+    ],
+    "summary": "Escroqueries au Pays basque. Faux conseiller bancaire, musique d’attente et livreur VTC : l’arnaqueur tombe pour son réseau et écope d’un an de prison ferme"
+  },
+  {
+    "title": "« On ne peut pas prétendre avoir été floué de 7,5 millions » : les banques Edmond de Rothschild et Sammarinese di Investimento jugées pour blanchiment aggravé",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.sudouest.fr/faits-divers/rss.xml"
+    ],
+    "items": [
+      {
+        "title": "« On ne peut pas prétendre avoir été floué de 7,5 millions » : les banques Edmond de Rothschild et Sammarinese di Investimento jugées pour blanchiment aggravé",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-10-20T15:41:14.000Z",
+        "link": "https://www.sudouest.fr/justice/on-ne-peut-pas-pretendre-avoir-ete-floue-de-7-5-millions-les-banques-edmond-de-rothschild-et-sammarinese-di-investimento-jugees-pour-blanchiment-aggrave-31160426.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : « On ne peut pas prétendre avoir été floué de 7,5 millions » : les banques Edmon..."
+      }
+    ],
+    "summary": "« On ne peut pas prétendre avoir été floué de 7,5 millions » : les banques Edmond de Rothschild et Sammarinese di Investimento jugées pour blanchiment aggravé"
+  },
+  {
+    "title": "Grenoble. Après la journée de samedi, des policiers épuisés et en colère : « Nous étions dans une véritable faillite de la sécurité »",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.ledauphine.com/Faits-divers-Justice/rss"
+    ],
+    "items": [
+      {
+        "title": "Grenoble. Après la journée de samedi, des policiers épuisés et en colère : « Nous étions dans une véritable faillite de la sécurité »",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-10-20T18:10:00.000Z",
+        "link": "https://www.ledauphine.com/faits-divers-justice/2026/10/20/isere-grenoble-apres-la-journee-de-samedi-des-policiers-epuises-et-en-colere-nous-etions-dans-une-veritable-faillite-de-la-securite",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Grenoble. Après la journée de samedi, des policiers épuisés et en colère : « Nou..."
+      }
+    ],
+    "summary": "Grenoble. Après la journée de samedi, des policiers épuisés et en colère : « Nous étions dans une véritable faillite de la sécurité »"
+  },
+  {
+    "title": "L'enseigne GiFi va \"solliciter\" son placement en redressement judiciaire",
+    "score": 97,
+    "count": 2,
+    "sources": [
+      "https://www.bfmtv.com/rss/economie/",
+      "https://www.20minutes.fr/feeds/rss-une.xml"
+    ],
+    "items": [
+      {
+        "title": "L'enseigne GiFi va \"solliciter\" son placement en redressement judiciaire",
+        "source": "https://www.bfmtv.com/rss/economie/",
+        "time": "2026-10-20T19:19:44.000Z",
+        "link": "https://www.bfmtv.com/economie/entreprises/l-enseigne-gi-fi-va-solliciter-son-placement-en-redressement-judiciaire_AD-202610200855.html",
+        "score": 97,
+        "summary": "Point de situation critique concernant : L'enseigne GiFi va \"solliciter\" son placement en redressement judiciaire..."
+      },
+      {
+        "title": "En grosse difficulté, l’enseigne Gifi demande à être placée en redressement judiciaire",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-10-20T19:39:20.000Z",
+        "link": "https://www.20minutes.fr/economie/4256118-20261020-grosse-difficulte-enseigne-gifi-demande-etre-placee-redressement-judiciaire?at_medium=display&at_campaign=149",
+        "score": 97,
+        "summary": "Point de situation critique concernant : En grosse difficulté, l’enseigne Gifi demande à être placée en redressement judi..."
+      }
+    ],
+    "summary": "L'enseigne GiFi va \"solliciter\" son placement en redressement judiciaire / En grosse difficulté, l’enseigne Gifi demande à être placée en redressement judiciaire"
+  },
+  {
+    "title": "«Il y a un risque de décapitation de la hiérarchie» : une mesure du budget de la Sécurité sociale fait craindre des démissions en cascade dans l’armée",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+    ],
+    "items": [
+      {
+        "title": "«Il y a un risque de décapitation de la hiérarchie» : une mesure du budget de la Sécurité sociale fait craindre des démissions en cascade dans l’armée",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-10-20T17:18:25.000Z",
+        "link": "https://www.lefigaro.fr/conjoncture/il-y-a-un-risque-de-decapitation-de-la-hierarchie-une-mesure-du-budget-de-la-securite-sociale-fait-craindre-des-demissions-en-cascade-dans-l-armee-20261020",
+        "score": 97,
+        "summary": "une mesure du budget de la Sécurité sociale fait craindre des démissions en cascade dans l’armée"
+      }
+    ],
+    "summary": "«Il y a un risque de décapitation de la hiérarchie» : une mesure du budget de la Sécurité sociale fait craindre des démissions en cascade dans l’armée"
   },
   {
     "title": "Assassinat d’un patron de bar à chicha d’Ivry : son ex-associé victime d’une tentative de meurtre en Angleterre",
@@ -857,7 +950,7 @@
   {
     "title": "Mobilisation du 17 octobre : les images des émeutes à Paris, en marge de la manifestation",
     "score": 90,
-    "count": 2,
+    "count": 1,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
@@ -869,17 +962,28 @@
         "link": "https://www.leparisien.fr/faits-divers/mobilisation-du-17-octobre-les-images-des-emeutes-a-paris-en-marge-de-la-manifestation-17-10-2026-QOKLCPL4TJDN5EYEIFNC5ITT7U.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Mobilisation du 17 octobre : les images des émeutes à Paris, en marge de la mani..."
-      },
-      {
-        "title": "Violences du 17 octobre : le parquet de Paris ouvre une enquête sur la mort d’un homme en marge des mobilisations samedi",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-20T13:30:32.462Z",
-        "link": "https://www.leparisien.fr/paris-75/violences-du-17-octobre-le-parquet-de-paris-ouvre-une-enquete-sur-la-mort-dun-homme-en-marge-des-mobilisations-samedi-20-10-2026-N7AWWNFMZVCYNJBKNRSMK5DL7M.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Violences du 17 octobre : le parquet de Paris ouvre une enquête sur la mort d’un..."
       }
     ],
-    "summary": "Mobilisation du 17 octobre : les images des émeutes à Paris, en marge de la manifestation / Violences du 17 octobre : le parquet de Paris ouvre une enquête sur la mort d’un homme en marge des mobilisations samedi"
+    "summary": "Mobilisation du 17 octobre : les images des émeutes à Paris, en marge de la manifestation"
+  },
+  {
+    "title": "« Le tiers-monde en France » : le vice-président américain J.D. Vance accuse l’immigration dans les violences du 17 octobre",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "« Le tiers-monde en France » : le vice-président américain J.D. Vance accuse l’immigration dans les violences du 17 octobre",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-20T04:27:40.316Z",
+        "link": "https://www.leparisien.fr/faits-divers/le-tiers-monde-en-france-le-vice-president-americain-jd-vance-accuse-limmigration-dans-les-violences-du-17-octobre-18-10-2026-HFBUS3O4F5AY3O6GAG6GPBEQQQ.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : « Le tiers-monde en France » : le vice-président américain J.D. Vance accuse l’i..."
+      }
+    ],
+    "summary": "« Le tiers-monde en France » : le vice-président américain J.D. Vance accuse l’immigration dans les violences du 17 octobre"
   },
   {
     "title": "Violences du 17 octobre à Paris : douze gardés à vue en Seine-et-Marne",
@@ -901,6 +1005,33 @@
     "summary": "Violences du 17 octobre à Paris : douze gardés à vue en Seine-et-Marne"
   },
   {
+    "title": "Outils de détection « défaillants », rôle de TikTok… Pourquoi les autorités n’ont pas anticipé l’ampleur des violences du 17 octobre",
+    "score": 90,
+    "count": 2,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Outils de détection « défaillants », rôle de TikTok… Pourquoi les autorités n’ont pas anticipé l’ampleur des violences du 17 octobre",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-20T04:27:40.316Z",
+        "link": "https://www.leparisien.fr/faits-divers/ampleur-des-violences-du-17-octobre-tiktok-a-joue-un-role-daccelerateur-inedit-selon-les-renseignements-18-10-2026-OIRNUV5ELFAKZBROKHSTJ5TUF4.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Outils de détection « défaillants », rôle de TikTok… Pourquoi les autorités n’on..."
+      },
+      {
+        "title": "Violences du 17 octobre à Bordeaux : les autorités appellent les témoins de violences à transmettre leurs vidéos à la police",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-20T04:27:40.316Z",
+        "link": "https://www.leparisien.fr/faits-divers/violences-du-17-octobre-a-bordeaux-les-autorites-appellent-les-temoins-de-violences-a-transmettre-leurs-videos-a-la-police-18-10-2026-NJX7G3CE5JFELJBNFQ6N6VESKQ.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Violences du 17 octobre à Bordeaux : les autorités appellent les témoins de viol..."
+      }
+    ],
+    "summary": "Outils de détection « défaillants », rôle de TikTok… Pourquoi les autorités n’ont pas anticipé l’ampleur des violences du 17 octobre / Violences du 17 octobre à Bordeaux : les autorités appellent les témoins de violences à transmettre leurs vidéos à la police"
+  },
+  {
     "title": "Violences du 17 octobre : Le Pen dénonce une « crise profonde » et « un pouvoir macroniste à bout de souffle »",
     "score": 90,
     "count": 2,
@@ -919,7 +1050,7 @@
       {
         "title": "Violences du 17 octobre : l’Olympique de Marseille dénonce « des actes de violence et de pillage » contre sa boutique",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-20T13:30:32.463Z",
+        "time": "2026-10-20T19:59:07.810Z",
         "link": "https://www.leparisien.fr/sports/football/ligue-1/violences-du-17-octobre-lolympique-de-marseille-denonce-des-actes-de-violence-et-de-pillage-contre-sa-boutique-19-10-2026-5EJZ7H2JCJEDNFMOB5H6YI2FEI.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Violences du 17 octobre : l’Olympique de Marseille dénonce « des actes de violen..."
@@ -964,25 +1095,6 @@
       }
     ],
     "summary": "« It’s not safe ! » : des touristes étrangers pris au piège des violences du week-end à Paris"
-  },
-  {
-    "title": "A Aix-en-Provence, le procès d’un triple homicide qui a préfiguré la montée en puissance de la DZ Mafia",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://www.lemonde.fr/police/rss_full.xml"
-    ],
-    "items": [
-      {
-        "title": "A Aix-en-Provence, le procès d’un triple homicide qui a préfiguré la montée en puissance de la DZ Mafia",
-        "source": "https://www.lemonde.fr/police/rss_full.xml",
-        "time": "2026-10-18T14:00:11.000Z",
-        "link": "https://www.lemonde.fr/societe/article/2026/10/18/a-aix-en-provence-le-proces-d-un-triple-homicide-qui-a-prefigure-la-montee-en-puissance-de-la-dz-mafia_6797077_3224.html",
-        "score": 90,
-        "summary": "Point de situation critique concernant : A Aix-en-Provence, le procès d’un triple homicide qui a préfiguré la montée en p..."
-      }
-    ],
-    "summary": "A Aix-en-Provence, le procès d’un triple homicide qui a préfiguré la montée en puissance de la DZ Mafia"
   },
   {
     "title": "Cher : un militaire de 23 ans mis en examen pour l’agression de l’écrivain Jean-Christophe Rufin",
@@ -1061,6 +1173,25 @@
     "summary": "Procès de l’assassinat du frère d’Amine Kessaci : à Aix-en-Provence, le centre-ville s’est habitué aux procès à risques"
   },
   {
+    "title": "En Guadeloupe, le préfet instaure un couvre-feu pour les mineurs, après des violences en marge du mouvement contre la vie chère",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "En Guadeloupe, le préfet instaure un couvre-feu pour les mineurs, après des violences en marge du mouvement contre la vie chère",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-20T13:30:32.463Z",
+        "link": "https://www.leparisien.fr/guadeloupe-971/en-guadeloupe-le-prefet-instaure-un-couvre-feu-pour-les-mineurs-apres-des-violences-en-marge-du-mouvement-contre-la-vie-chere-19-10-2026-VO2BIVDYJJFVVD5IOADC5YOCGQ.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : En Guadeloupe, le préfet instaure un couvre-feu pour les mineurs, après des viol..."
+      }
+    ],
+    "summary": "En Guadeloupe, le préfet instaure un couvre-feu pour les mineurs, après des violences en marge du mouvement contre la vie chère"
+  },
+  {
     "title": "Violences sexistes et sexuelles : ce que pourrait changer la loi intégrale",
     "score": 90,
     "count": 1,
@@ -1090,13 +1221,32 @@
       {
         "title": "Une semaine après le meurtre du policier Nordine El Talbi, tué d’une balle dans la tête à Bruxelles, six interpellations dont une à Paris",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-20T13:30:32.463Z",
+        "time": "2026-10-20T19:59:07.809Z",
         "link": "https://www.leparisien.fr/faits-divers/une-semaine-apres-le-meurtre-du-policier-nordine-el-talbi-tue-dune-balle-dans-la-tete-a-bruxelles-six-interpellations-dont-une-a-paris-19-10-2026-OUF6EX4BZJH7XNKNQZ35BQ422I.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Une semaine après le meurtre du policier Nordine El Talbi, tué d’une balle dans ..."
       }
     ],
     "summary": "Une semaine après le meurtre du policier Nordine El Talbi, tué d’une balle dans la tête à Bruxelles, six interpellations dont une à Paris"
+  },
+  {
+    "title": "Violences du 17 octobre à Limoges : la police, le parquet et le propriétaire d’un magasin démentent les accusations de pillage visant des agents",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Violences du 17 octobre à Limoges : la police, le parquet et le propriétaire d’un magasin démentent les accusations de pillage visant des agents",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-20T19:59:07.809Z",
+        "link": "https://www.leparisien.fr/faits-divers/violences-du-17-octobre-a-limoges-la-police-le-parquet-et-le-proprietaire-dun-magasin-dementent-les-accusations-de-pillage-visant-des-agents-19-10-2026-P745YIU6DRCDPDCMIQHJBRQLCE.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Violences du 17 octobre à Limoges : la police, le parquet et le propriétaire d’u..."
+      }
+    ],
+    "summary": "Violences du 17 octobre à Limoges : la police, le parquet et le propriétaire d’un magasin démentent les accusations de pillage visant des agents"
   },
   {
     "title": "Identifié 65 ans après : le meurtrier de Gloria Kowalewicz, une fillette de 8 ans tuée à Chicago en 1960, était un policier de la ville",
@@ -1109,7 +1259,7 @@
       {
         "title": "Identifié 65 ans après : le meurtrier de Gloria Kowalewicz, une fillette de 8 ans tuée à Chicago en 1960, était un policier de la ville",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-20T13:30:32.463Z",
+        "time": "2026-10-20T19:59:07.810Z",
         "link": "https://www.leparisien.fr/faits-divers/identifie-65-ans-apres-le-meurtrier-de-gloria-kowalewicz-une-fillette-de-8-ans-tuee-a-chicago-en-1960-etait-un-policier-de-la-ville-19-10-2026-5C7S72QRPBFFJJUP5LMLC5PQSU.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Identifié 65 ans après : le meurtrier de Gloria Kowalewicz, une fillette de 8 an..."
@@ -1128,7 +1278,7 @@
       {
         "title": "« On craint un 2e round samedi prochain » : à Clermont-Ferrand, les commerçants s’estiment laissés-pour-compte après les violences urbaines",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-20T13:30:32.463Z",
+        "time": "2026-10-20T19:59:07.810Z",
         "link": "https://www.leparisien.fr/puy-de-dome-63/on-craint-un-2e-round-samedi-prochain-a-clermont-ferrand-les-commercants-sestiment-laisses-pour-compte-apres-les-violences-urbaines-19-10-2026-YEHNAVJAOZGLFN7MC5T3GAQGG4.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « On craint un 2e round samedi prochain » : à Clermont-Ferrand, les commerçants ..."
@@ -1137,7 +1287,7 @@
     "summary": "« On craint un 2e round samedi prochain » : à Clermont-Ferrand, les commerçants s’estiment laissés-pour-compte après les violences urbaines"
   },
   {
-    "title": "Violences à Paris : plus de 1 000 interpellations sur tout le week-end, des comparutions immédiates ce lundi",
+    "title": "Violences urbaines : Sébastien Lecornu annonce le lancement d’un « fonds de soutien spécifique » pour les « 3 000 commerces » touchés",
     "score": 90,
     "count": 1,
     "sources": [
@@ -1145,129 +1295,15 @@
     ],
     "items": [
       {
-        "title": "Violences à Paris : plus de 1 000 interpellations sur tout le week-end, des comparutions immédiates ce lundi",
+        "title": "Violences urbaines : Sébastien Lecornu annonce le lancement d’un « fonds de soutien spécifique » pour les « 3 000 commerces » touchés",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-20T13:30:32.463Z",
-        "link": "https://www.leparisien.fr/paris-75/violences-a-paris-plus-de-1-000-interpellations-sur-tout-le-week-end-des-comparutions-immediates-ce-lundi-19-10-2026-TOLNZYLH2VG47JMWJRYWTYAW2I.php",
+        "time": "2026-10-20T19:59:07.810Z",
+        "link": "https://www.leparisien.fr/faits-divers/violences-urbaines-sebastien-lecornu-annonce-le-lancement-dun-fonds-de-soutien-specifique-pour-les-3-000-commerces-touches-19-10-2026-BG2ZT4VFNREP5DXZWKHYZ62KLI.php",
         "score": 90,
-        "summary": "Point de situation critique concernant : Violences à Paris : plus de 1 000 interpellations sur tout le week-end, des comp..."
+        "summary": "Point de situation critique concernant : Violences urbaines : Sébastien Lecornu annonce le lancement d’un « fonds de sout..."
       }
     ],
-    "summary": "Violences à Paris : plus de 1 000 interpellations sur tout le week-end, des comparutions immédiates ce lundi"
-  },
-  {
-    "title": "Un garçon de 5 ans retrouvé mort en Australie, ligoté à un sac de couchage avec du ruban, ses parents voulaient « l’aider à dormir »",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Un garçon de 5 ans retrouvé mort en Australie, ligoté à un sac de couchage avec du ruban, ses parents voulaient « l’aider à dormir »",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-20T13:30:32.463Z",
-        "link": "https://www.leparisien.fr/faits-divers/un-garcon-de-5-ans-retrouve-mort-en-australie-ligote-a-un-sac-de-couchage-avec-du-ruban-ses-parents-voulaient-laider-a-dormir-19-10-2026-BWULRMLAVBEC3HT3MN53KSSFRY.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Un garçon de 5 ans retrouvé mort en Australie, ligoté à un sac de couchage avec ..."
-      }
-    ],
-    "summary": "Un garçon de 5 ans retrouvé mort en Australie, ligoté à un sac de couchage avec du ruban, ses parents voulaient « l’aider à dormir »"
-  },
-  {
-    "title": "Mobilisation du 17 octobre : « Merci beaucoup », Pierre, le gérant d’un Micromania violemment attaqué par-derrière à Nice donne de ses nouvelles",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Mobilisation du 17 octobre : « Merci beaucoup », Pierre, le gérant d’un Micromania violemment attaqué par-derrière à Nice donne de ses nouvelles",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-20T13:30:32.463Z",
-        "link": "https://www.leparisien.fr/alpes-maritimes-06/mobilisation-du-17-octobre-merci-beaucoup-pierre-le-gerant-dun-micromania-violemment-attaque-par-derriere-a-nice-donne-de-ses-nouvelles-19-10-2026-HS7E2SXTYFAN7IKYSOQGCALZDA.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Mobilisation du 17 octobre : « Merci beaucoup », Pierre, le gérant d’un Microman..."
-      }
-    ],
-    "summary": "Mobilisation du 17 octobre : « Merci beaucoup », Pierre, le gérant d’un Micromania violemment attaqué par-derrière à Nice donne de ses nouvelles"
-  },
-  {
-    "title": "Bloquer les réseaux sociaux face aux émeutes ? « Ce serait disproportionné de punir tout le monde », juge une avocate spécialisée",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Bloquer les réseaux sociaux face aux émeutes ? « Ce serait disproportionné de punir tout le monde », juge une avocate spécialisée",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-20T13:30:32.462Z",
-        "link": "https://www.leparisien.fr/high-tech/bloquer-les-reseaux-sociaux-face-aux-emeutes-ce-serait-disproportionne-de-punir-tout-le-monde-juge-une-avocate-specialisee-20-10-2026-KVNE72JHJJHW7JIWJ7DIJGHOUE.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Bloquer les réseaux sociaux face aux émeutes ? « Ce serait disproportionné de pu..."
-      }
-    ],
-    "summary": "Bloquer les réseaux sociaux face aux émeutes ? « Ce serait disproportionné de punir tout le monde », juge une avocate spécialisée"
-  },
-  {
-    "title": "Violences du 17 octobre : comment l’ultragauche a noué une alliance de circonstance avec les jeunes des quartiers",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Violences du 17 octobre : comment l’ultragauche a noué une alliance de circonstance avec les jeunes des quartiers",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-20T13:30:32.462Z",
-        "link": "https://www.leparisien.fr/faits-divers/violences-du-17-octobre-comment-lultragauche-a-noue-une-alliance-de-circonstance-avec-les-jeunes-des-quartiers-19-10-2026-AUDSX6TTBNBFDI5GI23XJNOTLI.php",
-        "score": 90,
-        "summary": "comment l’ultragauche a noué une alliance de circonstance avec les jeunes des quartiers"
-      }
-    ],
-    "summary": "Violences du 17 octobre : comment l’ultragauche a noué une alliance de circonstance avec les jeunes des quartiers"
-  },
-  {
-    "title": "Violences du 17 octobre : musicien, cuisinier, sans-abri, primo-délinquants… Qui sont les premiers émeutiers présentés à la justice ?",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Violences du 17 octobre : musicien, cuisinier, sans-abri, primo-délinquants… Qui sont les premiers émeutiers présentés à la justice ?",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-20T13:30:32.462Z",
-        "link": "https://www.leparisien.fr/faits-divers/musicien-cuisinier-sans-abri-primo-delinquants-qui-sont-les-premiers-emeutiers-presentes-a-la-justice-19-10-2026-3WNLAGP7BBATHAGAQQTKLRIIGM.php",
-        "score": 90,
-        "summary": "musicien, cuisinier, sans-abri, primo-délinquants… Qui sont les premiers émeutiers présentés à la justice ?"
-      }
-    ],
-    "summary": "Violences du 17 octobre : musicien, cuisinier, sans-abri, primo-délinquants… Qui sont les premiers émeutiers présentés à la justice ?"
-  },
-  {
-    "title": "Violences : la réponse pénale doit être « extrêmement ferme » pour éviter que les habitants fassent « justice eux-mêmes », déclare Darmanin",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Violences : la réponse pénale doit être « extrêmement ferme » pour éviter que les habitants fassent « justice eux-mêmes », déclare Darmanin",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-20T13:30:32.462Z",
-        "link": "https://www.leparisien.fr/faits-divers/violences-la-reponse-penale-doit-etre-extremement-ferme-pour-eviter-que-les-habitants-fassent-justice-eux-memes-declare-darmanin-20-10-2026-UWPPSP3IMNCCZMA6O24FGORSGQ.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Violences : la réponse pénale doit être « extrêmement ferme » pour éviter que le..."
-      }
-    ],
-    "summary": "Violences : la réponse pénale doit être « extrêmement ferme » pour éviter que les habitants fassent « justice eux-mêmes », déclare Darmanin"
+    "summary": "Violences urbaines : Sébastien Lecornu annonce le lancement d’un « fonds de soutien spécifique » pour les « 3 000 commerces » touchés"
   },
   {
     "title": "[CYBER] Le gendarme de la cybersecurité a sauvé le pirate.",
@@ -1356,7 +1392,7 @@
       {
         "title": "[CYBER] La plateforme de vote en ligne pour la primaire de gauche, victime d'une cyberattaque",
         "source": "Le Monde Informatique",
-        "time": "2026-10-20T13:29:43.225Z",
+        "time": "2026-10-20T19:57:59.531Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-la-plateforme-de-vote-en-ligne-pour-la-primaire-de-gauche-victime-d-une-cyberattaque-100845.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] La plateforme de vote en ligne pour la primaire de gauche, victime d'une..."
@@ -1375,7 +1411,7 @@
       {
         "title": "[CYBER] D tecteur d'IA: ouvre Google SynthID Detector au grand public",
         "source": "Le Monde Informatique",
-        "time": "2026-10-20T13:29:45.006Z",
+        "time": "2026-10-20T19:58:02.251Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-detecteur-d-ia-google-ouvre-synthid-detector-au-grand-public-100842.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] D tecteur d'IA: ouvre Google SynthID Detector au grand public..."
@@ -1394,7 +1430,7 @@
       {
         "title": "[CYBER] Le muscle orange offre SecNumCloud",
         "source": "Le Monde Informatique",
-        "time": "2026-10-20T13:29:45.844Z",
+        "time": "2026-10-20T19:58:03.610Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-orange-muscle-son-offre-secnumcloud-100841.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le muscle orange offre SecNumCloud..."
@@ -1413,7 +1449,7 @@
       {
         "title": "[CYBER] Une cyberattaque perturbe les installations frigorifiques de centaines de supermarchés",
         "source": "Le Monde Informatique",
-        "time": "2026-10-20T13:29:41.149Z",
+        "time": "2026-10-20T19:57:56.061Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-une-cyberattaque-perturbe-les-installations-frigorifiques-de-centaines-de-supermarches-100850.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Une cyberattaque perturbe les installations frigorifiques de centaines d..."
@@ -1432,7 +1468,7 @@
       {
         "title": "[CYBER] La CNF signale une fuite de don sur la plateforme Vacaf",
         "source": "Le Monde Informatique",
-        "time": "2026-10-20T13:29:39.386Z",
+        "time": "2026-10-20T19:57:53.198Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-la-cnaf-signale-une-fuite-de-donnees-sur-sa-plateforme-vacaf-100851.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] La CNF signale une fuite de don sur la plateforme Vacaf..."
@@ -1451,7 +1487,7 @@
       {
         "title": "[CYBER] Microsoft corrige un record de 1 411 défaillances de la cour",
         "source": "Le Monde Informatique",
-        "time": "2026-10-20T13:29:37.780Z",
+        "time": "2026-10-20T19:57:50.493Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-microsoft-corrige-un-nombre-record-de-1-411-failles-de-securite-100853.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Microsoft corrige un record de 1 411 défaillances de la cour..."
@@ -1470,7 +1506,7 @@
       {
         "title": "[CYBER] Les infrastructures critiques sont essentielles à l'automatisation de leur réponse aux attaques",
         "source": "Le Monde Informatique",
-        "time": "2026-10-20T13:29:36.373Z",
+        "time": "2026-10-20T19:57:48.049Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-cybersecurite-les-infrastructures-critiques-francaises-peinent-a-automatiser-leur-reponse-aux-attaques-100854.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les infrastructures critiques sont essentielles à l'automatisation de le..."
@@ -1527,7 +1563,7 @@
       {
         "title": "[CYBER] Le projet de loi sur l'IA est soumis en privé à l'anthropie",
         "source": "Le Monde Informatique",
-        "time": "2026-10-20T13:29:32.715Z",
+        "time": "2026-10-20T19:57:42.098Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-anthropic-soumet-en-prive-un-projet-de-loi-federal-sur-l-ia-100858.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le projet de loi sur l'IA est soumis en privé à l'anthropie..."
@@ -1546,12 +1582,31 @@
       {
         "title": "[CYBER] ServiceNow lance le passeport de l'IA pour gouverner les agents IA",
         "source": "Le Monde Informatique",
-        "time": "2026-10-20T13:29:34.415Z",
+        "time": "2026-10-20T19:57:44.917Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-servicenow-lance-ai-passport-pour-gouverner-les-agents-ia-100857.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] ServiceNow lance le passeport de l'IA pour gouverner les agents IA..."
       }
     ],
     "summary": "[CYBER] ServiceNow lance le passeport de l'IA pour gouverner les agents IA"
+  },
+  {
+    "title": "[CYBER] Synacktiv tend à fournir une solution d'enquête mobile aux entreprises",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "Le Monde Informatique"
+    ],
+    "items": [
+      {
+        "title": "[CYBER] Synacktiv tend à fournir une solution d'enquête mobile aux entreprises",
+        "source": "Le Monde Informatique",
+        "time": "2026-10-20T19:57:39.236Z",
+        "link": "https://www.lemondeinformatique.fr/actualites/lire-synacktiv-etend-sa-solution-d-investigation-mobile-aux-entreprises-100860.html",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] Synacktiv tend à fournir une solution d'enquête mobile aux entreprises..."
+      }
+    ],
+    "summary": "[CYBER] Synacktiv tend à fournir une solution d'enquête mobile aux entreprises"
   }
 ]
