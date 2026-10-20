@@ -27,7 +27,7 @@
       {
         "title": "Pyrénées-Atlantiques : un ex-policier condamné pour avoir drogué puis agressé sexuellement son épouse à Pau",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-20T19:59:07.809Z",
+        "time": "2026-10-20T23:08:50.565Z",
         "link": "https://www.leparisien.fr/faits-divers/pyrenees-atlantiques-un-ex-policier-condamne-pour-avoir-drogue-puis-agresse-sexuellement-son-epouse-a-pau-20-10-2026-PVS646DBYVFLNHLHNALBK33ERQ.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Pyrénées-Atlantiques : un ex-policier condamné pour avoir drogué puis agressé se..."
@@ -61,34 +61,6 @@
       }
     ],
     "summary": "Un policier en arrêt maladie se fait embaucher par un détective : les deux hommes poursuivis pour corruption et travail dissimulé à Toulouse"
-  },
-  {
-    "title": "L’arnaqueur des soirées parisiennes VIP échappe à la détention provisoire… pour le moment",
-    "score": 97,
-    "count": 2,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.mediapart.fr/articles/feed"
-    ],
-    "items": [
-      {
-        "title": "L’arnaqueur des soirées parisiennes VIP échappe à la détention provisoire… pour le moment",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-18T22:22:51.654Z",
-        "link": "https://www.leparisien.fr/faits-divers/elles-mont-pris-pour-mbappe-larnaqueur-des-soirees-parisiennes-vip-echappe-a-la-detention-provisoire-pour-le-moment-16-10-2026-QCBN65WFP5FWFNESZRX22C3E4A.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : L’arnaqueur des soirées parisiennes VIP échappe à la détention provisoire… pour ..."
-      },
-      {
-        "title": "Ritchy Thibault, 22 ans, est en détention provisoire pour avoir appelé à «brûler l’Élysée»",
-        "source": "https://www.mediapart.fr/articles/feed",
-        "time": "2026-10-20T16:12:37.000Z",
-        "link": "https://www.mediapart.fr/journal/france/201026/ritchy-thibault-22-ans-est-en-detention-provisoire-pour-avoir-appele-bruler-l-elysee",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Ritchy Thibault, 22 ans, est en détention provisoire pour avoir appelé à «brûler..."
-      }
-    ],
-    "summary": "L’arnaqueur des soirées parisiennes VIP échappe à la détention provisoire… pour le moment / Ritchy Thibault, 22 ans, est en détention provisoire pour avoir appelé à «brûler l’Élysée»"
   },
   {
     "title": "Cour d’assises du Val-d’Oise : Géraldine, l’infirmière accusée d’avoir empoisonné son bébé, a été condamnée à 6 ans de prison",
@@ -159,11 +131,12 @@
   {
     "title": "Paris : le compagnon d’une institutrice condamné à trois ans de prison avec sursis pour des attouchements sur deux enfants",
     "score": 97,
-    "count": 5,
+    "count": 6,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
       "https://www.sudouest.fr/faits-divers/rss.xml",
-      "https://www.ledauphine.com/Faits-divers-Justice/rss"
+      "https://www.ledauphine.com/Faits-divers-Justice/rss",
+      "https://www.20minutes.fr/feeds/rss-une.xml"
     ],
     "items": [
       {
@@ -177,7 +150,7 @@
       {
         "title": "Bocar M., le douanier corrompu de l’aéroport de Roissy, condamné à 8 ans de prison pour trafic de cocaïne",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-20T19:59:07.809Z",
+        "time": "2026-10-20T23:08:50.566Z",
         "link": "https://www.leparisien.fr/faits-divers/bocar-m-le-douanier-corrompu-de-laeroport-de-roissy-condamne-a-8-ans-de-prison-pour-trafic-de-cocaine-20-10-2026-TNQQNGBKPBGMXGCYYZTGMAWUUY.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Bocar M., le douanier corrompu de l’aéroport de Roissy, condamné à 8 ans de pris..."
@@ -205,6 +178,14 @@
         "link": "https://www.ledauphine.com/faits-divers-justice/2026/10/20/pillages-de-magasins-a-valence-deux-ardechois-condamnes-a-quatre-et-trois-mois-de-prison-ferme",
         "score": 97,
         "summary": "deux Ardéchois condamnés à quatre et trois mois de prison ferme"
+      },
+      {
+        "title": "Etats-Unis : Un Guatémaltèque condamné à 30 ans de prison pour la mort de 53 migrants au Texas",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-10-20T21:51:56.000Z",
+        "link": "https://www.20minutes.fr/monde/etats-unis/4256125-20261020-etats-unis-guatemalteque-condamne-30-ans-prison-mort-53-migrants-texas?at_medium=display&at_campaign=149",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Etats-Unis : Un Guatémaltèque condamné à 30 ans de prison pour la mort de 53 mig..."
       }
     ],
     "summary": "Paris : le compagnon d’une institutrice condamné à trois ans de prison avec sursis pour des attouchements sur deux enfants / Bocar M., le douanier corrompu de l’aéroport de Roissy, condamné à 8 ans de prison pour trafic de cocaïne"
@@ -248,25 +229,6 @@
     "summary": "Mobilisation du 17 octobre : l’influenceur Rayan PSN en garde à vue"
   },
   {
-    "title": "En Albanie, le premier ministre exclut toute démission au sixième jour de violentes manifestations",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.lemonde.fr/politique/rss_full.xml"
-    ],
-    "items": [
-      {
-        "title": "En Albanie, le premier ministre exclut toute démission au sixième jour de violentes manifestations",
-        "source": "https://www.lemonde.fr/politique/rss_full.xml",
-        "time": "2026-10-18T22:48:41.000Z",
-        "link": "https://www.lemonde.fr/international/article/2026/10/19/en-albanie-le-premier-ministre-exclut-toute-demission-au-sixieme-jour-de-violentes-manifestations_6797333_3210.html",
-        "score": 97,
-        "summary": "Point de situation critique concernant : En Albanie, le premier ministre exclut toute démission au sixième jour de violen..."
-      }
-    ],
-    "summary": "En Albanie, le premier ministre exclut toute démission au sixième jour de violentes manifestations"
-  },
-  {
     "title": "Val-d’Oise : un homme découvert égorgé dans son appartement d’Argenteuil, ses colocataires en garde à vue",
     "score": 97,
     "count": 1,
@@ -277,7 +239,7 @@
       {
         "title": "Val-d’Oise : un homme découvert égorgé dans son appartement d’Argenteuil, ses colocataires en garde à vue",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-20T19:59:07.810Z",
+        "time": "2026-10-20T23:08:50.566Z",
         "link": "https://www.leparisien.fr/faits-divers/val-doise-un-homme-decouvert-egorge-dans-son-appartement-dargenteuil-ses-colocataires-en-garde-a-vue-19-10-2026-UEK2YTWOIVAADDCRKPWZ7DGEKI.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Val-d’Oise : un homme découvert égorgé dans son appartement d’Argenteuil, ses co..."
@@ -326,9 +288,10 @@
   {
     "title": "Paris. Sorbonne Nouvelle : critiqué pour avoir fait appel à la police, le président annonce sa démission",
     "score": 97,
-    "count": 1,
+    "count": 2,
     "sources": [
-      "https://www.ledauphine.com/Faits-divers-Justice/rss"
+      "https://www.ledauphine.com/Faits-divers-Justice/rss",
+      "https://www.mediapart.fr/articles/feed"
     ],
     "items": [
       {
@@ -338,9 +301,17 @@
         "link": "https://www.ledauphine.com/faits-divers-justice/2026/10/19/sorbonne-nouvelle-critique-pour-avoir-fait-appel-a-la-police-le-president-annonce-sa-demission",
         "score": 97,
         "summary": "Point de situation critique concernant : Paris. Sorbonne Nouvelle : critiqué pour avoir fait appel à la police, le présid..."
+      },
+      {
+        "title": "Ritchy Thibault, 22 ans, est en détention provisoire pour avoir appelé à «brûler l’Élysée»",
+        "source": "https://www.mediapart.fr/articles/feed",
+        "time": "2026-10-20T16:12:37.000Z",
+        "link": "https://www.mediapart.fr/journal/france/201026/ritchy-thibault-22-ans-est-en-detention-provisoire-pour-avoir-appele-bruler-l-elysee",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Ritchy Thibault, 22 ans, est en détention provisoire pour avoir appelé à «brûler..."
       }
     ],
-    "summary": "Paris. Sorbonne Nouvelle : critiqué pour avoir fait appel à la police, le président annonce sa démission"
+    "summary": "Paris. Sorbonne Nouvelle : critiqué pour avoir fait appel à la police, le président annonce sa démission / Ritchy Thibault, 22 ans, est en détention provisoire pour avoir appelé à «brûler l’Élysée»"
   },
   {
     "title": "Démission refusée de Laurent Nuñez: \"Quand c'est difficile, on réaffirme la confiance dans les gens qui ont le courage de prendre des décisions\", soutient Sébastien Lecornu",
@@ -427,7 +398,7 @@
       {
         "title": "Attaque à la voiture-bélier sur une députée australienne : la victime a perdu une jambe, un homme de 43 ans inculpé ",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-20T19:59:07.809Z",
+        "time": "2026-10-20T23:08:50.565Z",
         "link": "https://www.leparisien.fr/faits-divers/attaque-a-la-voiture-belier-sur-une-deputee-australienne-la-victime-a-perdu-une-jambe-un-homme-de-43-ans-inculpe-20-10-2026-UQIQPBNQYFB5HES3CUPIWL7JDU.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Attaque à la voiture-bélier sur une députée australienne : la victime a perdu un..."
@@ -446,7 +417,7 @@
       {
         "title": "« C’était super bête » : condamnés par le tribunal de Meaux pour avoir ramené des affaires de marques issues des pillages",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-20T19:59:07.809Z",
+        "time": "2026-10-20T23:08:50.566Z",
         "link": "https://www.leparisien.fr/seine-et-marne-77/cetait-super-bete-condamnes-par-le-tribunal-de-meaux-pour-avoir-ramene-des-affaires-de-marques-issues-des-pillages-20-10-2026-LFUUCJ2D6BHARJMS62ZLQ3SELI.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « C’était super bête » : condamnés par le tribunal de Meaux pour avoir ramené de..."
@@ -465,7 +436,7 @@
       {
         "title": "Pillages en Île-de-France : ils voulaient s’attaquer au centre commercial Vélizy 2, cinq mineurs placés en garde à vue",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-20T19:59:07.809Z",
+        "time": "2026-10-20T23:08:50.566Z",
         "link": "https://www.leparisien.fr/yvelines-78/pillages-ils-voulaient-sattaquer-au-centre-commercial-velizy-2-20-10-2026-OGA5MS4MG5AN3BTXQDU7BM35WQ.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Pillages en Île-de-France : ils voulaient s’attaquer au centre commercial Vélizy..."
@@ -484,7 +455,7 @@
       {
         "title": "Soupçons de poupées sexuelles « mineures » en Seine-et-Marne : le gérant du site condamné à des amendes",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-20T19:59:07.809Z",
+        "time": "2026-10-20T23:08:50.566Z",
         "link": "https://www.leparisien.fr/seine-et-marne-77/soupcons-de-poupees-sexuelles-mineures-en-seine-et-marne-le-gerant-du-site-condamne-a-des-amendes-20-10-2026-SJ6D2ICQUFGAHC2WR7NXTNIS4Y.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Soupçons de poupées sexuelles « mineures » en Seine-et-Marne : le gérant du site..."
@@ -680,6 +651,25 @@
       }
     ],
     "summary": "«Il y a un risque de décapitation de la hiérarchie» : une mesure du budget de la Sécurité sociale fait craindre des démissions en cascade dans l’armée"
+  },
+  {
+    "title": "\"Vous avez failli\", \"Démissionnez\", \"Il faut partir\"… Le gouvernement sous pression face aux parlementaires après le 17 octobre",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.francetvinfo.fr/politique.rss"
+    ],
+    "items": [
+      {
+        "title": "\"Vous avez failli\", \"Démissionnez\", \"Il faut partir\"… Le gouvernement sous pression face aux parlementaires après le 17 octobre",
+        "source": "https://www.francetvinfo.fr/politique.rss",
+        "time": "2026-10-20T20:19:21.000Z",
+        "link": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/vous-avez-failli-demissionnez-il-faut-partir-le-gouvernement-sous-pression-face-aux-parlementaires-apres-le-17-octobre_8246224.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 97,
+        "summary": "Point de situation critique concernant : \"Vous avez failli\", \"Démissionnez\", \"Il faut partir\"… Le gouvernement sous press..."
+      }
+    ],
+    "summary": "\"Vous avez failli\", \"Démissionnez\", \"Il faut partir\"… Le gouvernement sous pression face aux parlementaires après le 17 octobre"
   },
   {
     "title": "Assassinat d’un patron de bar à chicha d’Ivry : son ex-associé victime d’une tentative de meurtre en Angleterre",
@@ -1221,7 +1211,7 @@
       {
         "title": "Une semaine après le meurtre du policier Nordine El Talbi, tué d’une balle dans la tête à Bruxelles, six interpellations dont une à Paris",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-20T19:59:07.809Z",
+        "time": "2026-10-20T23:08:50.566Z",
         "link": "https://www.leparisien.fr/faits-divers/une-semaine-apres-le-meurtre-du-policier-nordine-el-talbi-tue-dune-balle-dans-la-tete-a-bruxelles-six-interpellations-dont-une-a-paris-19-10-2026-OUF6EX4BZJH7XNKNQZ35BQ422I.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Une semaine après le meurtre du policier Nordine El Talbi, tué d’une balle dans ..."
@@ -1240,7 +1230,7 @@
       {
         "title": "Violences du 17 octobre à Limoges : la police, le parquet et le propriétaire d’un magasin démentent les accusations de pillage visant des agents",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-20T19:59:07.809Z",
+        "time": "2026-10-20T23:08:50.566Z",
         "link": "https://www.leparisien.fr/faits-divers/violences-du-17-octobre-a-limoges-la-police-le-parquet-et-le-proprietaire-dun-magasin-dementent-les-accusations-de-pillage-visant-des-agents-19-10-2026-P745YIU6DRCDPDCMIQHJBRQLCE.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Violences du 17 octobre à Limoges : la police, le parquet et le propriétaire d’u..."
@@ -1259,7 +1249,7 @@
       {
         "title": "Identifié 65 ans après : le meurtrier de Gloria Kowalewicz, une fillette de 8 ans tuée à Chicago en 1960, était un policier de la ville",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-20T19:59:07.810Z",
+        "time": "2026-10-20T23:08:50.566Z",
         "link": "https://www.leparisien.fr/faits-divers/identifie-65-ans-apres-le-meurtrier-de-gloria-kowalewicz-une-fillette-de-8-ans-tuee-a-chicago-en-1960-etait-un-policier-de-la-ville-19-10-2026-5C7S72QRPBFFJJUP5LMLC5PQSU.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Identifié 65 ans après : le meurtrier de Gloria Kowalewicz, une fillette de 8 an..."
@@ -1278,7 +1268,7 @@
       {
         "title": "« On craint un 2e round samedi prochain » : à Clermont-Ferrand, les commerçants s’estiment laissés-pour-compte après les violences urbaines",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-20T19:59:07.810Z",
+        "time": "2026-10-20T23:08:50.566Z",
         "link": "https://www.leparisien.fr/puy-de-dome-63/on-craint-un-2e-round-samedi-prochain-a-clermont-ferrand-les-commercants-sestiment-laisses-pour-compte-apres-les-violences-urbaines-19-10-2026-YEHNAVJAOZGLFN7MC5T3GAQGG4.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « On craint un 2e round samedi prochain » : à Clermont-Ferrand, les commerçants ..."
@@ -1297,7 +1287,7 @@
       {
         "title": "Violences urbaines : Sébastien Lecornu annonce le lancement d’un « fonds de soutien spécifique » pour les « 3 000 commerces » touchés",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-20T19:59:07.810Z",
+        "time": "2026-10-20T23:08:50.566Z",
         "link": "https://www.leparisien.fr/faits-divers/violences-urbaines-sebastien-lecornu-annonce-le-lancement-dun-fonds-de-soutien-specifique-pour-les-3-000-commerces-touches-19-10-2026-BG2ZT4VFNREP5DXZWKHYZ62KLI.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Violences urbaines : Sébastien Lecornu annonce le lancement d’un « fonds de sout..."
@@ -1392,7 +1382,7 @@
       {
         "title": "[CYBER] La plateforme de vote en ligne pour la primaire de gauche, victime d'une cyberattaque",
         "source": "Le Monde Informatique",
-        "time": "2026-10-20T19:57:59.531Z",
+        "time": "2026-10-20T23:07:46.293Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-la-plateforme-de-vote-en-ligne-pour-la-primaire-de-gauche-victime-d-une-cyberattaque-100845.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] La plateforme de vote en ligne pour la primaire de gauche, victime d'une..."
@@ -1411,7 +1401,7 @@
       {
         "title": "[CYBER] D tecteur d'IA: ouvre Google SynthID Detector au grand public",
         "source": "Le Monde Informatique",
-        "time": "2026-10-20T19:58:02.251Z",
+        "time": "2026-10-20T23:07:48.919Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-detecteur-d-ia-google-ouvre-synthid-detector-au-grand-public-100842.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] D tecteur d'IA: ouvre Google SynthID Detector au grand public..."
@@ -1430,7 +1420,7 @@
       {
         "title": "[CYBER] Le muscle orange offre SecNumCloud",
         "source": "Le Monde Informatique",
-        "time": "2026-10-20T19:58:03.610Z",
+        "time": "2026-10-20T23:07:50.243Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-orange-muscle-son-offre-secnumcloud-100841.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le muscle orange offre SecNumCloud..."
@@ -1449,7 +1439,7 @@
       {
         "title": "[CYBER] Une cyberattaque perturbe les installations frigorifiques de centaines de supermarchés",
         "source": "Le Monde Informatique",
-        "time": "2026-10-20T19:57:56.061Z",
+        "time": "2026-10-20T23:07:42.914Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-une-cyberattaque-perturbe-les-installations-frigorifiques-de-centaines-de-supermarches-100850.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Une cyberattaque perturbe les installations frigorifiques de centaines d..."
@@ -1468,7 +1458,7 @@
       {
         "title": "[CYBER] La CNF signale une fuite de don sur la plateforme Vacaf",
         "source": "Le Monde Informatique",
-        "time": "2026-10-20T19:57:53.198Z",
+        "time": "2026-10-20T23:07:40.098Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-la-cnaf-signale-une-fuite-de-donnees-sur-sa-plateforme-vacaf-100851.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] La CNF signale une fuite de don sur la plateforme Vacaf..."
@@ -1487,7 +1477,7 @@
       {
         "title": "[CYBER] Microsoft corrige un record de 1 411 défaillances de la cour",
         "source": "Le Monde Informatique",
-        "time": "2026-10-20T19:57:50.493Z",
+        "time": "2026-10-20T23:07:37.508Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-microsoft-corrige-un-nombre-record-de-1-411-failles-de-securite-100853.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Microsoft corrige un record de 1 411 défaillances de la cour..."
@@ -1506,7 +1496,7 @@
       {
         "title": "[CYBER] Les infrastructures critiques sont essentielles à l'automatisation de leur réponse aux attaques",
         "source": "Le Monde Informatique",
-        "time": "2026-10-20T19:57:48.049Z",
+        "time": "2026-10-20T23:07:35.208Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-cybersecurite-les-infrastructures-critiques-francaises-peinent-a-automatiser-leur-reponse-aux-attaques-100854.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les infrastructures critiques sont essentielles à l'automatisation de le..."
@@ -1563,7 +1553,7 @@
       {
         "title": "[CYBER] Le projet de loi sur l'IA est soumis en privé à l'anthropie",
         "source": "Le Monde Informatique",
-        "time": "2026-10-20T19:57:42.098Z",
+        "time": "2026-10-20T23:07:29.608Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-anthropic-soumet-en-prive-un-projet-de-loi-federal-sur-l-ia-100858.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le projet de loi sur l'IA est soumis en privé à l'anthropie..."
@@ -1582,7 +1572,7 @@
       {
         "title": "[CYBER] ServiceNow lance le passeport de l'IA pour gouverner les agents IA",
         "source": "Le Monde Informatique",
-        "time": "2026-10-20T19:57:44.917Z",
+        "time": "2026-10-20T23:07:32.238Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-servicenow-lance-ai-passport-pour-gouverner-les-agents-ia-100857.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] ServiceNow lance le passeport de l'IA pour gouverner les agents IA..."
@@ -1601,7 +1591,7 @@
       {
         "title": "[CYBER] Synacktiv tend à fournir une solution d'enquête mobile aux entreprises",
         "source": "Le Monde Informatique",
-        "time": "2026-10-20T19:57:39.236Z",
+        "time": "2026-10-20T23:07:26.799Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-synacktiv-etend-sa-solution-d-investigation-mobile-aux-entreprises-100860.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Synacktiv tend à fournir une solution d'enquête mobile aux entreprises..."
