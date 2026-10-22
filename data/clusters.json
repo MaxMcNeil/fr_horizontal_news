@@ -1,24 +1,5 @@
 [
   {
-    "title": "Val-d’Oise : un homme découvert égorgé dans son appartement d’Argenteuil, ses colocataires en garde à vue",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Val-d’Oise : un homme découvert égorgé dans son appartement d’Argenteuil, ses colocataires en garde à vue",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-20T23:08:50.566Z",
-        "link": "https://www.leparisien.fr/faits-divers/val-doise-un-homme-decouvert-egorge-dans-son-appartement-dargenteuil-ses-colocataires-en-garde-a-vue-19-10-2026-UEK2YTWOIVAADDCRKPWZ7DGEKI.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Val-d’Oise : un homme découvert égorgé dans son appartement d’Argenteuil, ses co..."
-      }
-    ],
-    "summary": "Val-d’Oise : un homme découvert égorgé dans son appartement d’Argenteuil, ses colocataires en garde à vue"
-  },
-  {
     "title": "Attaque à la voiture-bélier sur une députée australienne : la victime a perdu une jambe, un homme de 43 ans inculpé ",
     "score": 97,
     "count": 1,
@@ -59,10 +40,9 @@
   {
     "title": "Bocar M., le douanier corrompu de l’aéroport de Roissy, condamné à 8 ans de prison pour trafic de cocaïne",
     "score": 97,
-    "count": 3,
+    "count": 2,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.20minutes.fr/feeds/rss-une.xml",
       "https://www.ledauphine.com/Faits-divers-Justice/rss"
     ],
     "items": [
@@ -75,14 +55,6 @@
         "summary": "Point de situation critique concernant : Bocar M., le douanier corrompu de l’aéroport de Roissy, condamné à 8 ans de pris..."
       },
       {
-        "title": "Etats-Unis : Un Guatémaltèque condamné à 30 ans de prison pour la mort de 53 migrants au Texas",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-10-20T21:51:56.000Z",
-        "link": "https://www.20minutes.fr/monde/etats-unis/4256125-20261020-etats-unis-guatemalteque-condamne-30-ans-prison-mort-53-migrants-texas?at_medium=display&at_campaign=149",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Etats-Unis : Un Guatémaltèque condamné à 30 ans de prison pour la mort de 53 mig..."
-      },
-      {
         "title": "Savoie. Jugé pour “prise illégales d’intérêts et favoritisme”, l’ancien maire d’Albiez-Montrond condamné à six mois de prison avec sursis",
         "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
         "time": "2026-10-21T13:04:00.000Z",
@@ -91,7 +63,7 @@
         "summary": "Point de situation critique concernant : Savoie. Jugé pour “prise illégales d’intérêts et favoritisme”, l’ancien maire d’..."
       }
     ],
-    "summary": "Bocar M., le douanier corrompu de l’aéroport de Roissy, condamné à 8 ans de prison pour trafic de cocaïne / Etats-Unis : Un Guatémaltèque condamné à 30 ans de prison pour la mort de 53 migrants au Texas"
+    "summary": "Bocar M., le douanier corrompu de l’aéroport de Roissy, condamné à 8 ans de prison pour trafic de cocaïne / Savoie. Jugé pour “prise illégales d’intérêts et favoritisme”, l’ancien maire d’Albiez-Montrond condamné à six mois de prison avec sursis"
   },
   {
     "title": "Pillages en Île-de-France : ils voulaient s’attaquer au centre commercial Vélizy 2, cinq mineurs placés en garde à vue",
@@ -160,25 +132,6 @@
     "summary": "Pyrénées-Atlantiques : un ex-policier condamné pour avoir drogué puis agressé sexuellement son épouse à Pau / « Il a fait ça pour avoir le dessus sur moi » : un quinquagénaire condamné en Dordogne pour viol sur conjointe dix ans après les faits"
   },
   {
-    "title": "\"Vous avez failli\", \"Démissionnez\", \"Il faut partir\"… Le gouvernement sous pression face aux parlementaires après le 17 octobre",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.francetvinfo.fr/politique.rss"
-    ],
-    "items": [
-      {
-        "title": "\"Vous avez failli\", \"Démissionnez\", \"Il faut partir\"… Le gouvernement sous pression face aux parlementaires après le 17 octobre",
-        "source": "https://www.francetvinfo.fr/politique.rss",
-        "time": "2026-10-20T20:19:21.000Z",
-        "link": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/vous-avez-failli-demissionnez-il-faut-partir-le-gouvernement-sous-pression-face-aux-parlementaires-apres-le-17-octobre_8246224.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 97,
-        "summary": "Point de situation critique concernant : \"Vous avez failli\", \"Démissionnez\", \"Il faut partir\"… Le gouvernement sous press..."
-      }
-    ],
-    "summary": "\"Vous avez failli\", \"Démissionnez\", \"Il faut partir\"… Le gouvernement sous pression face aux parlementaires après le 17 octobre"
-  },
-  {
     "title": "Darya K. a-t-elle poignardé son compagnon de 56 ans, Christophe Gibert, à 250 reprises ? La quadragénaire mise en examen en Haute-Savoie",
     "score": 97,
     "count": 1,
@@ -189,7 +142,7 @@
       {
         "title": "Darya K. a-t-elle poignardé son compagnon de 56 ans, Christophe Gibert, à 250 reprises ? La quadragénaire mise en examen en Haute-Savoie",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-22T19:57:04.754Z",
+        "time": "2026-10-22T23:11:33.686Z",
         "link": "https://www.leparisien.fr/faits-divers/darya-k-a-t-elle-poignarde-son-compagnon-de-56-ans-christophe-gibert-a-250-reprises-la-quadragenaire-mise-en-examen-en-haute-savoie-21-10-2026-OQR5LVPOQVAE5IGQE6VVWPHRUU.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Darya K. a-t-elle poignardé son compagnon de 56 ans, Christophe Gibert, à 250 re..."
@@ -208,7 +161,7 @@
       {
         "title": "Elle tue un homme au volant après avoir regardé du porno sur son téléphone, une femme inculpée dans l’Utah pour homicide routier",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-22T19:57:04.754Z",
+        "time": "2026-10-22T23:11:33.686Z",
         "link": "https://www.leparisien.fr/faits-divers/elle-tue-un-homme-au-volent-apres-avoir-regarde-du-porno-sur-son-telephone-une-femme-inculpee-dans-lutah-pour-homicide-routier-21-10-2026-Y4ENRKFX6FFAZFFQNK42OAVWYI.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Elle tue un homme au volant après avoir regardé du porno sur son téléphone, une ..."
@@ -293,7 +246,7 @@
       {
         "title": "Cofondateur du GIGN puis empêtré dans les scandales : la vie sulfureuse de Paul Barril, mort à 80 ans",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-22T19:57:04.754Z",
+        "time": "2026-10-22T23:11:33.686Z",
         "link": "https://www.leparisien.fr/faits-divers/cofondateur-du-gign-puis-empetre-dans-des-scandales-la-vie-sulfureuse-de-paul-barril-mort-a-80-ans-21-10-2026-R6PCIASSNFDQXNNEXNMKDSG4AQ.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Cofondateur du GIGN puis empêtré dans les scandales : la vie sulfureuse de Paul ..."
@@ -425,7 +378,7 @@
       {
         "title": "Complot contre les Garrido - Corbière : Jean-Christophe Lagarde sera jugé pour « escroquerie en bande organisée »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-22T19:57:04.754Z",
+        "time": "2026-10-22T23:11:33.685Z",
         "link": "https://www.leparisien.fr/faits-divers/complot-contre-les-garrido-corbiere-jean-christophe-lagarde-sera-juge-pour-escroquerie-en-bande-organisee-21-10-2026-IY6NH5UHAFD4NCB3E36H7MUJJE.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Complot contre les Garrido - Corbière : Jean-Christophe Lagarde sera jugé pour «..."
@@ -452,7 +405,7 @@
       {
         "title": "Paris : les receleurs présumés en viennent aux mains et sont interpellés, Hamza « La Douane » échappe à la garde à vue",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-22T19:57:04.754Z",
+        "time": "2026-10-22T23:11:33.686Z",
         "link": "https://www.leparisien.fr/faits-divers/paris-les-pilleurs-presumes-en-viennent-aux-mains-et-sont-interpelles-hamza-la-douane-echappe-a-la-garde-a-vue-21-10-2026-P2VIXOZ54BBMDIVLYNHJNV5H4A.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Paris : les receleurs présumés en viennent aux mains et sont interpellés, Hamza ..."
@@ -472,7 +425,7 @@
       {
         "title": "« Ils l’ont humilié, traité d’animal » : sept animateurs de Gennevilliers condamnés pour des violences sur des enfants autistes",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-22T19:57:04.754Z",
+        "time": "2026-10-22T23:11:33.686Z",
         "link": "https://www.leparisien.fr/hauts-de-seine-92/ils-lont-humilie-traite-danimal-sept-animateurs-de-gennevilliers-condamnes-pour-des-violences-sur-des-enfants-autistes-21-10-2026-G7JDNBL7INDX7A3IAMDEO5VV4I.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Ils l’ont humilié, traité d’animal » : sept animateurs de Gennevilliers condam..."
@@ -510,7 +463,7 @@
       {
         "title": "Une femme mise en examen pour coups mortels sur son conjoint près de Nancy",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-22T19:57:04.753Z",
+        "time": "2026-10-22T23:11:33.685Z",
         "link": "https://www.leparisien.fr/faits-divers/une-femme-mise-en-examen-pour-coups-mortels-sur-son-conjoint-pres-de-nancy-22-10-2026-TIMWGLSFBFDG7C5D3JSQF7JPEE.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Une femme mise en examen pour coups mortels sur son conjoint près de Nancy..."
@@ -649,7 +602,7 @@
       {
         "title": "Près d’un million d’euros perdus au casino ? Un couple de Saint-Witz poursuivi pour blanchiment de fraude fiscale conteste les calculs",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-22T19:57:04.753Z",
+        "time": "2026-10-22T23:11:33.685Z",
         "link": "https://www.leparisien.fr/val-d-oise-95/pres-dun-million-deuros-perdus-au-casino-un-couple-de-saint-witz-poursuivi-pour-blanchiment-de-fraude-fiscale-conteste-les-calculs-23-10-2026-ANOC26B3QFBHFACO2QHPBUWNH4.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Près d’un million d’euros perdus au casino ? Un couple de Saint-Witz poursuivi p..."
@@ -662,12 +615,12 @@
     "score": 97,
     "count": 1,
     "sources": [
-      "https://www.lemonde.fr/politique/rss_full.xml"
+      "https://www.lemonde.fr/societe/rss_full.xml"
     ],
     "items": [
       {
         "title": "Interpellés devant leurs lycées début octobre, des élèves racontent leur première garde à vue : « Comme si j’étais une criminelle »",
-        "source": "https://www.lemonde.fr/politique/rss_full.xml",
+        "source": "https://www.lemonde.fr/societe/rss_full.xml",
         "time": "2026-10-22T07:45:09.000Z",
         "link": "https://www.lemonde.fr/societe/article/2026/10/22/comme-si-j-etais-une-criminelle-interpelles-devant-leurs-lycees-des-eleves-racontent-leur-premiere-garde-a-vue_6798586_3224.html",
         "score": 97,
@@ -698,9 +651,10 @@
   {
     "title": "Le suspect de l'incendie à l'université de Rouen présenté à un juge d'instruction en vue de sa mise en examen",
     "score": 97,
-    "count": 1,
+    "count": 2,
     "sources": [
-      "https://www.franceinfo.fr/faits-divers.rss"
+      "https://www.franceinfo.fr/faits-divers.rss",
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
     "items": [
       {
@@ -710,9 +664,17 @@
         "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-suspect-de-l-incendie-a-l-universite-de-rouen-presente-a-un-juge-d-instruction-en-vue-de-sa-mise-en-examen_8248483.html#xtor=RSS-3-%5Bgeneral%5D",
         "score": 97,
         "summary": "Point de situation critique concernant : Le suspect de l'incendie à l'université de Rouen présenté à un juge d'instructio..."
+      },
+      {
+        "title": "Violences du 17 octobre : un étudiant suspecté d’avoir participé à l’incendie d’une université à Rouen mis en examen et écroué",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-22T23:11:33.685Z",
+        "link": "https://www.leparisien.fr/faits-divers/violences-du-17-octobre-un-etudiant-suspecte-davoir-participe-a-lincendie-dune-universite-a-rouen-mis-en-examen-et-ecroue-22-10-2026-URF5TGXRLNDLRGKKSOMD6IHFDY.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Violences du 17 octobre : un étudiant suspecté d’avoir participé à l’incendie d’..."
       }
     ],
-    "summary": "Le suspect de l'incendie à l'université de Rouen présenté à un juge d'instruction en vue de sa mise en examen"
+    "summary": "Le suspect de l'incendie à l'université de Rouen présenté à un juge d'instruction en vue de sa mise en examen / Violences du 17 octobre : un étudiant suspecté d’avoir participé à l’incendie d’une université à Rouen mis en examen et écroué"
   },
   {
     "title": "Mobilisation sociale et violences à Bordeaux : après des perquisitions, plusieurs centaines d’objets pillés retrouvés",
@@ -894,7 +856,7 @@
       {
         "title": "125 000 euros en faux billets découverts chez un plombier soupçonné de blanchiment pour un réseau de drogue",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-22T19:57:04.753Z",
+        "time": "2026-10-22T23:11:33.685Z",
         "link": "https://www.leparisien.fr/faits-divers/125-000-euros-en-faux-billets-decouverts-chez-un-plombier-soupconne-de-blanchiment-pour-un-reseau-de-drogue-22-10-2026-HZVP5VDVZRDD7AEEFBNG53DJNI.php",
         "score": 97,
         "summary": "Point de situation critique concernant : 125 000 euros en faux billets découverts chez un plombier soupçonné de blanchime..."
@@ -913,7 +875,7 @@
       {
         "title": "Cher : soupçonné de harcèlement, le directeur de l’hôpital de Bourges placé en garde à vue",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-22T19:57:04.753Z",
+        "time": "2026-10-22T23:11:33.685Z",
         "link": "https://www.leparisien.fr/faits-divers/cher-soupconne-de-harcelement-le-directeur-de-lhopital-de-bourges-place-en-garde-a-vue-22-10-2026-G6C5Q7REWRDTDGC2MIMFSRIZBY.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Cher : soupçonné de harcèlement, le directeur de l’hôpital de Bourges placé en g..."
@@ -977,6 +939,25 @@
       }
     ],
     "summary": "Défense : les Forges de Tarbes demandent leur placement en redressement judiciaire"
+  },
+  {
+    "title": "«La faillite de l’État» : Marlène Schiappa raille les recommandations du préfet de police de Paris aux commerçants",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+    ],
+    "items": [
+      {
+        "title": "«La faillite de l’État» : Marlène Schiappa raille les recommandations du préfet de police de Paris aux commerçants",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-10-22T20:55:49.000Z",
+        "link": "https://tvmag.lefigaro.fr/programme-tv/actu-tele/la-faillite-de-l-etat-marlene-schiappa-raille-les-recommandations-du-prefet-de-police-de-paris-aux-commercants-20261022",
+        "score": 97,
+        "summary": "Marlène Schiappa raille les recommandations du préfet de police de Paris aux commerçants"
+      }
+    ],
+    "summary": "«La faillite de l’État» : Marlène Schiappa raille les recommandations du préfet de police de Paris aux commerçants"
   },
   {
     "title": "Cybersécurité : le magazine Valeurs actuelles victime d’une fuite de données de ses acheteurs",
@@ -1131,63 +1112,6 @@
     "summary": "Identifié 65 ans après : le meurtrier de Gloria Kowalewicz, une fillette de 8 ans tuée à Chicago en 1960, était un policier de la ville"
   },
   {
-    "title": "« On craint un 2e round samedi prochain » : à Clermont-Ferrand, les commerçants s’estiment laissés-pour-compte après les violences urbaines",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "« On craint un 2e round samedi prochain » : à Clermont-Ferrand, les commerçants s’estiment laissés-pour-compte après les violences urbaines",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-20T23:08:50.566Z",
-        "link": "https://www.leparisien.fr/puy-de-dome-63/on-craint-un-2e-round-samedi-prochain-a-clermont-ferrand-les-commercants-sestiment-laisses-pour-compte-apres-les-violences-urbaines-19-10-2026-YEHNAVJAOZGLFN7MC5T3GAQGG4.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : « On craint un 2e round samedi prochain » : à Clermont-Ferrand, les commerçants ..."
-      }
-    ],
-    "summary": "« On craint un 2e round samedi prochain » : à Clermont-Ferrand, les commerçants s’estiment laissés-pour-compte après les violences urbaines"
-  },
-  {
-    "title": "Violences urbaines : Sébastien Lecornu annonce le lancement d’un « fonds de soutien spécifique » pour les « 3 000 commerces » touchés",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Violences urbaines : Sébastien Lecornu annonce le lancement d’un « fonds de soutien spécifique » pour les « 3 000 commerces » touchés",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-20T23:08:50.566Z",
-        "link": "https://www.leparisien.fr/faits-divers/violences-urbaines-sebastien-lecornu-annonce-le-lancement-dun-fonds-de-soutien-specifique-pour-les-3-000-commerces-touches-19-10-2026-BG2ZT4VFNREP5DXZWKHYZ62KLI.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Violences urbaines : Sébastien Lecornu annonce le lancement d’un « fonds de sout..."
-      }
-    ],
-    "summary": "Violences urbaines : Sébastien Lecornu annonce le lancement d’un « fonds de soutien spécifique » pour les « 3 000 commerces » touchés"
-  },
-  {
-    "title": "Violences du 17 octobre : l’Olympique de Marseille dénonce « des actes de violence et de pillage » contre sa boutique",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Violences du 17 octobre : l’Olympique de Marseille dénonce « des actes de violence et de pillage » contre sa boutique",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-20T19:59:07.810Z",
-        "link": "https://www.leparisien.fr/sports/football/ligue-1/violences-du-17-octobre-lolympique-de-marseille-denonce-des-actes-de-violence-et-de-pillage-contre-sa-boutique-19-10-2026-5EJZ7H2JCJEDNFMOB5H6YI2FEI.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Violences du 17 octobre : l’Olympique de Marseille dénonce « des actes de violen..."
-      }
-    ],
-    "summary": "Violences du 17 octobre : l’Olympique de Marseille dénonce « des actes de violence et de pillage » contre sa boutique"
-  },
-  {
     "title": "Violences du 17 octobre : les « premiers responsables » sont les « factieux et les racailles », estime la porte-parole du gouvernement",
     "score": 90,
     "count": 1,
@@ -1198,7 +1122,7 @@
       {
         "title": "Violences du 17 octobre : les « premiers responsables » sont les « factieux et les racailles », estime la porte-parole du gouvernement",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-22T19:57:04.754Z",
+        "time": "2026-10-22T23:11:33.686Z",
         "link": "https://www.leparisien.fr/faits-divers/violences-du-17-octobre-les-premiers-responsables-sont-les-factieux-et-les-racailles-estime-la-porte-parole-du-gouvernement-20-10-2026-D6LMJ46OIJAKJGLD2LWC2REGUM.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Violences du 17 octobre : les « premiers responsables » sont les « factieux et l..."
@@ -1217,7 +1141,7 @@
       {
         "title": "Procès de l’explosion de la rue de Trévise : victimes et prévenus dénoncent la présence de GRDF sur le banc des parties civiles",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-22T19:57:04.754Z",
+        "time": "2026-10-22T23:11:33.686Z",
         "link": "https://www.leparisien.fr/faits-divers/proces-de-lexplosion-de-la-rue-de-trevise-victimes-et-prevenus-denoncent-la-presence-de-grdf-sur-le-banc-des-parties-civiles-20-10-2026-KUGLXCVSBBE5ZDMJ4HHNTX45JI.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Procès de l’explosion de la rue de Trévise : victimes et prévenus dénoncent la p..."
@@ -1293,7 +1217,7 @@
       {
         "title": "Mobilisation du 17 octobre à Paris : décès, rumeurs, enquêtes… le point sur les quatre « drames » en marge des violences urbaines",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-22T19:57:04.754Z",
+        "time": "2026-10-22T23:11:33.686Z",
         "link": "https://www.leparisien.fr/paris-75/mobilisation-du-17-octobre-a-paris-deces-rumeurs-enquetes-le-point-sur-les-quatre-drames-en-marge-des-violences-urbaines-21-10-2026-KGOEWQEVEFGGZLTVBYD2UYJUB4.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Mobilisation du 17 octobre à Paris : décès, rumeurs, enquêtes… le point sur les ..."
@@ -1312,7 +1236,7 @@
       {
         "title": "« Nous sommes sous le choc » : le violent cambriolage armé dont ont été victimes l’ex-gardien du PSG Sergio Rico, sa femme et leurs enfants à Séville",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-22T19:57:04.753Z",
+        "time": "2026-10-22T23:11:33.685Z",
         "link": "https://www.leparisien.fr/sports/football/nous-sommes-sous-le-choc-le-violent-cambriolage-arme-dont-a-ete-victime-lex-gardien-du-psg-sergio-rico-sa-femme-et-leurs-enfants-a-seville-22-10-2026-A6WLDSHIA5COBB2AZPBXQ3HL6U.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Nous sommes sous le choc » : le violent cambriolage armé dont ont été victimes..."
@@ -1331,7 +1255,7 @@
       {
         "title": "Soupçons de viols au dépôt du tribunal de Bobigny : les deux policiers mis en examen remis en liberté",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-22T19:57:04.753Z",
+        "time": "2026-10-22T23:11:33.685Z",
         "link": "https://www.leparisien.fr/seine-saint-denis-93/bobigny-93000/soupcons-de-viols-au-depot-du-tribunal-de-bobigny-les-deux-policiers-mis-en-examen-remis-en-liberte-22-10-2026-G5R47N7JAREPJBHHYT7D2NFYW4.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Soupçons de viols au dépôt du tribunal de Bobigny : les deux policiers mis en ex..."
@@ -1340,7 +1264,7 @@
     "summary": "Soupçons de viols au dépôt du tribunal de Bobigny : les deux policiers mis en examen remis en liberté"
   },
   {
-    "title": "« À un moment, on ne croit plus aux coïncidences » : les preuves qui accablent Amine Oualane, accusé de triple meurtre à Marseille",
+    "title": "« À un moment, on ne croit plus aux coïncidences » : la policière qui accable Amine Oualane, accusé de triple meurtre à Marseille",
     "score": 90,
     "count": 1,
     "sources": [
@@ -1348,15 +1272,91 @@
     ],
     "items": [
       {
-        "title": "« À un moment, on ne croit plus aux coïncidences » : les preuves qui accablent Amine Oualane, accusé de triple meurtre à Marseille",
+        "title": "« À un moment, on ne croit plus aux coïncidences » : la policière qui accable Amine Oualane, accusé de triple meurtre à Marseille",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-22T19:57:04.753Z",
+        "time": "2026-10-22T23:11:33.685Z",
         "link": "https://www.leparisien.fr/faits-divers/a-un-moment-on-ne-croit-plus-aux-coincidences-les-preuves-qui-accablent-amine-oualane-accuse-de-triple-meurtre-a-marseille-22-10-2026-FHX3EFFE7NACFBHBRDXXBPJ2TQ.php",
         "score": 90,
-        "summary": "Point de situation critique concernant : « À un moment, on ne croit plus aux coïncidences » : les preuves qui accablent A..."
+        "summary": "Point de situation critique concernant : « À un moment, on ne croit plus aux coïncidences » : la policière qui accable Am..."
       }
     ],
-    "summary": "« À un moment, on ne croit plus aux coïncidences » : les preuves qui accablent Amine Oualane, accusé de triple meurtre à Marseille"
+    "summary": "« À un moment, on ne croit plus aux coïncidences » : la policière qui accable Amine Oualane, accusé de triple meurtre à Marseille"
+  },
+  {
+    "title": "Le visage « tuméfié et déformé » : jugé en Essonne pour avoir tué son propriétaire lors d’une soirée alcoolisée",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Le visage « tuméfié et déformé » : jugé en Essonne pour avoir tué son propriétaire lors d’une soirée alcoolisée",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-22T23:11:33.685Z",
+        "link": "https://www.leparisien.fr/essonne-91/le-visage-tumefie-et-deforme-juge-en-essonne-pour-avoir-tue-son-proprietaire-lors-dune-soiree-alcoolisee-22-10-2026-OBDZAWOTSBE5ZOY2H3QRCVQHGU.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Le visage « tuméfié et déformé » : jugé en Essonne pour avoir tué son propriétai..."
+      }
+    ],
+    "summary": "Le visage « tuméfié et déformé » : jugé en Essonne pour avoir tué son propriétaire lors d’une soirée alcoolisée"
+  },
+  {
+    "title": "Droit de vote, information des employeurs… Darmanin demande un durcissement des réquisitions contre les auteurs de violences urbaines",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Droit de vote, information des employeurs… Darmanin demande un durcissement des réquisitions contre les auteurs de violences urbaines",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-22T23:11:33.685Z",
+        "link": "https://www.leparisien.fr/politique/droit-de-vote-information-des-employeurs-darmanin-demande-un-durcissement-des-requisitions-contre-les-auteurs-de-violences-urbaines-22-10-2026-3QLIFE33PBAVDNI67NGZ4GRWZ4.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Droit de vote, information des employeurs… Darmanin demande un durcissement des ..."
+      }
+    ],
+    "summary": "Droit de vote, information des employeurs… Darmanin demande un durcissement des réquisitions contre les auteurs de violences urbaines"
+  },
+  {
+    "title": "Mis en examen pour viol sur conjoint, l’artisan de l’Essonne collectionnait aussi les images pédopornographiques",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Mis en examen pour viol sur conjoint, l’artisan de l’Essonne collectionnait aussi les images pédopornographiques",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-22T23:11:33.685Z",
+        "link": "https://www.leparisien.fr/faits-divers/mis-en-examen-pour-viol-sur-conjoint-lartisan-de-lessonne-collectionnait-aussi-les-images-pedopornographiques-22-10-2026-DACZFSTTNVGARCLONPNJI3YUWM.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Mis en examen pour viol sur conjoint, l’artisan de l’Essonne collectionnait auss..."
+      }
+    ],
+    "summary": "Mis en examen pour viol sur conjoint, l’artisan de l’Essonne collectionnait aussi les images pédopornographiques"
+  },
+  {
+    "title": "« J’ai fait semblant d’être morte » : une enseignante rescapée d’une fusillade en Oregon raconte comment elle a survécu",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "« J’ai fait semblant d’être morte » : une enseignante rescapée d’une fusillade en Oregon raconte comment elle a survécu",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-22T23:11:33.685Z",
+        "link": "https://www.leparisien.fr/faits-divers/jai-fait-semblant-detre-morte-une-enseignante-rescapee-dune-fusillade-en-oregon-raconte-comment-elle-a-survecu-22-10-2026-ENOHSIKMTJBR3BMZUOCV4A65HE.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : « J’ai fait semblant d’être morte » : une enseignante rescapée d’une fusillade e..."
+      }
+    ],
+    "summary": "« J’ai fait semblant d’être morte » : une enseignante rescapée d’une fusillade en Oregon raconte comment elle a survécu"
   },
   {
     "title": "[CYBER] La plateforme de vote en ligne pour la primaire de gauche, victime d'une cyberattaque",
@@ -1445,7 +1445,7 @@
       {
         "title": "[CYBER] La CNF signale une fuite de don sur la plateforme Vacaf",
         "source": "Le Monde Informatique",
-        "time": "2026-10-22T19:55:50.578Z",
+        "time": "2026-10-22T23:10:23.945Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-la-cnaf-signale-une-fuite-de-donnees-sur-sa-plateforme-vacaf-100851.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] La CNF signale une fuite de don sur la plateforme Vacaf..."
@@ -1464,7 +1464,7 @@
       {
         "title": "[CYBER] Microsoft corrige un record de 1 411 défaillances de la cour",
         "source": "Le Monde Informatique",
-        "time": "2026-10-22T19:55:47.828Z",
+        "time": "2026-10-22T23:10:21.309Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-microsoft-corrige-un-nombre-record-de-1-411-failles-de-securite-100853.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Microsoft corrige un record de 1 411 défaillances de la cour..."
@@ -1483,7 +1483,7 @@
       {
         "title": "[CYBER] Les infrastructures critiques sont essentielles à l'automatisation de leur réponse aux attaques",
         "source": "Le Monde Informatique",
-        "time": "2026-10-22T19:55:45.476Z",
+        "time": "2026-10-22T23:10:19.020Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-cybersecurite-les-infrastructures-critiques-francaises-peinent-a-automatiser-leur-reponse-aux-attaques-100854.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les infrastructures critiques sont essentielles à l'automatisation de le..."
@@ -1502,7 +1502,7 @@
       {
         "title": "[CYBER] Le projet de loi sur l'IA est soumis en privé à l'anthropie",
         "source": "Le Monde Informatique",
-        "time": "2026-10-22T19:55:39.659Z",
+        "time": "2026-10-22T23:10:13.295Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-anthropic-soumet-en-prive-un-projet-de-loi-federal-sur-l-ia-100858.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le projet de loi sur l'IA est soumis en privé à l'anthropie..."
@@ -1521,7 +1521,7 @@
       {
         "title": "[CYBER] ServiceNow lance le passeport de l'IA pour gouverner les agents IA",
         "source": "Le Monde Informatique",
-        "time": "2026-10-22T19:55:42.386Z",
+        "time": "2026-10-22T23:10:15.982Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-servicenow-lance-ai-passport-pour-gouverner-les-agents-ia-100857.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] ServiceNow lance le passeport de l'IA pour gouverner les agents IA..."
@@ -1540,7 +1540,7 @@
       {
         "title": "[CYBER] Synacktiv tend à fournir une solution d'enquête mobile aux entreprises",
         "source": "Le Monde Informatique",
-        "time": "2026-10-22T19:55:36.658Z",
+        "time": "2026-10-22T23:10:10.416Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-synacktiv-etend-sa-solution-d-investigation-mobile-aux-entreprises-100860.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Synacktiv tend à fournir une solution d'enquête mobile aux entreprises..."
@@ -1568,7 +1568,7 @@
       {
         "title": "[CYBER] Deux failles critiques dans PHP: les entreprises sous pression",
         "source": "Le Monde Informatique",
-        "time": "2026-10-22T19:55:25.802Z",
+        "time": "2026-10-22T23:09:59.883Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-deux-failles-critiques-dans-php-les-entreprises-sous-pression-100866.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Deux failles critiques dans PHP: les entreprises sous pression..."
@@ -1709,7 +1709,7 @@
       {
         "title": "[CYBER] Nir Peleg, directeur mondial des systèmes d'information chez JFrog: La gouvernance doit fonctionner à la vitesse des agents",
         "source": "Le Monde Informatique",
-        "time": "2026-10-22T19:55:34.249Z",
+        "time": "2026-10-22T23:10:08.127Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-nir-peleg-directeur-mondial-de-la-securite-des-systemes-d-information-chez-jfrog-la-gouvernance-doit-fonctionner-a-la-vitesse-des-agents-100861.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Nir Peleg, directeur mondial des systèmes d'information chez JFrog: La g..."
@@ -1823,7 +1823,7 @@
       {
         "title": "[CYBER] Les autorités de l'Union européenne s'appuient sur les SBOM pour unifier la cour des logiciels",
         "source": "Le Monde Informatique",
-        "time": "2026-10-22T19:55:29.560Z",
+        "time": "2026-10-22T23:10:03.608Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-kurber-s-appuie-sur-les-sbom-pour-unifier-la-securite-de-ses-logiciels-100863.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les autorités de l'Union européenne s'appuient sur les SBOM pour unifier..."
@@ -1842,7 +1842,7 @@
       {
         "title": "[CYBER] Frigos de supermarch: le plus haut point des défaillances de la mentalité",
         "source": "Le Monde Informatique",
-        "time": "2026-10-22T19:55:23.871Z",
+        "time": "2026-10-22T23:09:57.993Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-frigos-de-supermarches-pirates-l-anssi-pointe-des-failles-de-securite-elementaires-100864.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Frigos de supermarch: le plus haut point des défaillances de la mentalit..."
