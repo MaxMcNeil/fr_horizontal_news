@@ -44,7 +44,7 @@
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
       "https://www.ledauphine.com/Faits-divers-Justice/rss",
-      "https://www.lemonde.fr/societe/rss_full.xml",
+      "https://www.lemonde.fr/justice/rss_full.xml",
       "https://www.sudouest.fr/faits-divers/rss.xml"
     ],
     "items": [
@@ -66,7 +66,7 @@
       },
       {
         "title": "Le milliardaire Olivier Bouygues condamné à deux ans de prison avec sursis pour destruction d’espèces d’oiseaux protégées",
-        "source": "https://www.lemonde.fr/societe/rss_full.xml",
+        "source": "https://www.lemonde.fr/justice/rss_full.xml",
         "time": "2026-10-23T14:51:39.000Z",
         "link": "https://www.lemonde.fr/societe/article/2026/10/23/le-milliardaire-olivier-bouygues-condamne-a-deux-ans-de-prison-avec-sursis-pour-destruction-d-especes-d-oiseaux-protegees_6799093_3224.html",
         "score": 97,
@@ -94,9 +94,10 @@
   {
     "title": "Pyrénées-Atlantiques : un ex-policier condamné pour avoir drogué puis agressé sexuellement son épouse à Pau",
     "score": 97,
-    "count": 2,
+    "count": 3,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "https://www.ledauphine.com/Faits-divers-Justice/rss",
       "Le Monde Informatique"
     ],
     "items": [
@@ -109,15 +110,23 @@
         "summary": "Point de situation critique concernant : Pyrénées-Atlantiques : un ex-policier condamné pour avoir drogué puis agressé se..."
       },
       {
+        "title": "Isère. Un homme condamné pour avoir percuté volontairement la voiture de son épouse",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-10-24T04:03:00.000Z",
+        "link": "https://www.ledauphine.com/faits-divers-justice/2026/10/24/j-ai-pense-a-mes-enfants-j-ai-protege-ma-tete-avec-mes-mains-un-homme-condamne-pour-avoir-percute-volontairement-la-voiture-de-son-epouse",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Isère. Un homme condamné pour avoir percuté volontairement la voiture de son épo..."
+      },
+      {
         "title": "[CYBER] Méta condamné à 25 M$ pour avoir trompé ses utilisateurs sur la confidentialité",
         "source": "Le Monde Informatique",
-        "time": "2026-10-23T23:00:34.877Z",
+        "time": "2026-10-24T04:11:25.610Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-meta-condamne-a-verser-25-md$-pour-avoir-trompe-ses-utilisateurs-sur-la-confidentialite-100868.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Méta condamné à 25 M$ pour avoir trompé ses utilisateurs sur la confiden..."
       }
     ],
-    "summary": "Pyrénées-Atlantiques : un ex-policier condamné pour avoir drogué puis agressé sexuellement son épouse à Pau / [CYBER] Méta condamné à 25 M$ pour avoir trompé ses utilisateurs sur la confidentialité"
+    "summary": "Pyrénées-Atlantiques : un ex-policier condamné pour avoir drogué puis agressé sexuellement son épouse à Pau / Isère. Un homme condamné pour avoir percuté volontairement la voiture de son épouse"
   },
   {
     "title": "Darya K. a-t-elle poignardé son compagnon de 56 ans, Christophe Gibert, à 250 reprises ? La quadragénaire mise en examen en Haute-Savoie",
@@ -262,7 +271,7 @@
       {
         "title": "Près d’un million d’euros perdus au casino ? Un couple de Saint-Witz poursuivi pour blanchiment de fraude fiscale conteste les calculs",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-23T23:01:58.410Z",
+        "time": "2026-10-24T04:12:57.926Z",
         "link": "https://www.leparisien.fr/val-d-oise-95/pres-dun-million-deuros-perdus-au-casino-un-couple-de-saint-witz-poursuivi-pour-blanchiment-de-fraude-fiscale-conteste-les-calculs-23-10-2026-ANOC26B3QFBHFACO2QHPBUWNH4.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Près d’un million d’euros perdus au casino ? Un couple de Saint-Witz poursuivi p..."
@@ -283,7 +292,7 @@
       {
         "title": "Une femme mise en examen pour coups mortels sur son conjoint près de Nancy",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-23T23:01:58.410Z",
+        "time": "2026-10-24T04:12:57.927Z",
         "link": "https://www.leparisien.fr/faits-divers/une-femme-mise-en-examen-pour-coups-mortels-sur-son-conjoint-pres-de-nancy-22-10-2026-TIMWGLSFBFDG7C5D3JSQF7JPEE.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Une femme mise en examen pour coups mortels sur son conjoint près de Nancy..."
@@ -315,7 +324,7 @@
       {
         "title": "Mis en examen pour viol sur conjoint, l’artisan de l’Essonne collectionnait aussi les images pédopornographiques",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-23T23:01:58.410Z",
+        "time": "2026-10-24T04:12:57.926Z",
         "link": "https://www.leparisien.fr/faits-divers/mis-en-examen-pour-viol-sur-conjoint-lartisan-de-lessonne-collectionnait-aussi-les-images-pedopornographiques-22-10-2026-DACZFSTTNVGARCLONPNJI3YUWM.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Mis en examen pour viol sur conjoint, l’artisan de l’Essonne collectionnait auss..."
@@ -381,7 +390,7 @@
       {
         "title": "Violences du 17 octobre : un étudiant suspecté d’avoir participé à l’incendie d’une université à Rouen mis en examen et écroué",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-23T23:01:58.410Z",
+        "time": "2026-10-24T04:12:57.926Z",
         "link": "https://www.leparisien.fr/faits-divers/violences-du-17-octobre-un-etudiant-suspecte-davoir-participe-a-lincendie-dune-universite-a-rouen-mis-en-examen-et-ecroue-22-10-2026-URF5TGXRLNDLRGKKSOMD6IHFDY.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Violences du 17 octobre : un étudiant suspecté d’avoir participé à l’incendie d’..."
@@ -550,7 +559,7 @@
       {
         "title": "125 000 euros en faux billets découverts chez un plombier soupçonné de blanchiment pour un réseau de drogue",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-23T23:01:58.410Z",
+        "time": "2026-10-24T04:12:57.926Z",
         "link": "https://www.leparisien.fr/faits-divers/125-000-euros-en-faux-billets-decouverts-chez-un-plombier-soupconne-de-blanchiment-pour-un-reseau-de-drogue-22-10-2026-HZVP5VDVZRDD7AEEFBNG53DJNI.php",
         "score": 97,
         "summary": "Point de situation critique concernant : 125 000 euros en faux billets découverts chez un plombier soupçonné de blanchime..."
@@ -570,7 +579,7 @@
       {
         "title": "Cher : soupçonné de harcèlement, le directeur de l’hôpital de Bourges placé en garde à vue",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-23T23:01:58.410Z",
+        "time": "2026-10-24T04:12:57.926Z",
         "link": "https://www.leparisien.fr/faits-divers/cher-soupconne-de-harcelement-le-directeur-de-lhopital-de-bourges-place-en-garde-a-vue-22-10-2026-G6C5Q7REWRDTDGC2MIMFSRIZBY.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Cher : soupçonné de harcèlement, le directeur de l’hôpital de Bourges placé en g..."
@@ -699,7 +708,7 @@
       {
         "title": "Violences du 17 octobre : le préfet de police de Paris appelle les commerçants à « renforcer leur sécurité »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-23T23:01:58.410Z",
+        "time": "2026-10-24T04:12:57.927Z",
         "link": "https://www.leparisien.fr/paris-75/violences-du-17-octobre-le-prefet-de-police-de-paris-appelle-les-commercants-a-renforcer-leur-securite-22-10-2026-CSYQ3FANAVB43IROG46IXG66MY.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Violences du 17 octobre : le préfet de police de Paris appelle les commerçants à..."
@@ -756,7 +765,7 @@
       {
         "title": "Elle prêtait des « vertus thérapeutiques à des thés » : l’influenceuse Diva Rebecca épinglée par la Répression des fraudes",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-23T23:01:58.409Z",
+        "time": "2026-10-24T04:12:57.926Z",
         "link": "https://www.leparisien.fr/faits-divers/elle-pretait-des-vertus-therapeutiques-a-des-thes-linfluenceuse-diva-rebecca-epinglee-par-la-repression-des-fraudes-23-10-2026-3K7KE7FN2RFA5C6REPWNPEPDSI.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Elle prêtait des « vertus thérapeutiques à des thés » : l’influenceuse Diva Rebe..."
@@ -777,7 +786,7 @@
       {
         "title": "Chasse illégale : le milliardaire Olivier Bouygues condamné à deux ans de prison avec sursis",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-23T23:01:58.409Z",
+        "time": "2026-10-24T04:12:57.926Z",
         "link": "https://www.leparisien.fr/environnement/chasse-illegale-le-milliardaire-olivier-bouygues-condamne-a-deux-ans-de-prison-avec-sursis-23-10-2026-KDRCLAPGERBORAAA4KGIJIZELM.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Chasse illégale : le milliardaire Olivier Bouygues condamné à deux ans de prison..."
@@ -897,6 +906,33 @@
     "summary": "Hautes-Alpes. Le père de famille accusé d'avoir violé sa fille condamné à dix ans de réclusion criminelle "
   },
   {
+    "title": "Il avait frappé son ex-conjointe dans un bois : le rappeur Neskoo condamné à trois ans de prison ferme",
+    "score": 97,
+    "count": 2,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Il avait frappé son ex-conjointe dans un bois : le rappeur Neskoo condamné à trois ans de prison ferme",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-24T04:12:57.926Z",
+        "link": "https://www.leparisien.fr/val-d-oise-95/il-avait-frappe-son-ex-conjointe-dans-un-bois-le-rappeur-neskoo-condamne-a-trois-ans-de-prison-ferme-24-10-2026-KSIW4WZF55A3JBLFJN6BYHVXEY.php",
+        "score": 97,
+        "summary": "le rappeur Neskoo condamné à trois ans de prison ferme"
+      },
+      {
+        "title": "« Je voulais le tirer en l’air plus tard dans la nuit » : 4 mois de prison ferme pour le lycéen arrêté avec un mortier d’artifice pendant les violences urbaines à Perpignan",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-22T13:43:21.747Z",
+        "link": "https://www.leparisien.fr/pyrenees-orientales-66/je-voulais-le-tirer-en-lair-plus-tard-dans-la-nuit-4-mois-de-prison-ferme-pour-le-lyceen-arrete-avec-un-mortier-dartifice-pendant-les-violences-urbaines-a-perpignan-20-10-2026-BQIUXTSNU5FMLPTQRLCFPZEM2E.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : « Je voulais le tirer en l’air plus tard dans la nuit » : 4 mois de prison ferme..."
+      }
+    ],
+    "summary": "Il avait frappé son ex-conjointe dans un bois : le rappeur Neskoo condamné à trois ans de prison ferme / « Je voulais le tirer en l’air plus tard dans la nuit » : 4 mois de prison ferme pour le lycéen arrêté avec un mortier d’artifice pendant les violences urbaines à Perpignan"
+  },
+  {
     "title": "Gouvernements paniqués, cyberattaques massives en préparation… Comment Internet a été débranché en urgence à cause de PHP",
     "score": 93,
     "count": 1,
@@ -984,10 +1020,9 @@
   {
     "title": "Attaque à Trappes et à La Verrière : Macron évoque un « tournant », le Pnat ouvre une enquête pour assassinat terroriste",
     "score": 90,
-    "count": 2,
+    "count": 1,
     "sources": [
-      "https://www.20minutes.fr/feeds/rss-une.xml",
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+      "https://www.20minutes.fr/feeds/rss-une.xml"
     ],
     "items": [
       {
@@ -997,17 +1032,9 @@
         "link": "https://www.20minutes.fr/faits_divers/4256965-20261023-direct-fusillade-yvelines-suspect-garde-vue-parquet-antiterroriste-saisi?at_medium=display&at_campaign=149",
         "score": 90,
         "summary": "Point de situation critique concernant : Attaque à Trappes et à La Verrière : Macron évoque un « tournant », le Pnat ouvr..."
-      },
-      {
-        "title": "Attaque à Trappes : Emmanuel Macron dénonce « un attentat terroriste, raciste »",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-23T23:01:58.409Z",
-        "link": "https://www.leparisien.fr/yvelines-78/attaque-a-trappes-emmanuel-macron-evoque-un-tournant-et-invite-a-ne-pas-baisser-la-tete-face-aux-idees-qui-sinstallent-23-10-2026-VAMCDAJCONAN7PFBPP45JWW4WU.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Attaque à Trappes : Emmanuel Macron dénonce « un attentat terroriste, raciste »..."
       }
     ],
-    "summary": "Attaque à Trappes et à La Verrière : Macron évoque un « tournant », le Pnat ouvre une enquête pour assassinat terroriste / Attaque à Trappes : Emmanuel Macron dénonce « un attentat terroriste, raciste »"
+    "summary": "Attaque à Trappes et à La Verrière : Macron évoque un « tournant », le Pnat ouvre une enquête pour assassinat terroriste"
   },
   {
     "title": "Violences du 17 octobre : les « premiers responsables » sont les « factieux et les racailles », estime la porte-parole du gouvernement",
@@ -1065,25 +1092,6 @@
       }
     ],
     "summary": "Violences urbaines : des tirs à balles réelles contre les forces de l’ordre en Martinique dans la nuit, un « calme relatif » en Guadeloupe"
-  },
-  {
-    "title": "« Je voulais le tirer en l’air plus tard dans la nuit » : 4 mois de prison ferme pour le lycéen arrêté avec un mortier d’artifice pendant les violences urbaines à Perpignan",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "« Je voulais le tirer en l’air plus tard dans la nuit » : 4 mois de prison ferme pour le lycéen arrêté avec un mortier d’artifice pendant les violences urbaines à Perpignan",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-22T13:43:21.747Z",
-        "link": "https://www.leparisien.fr/pyrenees-orientales-66/je-voulais-le-tirer-en-lair-plus-tard-dans-la-nuit-4-mois-de-prison-ferme-pour-le-lyceen-arrete-avec-un-mortier-dartifice-pendant-les-violences-urbaines-a-perpignan-20-10-2026-BQIUXTSNU5FMLPTQRLCFPZEM2E.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : « Je voulais le tirer en l’air plus tard dans la nuit » : 4 mois de prison ferme..."
-      }
-    ],
-    "summary": "« Je voulais le tirer en l’air plus tard dans la nuit » : 4 mois de prison ferme pour le lycéen arrêté avec un mortier d’artifice pendant les violences urbaines à Perpignan"
   },
   {
     "title": "Yvelines : à Limay, le violeur présumé de la fillette de 6 ans a été remis en liberté",
@@ -1153,7 +1161,7 @@
       {
         "title": "« Nous sommes sous le choc » : le violent cambriolage armé dont ont été victimes l’ex-gardien du PSG Sergio Rico, sa femme et leurs enfants à Séville",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-23T23:01:58.410Z",
+        "time": "2026-10-24T04:12:57.927Z",
         "link": "https://www.leparisien.fr/sports/football/nous-sommes-sous-le-choc-le-violent-cambriolage-arme-dont-a-ete-victime-lex-gardien-du-psg-sergio-rico-sa-femme-et-leurs-enfants-a-seville-22-10-2026-A6WLDSHIA5COBB2AZPBXQ3HL6U.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Nous sommes sous le choc » : le violent cambriolage armé dont ont été victimes..."
@@ -1172,7 +1180,7 @@
       {
         "title": "Soupçons de viols au dépôt du tribunal de Bobigny : les deux policiers mis en examen remis en liberté",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-23T23:01:58.410Z",
+        "time": "2026-10-24T04:12:57.926Z",
         "link": "https://www.leparisien.fr/seine-saint-denis-93/bobigny-93000/soupcons-de-viols-au-depot-du-tribunal-de-bobigny-les-deux-policiers-mis-en-examen-remis-en-liberte-22-10-2026-G5R47N7JAREPJBHHYT7D2NFYW4.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Soupçons de viols au dépôt du tribunal de Bobigny : les deux policiers mis en ex..."
@@ -1191,7 +1199,7 @@
       {
         "title": "« À un moment, on ne croit plus aux coïncidences » : la policière qui accable Amine Oualane, accusé de triple meurtre à Marseille",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-23T23:01:58.410Z",
+        "time": "2026-10-24T04:12:57.926Z",
         "link": "https://www.leparisien.fr/faits-divers/a-un-moment-on-ne-croit-plus-aux-coincidences-les-preuves-qui-accablent-amine-oualane-accuse-de-triple-meurtre-a-marseille-22-10-2026-FHX3EFFE7NACFBHBRDXXBPJ2TQ.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « À un moment, on ne croit plus aux coïncidences » : la policière qui accable Am..."
@@ -1210,7 +1218,7 @@
       {
         "title": "Le visage « tuméfié et déformé » : jugé en Essonne pour avoir tué son propriétaire lors d’une soirée alcoolisée",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-23T23:01:58.410Z",
+        "time": "2026-10-24T04:12:57.926Z",
         "link": "https://www.leparisien.fr/essonne-91/le-visage-tumefie-et-deforme-juge-en-essonne-pour-avoir-tue-son-proprietaire-lors-dune-soiree-alcoolisee-22-10-2026-OBDZAWOTSBE5ZOY2H3QRCVQHGU.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Le visage « tuméfié et déformé » : jugé en Essonne pour avoir tué son propriétai..."
@@ -1229,7 +1237,7 @@
       {
         "title": "Droit de vote, information des employeurs… Darmanin demande un durcissement des réquisitions contre les auteurs de violences urbaines",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-23T23:01:58.410Z",
+        "time": "2026-10-24T04:12:57.926Z",
         "link": "https://www.leparisien.fr/politique/droit-de-vote-information-des-employeurs-darmanin-demande-un-durcissement-des-requisitions-contre-les-auteurs-de-violences-urbaines-22-10-2026-3QLIFE33PBAVDNI67NGZ4GRWZ4.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Droit de vote, information des employeurs… Darmanin demande un durcissement des ..."
@@ -1248,7 +1256,7 @@
       {
         "title": "« J’ai fait semblant d’être morte » : une enseignante rescapée d’une fusillade en Oregon raconte comment elle a survécu",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-23T23:01:58.410Z",
+        "time": "2026-10-24T04:12:57.927Z",
         "link": "https://www.leparisien.fr/faits-divers/jai-fait-semblant-detre-morte-une-enseignante-rescapee-dune-fusillade-en-oregon-raconte-comment-elle-a-survecu-22-10-2026-ENOHSIKMTJBR3BMZUOCV4A65HE.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « J’ai fait semblant d’être morte » : une enseignante rescapée d’une fusillade e..."
@@ -1267,7 +1275,7 @@
       {
         "title": "300 jours, 30 logements : l’incroyable galère de Meriem, rescapée de l’explosion de Magny-les-Hameaux",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-23T23:01:58.410Z",
+        "time": "2026-10-24T04:12:57.926Z",
         "link": "https://www.leparisien.fr/yvelines-78/300-jours-30-logements-lincroyable-galere-de-meriem-rescapee-de-lexplosion-de-magny-les-hameaux-23-10-2026-36WCMOJY4VDE5DFK6XIKG4AWEM.php",
         "score": 90,
         "summary": "Point de situation critique concernant : 300 jours, 30 logements : l’incroyable galère de Meriem, rescapée de l’explosion..."
@@ -1286,32 +1294,13 @@
       {
         "title": "Finistère : un homme, soupçonné d’avoir tué et enterré sa fille de 16 ans, a été mis en examen et écroué",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-23T23:01:58.410Z",
+        "time": "2026-10-24T04:12:57.927Z",
         "link": "https://www.leparisien.fr/faits-divers/finistere-un-homme-soupconne-davoir-tue-et-enterre-sa-fille-de-16-ans-a-ete-mis-en-examen-et-ecroue-22-10-2026-YIDHUAASIBD23CYD4NN46OKLGQ.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Finistère : un homme, soupçonné d’avoir tué et enterré sa fille de 16 ans, a été..."
       }
     ],
     "summary": "Finistère : un homme, soupçonné d’avoir tué et enterré sa fille de 16 ans, a été mis en examen et écroué"
-  },
-  {
-    "title": "« Un tournant dans la vie de notre République » : Macron appelle à l’unité de la Nation après l’attentat raciste de Trappes",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "« Un tournant dans la vie de notre République » : Macron appelle à l’unité de la Nation après l’attentat raciste de Trappes",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-23T23:01:58.409Z",
-        "link": "https://www.leparisien.fr/politique/un-tournant-dans-la-vie-de-notre-republique-macron-appelle-a-lunite-de-la-nation-apres-lattentat-raciste-de-trappes-23-10-2026-ZRE5PQZDNFEGZPVMHVMDBNLA7E.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : « Un tournant dans la vie de notre République » : Macron appelle à l’unité de la..."
-      }
-    ],
-    "summary": "« Un tournant dans la vie de notre République » : Macron appelle à l’unité de la Nation après l’attentat raciste de Trappes"
   },
   {
     "title": "[CYBER] D tecteur d'IA: ouvre Google SynthID Detector au grand public",
@@ -1400,7 +1389,7 @@
       {
         "title": "[CYBER] Les infrastructures critiques sont essentielles à l'automatisation de leur réponse aux attaques",
         "source": "Le Monde Informatique",
-        "time": "2026-10-23T23:00:56.520Z",
+        "time": "2026-10-24T04:11:49.038Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-cybersecurite-les-infrastructures-critiques-francaises-peinent-a-automatiser-leur-reponse-aux-attaques-100854.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les infrastructures critiques sont essentielles à l'automatisation de le..."
@@ -1419,7 +1408,7 @@
       {
         "title": "[CYBER] Le projet de loi sur l'IA est soumis en privé à l'anthropie",
         "source": "Le Monde Informatique",
-        "time": "2026-10-23T23:00:51.476Z",
+        "time": "2026-10-24T04:11:43.428Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-anthropic-soumet-en-prive-un-projet-de-loi-federal-sur-l-ia-100858.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le projet de loi sur l'IA est soumis en privé à l'anthropie..."
@@ -1438,7 +1427,7 @@
       {
         "title": "[CYBER] ServiceNow lance le passeport de l'IA pour gouverner les agents IA",
         "source": "Le Monde Informatique",
-        "time": "2026-10-23T23:00:53.905Z",
+        "time": "2026-10-24T04:11:46.071Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-servicenow-lance-ai-passport-pour-gouverner-les-agents-ia-100857.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] ServiceNow lance le passeport de l'IA pour gouverner les agents IA..."
@@ -1457,7 +1446,7 @@
       {
         "title": "[CYBER] Synacktiv tend à fournir une solution d'enquête mobile aux entreprises",
         "source": "Le Monde Informatique",
-        "time": "2026-10-23T23:00:48.985Z",
+        "time": "2026-10-24T04:11:40.552Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-synacktiv-etend-sa-solution-d-investigation-mobile-aux-entreprises-100860.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Synacktiv tend à fournir une solution d'enquête mobile aux entreprises..."
@@ -1482,15 +1471,15 @@
         "summary": "Point de situation critique concernant : [CYBER] Nir Peleg, directeur mondial de la Cour des systèmes d'information chez ..."
       },
       {
-        "title": "[CYBER] Nir Peleg, directeur mondial de la cour des systèmes d'information chez JFrog: La gouvernance doit fonctionner à la vitesse des agents",
+        "title": "[CYBER] Nir Peleg, directeur mondial des systèmes d'information chez JFrog: La gouvernance doit fonctionner à la vitesse des agents",
         "source": "Le Monde Informatique",
-        "time": "2026-10-23T23:00:46.901Z",
+        "time": "2026-10-24T04:11:38.316Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-nir-peleg-directeur-mondial-de-la-securite-des-systemes-d-information-chez-jfrog-la-gouvernance-doit-fonctionner-a-la-vitesse-des-agents-100861.html",
         "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] Nir Peleg, directeur mondial de la cour des systèmes d'information chez ..."
+        "summary": "Point de situation critique concernant : [CYBER] Nir Peleg, directeur mondial des systèmes d'information chez JFrog: La g..."
       }
     ],
-    "summary": "[CYBER] Nir Peleg, directeur mondial de la Cour des systèmes d'information chez JFrog: La gouvernance doit fonctionner à la vitesse des agents / [CYBER] Nir Peleg, directeur mondial de la cour des systèmes d'information chez JFrog: La gouvernance doit fonctionner à la vitesse des agents"
+    "summary": "[CYBER] Nir Peleg, directeur mondial de la Cour des systèmes d'information chez JFrog: La gouvernance doit fonctionner à la vitesse des agents / [CYBER] Nir Peleg, directeur mondial des systèmes d'information chez JFrog: La gouvernance doit fonctionner à la vitesse des agents"
   },
   {
     "title": "[CYBER] Les autorités de l'Union européenne s'appuient sur les SBOM pour unifier la cour des logiciels",
@@ -1503,7 +1492,7 @@
       {
         "title": "[CYBER] Les autorités de l'Union européenne s'appuient sur les SBOM pour unifier la cour des logiciels",
         "source": "Le Monde Informatique",
-        "time": "2026-10-23T23:00:42.451Z",
+        "time": "2026-10-24T04:11:33.982Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-kurber-s-appuie-sur-les-sbom-pour-unifier-la-securite-de-ses-logiciels-100863.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les autorités de l'Union européenne s'appuient sur les SBOM pour unifier..."
@@ -1522,7 +1511,7 @@
       {
         "title": "[CYBER] Frigos de supermarch: le plus haut point des défaillances de la mentalité",
         "source": "Le Monde Informatique",
-        "time": "2026-10-23T23:00:37.530Z",
+        "time": "2026-10-24T04:11:28.558Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-frigos-de-supermarches-pirates-l-anssi-pointe-des-failles-de-securite-elementaires-100864.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Frigos de supermarch: le plus haut point des défaillances de la mentalit..."
@@ -1541,7 +1530,7 @@
       {
         "title": "[CYBER] Deux failles critiques dans PHP: les entreprises sous pression",
         "source": "Le Monde Informatique",
-        "time": "2026-10-23T23:00:39.190Z",
+        "time": "2026-10-24T04:11:30.392Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-deux-failles-critiques-dans-php-les-entreprises-sous-pression-100866.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Deux failles critiques dans PHP: les entreprises sous pression..."
@@ -1617,7 +1606,7 @@
       {
         "title": "[CYBER] GitLab corrige une critique faillite vieille de douze ans",
         "source": "Le Monde Informatique",
-        "time": "2026-10-23T23:00:32.149Z",
+        "time": "2026-10-24T04:11:22.626Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-gitlab-corrige-une-faille-critique-vieille-de-douze-ans-100870.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] GitLab corrige une critique faillite vieille de douze ans..."
