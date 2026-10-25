@@ -1,8 +1,6 @@
 name: Update News
 
 on:
-  schedule:
-    - cron: "0 */4 * * *"  # Déclenchement automatique 1 fois toutes les 4 heures
   workflow_dispatch:       # Déclencheur manuel (Bouton GitHub)
 
 permissions:
